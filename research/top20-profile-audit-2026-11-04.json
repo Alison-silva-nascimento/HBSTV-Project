@@ -1,0 +1,1181 @@
+{
+  "date": "2026-11-04",
+  "years": [
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2023,
+    2024,
+    2025
+  ],
+  "entries": 160,
+  "hallOfFameProfiles": 29,
+  "changedHofProfiles": [],
+  "summary": "As 160 posições já correspondem ao índice central. A atualização passa a consultar esse índice nos perfis HOF e mostra todas as participações no resumo, além da melhor posição.",
+  "newIdentityQuestions": [],
+  "sources": [
+    {
+      "year": 2017,
+      "source": "Ranking fornecido pelo proprietário, transcrito em player-rankings-data.js"
+    },
+    {
+      "year": 2018,
+      "source": "dist/assets/archive/6652defb394ed8db2450.jpg",
+      "reviewed": "Arte reaberta e conferida visualmente em 2026-11-04"
+    },
+    {
+      "year": 2019,
+      "source": "dist/assets/archive/d806b306a3bef83a8d2e.jpg",
+      "reviewed": "Arte reaberta e conferida visualmente em 2026-11-04"
+    },
+    {
+      "year": 2020,
+      "source": "dist/assets/archive/f6897efedb69b3129634.jpg",
+      "reviewed": "Arte reaberta e conferida visualmente em 2026-11-04"
+    },
+    {
+      "year": 2021,
+      "source": "dist/assets/archive/4f2241c33edc8dcdd40b.jpg",
+      "reviewed": "Arte reaberta e conferida visualmente em 2026-11-04"
+    },
+    {
+      "year": 2023,
+      "source": "dist/assets/archive/ae98814e259a1bf1ab04.jpeg",
+      "reviewed": "Arte reaberta e conferida visualmente em 2026-11-04"
+    },
+    {
+      "year": 2024,
+      "source": "dist/assets/archive/2fb391fe6e52c0fd23ce.jpg",
+      "reviewed": "Arte reaberta e conferida visualmente em 2026-11-04"
+    },
+    {
+      "year": 2025,
+      "source": "dist/assets/archive/4898e009960bf1d06e47.jpeg",
+      "reviewed": "Arte reaberta e conferida visualmente em 2026-11-04"
+    }
+  ],
+  "linked": [
+    {
+      "year": 2017,
+      "rank": 1,
+      "sourceNick": "SanSey",
+      "playerId": "sansey",
+      "displayName": "Sansey"
+    },
+    {
+      "year": 2017,
+      "rank": 2,
+      "sourceNick": "4i20",
+      "playerId": "4i2o",
+      "displayName": "4i20"
+    },
+    {
+      "year": 2017,
+      "rank": 3,
+      "sourceNick": "Galaxy",
+      "playerId": "galaxy",
+      "displayName": "Galaxy"
+    },
+    {
+      "year": 2017,
+      "rank": 4,
+      "sourceNick": "MonsteR",
+      "playerId": "monster",
+      "displayName": "MonsteR"
+    },
+    {
+      "year": 2017,
+      "rank": 5,
+      "sourceNick": "TerroR",
+      "playerId": "terror",
+      "displayName": "TerroR"
+    },
+    {
+      "year": 2017,
+      "rank": 6,
+      "sourceNick": "PinG",
+      "playerId": "ping",
+      "displayName": "PinG"
+    },
+    {
+      "year": 2017,
+      "rank": 7,
+      "sourceNick": "zenn",
+      "playerId": "zenn",
+      "displayName": "zenn"
+    },
+    {
+      "year": 2017,
+      "rank": 8,
+      "sourceNick": "Amz",
+      "playerId": "amz",
+      "displayName": "amz"
+    },
+    {
+      "year": 2017,
+      "rank": 9,
+      "sourceNick": "OveR",
+      "playerId": "over",
+      "displayName": "OveR"
+    },
+    {
+      "year": 2017,
+      "rank": 10,
+      "sourceNick": "Astr0",
+      "playerId": "astro",
+      "displayName": "Astr0"
+    },
+    {
+      "year": 2017,
+      "rank": 11,
+      "sourceNick": "Chave",
+      "playerId": "chave",
+      "displayName": "Chave"
+    },
+    {
+      "year": 2017,
+      "rank": 12,
+      "sourceNick": "Crash",
+      "playerId": "crash",
+      "displayName": "Crash"
+    },
+    {
+      "year": 2017,
+      "rank": 13,
+      "sourceNick": "Biondi",
+      "playerId": "biondi",
+      "displayName": "Biondi"
+    },
+    {
+      "year": 2017,
+      "rank": 14,
+      "sourceNick": "Brizado",
+      "playerId": "brizado",
+      "displayName": "Brizado"
+    },
+    {
+      "year": 2017,
+      "rank": 15,
+      "sourceNick": "syoX",
+      "playerId": "syox",
+      "displayName": "syoX"
+    },
+    {
+      "year": 2017,
+      "rank": 16,
+      "sourceNick": "Dede",
+      "playerId": "dede",
+      "displayName": "Dede"
+    },
+    {
+      "year": 2017,
+      "rank": 17,
+      "sourceNick": "Jhow",
+      "playerId": "jhow",
+      "displayName": "Jhow"
+    },
+    {
+      "year": 2017,
+      "rank": 18,
+      "sourceNick": "TacO",
+      "playerId": "taco",
+      "displayName": "Tac0"
+    },
+    {
+      "year": 2017,
+      "rank": 19,
+      "sourceNick": "JrG",
+      "playerId": "jrg",
+      "displayName": "JrG"
+    },
+    {
+      "year": 2017,
+      "rank": 20,
+      "sourceNick": "NathaN",
+      "playerId": "nathan",
+      "displayName": "NathaN"
+    },
+    {
+      "year": 2018,
+      "rank": 1,
+      "sourceNick": "4i20",
+      "playerId": "4i2o",
+      "displayName": "4i20"
+    },
+    {
+      "year": 2018,
+      "rank": 2,
+      "sourceNick": "Strong",
+      "playerId": "strong",
+      "displayName": "StronG"
+    },
+    {
+      "year": 2018,
+      "rank": 3,
+      "sourceNick": "Pasha",
+      "playerId": "pasha",
+      "displayName": "Pasha"
+    },
+    {
+      "year": 2018,
+      "rank": 4,
+      "sourceNick": "Amz",
+      "playerId": "amz",
+      "displayName": "amz"
+    },
+    {
+      "year": 2018,
+      "rank": 5,
+      "sourceNick": "ShelzZ",
+      "playerId": "shelzz",
+      "displayName": "ShelzZ"
+    },
+    {
+      "year": 2018,
+      "rank": 6,
+      "sourceNick": "Astr0",
+      "playerId": "astro",
+      "displayName": "Astr0"
+    },
+    {
+      "year": 2018,
+      "rank": 7,
+      "sourceNick": "TerroR",
+      "playerId": "terror",
+      "displayName": "TerroR"
+    },
+    {
+      "year": 2018,
+      "rank": 8,
+      "sourceNick": "Hard",
+      "playerId": "hardzera",
+      "displayName": "Hardzera"
+    },
+    {
+      "year": 2018,
+      "rank": 9,
+      "sourceNick": "Kmblack",
+      "playerId": "kmblack",
+      "displayName": "KMBLACK"
+    },
+    {
+      "year": 2018,
+      "rank": 10,
+      "sourceNick": "4kkp",
+      "playerId": "4kkp",
+      "displayName": "4kkp"
+    },
+    {
+      "year": 2018,
+      "rank": 11,
+      "sourceNick": "Fabricio",
+      "playerId": "fabri",
+      "displayName": "Fabri"
+    },
+    {
+      "year": 2018,
+      "rank": 12,
+      "sourceNick": "Sansey",
+      "playerId": "sansey",
+      "displayName": "Sansey"
+    },
+    {
+      "year": 2018,
+      "rank": 13,
+      "sourceNick": "Sink",
+      "playerId": "sink",
+      "displayName": "SinK"
+    },
+    {
+      "year": 2018,
+      "rank": 14,
+      "sourceNick": "Fooxy",
+      "playerId": "fooxy",
+      "displayName": "FOOXY"
+    },
+    {
+      "year": 2018,
+      "rank": 15,
+      "sourceNick": "OveR",
+      "playerId": "over",
+      "displayName": "OveR"
+    },
+    {
+      "year": 2018,
+      "rank": 16,
+      "sourceNick": "S1mple",
+      "playerId": "s1mple",
+      "displayName": "S1mple"
+    },
+    {
+      "year": 2018,
+      "rank": 17,
+      "sourceNick": "Andr3",
+      "playerId": "andr3",
+      "displayName": "Andr3"
+    },
+    {
+      "year": 2018,
+      "rank": 18,
+      "sourceNick": "Felps",
+      "playerId": "felps",
+      "displayName": "FELPS"
+    },
+    {
+      "year": 2018,
+      "rank": 19,
+      "sourceNick": "Brizado",
+      "playerId": "brizado",
+      "displayName": "Brizado"
+    },
+    {
+      "year": 2018,
+      "rank": 20,
+      "sourceNick": "Whartog",
+      "playerId": "whartog",
+      "displayName": "Whartog"
+    },
+    {
+      "year": 2019,
+      "rank": 1,
+      "sourceNick": "Rn",
+      "playerId": "rn",
+      "displayName": "RN"
+    },
+    {
+      "year": 2019,
+      "rank": 2,
+      "sourceNick": "Ryota",
+      "playerId": "ryota",
+      "displayName": "ry0ta"
+    },
+    {
+      "year": 2019,
+      "rank": 3,
+      "sourceNick": "Amz",
+      "playerId": "amz",
+      "displayName": "amz"
+    },
+    {
+      "year": 2019,
+      "rank": 4,
+      "sourceNick": "Whartog",
+      "playerId": "whartog",
+      "displayName": "Whartog"
+    },
+    {
+      "year": 2019,
+      "rank": 5,
+      "sourceNick": "FugLY",
+      "playerId": "fugly",
+      "displayName": "FugLY"
+    },
+    {
+      "year": 2019,
+      "rank": 6,
+      "sourceNick": "WhezZ",
+      "playerId": "whezz",
+      "displayName": "Whezz"
+    },
+    {
+      "year": 2019,
+      "rank": 7,
+      "sourceNick": "FeeH",
+      "playerId": "feeh",
+      "displayName": "FeeH"
+    },
+    {
+      "year": 2019,
+      "rank": 8,
+      "sourceNick": "Aerial",
+      "playerId": "aerial",
+      "displayName": "Aerial"
+    },
+    {
+      "year": 2019,
+      "rank": 9,
+      "sourceNick": "AdreN",
+      "playerId": "adren",
+      "displayName": "AdreN"
+    },
+    {
+      "year": 2019,
+      "rank": 10,
+      "sourceNick": "Fooxy",
+      "playerId": "fooxy",
+      "displayName": "FOOXY"
+    },
+    {
+      "year": 2019,
+      "rank": 11,
+      "sourceNick": "Fomezero",
+      "playerId": "fomezero",
+      "displayName": "Fomezero"
+    },
+    {
+      "year": 2019,
+      "rank": 12,
+      "sourceNick": "s1mple",
+      "playerId": "s1mple",
+      "displayName": "S1mple"
+    },
+    {
+      "year": 2019,
+      "rank": 13,
+      "sourceNick": "Felps",
+      "playerId": "felps",
+      "displayName": "FELPS"
+    },
+    {
+      "year": 2019,
+      "rank": 14,
+      "sourceNick": "SicK",
+      "playerId": "sick",
+      "displayName": "Sick"
+    },
+    {
+      "year": 2019,
+      "rank": 15,
+      "sourceNick": "Brizado",
+      "playerId": "brizado",
+      "displayName": "Brizado"
+    },
+    {
+      "year": 2019,
+      "rank": 16,
+      "sourceNick": "SharP",
+      "playerId": "sharp",
+      "displayName": "SharP"
+    },
+    {
+      "year": 2019,
+      "rank": 17,
+      "sourceNick": "ScreaM",
+      "playerId": "scream",
+      "displayName": "ScreaM"
+    },
+    {
+      "year": 2019,
+      "rank": 18,
+      "sourceNick": "Xdroid",
+      "playerId": "xdroid",
+      "displayName": "XDROID"
+    },
+    {
+      "year": 2019,
+      "rank": 19,
+      "sourceNick": "Finland",
+      "playerId": "finland",
+      "displayName": "Finland"
+    },
+    {
+      "year": 2019,
+      "rank": 20,
+      "sourceNick": "Xacau",
+      "playerId": "xacau",
+      "displayName": "XACAU"
+    },
+    {
+      "year": 2020,
+      "rank": 1,
+      "sourceNick": "Sharp",
+      "playerId": "sharp",
+      "displayName": "SharP"
+    },
+    {
+      "year": 2020,
+      "rank": 2,
+      "sourceNick": "Ryota",
+      "playerId": "ryota",
+      "displayName": "ry0ta"
+    },
+    {
+      "year": 2020,
+      "rank": 3,
+      "sourceNick": "4i20",
+      "playerId": "4i2o",
+      "displayName": "4i20"
+    },
+    {
+      "year": 2020,
+      "rank": 4,
+      "sourceNick": "Rn",
+      "playerId": "rn",
+      "displayName": "RN"
+    },
+    {
+      "year": 2020,
+      "rank": 5,
+      "sourceNick": "Force",
+      "playerId": "force",
+      "displayName": "Force"
+    },
+    {
+      "year": 2020,
+      "rank": 6,
+      "sourceNick": "ScreaM",
+      "playerId": "scream",
+      "displayName": "ScreaM"
+    },
+    {
+      "year": 2020,
+      "rank": 7,
+      "sourceNick": "Oskar",
+      "playerId": "oskar",
+      "displayName": "Oskar"
+    },
+    {
+      "year": 2020,
+      "rank": 8,
+      "sourceNick": "Zenn",
+      "playerId": "zenn",
+      "displayName": "zenn"
+    },
+    {
+      "year": 2020,
+      "rank": 9,
+      "sourceNick": "Scuba",
+      "playerId": "scuba",
+      "displayName": "Scuba"
+    },
+    {
+      "year": 2020,
+      "rank": 10,
+      "sourceNick": "AdreN",
+      "playerId": "adren",
+      "displayName": "AdreN"
+    },
+    {
+      "year": 2020,
+      "rank": 11,
+      "sourceNick": "Nescau",
+      "playerId": "nescau",
+      "displayName": "Nescau"
+    },
+    {
+      "year": 2020,
+      "rank": 12,
+      "sourceNick": "DuckheadzZ",
+      "playerId": "duckheadzz",
+      "displayName": "DuckheadzZ"
+    },
+    {
+      "year": 2020,
+      "rank": 13,
+      "sourceNick": "FugLY",
+      "playerId": "fugly",
+      "displayName": "FugLY"
+    },
+    {
+      "year": 2020,
+      "rank": 14,
+      "sourceNick": "KreiN",
+      "playerId": "krein",
+      "displayName": "KreiN"
+    },
+    {
+      "year": 2020,
+      "rank": 15,
+      "sourceNick": "ShelzZ",
+      "playerId": "shelzz",
+      "displayName": "ShelzZ"
+    },
+    {
+      "year": 2020,
+      "rank": 16,
+      "sourceNick": "Tabsenn",
+      "playerId": "tabsenn",
+      "displayName": "tabsenn"
+    },
+    {
+      "year": 2020,
+      "rank": 17,
+      "sourceNick": "Arthur14io",
+      "playerId": "arthur14o",
+      "displayName": "Arthur14o"
+    },
+    {
+      "year": 2020,
+      "rank": 18,
+      "sourceNick": "Enfer",
+      "playerId": "enfer",
+      "displayName": "Enfer"
+    },
+    {
+      "year": 2020,
+      "rank": 19,
+      "sourceNick": "Bale",
+      "playerId": "bale",
+      "displayName": "Bale"
+    },
+    {
+      "year": 2020,
+      "rank": 20,
+      "sourceNick": "Spinard",
+      "playerId": "spinard",
+      "displayName": "SpinarD"
+    },
+    {
+      "year": 2021,
+      "rank": 1,
+      "sourceNick": "4i20_",
+      "playerId": "4i2o",
+      "displayName": "4i20"
+    },
+    {
+      "year": 2021,
+      "rank": 2,
+      "sourceNick": "NiKo",
+      "playerId": "niko",
+      "displayName": "NIKO"
+    },
+    {
+      "year": 2021,
+      "rank": 3,
+      "sourceNick": "Ryota",
+      "playerId": "ryota",
+      "displayName": "ry0ta"
+    },
+    {
+      "year": 2021,
+      "rank": 4,
+      "sourceNick": "Rn",
+      "playerId": "rn",
+      "displayName": "RN"
+    },
+    {
+      "year": 2021,
+      "rank": 5,
+      "sourceNick": "ScreaM",
+      "playerId": "scream",
+      "displayName": "ScreaM"
+    },
+    {
+      "year": 2021,
+      "rank": 6,
+      "sourceNick": "FugLY",
+      "playerId": "fugly",
+      "displayName": "FugLY"
+    },
+    {
+      "year": 2021,
+      "rank": 7,
+      "sourceNick": "Inovate",
+      "playerId": "inovate",
+      "displayName": "inovate"
+    },
+    {
+      "year": 2021,
+      "rank": 8,
+      "sourceNick": "Ezequiel",
+      "playerId": "ezeq",
+      "displayName": "Ezeq"
+    },
+    {
+      "year": 2021,
+      "rank": 9,
+      "sourceNick": "Oskar",
+      "playerId": "oskar",
+      "displayName": "Oskar"
+    },
+    {
+      "year": 2021,
+      "rank": 10,
+      "sourceNick": "Conjure",
+      "playerId": "conjure",
+      "displayName": "c0njure"
+    },
+    {
+      "year": 2021,
+      "rank": 11,
+      "sourceNick": "Roblox",
+      "playerId": "roblox",
+      "displayName": "Roblox"
+    },
+    {
+      "year": 2021,
+      "rank": 12,
+      "sourceNick": "Jigsaw",
+      "playerId": "jigsaw",
+      "displayName": "Jigsaw"
+    },
+    {
+      "year": 2021,
+      "rank": 13,
+      "sourceNick": "Tabsenn",
+      "playerId": "tabsenn",
+      "displayName": "tabsenn"
+    },
+    {
+      "year": 2021,
+      "rank": 14,
+      "sourceNick": "Alfa",
+      "playerId": "alfa",
+      "displayName": "Alfa"
+    },
+    {
+      "year": 2021,
+      "rank": 15,
+      "sourceNick": "KreiN",
+      "playerId": "krein",
+      "displayName": "KreiN"
+    },
+    {
+      "year": 2021,
+      "rank": 16,
+      "sourceNick": "Zenn",
+      "playerId": "zenn",
+      "displayName": "zenn"
+    },
+    {
+      "year": 2021,
+      "rank": 17,
+      "sourceNick": "Helix",
+      "playerId": "helix",
+      "displayName": "Helix"
+    },
+    {
+      "year": 2021,
+      "rank": 18,
+      "sourceNick": "ShelzZ",
+      "playerId": "shelzz",
+      "displayName": "ShelzZ"
+    },
+    {
+      "year": 2021,
+      "rank": 19,
+      "sourceNick": "Roggers",
+      "playerId": "roggers",
+      "displayName": "Roggers"
+    },
+    {
+      "year": 2021,
+      "rank": 20,
+      "sourceNick": "Zunhn",
+      "playerId": "zunhn",
+      "displayName": "Zunhn"
+    },
+    {
+      "year": 2023,
+      "rank": 1,
+      "sourceNick": "Tamashi",
+      "playerId": "tamashi",
+      "displayName": "Tamashi"
+    },
+    {
+      "year": 2023,
+      "rank": 2,
+      "sourceNick": "Oskar",
+      "playerId": "oskar",
+      "displayName": "Oskar"
+    },
+    {
+      "year": 2023,
+      "rank": 3,
+      "sourceNick": "NiKo",
+      "playerId": "niko",
+      "displayName": "NIKO"
+    },
+    {
+      "year": 2023,
+      "rank": 4,
+      "sourceNick": "Valknut",
+      "playerId": "valknut",
+      "displayName": "Valknut"
+    },
+    {
+      "year": 2023,
+      "rank": 5,
+      "sourceNick": "Helix",
+      "playerId": "helix",
+      "displayName": "Helix"
+    },
+    {
+      "year": 2023,
+      "rank": 6,
+      "sourceNick": "4i20",
+      "playerId": "4i2o",
+      "displayName": "4i20"
+    },
+    {
+      "year": 2023,
+      "rank": 7,
+      "sourceNick": "Rn",
+      "playerId": "rn",
+      "displayName": "RN"
+    },
+    {
+      "year": 2023,
+      "rank": 8,
+      "sourceNick": "Salty",
+      "playerId": "salty",
+      "displayName": "Salty"
+    },
+    {
+      "year": 2023,
+      "rank": 9,
+      "sourceNick": "Mirezz",
+      "playerId": "mirezz",
+      "displayName": "mirezZ"
+    },
+    {
+      "year": 2023,
+      "rank": 10,
+      "sourceNick": "Ralzee",
+      "playerId": "ralzee",
+      "displayName": "RALZEE"
+    },
+    {
+      "year": 2023,
+      "rank": 11,
+      "sourceNick": "Scrimx",
+      "playerId": "scr1mx",
+      "displayName": "Scr1mx"
+    },
+    {
+      "year": 2023,
+      "rank": 12,
+      "sourceNick": "Tenz",
+      "playerId": "tenz",
+      "displayName": "Tenz"
+    },
+    {
+      "year": 2023,
+      "rank": 13,
+      "sourceNick": "Fnx",
+      "playerId": "fnx",
+      "displayName": "FNX"
+    },
+    {
+      "year": 2023,
+      "rank": 14,
+      "sourceNick": "tabsenn",
+      "playerId": "tabsenn",
+      "displayName": "tabsenn"
+    },
+    {
+      "year": 2023,
+      "rank": 15,
+      "sourceNick": "Kmx",
+      "playerId": "kmx",
+      "displayName": "KMX"
+    },
+    {
+      "year": 2023,
+      "rank": 16,
+      "sourceNick": "GaH",
+      "playerId": "gah",
+      "displayName": "Gah"
+    },
+    {
+      "year": 2023,
+      "rank": 17,
+      "sourceNick": "Misuta",
+      "playerId": "misuuta",
+      "displayName": "misuuta"
+    },
+    {
+      "year": 2023,
+      "rank": 18,
+      "sourceNick": "H0pe",
+      "playerId": "hope",
+      "displayName": "h0pe"
+    },
+    {
+      "year": 2023,
+      "rank": 19,
+      "sourceNick": "T10",
+      "playerId": "t1o",
+      "displayName": "T10"
+    },
+    {
+      "year": 2023,
+      "rank": 20,
+      "sourceNick": "Insani",
+      "playerId": "insani",
+      "displayName": "Insani"
+    },
+    {
+      "year": 2024,
+      "rank": 1,
+      "sourceNick": "Tamashi",
+      "playerId": "tamashi",
+      "displayName": "Tamashi"
+    },
+    {
+      "year": 2024,
+      "rank": 2,
+      "sourceNick": "4i20",
+      "playerId": "4i2o",
+      "displayName": "4i20"
+    },
+    {
+      "year": 2024,
+      "rank": 3,
+      "sourceNick": "Insani",
+      "playerId": "insani",
+      "displayName": "Insani"
+    },
+    {
+      "year": 2024,
+      "rank": 4,
+      "sourceNick": "NiKo",
+      "playerId": "niko",
+      "displayName": "NIKO"
+    },
+    {
+      "year": 2024,
+      "rank": 5,
+      "sourceNick": "Tabsenn",
+      "playerId": "tabsenn",
+      "displayName": "tabsenn"
+    },
+    {
+      "year": 2024,
+      "rank": 6,
+      "sourceNick": "Oskar",
+      "playerId": "oskar",
+      "displayName": "Oskar"
+    },
+    {
+      "year": 2024,
+      "rank": 7,
+      "sourceNick": "Cheaprain",
+      "playerId": "cheaprain",
+      "displayName": "CheapRain"
+    },
+    {
+      "year": 2024,
+      "rank": 8,
+      "sourceNick": "Zeldris",
+      "playerId": "zdr",
+      "displayName": "ZDR"
+    },
+    {
+      "year": 2024,
+      "rank": 9,
+      "sourceNick": "Conjure",
+      "playerId": "conjure",
+      "displayName": "c0njure"
+    },
+    {
+      "year": 2024,
+      "rank": 10,
+      "sourceNick": "Bigode",
+      "playerId": "raulbigode",
+      "displayName": "Raul Bigode"
+    },
+    {
+      "year": 2024,
+      "rank": 11,
+      "sourceNick": "Fnx",
+      "playerId": "fnx",
+      "displayName": "FNX"
+    },
+    {
+      "year": 2024,
+      "rank": 12,
+      "sourceNick": "Scrimx",
+      "playerId": "scr1mx",
+      "displayName": "Scr1mx"
+    },
+    {
+      "year": 2024,
+      "rank": 13,
+      "sourceNick": "Pedrinn",
+      "playerId": "pedrinn",
+      "displayName": "Pedrinn"
+    },
+    {
+      "year": 2024,
+      "rank": 14,
+      "sourceNick": "Valknut",
+      "playerId": "valknut",
+      "displayName": "Valknut"
+    },
+    {
+      "year": 2024,
+      "rank": 15,
+      "sourceNick": "Lucky",
+      "playerId": "lucky",
+      "displayName": "Lucky"
+    },
+    {
+      "year": 2024,
+      "rank": 16,
+      "sourceNick": "H10",
+      "playerId": "h1o",
+      "displayName": "H10"
+    },
+    {
+      "year": 2024,
+      "rank": 17,
+      "sourceNick": "inovate",
+      "playerId": "inovate",
+      "displayName": "inovate"
+    },
+    {
+      "year": 2024,
+      "rank": 18,
+      "sourceNick": "Invoke",
+      "playerId": "invoke",
+      "displayName": "Invoke"
+    },
+    {
+      "year": 2024,
+      "rank": 19,
+      "sourceNick": "Misuta",
+      "playerId": "misuuta",
+      "displayName": "misuuta"
+    },
+    {
+      "year": 2024,
+      "rank": 20,
+      "sourceNick": "H0pe",
+      "playerId": "hope",
+      "displayName": "h0pe"
+    },
+    {
+      "year": 2025,
+      "rank": 1,
+      "sourceNick": "Tabsen",
+      "playerId": "tabsenn",
+      "displayName": "tabsenn"
+    },
+    {
+      "year": 2025,
+      "rank": 2,
+      "sourceNick": "Zdr",
+      "playerId": "zdr",
+      "displayName": "ZDR"
+    },
+    {
+      "year": 2025,
+      "rank": 3,
+      "sourceNick": "4i20",
+      "playerId": "4i2o",
+      "displayName": "4i20"
+    },
+    {
+      "year": 2025,
+      "rank": 4,
+      "sourceNick": "Conjure",
+      "playerId": "conjure",
+      "displayName": "c0njure"
+    },
+    {
+      "year": 2025,
+      "rank": 5,
+      "sourceNick": "Salty",
+      "playerId": "salty",
+      "displayName": "Salty"
+    },
+    {
+      "year": 2025,
+      "rank": 6,
+      "sourceNick": "INSANI",
+      "playerId": "insani",
+      "displayName": "Insani"
+    },
+    {
+      "year": 2025,
+      "rank": 7,
+      "sourceNick": "Marvywn",
+      "playerId": "marvywn",
+      "displayName": "Marvywn"
+    },
+    {
+      "year": 2025,
+      "rank": 8,
+      "sourceNick": "Invoke",
+      "playerId": "invoke",
+      "displayName": "Invoke"
+    },
+    {
+      "year": 2025,
+      "rank": 9,
+      "sourceNick": "Oskar",
+      "playerId": "oskar",
+      "displayName": "Oskar"
+    },
+    {
+      "year": 2025,
+      "rank": 10,
+      "sourceNick": "Tamashi",
+      "playerId": "tamashi",
+      "displayName": "Tamashi"
+    },
+    {
+      "year": 2025,
+      "rank": 11,
+      "sourceNick": "T10",
+      "playerId": "t1o",
+      "displayName": "T10"
+    },
+    {
+      "year": 2025,
+      "rank": 12,
+      "sourceNick": "Bezdarnost",
+      "playerId": "bezdarnost",
+      "displayName": "Bezdarnost"
+    },
+    {
+      "year": 2025,
+      "rank": 13,
+      "sourceNick": "Misuta",
+      "playerId": "misuuta",
+      "displayName": "misuuta"
+    },
+    {
+      "year": 2025,
+      "rank": 14,
+      "sourceNick": "Lucky",
+      "playerId": "lucky",
+      "displayName": "Lucky"
+    },
+    {
+      "year": 2025,
+      "rank": 15,
+      "sourceNick": "Niko",
+      "playerId": "niko",
+      "displayName": "NIKO"
+    },
+    {
+      "year": 2025,
+      "rank": 16,
+      "sourceNick": "Brizado",
+      "playerId": "brizado",
+      "displayName": "Brizado"
+    },
+    {
+      "year": 2025,
+      "rank": 17,
+      "sourceNick": "Helix",
+      "playerId": "helix",
+      "displayName": "Helix"
+    },
+    {
+      "year": 2025,
+      "rank": 18,
+      "sourceNick": "Fway",
+      "playerId": "fway",
+      "displayName": "Fway"
+    },
+    {
+      "year": 2025,
+      "rank": 19,
+      "sourceNick": "Hardzera",
+      "playerId": "hardzera",
+      "displayName": "Hardzera"
+    },
+    {
+      "year": 2025,
+      "rank": 20,
+      "sourceNick": "Vat",
+      "playerId": "vat",
+      "displayName": "Vat"
+    }
+  ]
+}

@@ -2,4 +2,5 @@
 const people=new Map(db.players.map(p=>[p.id,p])),events=new Map(db.events.map(e=>[e.id,e]));
 window.HBSTV={db,key,person:s=>people.get(key(s)),event:id=>events.get(id),playerHref:s=>'#jogador/'+encodeURIComponent(key(s)),eventHref:id=>'#campeonato/'+encodeURIComponent(id),name:s=>people.get(key(s))?.name||s};
 window.HBSTV_PLAYER_INDEX.players=db.players;window.HBSTV_PLAYER_INDEX.aliases=db.aliases;window.HBSTV_TEAMS=db.teams;
+window.renderPlayerAnnualFacts=rows=>rows.length?`<div class="player-annual-facts"><dt>Top 20 por ano</dt><dd><span class="player-annual-count">${rows.length} ${rows.length===1?'edição':'edições'}</span><span class="player-annual-results">${[...rows].sort((a,b)=>b.year-a.year).map(r=>`<span class="player-annual-result" aria-label="Posição ${r.rank} em ${r.year}"><b>#${r.rank}</b> <small>${r.year}</small></span>`).join('')}</span></dd></div>`:'';
 })();
