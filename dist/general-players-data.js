@@ -36,7 +36,8 @@ window.HBSTV_PLAYER_INDEX = {
     "frc": "Force",
     "biond": "Biondi",
     "robertinha": "Michel",
-    "misutaa": "misuuta"
+    "misutaa": "misuuta",
+    "benzin": "BENZ1N"
   },
   "players": [
     {
@@ -1577,28 +1578,8 @@ window.HBSTV_PLAYER_INDEX = {
       "id": "benz1n",
       "name": "BENZ1N",
       "aliases": [
+        "BENZIN",
         "BENZ1N"
-      ],
-      "realNames": [],
-      "teams": [],
-      "titles": [],
-      "mvps": [],
-      "evps": [
-        {
-          "id": "major:194c5f557f9f233ff918",
-          "title": "WHL | MAJOR 2023 [TIER S+]",
-          "year": 2023,
-          "source": "events-2023"
-        }
-      ],
-      "rankings": [],
-      "awards": []
-    },
-    {
-      "id": "benzin",
-      "name": "BENZIN",
-      "aliases": [
-        "BENZIN"
       ],
       "realNames": [],
       "teams": [],
@@ -1615,9 +1596,7 @@ window.HBSTV_PLAYER_INDEX = {
           "id": "major:194c5f557f9f233ff918",
           "title": "WHL | MAJOR 2023 [TIER S+]",
           "year": 2023,
-          "source": "major-history",
-          "sourceImage": "assets/archive/194c5f557f9f233ff918.jpeg",
-          "major": true
+          "source": "events-2023"
         }
       ],
       "rankings": [],

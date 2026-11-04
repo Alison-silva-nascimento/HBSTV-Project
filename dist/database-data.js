@@ -1541,28 +1541,8 @@ window.HBSTV_DATABASE = {
       "id": "benz1n",
       "name": "BENZ1N",
       "aliases": [
+        "BENZIN",
         "BENZ1N"
-      ],
-      "realNames": [],
-      "teams": [],
-      "titles": [],
-      "mvps": [],
-      "evps": [
-        {
-          "id": "major:194c5f557f9f233ff918",
-          "title": "WHL | MAJOR 2023 [TIER S+]",
-          "year": 2023,
-          "source": "events-2023"
-        }
-      ],
-      "rankings": [],
-      "awards": []
-    },
-    {
-      "id": "benzin",
-      "name": "BENZIN",
-      "aliases": [
-        "BENZIN"
       ],
       "realNames": [],
       "teams": [],
@@ -1579,9 +1559,7 @@ window.HBSTV_DATABASE = {
           "id": "major:194c5f557f9f233ff918",
           "title": "WHL | MAJOR 2023 [TIER S+]",
           "year": 2023,
-          "source": "major-history",
-          "sourceImage": "assets/archive/194c5f557f9f233ff918.jpeg",
-          "major": true
+          "source": "events-2023"
         }
       ],
       "rankings": [],
@@ -13237,7 +13215,8 @@ window.HBSTV_DATABASE = {
     "frc": "Force",
     "biond": "Biondi",
     "robertinha": "Michel",
-    "misutaa": "misuuta"
+    "misutaa": "misuuta",
+    "benzin": "BENZ1N"
   },
   "events": [
     {
@@ -14780,7 +14759,7 @@ window.HBSTV_DATABASE = {
         "salty"
       ],
       "evps": [
-        "benzin",
+        "benz1n",
         "bondrewd",
         "hope",
         "ler1x",
@@ -14963,7 +14942,6 @@ window.HBSTV_DATABASE = {
       ],
       "evps": [
         "benz1n",
-        "benzin",
         "hardzera",
         "helix",
         "mirezz",
@@ -14972,8 +14950,7 @@ window.HBSTV_DATABASE = {
         "tamashi"
       ],
       "sources": [
-        "events-2023",
-        "major-history"
+        "events-2023"
       ],
       "notes": [],
       "images": [
