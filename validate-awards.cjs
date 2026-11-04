@@ -1,0 +1,8 @@
+const fs=require('node:fs'),vm=require('node:vm'),assert=require('node:assert/strict'),path=require('node:path');
+const load=file=>{const context={window:{}};vm.runInNewContext(fs.readFileSync(path.join(__dirname,'dist',file),'utf8'),context);return context.window;};
+const archive=load('archive-data.js').RANKS_ARCHIVE,data=load('awards-data.js').RANKS_AWARDS;
+const expected=new Set(archive.pages.filter(p=>data.sourcePages.includes(p.slug)).flatMap(p=>p.blocks.filter(b=>b.type==='image').map(b=>b.src))),actual=new Set(data.records.map(r=>r.sourceImage).filter(Boolean));
+assert.deepEqual([...actual].sort(),[...expected].sort(),'Every original awards image must be transcribed');assert.equal(actual.size,36);assert.equal(data.records.filter(r=>r.group==='awards').length,28);assert.equal(data.records.filter(r=>r.group==='legacy').length,36);assert.equal(data.records.filter(r=>r.group==='history').length,41);assert.equal(new Set(data.records.map(r=>r.id)).size,data.records.length);
+for(const r of data.records){assert.ok(r.year>=2017&&r.year<=2025);assert.ok(r.category&&r.winner&&r.series);if(r.sourceImage)assert.ok(fs.existsSync(path.join(__dirname,'dist',r.sourceImage)));if(r.placements){assert.equal(r.placements.length,5);assert.equal(r.placements[0].name,r.winner);r.placements.forEach((p,i)=>{assert.equal(p.position,i+1);assert.ok(Number.isInteger(p.votes)&&p.votes>0);});}}
+for(const year of [2018,2019,2020,2021])assert.equal(data.records.filter(r=>r.group==='legacy'&&r.year===year).length,9);
+console.log(JSON.stringify({records:data.records.length,sourceImages:actual.size,allSourceImagesTranscribed:true,publicVotes:data.records.filter(r=>r.placements).length,integrity:'passed'}));

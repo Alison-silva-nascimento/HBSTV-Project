@@ -1,0 +1,1 @@
+const fs=require('node:fs');const file='dist/team-profiles.js';let s=fs.readFileSync(file,'utf8');const old='<a class="full-link" href="#acervo/${r.source}" data-entity-close>Conferir registro original ↗</a>';s=s.replace(old,'${r.manual?`<p class="club-source-note">${esc(r.sourceNote)}</p>`:`'+old+'`}');fs.writeFileSync(file,s);

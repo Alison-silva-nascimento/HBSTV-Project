@@ -1,0 +1,59 @@
+[
+  {
+    "team": "VANX",
+    "year": 2020,
+    "titles": [
+      "GSE | Evolution Championship 2020",
+      "TSL | CBBS 4.0 2020",
+      "GSE | TUES CUP 2020",
+      "SUVOH | Loftus Cup 2020",
+      "? | Elite Strike 2020"
+    ],
+    "players": [
+      "Oskar",
+      "Scuba",
+      "Force",
+      "Bale",
+      "SpinarD",
+      "zMAT"
+    ],
+    "source": "Informações confirmadas pelo proprietário do site. Elenco da temporada; escalações individuais por título não especificadas."
+  },
+  {
+    "team": "STOMPA TOP TEAM",
+    "year": 2018,
+    "titles": [
+      "TSL | CBBS 2.0 2018"
+    ],
+    "players": [
+      "Over",
+      "Hardzera",
+      "TerroR",
+      "Biondi",
+      "Galaxy",
+      "Astr0"
+    ],
+    "rosterConfirmed": true,
+    "source": "Título e jogadores confirmados pelo proprietário do site."
+  },
+  {
+    "team": "CONTROL Z",
+    "year": 2023,
+    "titles": [
+      "G3X | CUP SEASON 2 2023"
+    ],
+    "players": [
+      "Tamashi",
+      "SALEM",
+      "NIKO",
+      "4i20",
+      "T10",
+      "Bonjour",
+      "VNCX",
+      "Ex0tic",
+      "Altair"
+    ],
+    "rosterConfirmed": true,
+    "source": "Título e jogadores confirmados pelo proprietário do site."
+  }
+]

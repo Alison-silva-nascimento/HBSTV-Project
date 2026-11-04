@@ -1,0 +1,201 @@
+[
+  {
+    "year": 2024,
+    "series": "RANK S Awards",
+    "category": "BEST BRASIL",
+    "winner": "BETAO",
+    "sourceImage": "assets/archive/f84baf49afa36a5f5851.jpg",
+    "note": "A arte exibe BETAO. A seção STATS AWARDS da mesma página registra Roberto insani em MELHOR PLAYER (2024). As grafias foram preservadas sem presumir que sejam a mesma identidade ou corrigir a divergência."
+  },
+  {
+    "year": 2024,
+    "series": "RANK S Awards",
+    "category": "BEST IGL",
+    "winner": "EDUARDO",
+    "sourceImage": "assets/archive/01912146cd6152936d6a.jpg"
+  },
+  {
+    "year": 2024,
+    "series": "RANK S Awards",
+    "category": "BEST RIFLER",
+    "winner": "GUSTAVO",
+    "sourceImage": "assets/archive/6fa7efbdbfd0e8beb426.jpg"
+  },
+  {
+    "year": 2024,
+    "series": "RANK S Awards",
+    "category": "REVELAÇÃO",
+    "winner": "EMERSON",
+    "sourceImage": "assets/archive/6d32fa4313e54376ba8a.jpg"
+  },
+  {
+    "year": 2024,
+    "series": "RANK S Awards",
+    "category": "BEST EUROPA",
+    "winner": "TAMASHI",
+    "sourceImage": "assets/archive/ba628df6c62247d2a518.jpg"
+  },
+  {
+    "year": 2024,
+    "series": "RANK S Awards",
+    "category": "BEST CLUTH",
+    "winner": "INSANI",
+    "sourceImage": "assets/archive/37e30feeb92f511c6931.jpg",
+    "note": "Grafia CLUTH preservada conforme a imagem original."
+  },
+  {
+    "year": 2024,
+    "series": "RANK S Awards",
+    "category": "COMPLETE",
+    "winner": "YASSINE",
+    "sourceImage": "assets/archive/d7941460260838685577.jpg"
+  },
+  {
+    "year": 2024,
+    "series": "RANK S Awards",
+    "category": "BEST AWM",
+    "winner": "CONJURE",
+    "sourceImage": "assets/archive/9f73995f16761480df35.jpg",
+    "note": "A imagem escreve AWM; o título HTML do site escreve AWP. Categoria visual preservada."
+  },
+  {
+    "year": 2024,
+    "series": "RANK S Awards",
+    "category": "Top Tournaments Awards 2024 by Public Vote - 2024 Awards",
+    "winner": "PSL 3.0",
+    "sourceImage": "assets/archive/819cd0336574dd48133d.jpg",
+    "note": "Por GAME ZONE & RANK S. Votação pública: PSL 3.0 — 72 votos; WORLD RANKING — 54; BSTV — 31; PSL 2.0 — 23; YALLAS COMPASS — 20. Nomes e contagens transcritos da imagem.",
+    "placements": [
+      {
+        "position": 1,
+        "name": "PSL 3.0",
+        "votes": 72
+      },
+      {
+        "position": 2,
+        "name": "WORLD RANKING",
+        "votes": 54
+      },
+      {
+        "position": 3,
+        "name": "BSTV",
+        "votes": 31
+      },
+      {
+        "position": 4,
+        "name": "PSL 2.0",
+        "votes": 23
+      },
+      {
+        "position": 5,
+        "name": "YALLAS COMPASS",
+        "votes": 20
+      }
+    ]
+  },
+  {
+    "year": 2024,
+    "series": "RANK S Awards",
+    "category": "Top Orgs Awards 2024 by Public Vote - 2024 Awards",
+    "winner": "GameZone",
+    "sourceImage": "assets/archive/d9490ea36ce5a66783eb.jpg",
+    "note": "Por GAME ZONE & RANK S. Votação pública: GameZone — 57 votos; XMS — 54; BSTV — 31; WHL — 24; BCN — 10. Nomes e contagens transcritos da imagem.",
+    "placements": [
+      {
+        "position": 1,
+        "name": "GameZone",
+        "votes": 57
+      },
+      {
+        "position": 2,
+        "name": "XMS",
+        "votes": 54
+      },
+      {
+        "position": 3,
+        "name": "BSTV",
+        "votes": 31
+      },
+      {
+        "position": 4,
+        "name": "WHL",
+        "votes": 24
+      },
+      {
+        "position": 5,
+        "name": "BCN",
+        "votes": 10
+      }
+    ]
+  },
+  {
+    "year": 2023,
+    "series": "RANK S Awards",
+    "category": "MELHOR PLAYER",
+    "winner": "YSN \"TAMASHI\"",
+    "sourceImage": "assets/archive/b9e9f3c7ff3a00426274.jpeg"
+  },
+  {
+    "year": 2023,
+    "series": "RANK S Awards",
+    "category": "MELHOR IGL",
+    "winner": "EDUARDO \"OSKAR\"",
+    "sourceImage": "assets/archive/2d2a1ba76bfaee252c68.jpeg"
+  },
+  {
+    "year": 2023,
+    "series": "RANK S Awards",
+    "category": "MELHOR RIFLER",
+    "winner": "GUSTAVO \"TABSENN\"",
+    "sourceImage": "assets/archive/5ef755b6dcf0be277c76.jpeg"
+  },
+  {
+    "year": 2023,
+    "series": "RANK S Awards",
+    "category": "PLAYER REVELAÇÃO",
+    "winner": "BRYAN \"KMX\"",
+    "sourceImage": "assets/archive/e12f2df5e15de175cc64.jpeg"
+  },
+  {
+    "year": 2023,
+    "series": "RANK S Awards",
+    "category": "MELHOR PLAYER GRINGO",
+    "winner": "YSN \"TAMASHI\"",
+    "sourceImage": "assets/archive/4a4de3e13ca7ed001f54.jpeg"
+  },
+  {
+    "year": 2023,
+    "series": "RANK S Awards",
+    "category": "MELHOR JOGADOR EM SITUAÇÃO DE CLUTCH",
+    "winner": "YSN \"TAMASHI\"",
+    "sourceImage": "assets/archive/3e3303f472dfd0ec160d.jpeg"
+  },
+  {
+    "year": 2023,
+    "series": "RANK S Awards",
+    "category": "JOGADOR COMPLETO RIFLER E AWP",
+    "winner": "LEONARDO \"4I20\"",
+    "sourceImage": "assets/archive/bc458bed2a1581ae07d6.jpeg"
+  },
+  {
+    "year": 2023,
+    "series": "RANK S Awards",
+    "category": "MELHOR AWP",
+    "winner": "KAUÃ \"CONJURE\"",
+    "sourceImage": "assets/archive/81b319fbf3ee18ccd352.jpeg"
+  },
+  {
+    "year": 2023,
+    "series": "RANK S Awards",
+    "category": "MELHOR TORNEIO",
+    "winner": "WHL | MAJOR",
+    "sourceImage": "assets/archive/f03e4287a462f4caa013.jpeg"
+  },
+  {
+    "year": 2023,
+    "series": "RANK S Awards",
+    "category": "MELHOR ORGANIZAÇÃO",
+    "winner": "RANK S",
+    "sourceImage": "assets/archive/9cb83e2a0f146f19f64c.jpeg"
+  }
+]

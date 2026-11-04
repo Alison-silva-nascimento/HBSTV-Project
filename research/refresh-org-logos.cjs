@@ -1,0 +1,3 @@
+const fs=require('node:fs'),vm=require('node:vm');const c={window:{}};vm.runInNewContext(fs.readFileSync('dist/organizations-data.js','utf8'),c);const orgs=c.window.RANKS_ORGANIZATIONS;
+for(const key of ['WHL','XMS','SUVOH']){const org=orgs[key];if(org.crop)org.originalLogo={src:org.src,crop:org.crop};org.src='assets/org-'+key.toLowerCase()+'.svg';delete org.crop;org.note='Redesenho vetorial simplificado do símbolo original, sem moldura e texto da arte, para leitura nos troféus. A referência original está preservada em originalLogo.';}
+fs.writeFileSync('dist/organizations-data.js','window.RANKS_ORGANIZATIONS = '+JSON.stringify(orgs,null,2)+';\n');

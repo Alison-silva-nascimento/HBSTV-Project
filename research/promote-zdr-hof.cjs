@@ -1,0 +1,7 @@
+const fs=require('node:fs'),vm=require('node:vm');const c={window:{}};for(const f of ['archive-data.js','general-players-data.js'])vm.runInNewContext(fs.readFileSync('dist/'+f,'utf8'),c);const p=c.window.HBSTV_PLAYER_INDEX.players.find(p=>p.id==='zdr');if(!p)throw Error('ZDR not found');
+const teams={iklegends:'IK',vissionary:'VISS',aura:'AURA',d2w:'D2W',chaos:'CHAOS'};
+const title=r=>{const name=r.title.replace(/\s*\[TIER[^\]]*\]/gi,'').replace(/\bFINALS 25\b/i,'FINALS 2025');return name+(/20\d{2}/.test(name)?'':' '+r.year)+(r.major?'Ⓜ️':'');};
+const text=`✨Awards✨\n-${p.rankings.map(r=>`(#${r.rank} ${r.year})`).join(' ')}\n-${p.mvps.length} MVP\n-${p.evps.length} EVPs\n-${p.titles.filter(r=>r.major).length}x MAJOR CHAMPION\nTEAMS\n[ ${p.teams.map(t=>teams[t.id]||t.name).join(' ')} ]\n🏆PRINCIPAIS TÍTULOS; ${p.titles.length} Títulos\n${p.titles.map(r=>'🥇'+title(r)).join('\n')}`;
+const section={title:'HALL OF FAME',blocks:[{type:'heading',level:2,text:'HALL OF FAME'},{type:'heading',level:4,text:'Allysson´´ZDR´´'},{type:'text',text}]};
+const page=c.window.RANKS_ARCHIVE.pages.find(p=>p.slug==='hall-of-fame'),index=page.sections.findIndex(s=>s.blocks.some(b=>b.level===4&&/´´ZDR´´/.test(b.text)));if(index>=0)page.sections[index]=section;else page.sections.push(section);page.blocks=page.sections.flatMap(s=>s.blocks);
+fs.writeFileSync('dist/archive-data.js','window.RANKS_ARCHIVE = '+JSON.stringify(c.window.RANKS_ARCHIVE,null,2)+';\n');console.log(JSON.stringify({promoted:'ZDR',titles:p.titles.length,mvps:p.mvps.length,evps:p.evps.length}));

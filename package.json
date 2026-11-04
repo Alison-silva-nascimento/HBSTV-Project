@@ -1,0 +1,12 @@
+{
+  "name": "hbstv",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Histórico competitivo de Block Strike — HBSTV.ORG",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "start": "node server.cjs",
+    "build": "node scripts/verify.cjs",
+    "test": "node scripts/verify.cjs"
+  }
+}

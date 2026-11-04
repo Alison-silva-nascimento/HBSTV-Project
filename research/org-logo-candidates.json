@@ -1,0 +1,91 @@
+{
+  "TSL": {
+    "src": "assets/archive/72138647512b8ed9ff0f.png",
+    "sourcePage": "ak-de-ouro-awards",
+    "crop": {"x": 49, "y": 516, "size": 110, "width": 455, "height": 748},
+    "note": "Logo da TSL visualmente confirmado na categoria MELHOR ORGANIZAÇÃO — TSL da arte AK de Ouro 2020. Recorte evita o badge CBBS 4.0, que pertence ao campeonato e não à organização. x/y/size em pixels originais; width/height são dimensões da imagem inteira."
+  },
+  "GSE": {
+    "src": "assets/archive/17aa314e18c3b416c8d5.png",
+    "sourcePage": "ak-de-ouro-awards",
+    "crop": {"x": 57, "y": 513, "size": 107, "width": 463, "height": 726},
+    "note": "Marca geométrica circular da GSE, identificada pela legenda MELHOR ORGANIZAÇÃO — GSE na arte AK de Ouro 2019. Recorte só da marca, sem troféu genérico da categoria campeonato."
+  },
+  "SUVOH": {
+    "src": "assets/archive/588abeda1d4c3c864941.png",
+    "sourcePage": "ak-de-ouro-awards",
+    "crop": {"x": 51, "y": 505, "size": 105, "width": 448, "height": 727},
+    "note": "S estilizado e palavra SUVOH visualmente confirmados em MELHOR ORGANIZAÇÃO — SUVOH, AK de Ouro 2021."
+  },
+  "WHL": {
+    "src": "assets/archive/d9490ea36ce5a66783eb.jpg",
+    "sourcePage": "awards",
+    "crop": {"x": 684, "y": 253, "size": 80, "width": 1061, "height": 593},
+    "note": "Logo WORLD HARD LEAGUE na coluna identificada WHL do gráfico Top Orgs Awards 2024. Fonte genuína da organização; não usar em seu lugar o badge WHL League Season 2. O recorte tem resolução nativa pequena: indicado para ícones, não para ampliação grande."
+  },
+  "XMS": {
+    "src": "assets/archive/d9490ea36ce5a66783eb.jpg",
+    "sourcePage": "awards",
+    "crop": {"x": 303, "y": 148, "size": 64, "width": 1061, "height": 593},
+    "note": "Marca vermelha angular da coluna XMS no gráfico Top Orgs Awards 2024; organização identificada pela legenda original. Não confundir com a arte MASTER LEAGUE ou EXTREME MASTERS."
+  },
+  "GZ": {
+    "src": "assets/archive/d9490ea36ce5a66783eb.jpg",
+    "sourcePage": "awards",
+    "crop": {"x": 99, "y": 125, "size": 83, "width": 1061, "height": 593},
+    "note": "Marca de três peças branca/azul/preta na coluna GameZone de Top Orgs Awards 2024. Identidade da organização GameZone, não badge PSL ou BGE. Aplicável às grafias GZ e GameZone quando forem explicitamente equivalentes no texto do acervo."
+  },
+  "GAMEZONE": {
+    "src": "assets/archive/d9490ea36ce5a66783eb.jpg",
+    "sourcePage": "awards",
+    "crop": {"x": 99, "y": 125, "size": 83, "width": 1061, "height": 593},
+    "note": "Mesmo logo verificado de GZ, legenda GameZone no gráfico de organizações 2024."
+  },
+  "BSTV": {
+    "src": "assets/archive/d9490ea36ce5a66783eb.jpg",
+    "sourcePage": "awards",
+    "crop": {"x": 498, "y": 197, "size": 82, "width": 1061, "height": 593},
+    "note": "Símbolo vermelho de três braços da coluna BSTV em Top Orgs Awards 2024. Verificado pela legenda da organização."
+  },
+  "BCN": {
+    "src": "assets/archive/611bc8a2309f233d112e.png",
+    "sourcePage": "events-2025",
+    "note": "Marca isolada BCN 2025 com coroa; usada em vários campeonatos BCN diferentes, sem nome de torneio específico. Imagem original 501×496; marca ocupa aproximadamente x24–456,y121–329. Pode usar object-fit:contain; se houver suporte a recorte retangular, a caixa x20,y110,w445,h225 reduz margens sem cortar a marca."
+  },
+  "LCS": {
+    "src": "assets/archive/68b402968c1a8a585d6d.png",
+    "sourcePage": "events-2025",
+    "note": "Logo explicitamente identificado na imagem por LEGENDARY CHAMPIONS SQUAD — ORGANIZAÇÃO. Original583×428, símbolo e nome ocupam aproximadamente x63–553,y95–324. Recomenda-se object-fit:contain ou recorte retangular x55,y88,w505,h245; não é possível recorte quadrado menor que preserve todo nome sem margens adicionais."
+  },
+  "GBL": {
+    "src": "assets/archive/52988c7c13e88e438538.jpeg",
+    "sourcePage": "events-2024",
+    "crop": {"x": 560, "y": 0, "size": 220, "width": 1339, "height": 1339},
+    "note": "Wordmark GBL com LEADERS no topo da arte Stars Cup 2.0. Recorte restrito à assinatura da organização, sem o nome Stars Cup 2.0 do campeonato."
+  },
+  "RANK S": {
+    "src": "assets/archive/rank-s-original-brand.jpeg",
+    "sourcePage": "inicio",
+    "note": "Marca original RANK S preservada integralmente; original1600×1600."
+  },
+  "LCB": {
+    "src": null,
+    "sourcePage": "hall-of-fame",
+    "note": "Não foi encontrado logo organizacional verificável nas imagens locais consultadas. Manter sigla textual; não substituir por badge de campeonato."
+  },
+  "ACE": {
+    "src": null,
+    "sourcePage": "hall-of-fame",
+    "note": "Não foi encontrado logo organizacional verificável no acervo visual local consultado. Manter sigla textual."
+  },
+  "GTR": {
+    "src": null,
+    "sourcePage": "events-2023",
+    "note": "A imagem cc0a9de0e40bb571e22d.png escreve GTR copa Leaders; a página identifica GAMEZONE | GTR LEAGUE. Isso comprova torneio, não marca de uma organização GTR independente. Não foi promovida a logo organizacional."
+  },
+  "LLP": {
+    "src": null,
+    "sourcePage": "events-2024",
+    "note": "A imagem disponível para LLP é o badge STRIKE ONE, com OMEN by HP e BLOCK STRIKE; não exibe marca LLP. Manter sigla textual."
+  }
+}

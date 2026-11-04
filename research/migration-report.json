@@ -1,0 +1,98 @@
+{
+  "counts": {
+    "pages": 14,
+    "blocks": 2015,
+    "images": 106,
+    "downloadedImages": 106,
+    "videoLinks": 29,
+    "textBlocks": 1873
+  },
+  "pages": [
+    {
+      "slug": "inicio",
+      "title": "RANK S.org",
+      "blocks": 3,
+      "sections": 2
+    },
+    {
+      "slug": "events-2025",
+      "title": "EVENTS 2025",
+      "blocks": 293,
+      "sections": 15
+    },
+    {
+      "slug": "events-2024",
+      "title": "EVENTS 2024",
+      "blocks": 351,
+      "sections": 18
+    },
+    {
+      "slug": "events-2023",
+      "title": "EVENTS 2023",
+      "blocks": 282,
+      "sections": 14
+    },
+    {
+      "slug": "major-history",
+      "title": "MAJOR HISTORY",
+      "blocks": 37,
+      "sections": 1
+    },
+    {
+      "slug": "gse-forum",
+      "title": "GSE FORUM",
+      "blocks": 25,
+      "sections": 1
+    },
+    {
+      "slug": "tsl-forum",
+      "title": "TSL FORUM",
+      "blocks": 35,
+      "sections": 2
+    },
+    {
+      "slug": "hall-of-fame",
+      "title": "HALL OF FAME",
+      "blocks": 564,
+      "sections": 20
+    },
+    {
+      "slug": "hall-of-fame-3",
+      "title": "HALL OF FAME",
+      "blocks": 208,
+      "sections": 10
+    },
+    {
+      "slug": "top-20-players",
+      "title": "TOP 20 PLAYERS",
+      "blocks": 16,
+      "sections": 8
+    },
+    {
+      "slug": "top-1-teams-of-years",
+      "title": "TOP 1 TEAMS OF YEARS",
+      "blocks": 44,
+      "sections": 4
+    },
+    {
+      "slug": "awards",
+      "title": "AWARDS",
+      "blocks": 113,
+      "sections": 4
+    },
+    {
+      "slug": "ak-de-ouro-awards",
+      "title": "AK DE OURO AWARDS",
+      "blocks": 24,
+      "sections": 11
+    },
+    {
+      "slug": "news-competitive",
+      "title": "NEWS COMPETITIVE",
+      "blocks": 20,
+      "sections": 3
+    }
+  ],
+  "failures": [],
+  "assetFailures": {}
+}

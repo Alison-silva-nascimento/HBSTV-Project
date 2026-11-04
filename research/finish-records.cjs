@@ -1,0 +1,8 @@
+const fs=require('node:fs');
+const path='research/team-record-corrections.json',rows=JSON.parse(fs.readFileSync(path,'utf8'));
+for(const row of [{team:'STOMPA TOP TEAM',year:2018,titles:['TSL | CBBS 2.0 2018'],players:['Over','Hardzera','TerroR','Biondi','Galaxy','Astr0'],rosterConfirmed:true},{team:'CONTROL Z',year:2023,titles:['G3X | CUP SEASON 2 2023'],players:['Tamashi','SALEM','NIKO','4i20','T10','Bonjour','VNCX','Ex0tic','Altair'],rosterConfirmed:true}]){row.source='Título e jogadores confirmados pelo proprietário do site.';if(!rows.some(r=>r.team===row.team))rows.push(row);}
+fs.writeFileSync(path,JSON.stringify(rows,null,2)+'\n');
+const ap='research/player-aliases.json',aliases=JSON.parse(fs.readFileSync(ap,'utf8'));aliases.biond='Biondi';fs.writeFileSync(ap,JSON.stringify(aliases,null,2)+'\n');
+const bp='research/build-team-profiles.cjs';let b=fs.readFileSync(bp,'utf8').replace("const aliases={","const aliases={stt:'STOMPA TOP TEAM',rz:'CONTROL Z',controlz:'CONTROL Z',");b=b.replace('manual:true,major:false,roster:[]','manual:true,major:false,roster:row.rosterConfirmed?row.players:[]');fs.writeFileSync(bp,b);
+const ip='dist/index.html';let html=fs.readFileSync(ip,'utf8');html=html.replace('<script src="archive.js?', '<link rel="stylesheet" href="statistics.css?v=20261102-statistics"><script src="statistics.js?v=20261102-statistics" defer></script><script src="archive.js?');fs.writeFileSync(ip,html);
+const ar='dist/archive.js';let a=fs.readFileSync(ar,'utf8');const hook="if(window.renderStatisticsRoute?.()){landingSections.forEach(s=>s.hidden=s.id!=='statistics-screen');library.hidden=true;reader.hidden=true;return;}";a=a.replace("reader.hidden=true;return;}\n","reader.hidden=true;return;}"+hook+'\n');fs.writeFileSync(ar,a);

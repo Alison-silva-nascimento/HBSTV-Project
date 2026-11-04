@@ -1,0 +1,457 @@
+[
+  {
+    "documentWidth": 310,
+    "footerRankings": "none",
+    "overflow": false,
+    "route": "#inicio",
+    "width": 320
+  },
+  {
+    "documentWidth": 310,
+    "footerRankings": "none",
+    "overflow": false,
+    "route": "#arquivo",
+    "width": 320
+  },
+  {
+    "documentWidth": 310,
+    "footerRankings": "none",
+    "overflow": false,
+    "route": "#majors",
+    "width": 320
+  },
+  {
+    "documentWidth": 310,
+    "footerRankings": "none",
+    "overflow": false,
+    "route": "#acervo/hall-of-fame",
+    "width": 320
+  },
+  {
+    "documentWidth": 310,
+    "footerRankings": "none",
+    "overflow": false,
+    "route": "#acervo/awards",
+    "width": 320
+  },
+  {
+    "documentWidth": 310,
+    "footerRankings": "none",
+    "overflow": false,
+    "route": "#times",
+    "width": 320
+  },
+  {
+    "documentWidth": 310,
+    "footerRankings": "none",
+    "overflow": false,
+    "route": "#time/iklegends",
+    "width": 320
+  },
+  {
+    "documentWidth": 310,
+    "footerRankings": "none",
+    "overflow": false,
+    "route": "#acervo/top-1-teams-of-years",
+    "width": 320
+  },
+  {
+    "documentWidth": 310,
+    "footerRankings": "none",
+    "overflow": false,
+    "route": "#acervo",
+    "width": 320
+  },
+  {
+    "documentWidth": 310,
+    "footerRankings": "none",
+    "overflow": false,
+    "route": "#acervo/news-competitive",
+    "width": 320
+  },
+  {
+    "documentWidth": 310,
+    "footerRankings": "none",
+    "overflow": false,
+    "route": "#acervo/top-20-players",
+    "width": 320
+  },
+  {
+    "documentWidth": 310,
+    "footerRankings": "none",
+    "overflow": false,
+    "route": "#acervo/ak-de-ouro-awards",
+    "width": 320
+  },
+  {
+    "documentWidth": 310,
+    "footerRankings": "none",
+    "overflow": false,
+    "route": "#acervo/major-history",
+    "width": 320
+  },
+  {
+    "documentWidth": 365,
+    "footerRankings": "none",
+    "overflow": false,
+    "route": "#inicio",
+    "width": 375
+  },
+  {
+    "documentWidth": 365,
+    "footerRankings": "none",
+    "overflow": false,
+    "route": "#arquivo",
+    "width": 375
+  },
+  {
+    "documentWidth": 365,
+    "footerRankings": "none",
+    "overflow": false,
+    "route": "#majors",
+    "width": 375
+  },
+  {
+    "documentWidth": 365,
+    "footerRankings": "none",
+    "overflow": false,
+    "route": "#acervo/hall-of-fame",
+    "width": 375
+  },
+  {
+    "documentWidth": 365,
+    "footerRankings": "none",
+    "overflow": false,
+    "route": "#acervo/awards",
+    "width": 375
+  },
+  {
+    "documentWidth": 365,
+    "footerRankings": "none",
+    "overflow": false,
+    "route": "#times",
+    "width": 375
+  },
+  {
+    "documentWidth": 365,
+    "footerRankings": "none",
+    "overflow": false,
+    "route": "#time/iklegends",
+    "width": 375
+  },
+  {
+    "documentWidth": 365,
+    "footerRankings": "none",
+    "overflow": false,
+    "route": "#acervo/top-1-teams-of-years",
+    "width": 375
+  },
+  {
+    "documentWidth": 365,
+    "footerRankings": "none",
+    "overflow": false,
+    "route": "#acervo",
+    "width": 375
+  },
+  {
+    "documentWidth": 365,
+    "footerRankings": "none",
+    "overflow": false,
+    "route": "#acervo/news-competitive",
+    "width": 375
+  },
+  {
+    "documentWidth": 365,
+    "footerRankings": "none",
+    "overflow": false,
+    "route": "#acervo/top-20-players",
+    "width": 375
+  },
+  {
+    "documentWidth": 365,
+    "footerRankings": "none",
+    "overflow": false,
+    "route": "#acervo/ak-de-ouro-awards",
+    "width": 375
+  },
+  {
+    "documentWidth": 365,
+    "footerRankings": "none",
+    "overflow": false,
+    "route": "#acervo/major-history",
+    "width": 375
+  },
+  {
+    "documentWidth": 758,
+    "footerRankings": "none",
+    "overflow": false,
+    "route": "#inicio",
+    "width": 768
+  },
+  {
+    "documentWidth": 758,
+    "footerRankings": "none",
+    "overflow": false,
+    "route": "#arquivo",
+    "width": 768
+  },
+  {
+    "documentWidth": 758,
+    "footerRankings": "none",
+    "overflow": false,
+    "route": "#majors",
+    "width": 768
+  },
+  {
+    "documentWidth": 758,
+    "footerRankings": "none",
+    "overflow": false,
+    "route": "#acervo/hall-of-fame",
+    "width": 768
+  },
+  {
+    "documentWidth": 758,
+    "footerRankings": "none",
+    "overflow": false,
+    "route": "#acervo/awards",
+    "width": 768
+  },
+  {
+    "documentWidth": 758,
+    "footerRankings": "none",
+    "overflow": false,
+    "route": "#times",
+    "width": 768
+  },
+  {
+    "documentWidth": 758,
+    "footerRankings": "none",
+    "overflow": false,
+    "route": "#time/iklegends",
+    "width": 768
+  },
+  {
+    "documentWidth": 758,
+    "footerRankings": "none",
+    "overflow": false,
+    "route": "#acervo/top-1-teams-of-years",
+    "width": 768
+  },
+  {
+    "documentWidth": 758,
+    "footerRankings": "none",
+    "overflow": false,
+    "route": "#acervo",
+    "width": 768
+  },
+  {
+    "documentWidth": 758,
+    "footerRankings": "none",
+    "overflow": false,
+    "route": "#acervo/news-competitive",
+    "width": 768
+  },
+  {
+    "documentWidth": 758,
+    "footerRankings": "none",
+    "overflow": false,
+    "route": "#acervo/top-20-players",
+    "width": 768
+  },
+  {
+    "documentWidth": 758,
+    "footerRankings": "none",
+    "overflow": false,
+    "route": "#acervo/ak-de-ouro-awards",
+    "width": 768
+  },
+  {
+    "documentWidth": 758,
+    "footerRankings": "none",
+    "overflow": false,
+    "route": "#acervo/major-history",
+    "width": 768
+  },
+  {
+    "documentWidth": 1014,
+    "footerRankings": "block",
+    "overflow": false,
+    "route": "#inicio",
+    "width": 1024
+  },
+  {
+    "documentWidth": 1014,
+    "footerRankings": "block",
+    "overflow": false,
+    "route": "#arquivo",
+    "width": 1024
+  },
+  {
+    "documentWidth": 1014,
+    "footerRankings": "block",
+    "overflow": false,
+    "route": "#majors",
+    "width": 1024
+  },
+  {
+    "documentWidth": 1014,
+    "footerRankings": "block",
+    "overflow": false,
+    "route": "#acervo/hall-of-fame",
+    "width": 1024
+  },
+  {
+    "documentWidth": 1014,
+    "footerRankings": "block",
+    "overflow": false,
+    "route": "#acervo/awards",
+    "width": 1024
+  },
+  {
+    "documentWidth": 1014,
+    "footerRankings": "block",
+    "overflow": false,
+    "route": "#times",
+    "width": 1024
+  },
+  {
+    "documentWidth": 1014,
+    "footerRankings": "block",
+    "overflow": false,
+    "route": "#time/iklegends",
+    "width": 1024
+  },
+  {
+    "documentWidth": 1014,
+    "footerRankings": "block",
+    "overflow": false,
+    "route": "#acervo/top-1-teams-of-years",
+    "width": 1024
+  },
+  {
+    "documentWidth": 1014,
+    "footerRankings": "block",
+    "overflow": false,
+    "route": "#acervo",
+    "width": 1024
+  },
+  {
+    "documentWidth": 1014,
+    "footerRankings": "block",
+    "overflow": false,
+    "route": "#acervo/news-competitive",
+    "width": 1024
+  },
+  {
+    "documentWidth": 1014,
+    "footerRankings": "block",
+    "overflow": false,
+    "route": "#acervo/top-20-players",
+    "width": 1024
+  },
+  {
+    "documentWidth": 1014,
+    "footerRankings": "block",
+    "overflow": false,
+    "route": "#acervo/ak-de-ouro-awards",
+    "width": 1024
+  },
+  {
+    "documentWidth": 1014,
+    "footerRankings": "block",
+    "overflow": false,
+    "route": "#acervo/major-history",
+    "width": 1024
+  },
+  {
+    "documentWidth": 1430,
+    "footerRankings": "block",
+    "overflow": false,
+    "route": "#inicio",
+    "width": 1440
+  },
+  {
+    "documentWidth": 1430,
+    "footerRankings": "block",
+    "overflow": false,
+    "route": "#arquivo",
+    "width": 1440
+  },
+  {
+    "documentWidth": 1430,
+    "footerRankings": "block",
+    "overflow": false,
+    "route": "#majors",
+    "width": 1440
+  },
+  {
+    "documentWidth": 1430,
+    "footerRankings": "block",
+    "overflow": false,
+    "route": "#acervo/hall-of-fame",
+    "width": 1440
+  },
+  {
+    "documentWidth": 1430,
+    "footerRankings": "block",
+    "overflow": false,
+    "route": "#acervo/awards",
+    "width": 1440
+  },
+  {
+    "documentWidth": 1430,
+    "footerRankings": "block",
+    "overflow": false,
+    "route": "#times",
+    "width": 1440
+  },
+  {
+    "documentWidth": 1430,
+    "footerRankings": "block",
+    "overflow": false,
+    "route": "#time/iklegends",
+    "width": 1440
+  },
+  {
+    "documentWidth": 1430,
+    "footerRankings": "block",
+    "overflow": false,
+    "route": "#acervo/top-1-teams-of-years",
+    "width": 1440
+  },
+  {
+    "documentWidth": 1430,
+    "footerRankings": "block",
+    "overflow": false,
+    "route": "#acervo",
+    "width": 1440
+  },
+  {
+    "documentWidth": 1430,
+    "footerRankings": "block",
+    "overflow": false,
+    "route": "#acervo/news-competitive",
+    "width": 1440
+  },
+  {
+    "documentWidth": 1430,
+    "footerRankings": "block",
+    "overflow": false,
+    "route": "#acervo/top-20-players",
+    "width": 1440
+  },
+  {
+    "documentWidth": 1430,
+    "footerRankings": "block",
+    "overflow": false,
+    "route": "#acervo/ak-de-ouro-awards",
+    "width": 1440
+  },
+  {
+    "documentWidth": 1430,
+    "footerRankings": "block",
+    "overflow": false,
+    "route": "#acervo/major-history",
+    "width": 1440
+  }
+]

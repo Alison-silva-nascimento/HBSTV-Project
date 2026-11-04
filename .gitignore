@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+node_modules/
+.wrangler/
+.openai/
+.env
+.env.*
+!.env.example
+*.log
+*.tar.gz

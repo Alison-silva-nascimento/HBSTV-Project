@@ -1,0 +1,36 @@
+{
+  "source": "top-1-teams-of-years",
+  "note": "Logos shown through CSS crops of original source artwork; originals unchanged.",
+  "logos": [
+    {
+      "year": "2023",
+      "team": "CHAOS",
+      "file": "ad01ce3028b8f3b83dae.jpeg",
+      "width": 1500,
+      "crop": 137,
+      "x": 54,
+      "y": 28,
+      "height": 1500
+    },
+    {
+      "year": "2020",
+      "team": "Astralis",
+      "file": "dfd80ec13b6069c38926.jpg",
+      "width": 624,
+      "crop": 111,
+      "x": 102,
+      "y": 300,
+      "height": 705
+    },
+    {
+      "year": "2019",
+      "team": "Goblins Cheating",
+      "file": "450cbb3f1a617981795b.jpg",
+      "width": 628,
+      "crop": 112,
+      "x": 105,
+      "y": 300,
+      "height": 707
+    }
+  ]
+}

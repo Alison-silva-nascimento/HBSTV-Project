@@ -1,0 +1,128 @@
+[
+  {
+    "slug": "inicio",
+    "contentWidgets": 2,
+    "textLeaves": 1,
+    "missingTextLeaves": [],
+    "images": 0,
+    "videos": 0,
+    "links": 2
+  },
+  {
+    "slug": "events-2025",
+    "contentWidgets": 15,
+    "textLeaves": 279,
+    "missingTextLeaves": [],
+    "images": 14,
+    "videos": 0,
+    "links": 0
+  },
+  {
+    "slug": "events-2024",
+    "contentWidgets": 18,
+    "textLeaves": 340,
+    "missingTextLeaves": [],
+    "images": 17,
+    "videos": 0,
+    "links": 0
+  },
+  {
+    "slug": "events-2023",
+    "contentWidgets": 14,
+    "textLeaves": 269,
+    "missingTextLeaves": [],
+    "images": 13,
+    "videos": 0,
+    "links": 0
+  },
+  {
+    "slug": "major-history",
+    "contentWidgets": 1,
+    "textLeaves": 36,
+    "missingTextLeaves": [],
+    "images": 8,
+    "videos": 0,
+    "links": 0
+  },
+  {
+    "slug": "gse-forum",
+    "contentWidgets": 1,
+    "textLeaves": 13,
+    "missingTextLeaves": [],
+    "images": 0,
+    "videos": 12,
+    "links": 0
+  },
+  {
+    "slug": "tsl-forum",
+    "contentWidgets": 2,
+    "textLeaves": 18,
+    "missingTextLeaves": [],
+    "images": 0,
+    "videos": 17,
+    "links": 0
+  },
+  {
+    "slug": "hall-of-fame",
+    "contentWidgets": 20,
+    "textLeaves": 668,
+    "missingTextLeaves": [],
+    "images": 0,
+    "videos": 0,
+    "links": 0
+  },
+  {
+    "slug": "hall-of-fame-3",
+    "contentWidgets": 10,
+    "textLeaves": 212,
+    "missingTextLeaves": [],
+    "images": 0,
+    "videos": 0,
+    "links": 0
+  },
+  {
+    "slug": "top-20-players",
+    "contentWidgets": 8,
+    "textLeaves": 9,
+    "missingTextLeaves": [],
+    "images": 7,
+    "videos": 0,
+    "links": 0
+  },
+  {
+    "slug": "top-1-teams-of-years",
+    "contentWidgets": 5,
+    "textLeaves": 33,
+    "missingTextLeaves": [],
+    "images": 15,
+    "videos": 0,
+    "links": 0
+  },
+  {
+    "slug": "awards",
+    "contentWidgets": 5,
+    "textLeaves": 102,
+    "missingTextLeaves": [],
+    "images": 28,
+    "videos": 0,
+    "links": 0
+  },
+  {
+    "slug": "ak-de-ouro-awards",
+    "contentWidgets": 11,
+    "textLeaves": 16,
+    "missingTextLeaves": [],
+    "images": 8,
+    "videos": 0,
+    "links": 0
+  },
+  {
+    "slug": "news-competitive",
+    "contentWidgets": 4,
+    "textLeaves": 31,
+    "missingTextLeaves": [],
+    "images": 1,
+    "videos": 0,
+    "links": 0
+  }
+]

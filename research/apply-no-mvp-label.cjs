@@ -1,0 +1,2 @@
+const fs=require('node:fs');let f='dist/profiles.js',s=fs.readFileSync(f,'utf8');s=s.replace("p.mvps?esc(p.mvps):'Não informado'","Number(p.mvps)>0?esc(p.mvps):'NO MVP WIN'");fs.writeFileSync(f,s);
+f='dist/general-players.js';s=fs.readFileSync(f,'utf8');s=s.replace('<div><dt>Melhor Top 20 anual</dt>',`<div><dt>MVPs registrados</dt><dd>\${p.mvps.length?p.mvps.length:'NO MVP WIN'}</dd></div><div><dt>Melhor Top 20 anual</dt>`);fs.writeFileSync(f,s);

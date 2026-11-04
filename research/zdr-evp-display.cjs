@@ -1,0 +1,2 @@
+const fs=require('node:fs');const file='dist/profiles.js';let s=fs.readFileSync(file,'utf8');if(!s.includes('function registeredZdrEvps('))s=s.replace('function identity(p,s){',`function registeredZdrEvps(p){if(p.name!=='ZDR')return '';const count=p.text.match(/(?:^|\\n)-?(\\d+)\\s*EVPs\\b/i)?.[1]||'0';return \`<div><dt>EVPs registrados</dt><dd>\${esc(count)}</dd></div>\`;}
+function identity(p,s){`).replace('<div><dt>Títulos principais</dt>','${registeredZdrEvps(p)}<div><dt>Títulos principais</dt>');fs.writeFileSync(file,s);
