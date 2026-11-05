@@ -16235,7 +16235,7 @@ window.HBSTV_DATABASE = {
     },
     {
       "id": "2018:tslhardnesleague",
-      "title": "TSL | Hardnes League",
+      "title": "TSL | Hardness Pro League",
       "year": 2018,
       "organizer": "TSL",
       "major": false,
@@ -20031,7 +20031,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2018:tslhardnesleague",
-          "title": "TSL Hardnes League",
+          "title": "TSL | Hardness Pro League",
           "year": 2018,
           "source": "top-1-teams-of-years",
           "major": false,
