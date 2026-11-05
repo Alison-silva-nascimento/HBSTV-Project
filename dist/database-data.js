@@ -234,7 +234,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "major:86ed67893904be137a59",
-          "title": "TSL | MAJOR [2021]",
+          "title": "TSL | MAJOR",
           "year": 2021,
           "teamId": "gt2021",
           "team": "GT 2021",
@@ -281,7 +281,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "major:007759b02a7d7543b0a1",
-          "title": "SUVOH | MAJOR [2021]",
+          "title": "SUVOH | MAJOR",
           "year": 2021,
           "source": "major-history",
           "sourceImage": "assets/archive/007759b02a7d7543b0a1.jpeg",
@@ -289,7 +289,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "major:86ed67893904be137a59",
-          "title": "TSL | MAJOR [2021]",
+          "title": "TSL | MAJOR",
           "year": 2021,
           "source": "major-history",
           "sourceImage": "assets/archive/86ed67893904be137a59.jpeg",
@@ -675,7 +675,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "major:86ed67893904be137a59",
-          "title": "TSL | MAJOR [2021]",
+          "title": "TSL | MAJOR",
           "year": 2021,
           "teamId": "gt2021",
           "team": "GT 2021",
@@ -699,7 +699,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "major:86ed67893904be137a59",
-          "title": "TSL | MAJOR [2021]",
+          "title": "TSL | MAJOR",
           "year": 2021,
           "source": "major-history",
           "sourceImage": "assets/archive/86ed67893904be137a59.jpeg",
@@ -2192,7 +2192,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "major:007759b02a7d7543b0a1",
-          "title": "SUVOH | MAJOR [2021]",
+          "title": "SUVOH | MAJOR",
           "year": 2021,
           "teamId": "teaminfinity",
           "team": "Team Infinity",
@@ -3210,7 +3210,7 @@ window.HBSTV_DATABASE = {
       "evps": [
         {
           "id": "major:86ed67893904be137a59",
-          "title": "TSL | MAJOR [2021]",
+          "title": "TSL | MAJOR",
           "year": 2021,
           "source": "major-history",
           "sourceImage": "assets/archive/86ed67893904be137a59.jpeg",
@@ -3268,7 +3268,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "major:86ed67893904be137a59",
-          "title": "TSL | MAJOR [2021]",
+          "title": "TSL | MAJOR",
           "year": 2021,
           "teamId": "gt2021",
           "team": "GT 2021",
@@ -3280,7 +3280,7 @@ window.HBSTV_DATABASE = {
       "evps": [
         {
           "id": "major:007759b02a7d7543b0a1",
-          "title": "SUVOH | MAJOR [2021]",
+          "title": "SUVOH | MAJOR",
           "year": 2021,
           "source": "major-history",
           "sourceImage": "assets/archive/007759b02a7d7543b0a1.jpeg",
@@ -3744,7 +3744,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "major:007759b02a7d7543b0a1",
-          "title": "SUVOH | MAJOR [2021]",
+          "title": "SUVOH | MAJOR",
           "year": 2021,
           "teamId": "teaminfinity",
           "team": "Team Infinity",
@@ -3768,7 +3768,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "major:007759b02a7d7543b0a1",
-          "title": "SUVOH | MAJOR [2021]",
+          "title": "SUVOH | MAJOR",
           "year": 2021,
           "source": "major-history",
           "sourceImage": "assets/archive/007759b02a7d7543b0a1.jpeg",
@@ -4573,7 +4573,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "major:007759b02a7d7543b0a1",
-          "title": "SUVOH | MAJOR [2021]",
+          "title": "SUVOH | MAJOR",
           "year": 2021,
           "teamId": "teaminfinity",
           "team": "Team Infinity",
@@ -4634,7 +4634,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "major:007759b02a7d7543b0a1",
-          "title": "SUVOH | MAJOR [2021]",
+          "title": "SUVOH | MAJOR",
           "year": 2021,
           "source": "major-history",
           "sourceImage": "assets/archive/007759b02a7d7543b0a1.jpeg",
@@ -4725,7 +4725,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "major:007759b02a7d7543b0a1",
-          "title": "SUVOH | MAJOR [2021]",
+          "title": "SUVOH | MAJOR",
           "year": 2021,
           "teamId": "teaminfinity",
           "team": "Team Infinity",
@@ -5951,7 +5951,7 @@ window.HBSTV_DATABASE = {
       "evps": [
         {
           "id": "major:86ed67893904be137a59",
-          "title": "TSL | MAJOR [2021]",
+          "title": "TSL | MAJOR",
           "year": 2021,
           "source": "major-history",
           "sourceImage": "assets/archive/86ed67893904be137a59.jpeg",
@@ -7360,7 +7360,7 @@ window.HBSTV_DATABASE = {
       "evps": [
         {
           "id": "major:86ed67893904be137a59",
-          "title": "TSL | MAJOR [2021]",
+          "title": "TSL | MAJOR",
           "year": 2021,
           "source": "major-history",
           "sourceImage": "assets/archive/86ed67893904be137a59.jpeg",
@@ -7572,7 +7572,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "major:86ed67893904be137a59",
-          "title": "TSL | MAJOR [2021]",
+          "title": "TSL | MAJOR",
           "year": 2021,
           "teamId": "gt2021",
           "team": "GT 2021",
@@ -7663,7 +7663,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "major:007759b02a7d7543b0a1",
-          "title": "SUVOH | MAJOR [2021]",
+          "title": "SUVOH | MAJOR",
           "year": 2021,
           "source": "major-history",
           "sourceImage": "assets/archive/007759b02a7d7543b0a1.jpeg",
@@ -7671,7 +7671,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "major:86ed67893904be137a59",
-          "title": "TSL | MAJOR [2021]",
+          "title": "TSL | MAJOR",
           "year": 2021,
           "source": "major-history",
           "sourceImage": "assets/archive/86ed67893904be137a59.jpeg",
@@ -7724,7 +7724,7 @@ window.HBSTV_DATABASE = {
       "evps": [
         {
           "id": "major:007759b02a7d7543b0a1",
-          "title": "SUVOH | MAJOR [2021]",
+          "title": "SUVOH | MAJOR",
           "year": 2021,
           "source": "major-history",
           "sourceImage": "assets/archive/007759b02a7d7543b0a1.jpeg",
@@ -8100,7 +8100,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "major:007759b02a7d7543b0a1",
-          "title": "SUVOH | MAJOR [2021]",
+          "title": "SUVOH | MAJOR",
           "year": 2021,
           "source": "major-history",
           "sourceImage": "assets/archive/007759b02a7d7543b0a1.jpeg",
@@ -8108,7 +8108,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "major:86ed67893904be137a59",
-          "title": "TSL | MAJOR [2021]",
+          "title": "TSL | MAJOR",
           "year": 2021,
           "source": "major-history",
           "sourceImage": "assets/archive/86ed67893904be137a59.jpeg",
@@ -8630,7 +8630,7 @@ window.HBSTV_DATABASE = {
       "evps": [
         {
           "id": "major:86ed67893904be137a59",
-          "title": "TSL | MAJOR [2021]",
+          "title": "TSL | MAJOR",
           "year": 2021,
           "source": "major-history",
           "sourceImage": "assets/archive/86ed67893904be137a59.jpeg",
@@ -8898,7 +8898,7 @@ window.HBSTV_DATABASE = {
       "evps": [
         {
           "id": "major:007759b02a7d7543b0a1",
-          "title": "SUVOH | MAJOR [2021]",
+          "title": "SUVOH | MAJOR",
           "year": 2021,
           "source": "major-history",
           "sourceImage": "assets/archive/007759b02a7d7543b0a1.jpeg",
@@ -9151,7 +9151,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "major:007759b02a7d7543b0a1",
-          "title": "SUVOH | MAJOR [2021]",
+          "title": "SUVOH | MAJOR",
           "year": 2021,
           "teamId": "teaminfinity",
           "team": "Team Infinity",
@@ -9217,7 +9217,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "major:007759b02a7d7543b0a1",
-          "title": "SUVOH | MAJOR [2021]",
+          "title": "SUVOH | MAJOR",
           "year": 2021,
           "source": "major-history",
           "sourceImage": "assets/archive/007759b02a7d7543b0a1.jpeg",
@@ -9368,7 +9368,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "major:007759b02a7d7543b0a1",
-          "title": "SUVOH | MAJOR [2021]",
+          "title": "SUVOH | MAJOR",
           "year": 2021,
           "teamId": "teaminfinity",
           "team": "Team Infinity",
@@ -9486,7 +9486,7 @@ window.HBSTV_DATABASE = {
       "evps": [
         {
           "id": "major:86ed67893904be137a59",
-          "title": "TSL | MAJOR [2021]",
+          "title": "TSL | MAJOR",
           "year": 2021,
           "source": "major-history",
           "sourceImage": "assets/archive/86ed67893904be137a59.jpeg",
@@ -9948,7 +9948,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "major:007759b02a7d7543b0a1",
-          "title": "SUVOH | MAJOR [2021]",
+          "title": "SUVOH | MAJOR",
           "year": 2021,
           "teamId": "teaminfinity",
           "team": "Team Infinity",
@@ -9966,7 +9966,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "major:007759b02a7d7543b0a1",
-          "title": "SUVOH | MAJOR [2021]",
+          "title": "SUVOH | MAJOR",
           "year": 2021,
           "source": "major-history",
           "sourceImage": "assets/archive/007759b02a7d7543b0a1.jpeg",
@@ -10249,7 +10249,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "major:007759b02a7d7543b0a1",
-          "title": "SUVOH | MAJOR [2021]",
+          "title": "SUVOH | MAJOR",
           "year": 2021,
           "teamId": "teaminfinity",
           "team": "Team Infinity",
@@ -10657,7 +10657,7 @@ window.HBSTV_DATABASE = {
       "evps": [
         {
           "id": "major:86ed67893904be137a59",
-          "title": "TSL | MAJOR [2021]",
+          "title": "TSL | MAJOR",
           "year": 2021,
           "source": "major-history",
           "sourceImage": "assets/archive/86ed67893904be137a59.jpeg",
@@ -11164,7 +11164,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "major:007759b02a7d7543b0a1",
-          "title": "SUVOH | MAJOR [2021]",
+          "title": "SUVOH | MAJOR",
           "year": 2021,
           "source": "major-history",
           "sourceImage": "assets/archive/007759b02a7d7543b0a1.jpeg",
@@ -12021,7 +12021,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "major:86ed67893904be137a59",
-          "title": "TSL | MAJOR [2021]",
+          "title": "TSL | MAJOR",
           "year": 2021,
           "teamId": "gt2021",
           "team": "GT 2021",
@@ -12535,7 +12535,7 @@ window.HBSTV_DATABASE = {
       "evps": [
         {
           "id": "major:86ed67893904be137a59",
-          "title": "TSL | MAJOR [2021]",
+          "title": "TSL | MAJOR",
           "year": 2021,
           "source": "major-history",
           "sourceImage": "assets/archive/86ed67893904be137a59.jpeg",
@@ -13020,7 +13020,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "major:86ed67893904be137a59",
-          "title": "TSL | MAJOR [2021]",
+          "title": "TSL | MAJOR",
           "year": 2021,
           "teamId": "gt2021",
           "team": "GT 2021",
@@ -15287,7 +15287,7 @@ window.HBSTV_DATABASE = {
     },
     {
       "id": "major:007759b02a7d7543b0a1",
-      "title": "SUVOH | Major",
+      "title": "SUVOH | MAJOR",
       "year": 2021,
       "organizer": "SUVOH",
       "major": true,
@@ -15329,7 +15329,7 @@ window.HBSTV_DATABASE = {
     },
     {
       "id": "major:86ed67893904be137a59",
-      "title": "TSL | Major",
+      "title": "TSL | MAJOR",
       "year": 2021,
       "organizer": "TSL",
       "major": true,
@@ -19291,7 +19291,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "major:007759b02a7d7543b0a1",
-          "title": "SUVOH | MAJOR [2021]",
+          "title": "SUVOH | MAJOR",
           "year": 2021,
           "source": "major-history",
           "major": true,
@@ -24202,7 +24202,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "major:86ed67893904be137a59",
-          "title": "TSL | MAJOR [2021]",
+          "title": "TSL | MAJOR",
           "year": 2021,
           "source": "major-history",
           "major": true,

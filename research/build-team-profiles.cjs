@@ -27,4 +27,6 @@ for(const t of teams.values())for(const r of t.titles){if(r.rosterSourceImage===
 for(const t of teams.values())for(const r of t.titles)if(r.id==="2018:tslhardnesleague")r.title="TSL | Hardness Pro League";
 for(const t of teams.values())for(const r of t.titles)if(r.rosterSourceImage==="assets/archive/4ed7f41456f8697e77c6.jpg")r.title="GSE | MAJOR Adrenaline";
 for(const t of teams.values())for(const r of t.titles)if(r.id==="2021:gsemasters")r.title="GSE | Masters Inverno";
+for(const t of teams.values())for(const r of t.titles)if(r.rosterSourceImage==="assets/archive/007759b02a7d7543b0a1.jpeg")r.title="SUVOH | MAJOR";
+for(const t of teams.values())for(const r of t.titles)if(r.rosterSourceImage==="assets/archive/86ed67893904be137a59.jpeg")r.title="TSL | MAJOR";
 const list=[...teams.values()].sort((a,b)=>b.titles.length-a.titles.length||a.name.localeCompare(b.name));fs.writeFileSync('dist/team-profiles-data.js','window.HBSTV_TEAMS = '+JSON.stringify(list,null,2)+';\n');console.log(JSON.stringify({teams:list.length,titles:list.reduce((s,t)=>s+t.titles.length,0),memberships:list.reduce((s,t)=>s+t.members.length,0),championshipsWithRoster:list.flatMap(t=>t.titles).filter(r=>r.roster.length).length}));

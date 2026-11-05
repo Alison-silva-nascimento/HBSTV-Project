@@ -2889,7 +2889,7 @@ window.HBSTV_TEAMS = [
       },
       {
         "id": "major:007759b02a7d7543b0a1",
-        "title": "SUVOH | MAJOR [2021]",
+        "title": "SUVOH | MAJOR",
         "year": 2021,
         "source": "major-history",
         "major": true,
@@ -7771,7 +7771,7 @@ window.HBSTV_TEAMS = [
     "titles": [
       {
         "id": "major:86ed67893904be137a59",
-        "title": "TSL | MAJOR [2021]",
+        "title": "TSL | MAJOR",
         "year": 2021,
         "source": "major-history",
         "major": true,
