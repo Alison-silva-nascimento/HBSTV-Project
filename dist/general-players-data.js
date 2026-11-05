@@ -290,7 +290,7 @@ window.HBSTV_PLAYER_INDEX = {
         },
         {
           "id": "major:ba4b48dba7cb6e5526a7",
-          "title": "TSL | MAJOR PREMIERE [2018]",
+          "title": "TSL | MAJOR PREMIERE",
           "year": 2018,
           "teamId": "razer",
           "team": "RAZER",
@@ -447,7 +447,7 @@ window.HBSTV_PLAYER_INDEX = {
         },
         {
           "id": "major:188f48896736e07cbe4d",
-          "title": "TSL | MAJOR PREMIERE [2018]",
+          "title": "TSL | MAJOR PREMIERE 2.0",
           "year": 2018,
           "source": "major-history",
           "sourceImage": "assets/archive/188f48896736e07cbe4d.jpeg",
@@ -455,7 +455,7 @@ window.HBSTV_PLAYER_INDEX = {
         },
         {
           "id": "major:ba4b48dba7cb6e5526a7",
-          "title": "TSL | MAJOR PREMIERE [2018]",
+          "title": "TSL | MAJOR PREMIERE",
           "year": 2018,
           "source": "major-history",
           "sourceImage": "assets/archive/ba4b48dba7cb6e5526a7.jpeg",
@@ -553,7 +553,7 @@ window.HBSTV_PLAYER_INDEX = {
       "titles": [
         {
           "id": "major:ba4b48dba7cb6e5526a7",
-          "title": "TSL | MAJOR PREMIERE [2018]",
+          "title": "TSL | MAJOR PREMIERE",
           "year": 2018,
           "teamId": "razer",
           "team": "RAZER",
@@ -1050,7 +1050,7 @@ window.HBSTV_PLAYER_INDEX = {
         },
         {
           "id": "major:7713f3c1b8fa50d7e849",
-          "title": "GSE | MAJOR [2019]",
+          "title": "GSE | Brasil Extreme Masters MAJOR",
           "year": 2019,
           "teamId": "gc2019",
           "team": "Temp Stormy / GC 2019",
@@ -1059,7 +1059,7 @@ window.HBSTV_PLAYER_INDEX = {
         },
         {
           "id": "major:188f48896736e07cbe4d",
-          "title": "TSL | MAJOR PREMIERE [2018]",
+          "title": "TSL | MAJOR PREMIERE 2.0",
           "year": 2018,
           "teamId": "gc2018",
           "team": "GC 2018",
@@ -1083,7 +1083,7 @@ window.HBSTV_PLAYER_INDEX = {
         },
         {
           "id": "major:7713f3c1b8fa50d7e849",
-          "title": "GSE | MAJOR [2019]",
+          "title": "GSE | Brasil Extreme Masters MAJOR",
           "year": 2019,
           "source": "major-history",
           "sourceImage": "assets/archive/7713f3c1b8fa50d7e849.jpeg",
@@ -1091,7 +1091,7 @@ window.HBSTV_PLAYER_INDEX = {
         },
         {
           "id": "major:188f48896736e07cbe4d",
-          "title": "TSL | MAJOR PREMIERE [2018]",
+          "title": "TSL | MAJOR PREMIERE 2.0",
           "year": 2018,
           "source": "major-history",
           "sourceImage": "assets/archive/188f48896736e07cbe4d.jpeg",
@@ -1998,7 +1998,7 @@ window.HBSTV_PLAYER_INDEX = {
         },
         {
           "id": "major:188f48896736e07cbe4d",
-          "title": "TSL | MAJOR PREMIERE [2018]",
+          "title": "TSL | MAJOR PREMIERE 2.0",
           "year": 2018,
           "teamId": "gc2018",
           "team": "GC 2018",
@@ -2034,7 +2034,7 @@ window.HBSTV_PLAYER_INDEX = {
         },
         {
           "id": "major:7713f3c1b8fa50d7e849",
-          "title": "GSE | MAJOR [2019]",
+          "title": "GSE | Brasil Extreme Masters MAJOR",
           "year": 2019,
           "source": "major-history",
           "sourceImage": "assets/archive/7713f3c1b8fa50d7e849.jpeg",
@@ -2372,7 +2372,7 @@ window.HBSTV_PLAYER_INDEX = {
       "titles": [
         {
           "id": "major:ba4b48dba7cb6e5526a7",
-          "title": "TSL | MAJOR PREMIERE [2018]",
+          "title": "TSL | MAJOR PREMIERE",
           "year": 2018,
           "teamId": "razer",
           "team": "RAZER",
@@ -2774,7 +2774,7 @@ window.HBSTV_PLAYER_INDEX = {
       "evps": [
         {
           "id": "major:7713f3c1b8fa50d7e849",
-          "title": "GSE | MAJOR [2019]",
+          "title": "GSE | Brasil Extreme Masters MAJOR",
           "year": 2019,
           "source": "major-history",
           "sourceImage": "assets/archive/7713f3c1b8fa50d7e849.jpeg",
@@ -3357,7 +3357,7 @@ window.HBSTV_PLAYER_INDEX = {
       "evps": [
         {
           "id": "major:ba4b48dba7cb6e5526a7",
-          "title": "TSL | MAJOR PREMIERE [2018]",
+          "title": "TSL | MAJOR PREMIERE",
           "year": 2018,
           "source": "major-history",
           "sourceImage": "assets/archive/ba4b48dba7cb6e5526a7.jpeg",
@@ -3393,7 +3393,7 @@ window.HBSTV_PLAYER_INDEX = {
       "titles": [
         {
           "id": "major:7713f3c1b8fa50d7e849",
-          "title": "GSE | MAJOR [2019]",
+          "title": "GSE | Brasil Extreme Masters MAJOR",
           "year": 2019,
           "teamId": "gc2019",
           "team": "Temp Stormy / GC 2019",
@@ -3432,7 +3432,7 @@ window.HBSTV_PLAYER_INDEX = {
       "titles": [
         {
           "id": "major:188f48896736e07cbe4d",
-          "title": "TSL | MAJOR PREMIERE [2018]",
+          "title": "TSL | MAJOR PREMIERE 2.0",
           "year": 2018,
           "teamId": "gc2018",
           "team": "GC 2018",
@@ -3444,7 +3444,7 @@ window.HBSTV_PLAYER_INDEX = {
       "evps": [
         {
           "id": "major:188f48896736e07cbe4d",
-          "title": "TSL | MAJOR PREMIERE [2018]",
+          "title": "TSL | MAJOR PREMIERE 2.0",
           "year": 2018,
           "source": "major-history",
           "sourceImage": "assets/archive/188f48896736e07cbe4d.jpeg",
@@ -3670,7 +3670,7 @@ window.HBSTV_PLAYER_INDEX = {
       "evps": [
         {
           "id": "major:ba4b48dba7cb6e5526a7",
-          "title": "TSL | MAJOR PREMIERE [2018]",
+          "title": "TSL | MAJOR PREMIERE",
           "year": 2018,
           "source": "major-history",
           "sourceImage": "assets/archive/ba4b48dba7cb6e5526a7.jpeg",
@@ -4405,13 +4405,6 @@ window.HBSTV_PLAYER_INDEX = {
           ]
         },
         {
-          "id": "gc2018",
-          "name": "GC 2018",
-          "years": [
-            2018
-          ]
-        },
-        {
           "id": "stompatopteam",
           "name": "STOMPA TOP TEAM",
           "years": [
@@ -4464,15 +4457,6 @@ window.HBSTV_PLAYER_INDEX = {
           "team": "D2W",
           "major": false,
           "source": "events-2024"
-        },
-        {
-          "id": "major:188f48896736e07cbe4d",
-          "title": "TSL | MAJOR PREMIERE [2018]",
-          "year": 2018,
-          "teamId": "gc2018",
-          "team": "GC 2018",
-          "major": true,
-          "source": "major-history"
         },
         {
           "id": "2018:tslcbbs20",
@@ -4746,7 +4730,7 @@ window.HBSTV_PLAYER_INDEX = {
       "evps": [
         {
           "id": "major:ba4b48dba7cb6e5526a7",
-          "title": "TSL | MAJOR PREMIERE [2018]",
+          "title": "TSL | MAJOR PREMIERE",
           "year": 2018,
           "source": "major-history",
           "sourceImage": "assets/archive/ba4b48dba7cb6e5526a7.jpeg",
@@ -5454,7 +5438,7 @@ window.HBSTV_PLAYER_INDEX = {
       "titles": [
         {
           "id": "major:7713f3c1b8fa50d7e849",
-          "title": "GSE | MAJOR [2019]",
+          "title": "GSE | Brasil Extreme Masters MAJOR",
           "year": 2019,
           "teamId": "gc2019",
           "team": "Temp Stormy / GC 2019",
@@ -5619,7 +5603,7 @@ window.HBSTV_PLAYER_INDEX = {
       "evps": [
         {
           "id": "major:188f48896736e07cbe4d",
-          "title": "TSL | MAJOR PREMIERE [2018]",
+          "title": "TSL | MAJOR PREMIERE 2.0",
           "year": 2018,
           "source": "major-history",
           "sourceImage": "assets/archive/188f48896736e07cbe4d.jpeg",
@@ -5627,7 +5611,7 @@ window.HBSTV_PLAYER_INDEX = {
         },
         {
           "id": "major:ba4b48dba7cb6e5526a7",
-          "title": "TSL | MAJOR PREMIERE [2018]",
+          "title": "TSL | MAJOR PREMIERE",
           "year": 2018,
           "source": "major-history",
           "sourceImage": "assets/archive/ba4b48dba7cb6e5526a7.jpeg",
@@ -5759,7 +5743,7 @@ window.HBSTV_PLAYER_INDEX = {
       "titles": [
         {
           "id": "major:ba4b48dba7cb6e5526a7",
-          "title": "TSL | MAJOR PREMIERE [2018]",
+          "title": "TSL | MAJOR PREMIERE",
           "year": 2018,
           "teamId": "razer",
           "team": "RAZER",
@@ -6105,7 +6089,7 @@ window.HBSTV_PLAYER_INDEX = {
       "evps": [
         {
           "id": "major:7713f3c1b8fa50d7e849",
-          "title": "GSE | MAJOR [2019]",
+          "title": "GSE | Brasil Extreme Masters MAJOR",
           "year": 2019,
           "source": "major-history",
           "sourceImage": "assets/archive/7713f3c1b8fa50d7e849.jpeg",
@@ -7363,7 +7347,7 @@ window.HBSTV_PLAYER_INDEX = {
       "titles": [
         {
           "id": "major:7713f3c1b8fa50d7e849",
-          "title": "GSE | MAJOR [2019]",
+          "title": "GSE | Brasil Extreme Masters MAJOR",
           "year": 2019,
           "teamId": "gc2019",
           "team": "Temp Stormy / GC 2019",
@@ -8336,7 +8320,7 @@ window.HBSTV_PLAYER_INDEX = {
       "titles": [
         {
           "id": "major:ba4b48dba7cb6e5526a7",
-          "title": "TSL | MAJOR PREMIERE [2018]",
+          "title": "TSL | MAJOR PREMIERE",
           "year": 2018,
           "teamId": "razer",
           "team": "RAZER",
@@ -8348,7 +8332,7 @@ window.HBSTV_PLAYER_INDEX = {
       "evps": [
         {
           "id": "major:188f48896736e07cbe4d",
-          "title": "TSL | MAJOR PREMIERE [2018]",
+          "title": "TSL | MAJOR PREMIERE 2.0",
           "year": 2018,
           "source": "major-history",
           "sourceImage": "assets/archive/188f48896736e07cbe4d.jpeg",
@@ -8356,7 +8340,7 @@ window.HBSTV_PLAYER_INDEX = {
         },
         {
           "id": "major:ba4b48dba7cb6e5526a7",
-          "title": "TSL | MAJOR PREMIERE [2018]",
+          "title": "TSL | MAJOR PREMIERE",
           "year": 2018,
           "source": "major-history",
           "sourceImage": "assets/archive/ba4b48dba7cb6e5526a7.jpeg",
@@ -8657,7 +8641,7 @@ window.HBSTV_PLAYER_INDEX = {
       "evps": [
         {
           "id": "major:ba4b48dba7cb6e5526a7",
-          "title": "TSL | MAJOR PREMIERE [2018]",
+          "title": "TSL | MAJOR PREMIERE",
           "year": 2018,
           "source": "major-history",
           "sourceImage": "assets/archive/ba4b48dba7cb6e5526a7.jpeg",
@@ -9210,7 +9194,7 @@ window.HBSTV_PLAYER_INDEX = {
         },
         {
           "id": "major:7713f3c1b8fa50d7e849",
-          "title": "GSE | MAJOR [2019]",
+          "title": "GSE | Brasil Extreme Masters MAJOR",
           "year": 2019,
           "teamId": "gc2019",
           "team": "Temp Stormy / GC 2019",
@@ -9221,7 +9205,7 @@ window.HBSTV_PLAYER_INDEX = {
       "mvps": [
         {
           "id": "major:7713f3c1b8fa50d7e849",
-          "title": "GSE | MAJOR [2019]",
+          "title": "GSE | Brasil Extreme Masters MAJOR",
           "year": 2019,
           "source": "major-history",
           "sourceImage": "assets/archive/7713f3c1b8fa50d7e849.jpeg",
@@ -9711,7 +9695,7 @@ window.HBSTV_PLAYER_INDEX = {
       "titles": [
         {
           "id": "major:7713f3c1b8fa50d7e849",
-          "title": "GSE | MAJOR [2019]",
+          "title": "GSE | Brasil Extreme Masters MAJOR",
           "year": 2019,
           "teamId": "gc2019",
           "team": "Temp Stormy / GC 2019",
@@ -10194,7 +10178,7 @@ window.HBSTV_PLAYER_INDEX = {
       "evps": [
         {
           "id": "major:7713f3c1b8fa50d7e849",
-          "title": "GSE | MAJOR [2019]",
+          "title": "GSE | Brasil Extreme Masters MAJOR",
           "year": 2019,
           "source": "major-history",
           "sourceImage": "assets/archive/7713f3c1b8fa50d7e849.jpeg",
@@ -10308,7 +10292,7 @@ window.HBSTV_PLAYER_INDEX = {
         },
         {
           "id": "major:ba4b48dba7cb6e5526a7",
-          "title": "TSL | MAJOR PREMIERE [2018]",
+          "title": "TSL | MAJOR PREMIERE",
           "year": 2018,
           "teamId": "razer",
           "team": "RAZER",
@@ -10320,7 +10304,7 @@ window.HBSTV_PLAYER_INDEX = {
       "evps": [
         {
           "id": "major:188f48896736e07cbe4d",
-          "title": "TSL | MAJOR PREMIERE [2018]",
+          "title": "TSL | MAJOR PREMIERE 2.0",
           "year": 2018,
           "source": "major-history",
           "sourceImage": "assets/archive/188f48896736e07cbe4d.jpeg",
@@ -10328,7 +10312,7 @@ window.HBSTV_PLAYER_INDEX = {
         },
         {
           "id": "major:ba4b48dba7cb6e5526a7",
-          "title": "TSL | MAJOR PREMIERE [2018]",
+          "title": "TSL | MAJOR PREMIERE",
           "year": 2018,
           "source": "major-history",
           "sourceImage": "assets/archive/ba4b48dba7cb6e5526a7.jpeg",
@@ -10433,7 +10417,7 @@ window.HBSTV_PLAYER_INDEX = {
       "evps": [
         {
           "id": "major:7713f3c1b8fa50d7e849",
-          "title": "GSE | MAJOR [2019]",
+          "title": "GSE | Brasil Extreme Masters MAJOR",
           "year": 2019,
           "source": "major-history",
           "sourceImage": "assets/archive/7713f3c1b8fa50d7e849.jpeg",
@@ -10487,7 +10471,7 @@ window.HBSTV_PLAYER_INDEX = {
       "titles": [
         {
           "id": "major:188f48896736e07cbe4d",
-          "title": "TSL | MAJOR PREMIERE [2018]",
+          "title": "TSL | MAJOR PREMIERE 2.0",
           "year": 2018,
           "teamId": "gc2018",
           "team": "GC 2018",
@@ -10498,7 +10482,7 @@ window.HBSTV_PLAYER_INDEX = {
       "mvps": [
         {
           "id": "major:188f48896736e07cbe4d",
-          "title": "TSL | MAJOR PREMIERE [2018]",
+          "title": "TSL | MAJOR PREMIERE 2.0",
           "year": 2018,
           "source": "major-history",
           "sourceImage": "assets/archive/188f48896736e07cbe4d.jpeg",
@@ -10647,7 +10631,7 @@ window.HBSTV_PLAYER_INDEX = {
       "titles": [
         {
           "id": "major:ba4b48dba7cb6e5526a7",
-          "title": "TSL | MAJOR PREMIERE [2018]",
+          "title": "TSL | MAJOR PREMIERE",
           "year": 2018,
           "teamId": "razer",
           "team": "RAZER",
@@ -10658,7 +10642,7 @@ window.HBSTV_PLAYER_INDEX = {
       "mvps": [
         {
           "id": "major:ba4b48dba7cb6e5526a7",
-          "title": "TSL | MAJOR PREMIERE [2018]",
+          "title": "TSL | MAJOR PREMIERE",
           "year": 2018,
           "source": "major-history",
           "sourceImage": "assets/archive/ba4b48dba7cb6e5526a7.jpeg",
@@ -10668,7 +10652,7 @@ window.HBSTV_PLAYER_INDEX = {
       "evps": [
         {
           "id": "major:188f48896736e07cbe4d",
-          "title": "TSL | MAJOR PREMIERE [2018]",
+          "title": "TSL | MAJOR PREMIERE 2.0",
           "year": 2018,
           "source": "major-history",
           "sourceImage": "assets/archive/188f48896736e07cbe4d.jpeg",
@@ -11812,7 +11796,7 @@ window.HBSTV_PLAYER_INDEX = {
       "titles": [
         {
           "id": "major:ba4b48dba7cb6e5526a7",
-          "title": "TSL | MAJOR PREMIERE [2018]",
+          "title": "TSL | MAJOR PREMIERE",
           "year": 2018,
           "teamId": "razer",
           "team": "RAZER",
@@ -12166,7 +12150,7 @@ window.HBSTV_PLAYER_INDEX = {
       "titles": [
         {
           "id": "major:188f48896736e07cbe4d",
-          "title": "TSL | MAJOR PREMIERE [2018]",
+          "title": "TSL | MAJOR PREMIERE 2.0",
           "year": 2018,
           "teamId": "gc2018",
           "team": "GC 2018",
@@ -12178,7 +12162,7 @@ window.HBSTV_PLAYER_INDEX = {
       "evps": [
         {
           "id": "major:188f48896736e07cbe4d",
-          "title": "TSL | MAJOR PREMIERE [2018]",
+          "title": "TSL | MAJOR PREMIERE 2.0",
           "year": 2018,
           "source": "major-history",
           "sourceImage": "assets/archive/188f48896736e07cbe4d.jpeg",
@@ -12364,7 +12348,7 @@ window.HBSTV_PLAYER_INDEX = {
       "evps": [
         {
           "id": "major:7713f3c1b8fa50d7e849",
-          "title": "GSE | MAJOR [2019]",
+          "title": "GSE | Brasil Extreme Masters MAJOR",
           "year": 2019,
           "source": "major-history",
           "sourceImage": "assets/archive/7713f3c1b8fa50d7e849.jpeg",
@@ -12467,7 +12451,7 @@ window.HBSTV_PLAYER_INDEX = {
       "titles": [
         {
           "id": "major:7713f3c1b8fa50d7e849",
-          "title": "GSE | MAJOR [2019]",
+          "title": "GSE | Brasil Extreme Masters MAJOR",
           "year": 2019,
           "teamId": "gc2019",
           "team": "Temp Stormy / GC 2019",
@@ -12614,7 +12598,7 @@ window.HBSTV_PLAYER_INDEX = {
       "titles": [
         {
           "id": "major:7713f3c1b8fa50d7e849",
-          "title": "GSE | MAJOR [2019]",
+          "title": "GSE | Brasil Extreme Masters MAJOR",
           "year": 2019,
           "teamId": "gc2019",
           "team": "Temp Stormy / GC 2019",
@@ -12647,7 +12631,7 @@ window.HBSTV_PLAYER_INDEX = {
       "evps": [
         {
           "id": "major:7713f3c1b8fa50d7e849",
-          "title": "GSE | MAJOR [2019]",
+          "title": "GSE | Brasil Extreme Masters MAJOR",
           "year": 2019,
           "source": "major-history",
           "sourceImage": "assets/archive/7713f3c1b8fa50d7e849.jpeg",
@@ -12737,7 +12721,7 @@ window.HBSTV_PLAYER_INDEX = {
       "titles": [
         {
           "id": "major:ba4b48dba7cb6e5526a7",
-          "title": "TSL | MAJOR PREMIERE [2018]",
+          "title": "TSL | MAJOR PREMIERE",
           "year": 2018,
           "teamId": "razer",
           "team": "RAZER",
@@ -13177,7 +13161,7 @@ window.HBSTV_PLAYER_INDEX = {
       "titles": [
         {
           "id": "major:188f48896736e07cbe4d",
-          "title": "TSL | MAJOR PREMIERE [2018]",
+          "title": "TSL | MAJOR PREMIERE 2.0",
           "year": 2018,
           "teamId": "gc2018",
           "team": "GC 2018",

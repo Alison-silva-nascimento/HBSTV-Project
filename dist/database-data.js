@@ -252,7 +252,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "major:ba4b48dba7cb6e5526a7",
-          "title": "TSL | MAJOR PREMIERE [2018]",
+          "title": "TSL | MAJOR PREMIERE",
           "year": 2018,
           "teamId": "razer",
           "team": "RAZER",
@@ -409,7 +409,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "major:188f48896736e07cbe4d",
-          "title": "TSL | MAJOR PREMIERE [2018]",
+          "title": "TSL | MAJOR PREMIERE 2.0",
           "year": 2018,
           "source": "major-history",
           "sourceImage": "assets/archive/188f48896736e07cbe4d.jpeg",
@@ -417,7 +417,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "major:ba4b48dba7cb6e5526a7",
-          "title": "TSL | MAJOR PREMIERE [2018]",
+          "title": "TSL | MAJOR PREMIERE",
           "year": 2018,
           "source": "major-history",
           "sourceImage": "assets/archive/ba4b48dba7cb6e5526a7.jpeg",
@@ -515,7 +515,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "major:ba4b48dba7cb6e5526a7",
-          "title": "TSL | MAJOR PREMIERE [2018]",
+          "title": "TSL | MAJOR PREMIERE",
           "year": 2018,
           "teamId": "razer",
           "team": "RAZER",
@@ -1013,7 +1013,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "major:7713f3c1b8fa50d7e849",
-          "title": "GSE | MAJOR [2019]",
+          "title": "GSE | Brasil Extreme Masters MAJOR",
           "year": 2019,
           "teamId": "gc2019",
           "team": "Temp Stormy / GC 2019",
@@ -1022,7 +1022,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "major:188f48896736e07cbe4d",
-          "title": "TSL | MAJOR PREMIERE [2018]",
+          "title": "TSL | MAJOR PREMIERE 2.0",
           "year": 2018,
           "teamId": "gc2018",
           "team": "GC 2018",
@@ -1046,7 +1046,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "major:7713f3c1b8fa50d7e849",
-          "title": "GSE | MAJOR [2019]",
+          "title": "GSE | Brasil Extreme Masters MAJOR",
           "year": 2019,
           "source": "major-history",
           "sourceImage": "assets/archive/7713f3c1b8fa50d7e849.jpeg",
@@ -1054,7 +1054,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "major:188f48896736e07cbe4d",
-          "title": "TSL | MAJOR PREMIERE [2018]",
+          "title": "TSL | MAJOR PREMIERE 2.0",
           "year": 2018,
           "source": "major-history",
           "sourceImage": "assets/archive/188f48896736e07cbe4d.jpeg",
@@ -1961,7 +1961,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "major:188f48896736e07cbe4d",
-          "title": "TSL | MAJOR PREMIERE [2018]",
+          "title": "TSL | MAJOR PREMIERE 2.0",
           "year": 2018,
           "teamId": "gc2018",
           "team": "GC 2018",
@@ -1997,7 +1997,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "major:7713f3c1b8fa50d7e849",
-          "title": "GSE | MAJOR [2019]",
+          "title": "GSE | Brasil Extreme Masters MAJOR",
           "year": 2019,
           "source": "major-history",
           "sourceImage": "assets/archive/7713f3c1b8fa50d7e849.jpeg",
@@ -2335,7 +2335,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "major:ba4b48dba7cb6e5526a7",
-          "title": "TSL | MAJOR PREMIERE [2018]",
+          "title": "TSL | MAJOR PREMIERE",
           "year": 2018,
           "teamId": "razer",
           "team": "RAZER",
@@ -2738,7 +2738,7 @@ window.HBSTV_DATABASE = {
       "evps": [
         {
           "id": "major:7713f3c1b8fa50d7e849",
-          "title": "GSE | MAJOR [2019]",
+          "title": "GSE | Brasil Extreme Masters MAJOR",
           "year": 2019,
           "source": "major-history",
           "sourceImage": "assets/archive/7713f3c1b8fa50d7e849.jpeg",
@@ -3321,7 +3321,7 @@ window.HBSTV_DATABASE = {
       "evps": [
         {
           "id": "major:ba4b48dba7cb6e5526a7",
-          "title": "TSL | MAJOR PREMIERE [2018]",
+          "title": "TSL | MAJOR PREMIERE",
           "year": 2018,
           "source": "major-history",
           "sourceImage": "assets/archive/ba4b48dba7cb6e5526a7.jpeg",
@@ -3357,7 +3357,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "major:7713f3c1b8fa50d7e849",
-          "title": "GSE | MAJOR [2019]",
+          "title": "GSE | Brasil Extreme Masters MAJOR",
           "year": 2019,
           "teamId": "gc2019",
           "team": "Temp Stormy / GC 2019",
@@ -3396,7 +3396,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "major:188f48896736e07cbe4d",
-          "title": "TSL | MAJOR PREMIERE [2018]",
+          "title": "TSL | MAJOR PREMIERE 2.0",
           "year": 2018,
           "teamId": "gc2018",
           "team": "GC 2018",
@@ -3408,7 +3408,7 @@ window.HBSTV_DATABASE = {
       "evps": [
         {
           "id": "major:188f48896736e07cbe4d",
-          "title": "TSL | MAJOR PREMIERE [2018]",
+          "title": "TSL | MAJOR PREMIERE 2.0",
           "year": 2018,
           "source": "major-history",
           "sourceImage": "assets/archive/188f48896736e07cbe4d.jpeg",
@@ -3634,7 +3634,7 @@ window.HBSTV_DATABASE = {
       "evps": [
         {
           "id": "major:ba4b48dba7cb6e5526a7",
-          "title": "TSL | MAJOR PREMIERE [2018]",
+          "title": "TSL | MAJOR PREMIERE",
           "year": 2018,
           "source": "major-history",
           "sourceImage": "assets/archive/ba4b48dba7cb6e5526a7.jpeg",
@@ -4369,13 +4369,6 @@ window.HBSTV_DATABASE = {
           ]
         },
         {
-          "id": "gc2018",
-          "name": "GC 2018",
-          "years": [
-            2018
-          ]
-        },
-        {
           "id": "stompatopteam",
           "name": "STOMPA TOP TEAM",
           "years": [
@@ -4428,15 +4421,6 @@ window.HBSTV_DATABASE = {
           "team": "D2W",
           "major": false,
           "source": "events-2024"
-        },
-        {
-          "id": "major:188f48896736e07cbe4d",
-          "title": "TSL | MAJOR PREMIERE [2018]",
-          "year": 2018,
-          "teamId": "gc2018",
-          "team": "GC 2018",
-          "major": true,
-          "source": "major-history"
         },
         {
           "id": "2018:tslcbbs20",
@@ -4710,7 +4694,7 @@ window.HBSTV_DATABASE = {
       "evps": [
         {
           "id": "major:ba4b48dba7cb6e5526a7",
-          "title": "TSL | MAJOR PREMIERE [2018]",
+          "title": "TSL | MAJOR PREMIERE",
           "year": 2018,
           "source": "major-history",
           "sourceImage": "assets/archive/ba4b48dba7cb6e5526a7.jpeg",
@@ -5418,7 +5402,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "major:7713f3c1b8fa50d7e849",
-          "title": "GSE | MAJOR [2019]",
+          "title": "GSE | Brasil Extreme Masters MAJOR",
           "year": 2019,
           "teamId": "gc2019",
           "team": "Temp Stormy / GC 2019",
@@ -5583,7 +5567,7 @@ window.HBSTV_DATABASE = {
       "evps": [
         {
           "id": "major:188f48896736e07cbe4d",
-          "title": "TSL | MAJOR PREMIERE [2018]",
+          "title": "TSL | MAJOR PREMIERE 2.0",
           "year": 2018,
           "source": "major-history",
           "sourceImage": "assets/archive/188f48896736e07cbe4d.jpeg",
@@ -5591,7 +5575,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "major:ba4b48dba7cb6e5526a7",
-          "title": "TSL | MAJOR PREMIERE [2018]",
+          "title": "TSL | MAJOR PREMIERE",
           "year": 2018,
           "source": "major-history",
           "sourceImage": "assets/archive/ba4b48dba7cb6e5526a7.jpeg",
@@ -5723,7 +5707,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "major:ba4b48dba7cb6e5526a7",
-          "title": "TSL | MAJOR PREMIERE [2018]",
+          "title": "TSL | MAJOR PREMIERE",
           "year": 2018,
           "teamId": "razer",
           "team": "RAZER",
@@ -6069,7 +6053,7 @@ window.HBSTV_DATABASE = {
       "evps": [
         {
           "id": "major:7713f3c1b8fa50d7e849",
-          "title": "GSE | MAJOR [2019]",
+          "title": "GSE | Brasil Extreme Masters MAJOR",
           "year": 2019,
           "source": "major-history",
           "sourceImage": "assets/archive/7713f3c1b8fa50d7e849.jpeg",
@@ -7329,7 +7313,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "major:7713f3c1b8fa50d7e849",
-          "title": "GSE | MAJOR [2019]",
+          "title": "GSE | Brasil Extreme Masters MAJOR",
           "year": 2019,
           "teamId": "gc2019",
           "team": "Temp Stormy / GC 2019",
@@ -8302,7 +8286,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "major:ba4b48dba7cb6e5526a7",
-          "title": "TSL | MAJOR PREMIERE [2018]",
+          "title": "TSL | MAJOR PREMIERE",
           "year": 2018,
           "teamId": "razer",
           "team": "RAZER",
@@ -8314,7 +8298,7 @@ window.HBSTV_DATABASE = {
       "evps": [
         {
           "id": "major:188f48896736e07cbe4d",
-          "title": "TSL | MAJOR PREMIERE [2018]",
+          "title": "TSL | MAJOR PREMIERE 2.0",
           "year": 2018,
           "source": "major-history",
           "sourceImage": "assets/archive/188f48896736e07cbe4d.jpeg",
@@ -8322,7 +8306,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "major:ba4b48dba7cb6e5526a7",
-          "title": "TSL | MAJOR PREMIERE [2018]",
+          "title": "TSL | MAJOR PREMIERE",
           "year": 2018,
           "source": "major-history",
           "sourceImage": "assets/archive/ba4b48dba7cb6e5526a7.jpeg",
@@ -8623,7 +8607,7 @@ window.HBSTV_DATABASE = {
       "evps": [
         {
           "id": "major:ba4b48dba7cb6e5526a7",
-          "title": "TSL | MAJOR PREMIERE [2018]",
+          "title": "TSL | MAJOR PREMIERE",
           "year": 2018,
           "source": "major-history",
           "sourceImage": "assets/archive/ba4b48dba7cb6e5526a7.jpeg",
@@ -9176,7 +9160,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "major:7713f3c1b8fa50d7e849",
-          "title": "GSE | MAJOR [2019]",
+          "title": "GSE | Brasil Extreme Masters MAJOR",
           "year": 2019,
           "teamId": "gc2019",
           "team": "Temp Stormy / GC 2019",
@@ -9187,7 +9171,7 @@ window.HBSTV_DATABASE = {
       "mvps": [
         {
           "id": "major:7713f3c1b8fa50d7e849",
-          "title": "GSE | MAJOR [2019]",
+          "title": "GSE | Brasil Extreme Masters MAJOR",
           "year": 2019,
           "source": "major-history",
           "sourceImage": "assets/archive/7713f3c1b8fa50d7e849.jpeg",
@@ -9677,7 +9661,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "major:7713f3c1b8fa50d7e849",
-          "title": "GSE | MAJOR [2019]",
+          "title": "GSE | Brasil Extreme Masters MAJOR",
           "year": 2019,
           "teamId": "gc2019",
           "team": "Temp Stormy / GC 2019",
@@ -10160,7 +10144,7 @@ window.HBSTV_DATABASE = {
       "evps": [
         {
           "id": "major:7713f3c1b8fa50d7e849",
-          "title": "GSE | MAJOR [2019]",
+          "title": "GSE | Brasil Extreme Masters MAJOR",
           "year": 2019,
           "source": "major-history",
           "sourceImage": "assets/archive/7713f3c1b8fa50d7e849.jpeg",
@@ -10274,7 +10258,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "major:ba4b48dba7cb6e5526a7",
-          "title": "TSL | MAJOR PREMIERE [2018]",
+          "title": "TSL | MAJOR PREMIERE",
           "year": 2018,
           "teamId": "razer",
           "team": "RAZER",
@@ -10286,7 +10270,7 @@ window.HBSTV_DATABASE = {
       "evps": [
         {
           "id": "major:188f48896736e07cbe4d",
-          "title": "TSL | MAJOR PREMIERE [2018]",
+          "title": "TSL | MAJOR PREMIERE 2.0",
           "year": 2018,
           "source": "major-history",
           "sourceImage": "assets/archive/188f48896736e07cbe4d.jpeg",
@@ -10294,7 +10278,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "major:ba4b48dba7cb6e5526a7",
-          "title": "TSL | MAJOR PREMIERE [2018]",
+          "title": "TSL | MAJOR PREMIERE",
           "year": 2018,
           "source": "major-history",
           "sourceImage": "assets/archive/ba4b48dba7cb6e5526a7.jpeg",
@@ -10400,7 +10384,7 @@ window.HBSTV_DATABASE = {
       "evps": [
         {
           "id": "major:7713f3c1b8fa50d7e849",
-          "title": "GSE | MAJOR [2019]",
+          "title": "GSE | Brasil Extreme Masters MAJOR",
           "year": 2019,
           "source": "major-history",
           "sourceImage": "assets/archive/7713f3c1b8fa50d7e849.jpeg",
@@ -10454,7 +10438,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "major:188f48896736e07cbe4d",
-          "title": "TSL | MAJOR PREMIERE [2018]",
+          "title": "TSL | MAJOR PREMIERE 2.0",
           "year": 2018,
           "teamId": "gc2018",
           "team": "GC 2018",
@@ -10465,7 +10449,7 @@ window.HBSTV_DATABASE = {
       "mvps": [
         {
           "id": "major:188f48896736e07cbe4d",
-          "title": "TSL | MAJOR PREMIERE [2018]",
+          "title": "TSL | MAJOR PREMIERE 2.0",
           "year": 2018,
           "source": "major-history",
           "sourceImage": "assets/archive/188f48896736e07cbe4d.jpeg",
@@ -10614,7 +10598,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "major:ba4b48dba7cb6e5526a7",
-          "title": "TSL | MAJOR PREMIERE [2018]",
+          "title": "TSL | MAJOR PREMIERE",
           "year": 2018,
           "teamId": "razer",
           "team": "RAZER",
@@ -10625,7 +10609,7 @@ window.HBSTV_DATABASE = {
       "mvps": [
         {
           "id": "major:ba4b48dba7cb6e5526a7",
-          "title": "TSL | MAJOR PREMIERE [2018]",
+          "title": "TSL | MAJOR PREMIERE",
           "year": 2018,
           "source": "major-history",
           "sourceImage": "assets/archive/ba4b48dba7cb6e5526a7.jpeg",
@@ -10635,7 +10619,7 @@ window.HBSTV_DATABASE = {
       "evps": [
         {
           "id": "major:188f48896736e07cbe4d",
-          "title": "TSL | MAJOR PREMIERE [2018]",
+          "title": "TSL | MAJOR PREMIERE 2.0",
           "year": 2018,
           "source": "major-history",
           "sourceImage": "assets/archive/188f48896736e07cbe4d.jpeg",
@@ -11779,7 +11763,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "major:ba4b48dba7cb6e5526a7",
-          "title": "TSL | MAJOR PREMIERE [2018]",
+          "title": "TSL | MAJOR PREMIERE",
           "year": 2018,
           "teamId": "razer",
           "team": "RAZER",
@@ -12133,7 +12117,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "major:188f48896736e07cbe4d",
-          "title": "TSL | MAJOR PREMIERE [2018]",
+          "title": "TSL | MAJOR PREMIERE 2.0",
           "year": 2018,
           "teamId": "gc2018",
           "team": "GC 2018",
@@ -12145,7 +12129,7 @@ window.HBSTV_DATABASE = {
       "evps": [
         {
           "id": "major:188f48896736e07cbe4d",
-          "title": "TSL | MAJOR PREMIERE [2018]",
+          "title": "TSL | MAJOR PREMIERE 2.0",
           "year": 2018,
           "source": "major-history",
           "sourceImage": "assets/archive/188f48896736e07cbe4d.jpeg",
@@ -12331,7 +12315,7 @@ window.HBSTV_DATABASE = {
       "evps": [
         {
           "id": "major:7713f3c1b8fa50d7e849",
-          "title": "GSE | MAJOR [2019]",
+          "title": "GSE | Brasil Extreme Masters MAJOR",
           "year": 2019,
           "source": "major-history",
           "sourceImage": "assets/archive/7713f3c1b8fa50d7e849.jpeg",
@@ -12434,7 +12418,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "major:7713f3c1b8fa50d7e849",
-          "title": "GSE | MAJOR [2019]",
+          "title": "GSE | Brasil Extreme Masters MAJOR",
           "year": 2019,
           "teamId": "gc2019",
           "team": "Temp Stormy / GC 2019",
@@ -12581,7 +12565,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "major:7713f3c1b8fa50d7e849",
-          "title": "GSE | MAJOR [2019]",
+          "title": "GSE | Brasil Extreme Masters MAJOR",
           "year": 2019,
           "teamId": "gc2019",
           "team": "Temp Stormy / GC 2019",
@@ -12614,7 +12598,7 @@ window.HBSTV_DATABASE = {
       "evps": [
         {
           "id": "major:7713f3c1b8fa50d7e849",
-          "title": "GSE | MAJOR [2019]",
+          "title": "GSE | Brasil Extreme Masters MAJOR",
           "year": 2019,
           "source": "major-history",
           "sourceImage": "assets/archive/7713f3c1b8fa50d7e849.jpeg",
@@ -12704,7 +12688,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "major:ba4b48dba7cb6e5526a7",
-          "title": "TSL | MAJOR PREMIERE [2018]",
+          "title": "TSL | MAJOR PREMIERE",
           "year": 2018,
           "teamId": "razer",
           "team": "RAZER",
@@ -13144,7 +13128,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "major:188f48896736e07cbe4d",
-          "title": "TSL | MAJOR PREMIERE [2018]",
+          "title": "TSL | MAJOR PREMIERE 2.0",
           "year": 2018,
           "teamId": "gc2018",
           "team": "GC 2018",
@@ -13621,7 +13605,26 @@ window.HBSTV_DATABASE = {
         "top-1-teams-of-years"
       ],
       "notes": [],
-      "images": []
+      "images": [],
+      "rosterReference": {
+        "players": [
+          "tabsenn",
+          "insani",
+          "zdr",
+          "conjure",
+          "invoke",
+          "salty",
+          "hardzera",
+          "cheaprain",
+          "jeff",
+          "pz579",
+          "neguin",
+          "marvywn"
+        ],
+        "year": 2025,
+        "source": "Elenco anual da equipe em 2025",
+        "kind": "annual-team"
+      }
     },
     {
       "id": "2025:lcsleagues1",
@@ -14154,7 +14157,22 @@ window.HBSTV_DATABASE = {
         "top-1-teams-of-years"
       ],
       "notes": [],
-      "images": []
+      "images": [],
+      "rosterReference": {
+        "players": [
+          "4i2o",
+          "niko",
+          "t1o",
+          "dollyn",
+          "vncx",
+          "tamashi",
+          "wentyl",
+          "bonjour"
+        ],
+        "year": 2024,
+        "source": "Elenco anual da equipe em 2024",
+        "kind": "annual-team"
+      }
     },
     {
       "id": "2024:llpstrikeones4",
@@ -14255,7 +14273,22 @@ window.HBSTV_DATABASE = {
         "top-1-teams-of-years"
       ],
       "notes": [],
-      "images": []
+      "images": [],
+      "rosterReference": {
+        "players": [
+          "4i2o",
+          "niko",
+          "t1o",
+          "dollyn",
+          "vncx",
+          "tamashi",
+          "wentyl",
+          "bonjour"
+        ],
+        "year": 2024,
+        "source": "Elenco anual da equipe em 2024",
+        "kind": "annual-team"
+      }
     },
     {
       "id": "2024:whlworldrankings2",
@@ -14459,7 +14492,27 @@ window.HBSTV_DATABASE = {
         "top-1-teams-of-years"
       ],
       "notes": [],
-      "images": []
+      "images": [],
+      "rosterReference": {
+        "players": [
+          "oskar",
+          "scr1mx",
+          "valknut",
+          "fnx",
+          "noway",
+          "kmx",
+          "zdr",
+          "uch",
+          "noon",
+          "bronkz",
+          "cauajr",
+          "dark",
+          "bee"
+        ],
+        "year": 2023,
+        "source": "Elenco anual da equipe em 2023",
+        "kind": "annual-team"
+      }
     },
     {
       "id": "2023:g3xcups2",
@@ -14517,7 +14570,22 @@ window.HBSTV_DATABASE = {
       "notes": [],
       "images": [
         "assets/archive/cc0a9de0e40bb571e22d.png"
-      ]
+      ],
+      "rosterReference": {
+        "players": [
+          "benji",
+          "bondrewd",
+          "invoke",
+          "krein",
+          "locas",
+          "mainya",
+          "salty",
+          "xzr"
+        ],
+        "year": 2023,
+        "source": "Elenco anual da equipe em 2023",
+        "kind": "annual-team"
+      }
     },
     {
       "id": "2023:gscproleague",
@@ -14535,7 +14603,27 @@ window.HBSTV_DATABASE = {
         "top-1-teams-of-years"
       ],
       "notes": [],
-      "images": []
+      "images": [],
+      "rosterReference": {
+        "players": [
+          "oskar",
+          "scr1mx",
+          "valknut",
+          "fnx",
+          "noway",
+          "kmx",
+          "zdr",
+          "uch",
+          "noon",
+          "bronkz",
+          "cauajr",
+          "dark",
+          "bee"
+        ],
+        "year": 2023,
+        "source": "Elenco anual da equipe em 2023",
+        "kind": "annual-team"
+      }
     },
     {
       "id": "2023:gscproseries",
@@ -14553,7 +14641,27 @@ window.HBSTV_DATABASE = {
         "top-1-teams-of-years"
       ],
       "notes": [],
-      "images": []
+      "images": [],
+      "rosterReference": {
+        "players": [
+          "oskar",
+          "scr1mx",
+          "valknut",
+          "fnx",
+          "noway",
+          "kmx",
+          "zdr",
+          "uch",
+          "noon",
+          "bronkz",
+          "cauajr",
+          "dark",
+          "bee"
+        ],
+        "year": 2023,
+        "source": "Elenco anual da equipe em 2023",
+        "kind": "annual-team"
+      }
     },
     {
       "id": "2023:gzsanitycup",
@@ -14571,7 +14679,27 @@ window.HBSTV_DATABASE = {
         "top-1-teams-of-years"
       ],
       "notes": [],
-      "images": []
+      "images": [],
+      "rosterReference": {
+        "players": [
+          "oskar",
+          "scr1mx",
+          "valknut",
+          "fnx",
+          "noway",
+          "kmx",
+          "zdr",
+          "uch",
+          "noon",
+          "bronkz",
+          "cauajr",
+          "dark",
+          "bee"
+        ],
+        "year": 2023,
+        "source": "Elenco anual da equipe em 2023",
+        "kind": "annual-team"
+      }
     },
     {
       "id": "2023:lhaworldcupofclans",
@@ -15045,7 +15173,21 @@ window.HBSTV_DATABASE = {
         "top-1-teams-of-years"
       ],
       "notes": [],
-      "images": []
+      "images": [],
+      "rosterReference": {
+        "players": [
+          "shelzz",
+          "ryota",
+          "kscerato",
+          "rn",
+          "conjure",
+          "fugly",
+          "inovate"
+        ],
+        "year": 2021,
+        "source": "Elenco anual da equipe em 2021",
+        "kind": "annual-team"
+      }
     },
     {
       "id": "2021:lcbmasters",
@@ -15063,7 +15205,21 @@ window.HBSTV_DATABASE = {
         "top-1-teams-of-years"
       ],
       "notes": [],
-      "images": []
+      "images": [],
+      "rosterReference": {
+        "players": [
+          "shelzz",
+          "ryota",
+          "kscerato",
+          "rn",
+          "conjure",
+          "fugly",
+          "inovate"
+        ],
+        "year": 2021,
+        "source": "Elenco anual da equipe em 2021",
+        "kind": "annual-team"
+      }
     },
     {
       "id": "2021:lcbproleague",
@@ -15081,7 +15237,21 @@ window.HBSTV_DATABASE = {
         "top-1-teams-of-years"
       ],
       "notes": [],
-      "images": []
+      "images": [],
+      "rosterReference": {
+        "players": [
+          "shelzz",
+          "ryota",
+          "kscerato",
+          "rn",
+          "conjure",
+          "fugly",
+          "inovate"
+        ],
+        "year": 2021,
+        "source": "Elenco anual da equipe em 2021",
+        "kind": "annual-team"
+      }
     },
     {
       "id": "2021:pnlpeninsulacup",
@@ -15099,7 +15269,21 @@ window.HBSTV_DATABASE = {
         "top-1-teams-of-years"
       ],
       "notes": [],
-      "images": []
+      "images": [],
+      "rosterReference": {
+        "players": [
+          "shelzz",
+          "ryota",
+          "kscerato",
+          "rn",
+          "conjure",
+          "fugly",
+          "inovate"
+        ],
+        "year": 2021,
+        "source": "Elenco anual da equipe em 2021",
+        "kind": "annual-team"
+      }
     },
     {
       "id": "major:007759b02a7d7543b0a1",
@@ -15201,7 +15385,20 @@ window.HBSTV_DATABASE = {
       "notes": [
         "Informações confirmadas pelo proprietário do site. Elenco da temporada; escalações individuais por título não especificadas."
       ],
-      "images": []
+      "images": [],
+      "rosterReference": {
+        "players": [
+          "bale",
+          "force",
+          "oskar",
+          "scuba",
+          "spinard",
+          "zmat"
+        ],
+        "year": 2020,
+        "source": "Elenco anual da equipe em 2020",
+        "kind": "annual-team"
+      }
     },
     {
       "id": "2020:acecup",
@@ -15219,7 +15416,23 @@ window.HBSTV_DATABASE = {
         "top-1-teams-of-years"
       ],
       "notes": [],
-      "images": []
+      "images": [],
+      "rosterReference": {
+        "players": [
+          "shelzz",
+          "ryota",
+          "kscerato",
+          "kauan",
+          "zenn",
+          "rn",
+          "adren",
+          "conjure",
+          "fugly"
+        ],
+        "year": 2020,
+        "source": "Elenco anual da equipe em 2020",
+        "kind": "annual-team"
+      }
     },
     {
       "id": "2020:gseevolutionchampionship",
@@ -15239,7 +15452,20 @@ window.HBSTV_DATABASE = {
       "notes": [
         "Informações confirmadas pelo proprietário do site. Elenco da temporada; escalações individuais por título não especificadas."
       ],
-      "images": []
+      "images": [],
+      "rosterReference": {
+        "players": [
+          "bale",
+          "force",
+          "oskar",
+          "scuba",
+          "spinard",
+          "zmat"
+        ],
+        "year": 2020,
+        "source": "Elenco anual da equipe em 2020",
+        "kind": "annual-team"
+      }
     },
     {
       "id": "major:4ed7f41456f8697e77c6",
@@ -15296,7 +15522,23 @@ window.HBSTV_DATABASE = {
         "top-1-teams-of-years"
       ],
       "notes": [],
-      "images": []
+      "images": [],
+      "rosterReference": {
+        "players": [
+          "shelzz",
+          "ryota",
+          "kscerato",
+          "kauan",
+          "zenn",
+          "rn",
+          "adren",
+          "conjure",
+          "fugly"
+        ],
+        "year": 2020,
+        "source": "Elenco anual da equipe em 2020",
+        "kind": "annual-team"
+      }
     },
     {
       "id": "2020:gsetour",
@@ -15314,7 +15556,23 @@ window.HBSTV_DATABASE = {
         "top-1-teams-of-years"
       ],
       "notes": [],
-      "images": []
+      "images": [],
+      "rosterReference": {
+        "players": [
+          "shelzz",
+          "ryota",
+          "kscerato",
+          "kauan",
+          "zenn",
+          "rn",
+          "adren",
+          "conjure",
+          "fugly"
+        ],
+        "year": 2020,
+        "source": "Elenco anual da equipe em 2020",
+        "kind": "annual-team"
+      }
     },
     {
       "id": "2020:gsetuescup",
@@ -15334,7 +15592,20 @@ window.HBSTV_DATABASE = {
       "notes": [
         "Informações confirmadas pelo proprietário do site. Elenco da temporada; escalações individuais por título não especificadas."
       ],
-      "images": []
+      "images": [],
+      "rosterReference": {
+        "players": [
+          "bale",
+          "force",
+          "oskar",
+          "scuba",
+          "spinard",
+          "zmat"
+        ],
+        "year": 2020,
+        "source": "Elenco anual da equipe em 2020",
+        "kind": "annual-team"
+      }
     },
     {
       "id": "2020:lcbproleague",
@@ -15352,7 +15623,23 @@ window.HBSTV_DATABASE = {
         "top-1-teams-of-years"
       ],
       "notes": [],
-      "images": []
+      "images": [],
+      "rosterReference": {
+        "players": [
+          "shelzz",
+          "ryota",
+          "kscerato",
+          "kauan",
+          "zenn",
+          "rn",
+          "adren",
+          "conjure",
+          "fugly"
+        ],
+        "year": 2020,
+        "source": "Elenco anual da equipe em 2020",
+        "kind": "annual-team"
+      }
     },
     {
       "id": "2020:mawares",
@@ -15370,7 +15657,23 @@ window.HBSTV_DATABASE = {
         "top-1-teams-of-years"
       ],
       "notes": [],
-      "images": []
+      "images": [],
+      "rosterReference": {
+        "players": [
+          "shelzz",
+          "ryota",
+          "kscerato",
+          "kauan",
+          "zenn",
+          "rn",
+          "adren",
+          "conjure",
+          "fugly"
+        ],
+        "year": 2020,
+        "source": "Elenco anual da equipe em 2020",
+        "kind": "annual-team"
+      }
     },
     {
       "id": "2020:suvohloftuscup",
@@ -15390,7 +15693,20 @@ window.HBSTV_DATABASE = {
       "notes": [
         "Informações confirmadas pelo proprietário do site. Elenco da temporada; escalações individuais por título não especificadas."
       ],
-      "images": []
+      "images": [],
+      "rosterReference": {
+        "players": [
+          "bale",
+          "force",
+          "oskar",
+          "scuba",
+          "spinard",
+          "zmat"
+        ],
+        "year": 2020,
+        "source": "Elenco anual da equipe em 2020",
+        "kind": "annual-team"
+      }
     },
     {
       "id": "2020:tslcbbs40",
@@ -15410,7 +15726,20 @@ window.HBSTV_DATABASE = {
       "notes": [
         "Informações confirmadas pelo proprietário do site. Elenco da temporada; escalações individuais por título não especificadas."
       ],
-      "images": []
+      "images": [],
+      "rosterReference": {
+        "players": [
+          "bale",
+          "force",
+          "oskar",
+          "scuba",
+          "spinard",
+          "zmat"
+        ],
+        "year": 2020,
+        "source": "Elenco anual da equipe em 2020",
+        "kind": "annual-team"
+      }
     },
     {
       "id": "2020:tslmjonircup",
@@ -15428,7 +15757,23 @@ window.HBSTV_DATABASE = {
         "top-1-teams-of-years"
       ],
       "notes": [],
-      "images": []
+      "images": [],
+      "rosterReference": {
+        "players": [
+          "shelzz",
+          "ryota",
+          "kscerato",
+          "kauan",
+          "zenn",
+          "rn",
+          "adren",
+          "conjure",
+          "fugly"
+        ],
+        "year": 2020,
+        "source": "Elenco anual da equipe em 2020",
+        "kind": "annual-team"
+      }
     },
     {
       "id": "2020:tslnodus",
@@ -15446,7 +15791,23 @@ window.HBSTV_DATABASE = {
         "top-1-teams-of-years"
       ],
       "notes": [],
-      "images": []
+      "images": [],
+      "rosterReference": {
+        "players": [
+          "shelzz",
+          "ryota",
+          "kscerato",
+          "kauan",
+          "zenn",
+          "rn",
+          "adren",
+          "conjure",
+          "fugly"
+        ],
+        "year": 2020,
+        "source": "Elenco anual da equipe em 2020",
+        "kind": "annual-team"
+      }
     },
     {
       "id": "2020:tslrenovatedgameleague",
@@ -15464,11 +15825,27 @@ window.HBSTV_DATABASE = {
         "top-1-teams-of-years"
       ],
       "notes": [],
-      "images": []
+      "images": [],
+      "rosterReference": {
+        "players": [
+          "shelzz",
+          "ryota",
+          "kscerato",
+          "kauan",
+          "zenn",
+          "rn",
+          "adren",
+          "conjure",
+          "fugly"
+        ],
+        "year": 2020,
+        "source": "Elenco anual da equipe em 2020",
+        "kind": "annual-team"
+      }
     },
     {
       "id": "major:7713f3c1b8fa50d7e849",
-      "title": "GSE | Brasil Extreme Masters",
+      "title": "GSE | Brasil Extreme Masters MAJOR",
       "year": 2019,
       "organizer": "GSE",
       "major": true,
@@ -15522,7 +15899,21 @@ window.HBSTV_DATABASE = {
         "top-1-teams-of-years"
       ],
       "notes": [],
-      "images": []
+      "images": [],
+      "rosterReference": {
+        "players": [
+          "amz",
+          "rn",
+          "whezz",
+          "ryota",
+          "feeh",
+          "adren",
+          "vamp"
+        ],
+        "year": 2019,
+        "source": "Elenco anual da equipe em 2019",
+        "kind": "annual-team"
+      }
     },
     {
       "id": "2019:gsehpls3",
@@ -15540,7 +15931,21 @@ window.HBSTV_DATABASE = {
         "top-1-teams-of-years"
       ],
       "notes": [],
-      "images": []
+      "images": [],
+      "rosterReference": {
+        "players": [
+          "amz",
+          "rn",
+          "whezz",
+          "ryota",
+          "feeh",
+          "adren",
+          "vamp"
+        ],
+        "year": 2019,
+        "source": "Elenco anual da equipe em 2019",
+        "kind": "annual-team"
+      }
     },
     {
       "id": "2019:gseproleague",
@@ -15558,7 +15963,21 @@ window.HBSTV_DATABASE = {
         "top-1-teams-of-years"
       ],
       "notes": [],
-      "images": []
+      "images": [],
+      "rosterReference": {
+        "players": [
+          "amz",
+          "rn",
+          "whezz",
+          "ryota",
+          "feeh",
+          "adren",
+          "vamp"
+        ],
+        "year": 2019,
+        "source": "Elenco anual da equipe em 2019",
+        "kind": "annual-team"
+      }
     },
     {
       "id": "2019:gsetoc",
@@ -15576,7 +15995,21 @@ window.HBSTV_DATABASE = {
         "top-1-teams-of-years"
       ],
       "notes": [],
-      "images": []
+      "images": [],
+      "rosterReference": {
+        "players": [
+          "amz",
+          "rn",
+          "whezz",
+          "ryota",
+          "feeh",
+          "adren",
+          "vamp"
+        ],
+        "year": 2019,
+        "source": "Elenco anual da equipe em 2019",
+        "kind": "annual-team"
+      }
     },
     {
       "id": "2019:gsetourii",
@@ -15594,7 +16027,21 @@ window.HBSTV_DATABASE = {
         "top-1-teams-of-years"
       ],
       "notes": [],
-      "images": []
+      "images": [],
+      "rosterReference": {
+        "players": [
+          "amz",
+          "rn",
+          "whezz",
+          "ryota",
+          "feeh",
+          "adren",
+          "vamp"
+        ],
+        "year": 2019,
+        "source": "Elenco anual da equipe em 2019",
+        "kind": "annual-team"
+      }
     },
     {
       "id": "2019:gsetuessone",
@@ -15612,7 +16059,21 @@ window.HBSTV_DATABASE = {
         "top-1-teams-of-years"
       ],
       "notes": [],
-      "images": []
+      "images": [],
+      "rosterReference": {
+        "players": [
+          "amz",
+          "rn",
+          "whezz",
+          "ryota",
+          "feeh",
+          "adren",
+          "vamp"
+        ],
+        "year": 2019,
+        "source": "Elenco anual da equipe em 2019",
+        "kind": "annual-team"
+      }
     },
     {
       "id": "2019:tslapsleague",
@@ -15630,7 +16091,21 @@ window.HBSTV_DATABASE = {
         "top-1-teams-of-years"
       ],
       "notes": [],
-      "images": []
+      "images": [],
+      "rosterReference": {
+        "players": [
+          "amz",
+          "rn",
+          "whezz",
+          "ryota",
+          "feeh",
+          "adren",
+          "vamp"
+        ],
+        "year": 2019,
+        "source": "Elenco anual da equipe em 2019",
+        "kind": "annual-team"
+      }
     },
     {
       "id": "2019:tslforcefield",
@@ -15648,7 +16123,21 @@ window.HBSTV_DATABASE = {
         "top-1-teams-of-years"
       ],
       "notes": [],
-      "images": []
+      "images": [],
+      "rosterReference": {
+        "players": [
+          "amz",
+          "rn",
+          "whezz",
+          "ryota",
+          "feeh",
+          "adren",
+          "vamp"
+        ],
+        "year": 2019,
+        "source": "Elenco anual da equipe em 2019",
+        "kind": "annual-team"
+      }
     },
     {
       "id": "2019:tslhardnessproleague",
@@ -15666,7 +16155,21 @@ window.HBSTV_DATABASE = {
         "top-1-teams-of-years"
       ],
       "notes": [],
-      "images": []
+      "images": [],
+      "rosterReference": {
+        "players": [
+          "amz",
+          "rn",
+          "whezz",
+          "ryota",
+          "feeh",
+          "adren",
+          "vamp"
+        ],
+        "year": 2019,
+        "source": "Elenco anual da equipe em 2019",
+        "kind": "annual-team"
+      }
     },
     {
       "id": "2018:tslextrememasters",
@@ -15684,7 +16187,24 @@ window.HBSTV_DATABASE = {
         "top-1-teams-of-years"
       ],
       "notes": [],
-      "images": []
+      "images": [],
+      "rosterReference": {
+        "players": [
+          "strong",
+          "4i2o",
+          "pasha",
+          "shelzz",
+          "4kkp",
+          "casta",
+          "theuzz",
+          "kns",
+          "power",
+          "fabri"
+        ],
+        "year": 2018,
+        "source": "Elenco anual da equipe em 2018",
+        "kind": "annual-team"
+      }
     },
     {
       "id": "2018:tslcbbs20",
@@ -15729,7 +16249,24 @@ window.HBSTV_DATABASE = {
         "top-1-teams-of-years"
       ],
       "notes": [],
-      "images": []
+      "images": [],
+      "rosterReference": {
+        "players": [
+          "strong",
+          "4i2o",
+          "pasha",
+          "shelzz",
+          "4kkp",
+          "casta",
+          "theuzz",
+          "kns",
+          "power",
+          "fabri"
+        ],
+        "year": 2018,
+        "source": "Elenco anual da equipe em 2018",
+        "kind": "annual-team"
+      }
     },
     {
       "id": "2018:tslmajorcup",
@@ -15747,11 +16284,28 @@ window.HBSTV_DATABASE = {
         "top-1-teams-of-years"
       ],
       "notes": [],
-      "images": []
+      "images": [],
+      "rosterReference": {
+        "players": [
+          "strong",
+          "4i2o",
+          "pasha",
+          "shelzz",
+          "4kkp",
+          "casta",
+          "theuzz",
+          "kns",
+          "power",
+          "fabri"
+        ],
+        "year": 2018,
+        "source": "Elenco anual da equipe em 2018",
+        "kind": "annual-team"
+      }
     },
     {
       "id": "major:ba4b48dba7cb6e5526a7",
-      "title": "TSL | Major Premiere",
+      "title": "TSL | MAJOR PREMIERE",
       "year": 2018,
       "organizer": "TSL",
       "major": true,
@@ -15792,7 +16346,7 @@ window.HBSTV_DATABASE = {
     },
     {
       "id": "major:188f48896736e07cbe4d",
-      "title": "TSL | Major Premiere 2.0",
+      "title": "TSL | MAJOR PREMIERE 2.0",
       "year": 2018,
       "organizer": "TSL",
       "major": true,
@@ -15804,7 +16358,6 @@ window.HBSTV_DATABASE = {
         "amz",
         "vamp",
         "brizado",
-        "hardzera",
         "zori",
         "felps"
       ],
@@ -15865,7 +16418,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "major:7713f3c1b8fa50d7e849",
-          "title": "GSE | MAJOR [2019]",
+          "title": "GSE | Brasil Extreme Masters MAJOR",
           "year": 2019,
           "source": "major-history",
           "major": true,
@@ -19427,7 +19980,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "major:ba4b48dba7cb6e5526a7",
-          "title": "TSL | MAJOR PREMIERE [2018]",
+          "title": "TSL | MAJOR PREMIERE",
           "year": 2018,
           "source": "major-history",
           "major": true,
@@ -23514,7 +24067,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "major:188f48896736e07cbe4d",
-          "title": "TSL | MAJOR PREMIERE [2018]",
+          "title": "TSL | MAJOR PREMIERE 2.0",
           "year": 2018,
           "source": "major-history",
           "major": true,
@@ -23523,7 +24076,6 @@ window.HBSTV_DATABASE = {
             "Amz",
             "VamP",
             "Brizado",
-            "Hard",
             "Zori",
             "FELPS"
           ],
@@ -23576,16 +24128,6 @@ window.HBSTV_DATABASE = {
         {
           "id": "felps",
           "name": "FELPS",
-          "years": [
-            2018
-          ],
-          "sources": [
-            "major-history"
-          ]
-        },
-        {
-          "id": "hardzera",
-          "name": "Hardzera",
           "years": [
             2018
           ],

@@ -27,7 +27,7 @@ window.HBSTV_TEAMS = [
       },
       {
         "id": "major:7713f3c1b8fa50d7e849",
-        "title": "GSE | MAJOR [2019]",
+        "title": "GSE | Brasil Extreme Masters MAJOR",
         "year": 2019,
         "source": "major-history",
         "major": true,
@@ -3572,7 +3572,7 @@ window.HBSTV_TEAMS = [
     "titles": [
       {
         "id": "major:ba4b48dba7cb6e5526a7",
-        "title": "TSL | MAJOR PREMIERE [2018]",
+        "title": "TSL | MAJOR PREMIERE",
         "year": 2018,
         "source": "major-history",
         "major": true,
@@ -7640,7 +7640,7 @@ window.HBSTV_TEAMS = [
     "titles": [
       {
         "id": "major:188f48896736e07cbe4d",
-        "title": "TSL | MAJOR PREMIERE [2018]",
+        "title": "TSL | MAJOR PREMIERE 2.0",
         "year": 2018,
         "source": "major-history",
         "major": true,
@@ -7649,7 +7649,6 @@ window.HBSTV_TEAMS = [
           "Amz",
           "VamP",
           "Brizado",
-          "Hard",
           "Zori",
           "FELPS"
         ],
@@ -7702,16 +7701,6 @@ window.HBSTV_TEAMS = [
       {
         "id": "felps",
         "name": "FELPS",
-        "years": [
-          2018
-        ],
-        "sources": [
-          "major-history"
-        ]
-      },
-      {
-        "id": "hardzera",
-        "name": "Hardzera",
         "years": [
           2018
         ],

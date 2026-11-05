@@ -4,55 +4,123 @@
     "title": "RANK S · Major",
     "winner": "CHAOS",
     "sourceImage": "assets/archive/67b535053e8ba3d242da.jpeg",
-    "roster": ["Oskar", "Valknut", "Scr1mx", "Kmx", "Zdr", "Fnx"]
+    "roster": [
+      "Oskar",
+      "Valknut",
+      "Scr1mx",
+      "Kmx",
+      "Zdr",
+      "Fnx"
+    ]
   },
   {
     "year": 2023,
     "title": "WHL · Major",
     "winner": "Legendary TeaM",
     "sourceImage": "assets/archive/194c5f557f9f233ff918.jpeg",
-    "roster": ["Niko", "Helix", "rN", "Misuuta", "Seven", "Ezeq", "T10", "Doria", "Lako", "Roggers"]
+    "roster": [
+      "Niko",
+      "Helix",
+      "rN",
+      "Misuuta",
+      "Seven",
+      "Ezeq",
+      "T10",
+      "Doria",
+      "Lako",
+      "Roggers"
+    ]
   },
   {
     "year": 2021,
     "title": "SUVOH · Major",
     "winner": "TeaM Infinity",
     "sourceImage": "assets/archive/007759b02a7d7543b0a1.jpeg",
-    "roster": ["ShelzZ", "RyOta", "rN", "ScreaM", "Conjure", "Fugly", "Helix", "inovate"]
+    "roster": [
+      "ShelzZ",
+      "RyOta",
+      "rN",
+      "ScreaM",
+      "Conjure",
+      "Fugly",
+      "Helix",
+      "inovate"
+    ]
   },
   {
     "year": 2021,
     "title": "TSL · Major",
     "winner": "Legendary TeaM",
     "sourceImage": "assets/archive/86ed67893904be137a59.jpeg",
-    "roster": ["4i20", "NIKO", "Ezeq", "Hazz", "Valknut", "Alfa", "Zenn"]
+    "roster": [
+      "4i20",
+      "NIKO",
+      "Ezeq",
+      "Hazz",
+      "Valknut",
+      "Alfa",
+      "Zenn"
+    ]
   },
   {
     "year": 2020,
     "title": "GSE · Major Adrenaline",
     "winner": "Astralis",
     "sourceImage": "assets/archive/4ed7f41456f8697e77c6.jpg",
-    "roster": ["4i20", "Scuba", "Balboa", "Arthur14o", "Enfer", "ZenK"]
+    "roster": [
+      "4i20",
+      "Scuba",
+      "Balboa",
+      "Arthur14o",
+      "Enfer",
+      "ZenK"
+    ]
   },
   {
     "year": 2019,
-    "title": "GSE · Brasil Extreme Masters",
+    "title": "GSE | Brasil Extreme Masters MAJOR",
     "winner": "Goblins Cheating",
     "sourceImage": "assets/archive/7713f3c1b8fa50d7e849.jpeg",
-    "roster": ["rN", "Amz", "FeeH", "JhowW", "Sansey", "WhezZ", "XACAU", "NESK"]
+    "roster": [
+      "rN",
+      "Amz",
+      "FeeH",
+      "JhowW",
+      "Sansey",
+      "WhezZ",
+      "XACAU",
+      "NESK"
+    ]
   },
   {
     "year": 2018,
-    "title": "TSL · Major Premiere 2.0",
+    "title": "TSL | MAJOR PREMIERE 2.0",
     "winner": "Goblins Cheating",
     "sourceImage": "assets/archive/188f48896736e07cbe4d.jpeg",
-    "roster": ["SinK", "Amz", "VamP", "Brizado", "Hard", "Zori", "FELPS"]
+    "roster": [
+      "SinK",
+      "Amz",
+      "VamP",
+      "Brizado",
+      "Zori",
+      "FELPS"
+    ]
   },
   {
     "year": 2018,
-    "title": "TSL · Major Premiere",
+    "title": "TSL | MAJOR PREMIERE",
     "winner": "RazeR",
     "sourceImage": "assets/archive/ba4b48dba7cb6e5526a7.jpeg",
-    "roster": ["StronG", "4i20", "Pasha", "ShelzZ", "4kkp", "Casta", "theuzz", "Kns", "YonK"]
+    "roster": [
+      "StronG",
+      "4i20",
+      "Pasha",
+      "ShelzZ",
+      "4kkp",
+      "Casta",
+      "theuzz",
+      "Kns",
+      "YonK"
+    ]
   }
 ]
