@@ -281,7 +281,7 @@ window.HBSTV_PLAYER_INDEX = {
         },
         {
           "id": "major:4ed7f41456f8697e77c6",
-          "title": "GSE | MAJOR [2020]",
+          "title": "GSE | MAJOR Adrenaline",
           "year": 2020,
           "teamId": "astralis",
           "team": "ASTRALIS",
@@ -335,7 +335,7 @@ window.HBSTV_PLAYER_INDEX = {
         },
         {
           "id": "major:4ed7f41456f8697e77c6",
-          "title": "GSE | MAJOR [2020]",
+          "title": "GSE | MAJOR Adrenaline",
           "year": 2020,
           "source": "major-history",
           "sourceImage": "assets/archive/4ed7f41456f8697e77c6.jpg",
@@ -1267,7 +1267,7 @@ window.HBSTV_PLAYER_INDEX = {
       "titles": [
         {
           "id": "major:4ed7f41456f8697e77c6",
-          "title": "GSE | MAJOR [2020]",
+          "title": "GSE | MAJOR Adrenaline",
           "year": 2020,
           "teamId": "astralis",
           "team": "ASTRALIS",
@@ -1426,7 +1426,7 @@ window.HBSTV_PLAYER_INDEX = {
       "titles": [
         {
           "id": "major:4ed7f41456f8697e77c6",
-          "title": "GSE | MAJOR [2020]",
+          "title": "GSE | MAJOR Adrenaline",
           "year": 2020,
           "teamId": "astralis",
           "team": "ASTRALIS",
@@ -2302,7 +2302,7 @@ window.HBSTV_PLAYER_INDEX = {
         },
         {
           "id": "major:4ed7f41456f8697e77c6",
-          "title": "GSE | MAJOR [2020]",
+          "title": "GSE | MAJOR Adrenaline",
           "year": 2020,
           "source": "major-history",
           "sourceImage": "assets/archive/4ed7f41456f8697e77c6.jpg",
@@ -3125,7 +3125,7 @@ window.HBSTV_PLAYER_INDEX = {
       "titles": [
         {
           "id": "major:4ed7f41456f8697e77c6",
-          "title": "GSE | MAJOR [2020]",
+          "title": "GSE | MAJOR Adrenaline",
           "year": 2020,
           "teamId": "astralis",
           "team": "ASTRALIS",
@@ -3137,7 +3137,7 @@ window.HBSTV_PLAYER_INDEX = {
       "evps": [
         {
           "id": "major:4ed7f41456f8697e77c6",
-          "title": "GSE | MAJOR [2020]",
+          "title": "GSE | MAJOR Adrenaline",
           "year": 2020,
           "source": "major-history",
           "sourceImage": "assets/archive/4ed7f41456f8697e77c6.jpg",
@@ -3713,7 +3713,7 @@ window.HBSTV_PLAYER_INDEX = {
       "evps": [
         {
           "id": "major:4ed7f41456f8697e77c6",
-          "title": "GSE | MAJOR [2020]",
+          "title": "GSE | MAJOR Adrenaline",
           "year": 2020,
           "source": "major-history",
           "sourceImage": "assets/archive/4ed7f41456f8697e77c6.jpg",
@@ -6472,7 +6472,7 @@ window.HBSTV_PLAYER_INDEX = {
       "evps": [
         {
           "id": "major:4ed7f41456f8697e77c6",
-          "title": "GSE | MAJOR [2020]",
+          "title": "GSE | MAJOR Adrenaline",
           "year": 2020,
           "source": "major-history",
           "sourceImage": "assets/archive/4ed7f41456f8697e77c6.jpg",
@@ -8150,7 +8150,7 @@ window.HBSTV_PLAYER_INDEX = {
         },
         {
           "id": "major:4ed7f41456f8697e77c6",
-          "title": "GSE | MAJOR [2020]",
+          "title": "GSE | MAJOR Adrenaline",
           "year": 2020,
           "source": "major-history",
           "sourceImage": "assets/archive/4ed7f41456f8697e77c6.jpg",
@@ -8487,7 +8487,7 @@ window.HBSTV_PLAYER_INDEX = {
       "evps": [
         {
           "id": "major:4ed7f41456f8697e77c6",
-          "title": "GSE | MAJOR [2020]",
+          "title": "GSE | MAJOR Adrenaline",
           "year": 2020,
           "source": "major-history",
           "sourceImage": "assets/archive/4ed7f41456f8697e77c6.jpg",
@@ -9414,7 +9414,7 @@ window.HBSTV_PLAYER_INDEX = {
       "evps": [
         {
           "id": "major:4ed7f41456f8697e77c6",
-          "title": "GSE | MAJOR [2020]",
+          "title": "GSE | MAJOR Adrenaline",
           "year": 2020,
           "source": "major-history",
           "sourceImage": "assets/archive/4ed7f41456f8697e77c6.jpg",
@@ -10008,7 +10008,7 @@ window.HBSTV_PLAYER_INDEX = {
         },
         {
           "id": "major:4ed7f41456f8697e77c6",
-          "title": "GSE | MAJOR [2020]",
+          "title": "GSE | MAJOR Adrenaline",
           "year": 2020,
           "source": "major-history",
           "sourceImage": "assets/archive/4ed7f41456f8697e77c6.jpg",
@@ -10061,7 +10061,7 @@ window.HBSTV_PLAYER_INDEX = {
       "titles": [
         {
           "id": "major:4ed7f41456f8697e77c6",
-          "title": "GSE | MAJOR [2020]",
+          "title": "GSE | MAJOR Adrenaline",
           "year": 2020,
           "teamId": "astralis",
           "team": "ASTRALIS",
@@ -10073,7 +10073,7 @@ window.HBSTV_PLAYER_INDEX = {
       "evps": [
         {
           "id": "major:4ed7f41456f8697e77c6",
-          "title": "GSE | MAJOR [2020]",
+          "title": "GSE | MAJOR Adrenaline",
           "year": 2020,
           "source": "major-history",
           "sourceImage": "assets/archive/4ed7f41456f8697e77c6.jpg",
@@ -12989,7 +12989,7 @@ window.HBSTV_PLAYER_INDEX = {
       "titles": [
         {
           "id": "major:4ed7f41456f8697e77c6",
-          "title": "GSE | MAJOR [2020]",
+          "title": "GSE | MAJOR Adrenaline",
           "year": 2020,
           "teamId": "astralis",
           "team": "ASTRALIS",

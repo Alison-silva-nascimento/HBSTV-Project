@@ -7151,7 +7151,7 @@ window.HBSTV_TEAMS = [
     "titles": [
       {
         "id": "major:4ed7f41456f8697e77c6",
-        "title": "GSE | MAJOR [2020]",
+        "title": "GSE | MAJOR Adrenaline",
         "year": 2020,
         "source": "major-history",
         "major": true,
