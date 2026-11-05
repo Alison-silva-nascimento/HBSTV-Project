@@ -1,0 +1,722 @@
+window.HBSTV_ANNUAL_POSTERS = {
+  "2018": [
+    {
+      "rank": 1,
+      "name": "4i20",
+      "country": "BR"
+    },
+    {
+      "rank": 2,
+      "name": "Strong",
+      "country": "BR"
+    },
+    {
+      "rank": 3,
+      "name": "Pasha",
+      "country": "BR"
+    },
+    {
+      "rank": 4,
+      "name": "Amz",
+      "country": "BR"
+    },
+    {
+      "rank": 5,
+      "name": "ShelzZ",
+      "country": "BR"
+    },
+    {
+      "rank": 6,
+      "name": "Astr0",
+      "country": "BR"
+    },
+    {
+      "rank": 7,
+      "name": "TerroR",
+      "country": "BR"
+    },
+    {
+      "rank": 8,
+      "name": "Hard",
+      "country": "BR"
+    },
+    {
+      "rank": 9,
+      "name": "Kmblack",
+      "country": "BR"
+    },
+    {
+      "rank": 10,
+      "name": "4kkp",
+      "country": "BR"
+    },
+    {
+      "rank": 11,
+      "name": "Fabricio",
+      "country": "BR"
+    },
+    {
+      "rank": 12,
+      "name": "Sansey",
+      "country": "BR"
+    },
+    {
+      "rank": 13,
+      "name": "Sink",
+      "country": "AR"
+    },
+    {
+      "rank": 14,
+      "name": "Fooxy",
+      "country": "BR"
+    },
+    {
+      "rank": 15,
+      "name": "OveR",
+      "country": "BR"
+    },
+    {
+      "rank": 16,
+      "name": "S1mple",
+      "country": "BR"
+    },
+    {
+      "rank": 17,
+      "name": "Andr3",
+      "country": "BR"
+    },
+    {
+      "rank": 18,
+      "name": "Felps",
+      "country": "BR"
+    },
+    {
+      "rank": 19,
+      "name": "Brizado",
+      "country": "BR"
+    },
+    {
+      "rank": 20,
+      "name": "Whartog",
+      "country": "BR"
+    }
+  ],
+  "2019": [
+    {
+      "rank": 1,
+      "name": "Rn",
+      "country": "BR"
+    },
+    {
+      "rank": 2,
+      "name": "Ryota",
+      "country": "BR"
+    },
+    {
+      "rank": 3,
+      "name": "Amz",
+      "country": "BR"
+    },
+    {
+      "rank": 4,
+      "name": "Whartog",
+      "country": "BR"
+    },
+    {
+      "rank": 5,
+      "name": "FugLY",
+      "country": "BR"
+    },
+    {
+      "rank": 6,
+      "name": "WhezZ",
+      "country": "BR"
+    },
+    {
+      "rank": 7,
+      "name": "FeeH",
+      "country": "BR"
+    },
+    {
+      "rank": 8,
+      "name": "Aerial",
+      "country": "BR"
+    },
+    {
+      "rank": 9,
+      "name": "AdreN",
+      "country": "BR"
+    },
+    {
+      "rank": 10,
+      "name": "Fooxy",
+      "country": "BR"
+    },
+    {
+      "rank": 11,
+      "name": "Fomezero",
+      "country": "BR"
+    },
+    {
+      "rank": 12,
+      "name": "s1mple",
+      "country": "BR"
+    },
+    {
+      "rank": 13,
+      "name": "Felps",
+      "country": "BR"
+    },
+    {
+      "rank": 14,
+      "name": "SicK",
+      "country": "AR"
+    },
+    {
+      "rank": 15,
+      "name": "Brizado",
+      "country": "BR"
+    },
+    {
+      "rank": 16,
+      "name": "SharP",
+      "country": "BR"
+    },
+    {
+      "rank": 17,
+      "name": "ScreaM",
+      "country": "BR"
+    },
+    {
+      "rank": 18,
+      "name": "Xdroid",
+      "country": "BR"
+    },
+    {
+      "rank": 19,
+      "name": "Finland",
+      "country": "BR"
+    },
+    {
+      "rank": 20,
+      "name": "Xacau",
+      "country": "BR"
+    }
+  ],
+  "2020": [
+    {
+      "rank": 1,
+      "name": "Sharp",
+      "country": "BR"
+    },
+    {
+      "rank": 2,
+      "name": "Ryota",
+      "country": "BR"
+    },
+    {
+      "rank": 3,
+      "name": "4i20",
+      "country": "BR"
+    },
+    {
+      "rank": 4,
+      "name": "Rn",
+      "country": "BR"
+    },
+    {
+      "rank": 5,
+      "name": "Force",
+      "country": "BR"
+    },
+    {
+      "rank": 6,
+      "name": "ScreaM",
+      "country": "BR"
+    },
+    {
+      "rank": 7,
+      "name": "Oskar",
+      "country": "BR"
+    },
+    {
+      "rank": 8,
+      "name": "Zenn",
+      "country": "BR"
+    },
+    {
+      "rank": 9,
+      "name": "Scuba",
+      "country": "BR"
+    },
+    {
+      "rank": 10,
+      "name": "AdreN",
+      "country": "BR"
+    },
+    {
+      "rank": 11,
+      "name": "Nescau",
+      "country": "BR"
+    },
+    {
+      "rank": 12,
+      "name": "DuckheadzZ",
+      "country": "PL"
+    },
+    {
+      "rank": 13,
+      "name": "FugLY",
+      "country": "BR"
+    },
+    {
+      "rank": 14,
+      "name": "KreiN",
+      "country": "PL"
+    },
+    {
+      "rank": 15,
+      "name": "ShelzZ",
+      "country": "BR"
+    },
+    {
+      "rank": 16,
+      "name": "Tabsenn",
+      "country": "BR"
+    },
+    {
+      "rank": 17,
+      "name": "Arthur14io",
+      "country": "BR"
+    },
+    {
+      "rank": 18,
+      "name": "Enfer",
+      "country": "BR"
+    },
+    {
+      "rank": 19,
+      "name": "Bale",
+      "country": "BR"
+    },
+    {
+      "rank": 20,
+      "name": "Spinard",
+      "country": "BR"
+    }
+  ],
+  "2021": [
+    {
+      "rank": 1,
+      "name": "4i20_",
+      "country": "BR"
+    },
+    {
+      "rank": 2,
+      "name": "NiKo",
+      "country": "BR"
+    },
+    {
+      "rank": 3,
+      "name": "Ryota",
+      "country": "BR"
+    },
+    {
+      "rank": 4,
+      "name": "Rn",
+      "country": "BR"
+    },
+    {
+      "rank": 5,
+      "name": "ScreaM",
+      "country": "BR"
+    },
+    {
+      "rank": 6,
+      "name": "FugLY",
+      "country": "BR"
+    },
+    {
+      "rank": 7,
+      "name": "Inovate",
+      "country": "BR"
+    },
+    {
+      "rank": 8,
+      "name": "Ezequiel",
+      "country": "BR"
+    },
+    {
+      "rank": 9,
+      "name": "Oskar",
+      "country": "BR"
+    },
+    {
+      "rank": 10,
+      "name": "Conjure",
+      "country": "BR"
+    },
+    {
+      "rank": 11,
+      "name": "Roblox",
+      "country": "PL"
+    },
+    {
+      "rank": 12,
+      "name": "Jigsaw",
+      "country": "BR"
+    },
+    {
+      "rank": 13,
+      "name": "Tabsenn",
+      "country": "BR"
+    },
+    {
+      "rank": 14,
+      "name": "Alfa",
+      "country": "BR"
+    },
+    {
+      "rank": 15,
+      "name": "KreiN",
+      "country": "PL"
+    },
+    {
+      "rank": 16,
+      "name": "Zenn",
+      "country": "BR"
+    },
+    {
+      "rank": 17,
+      "name": "Helix",
+      "country": "BR"
+    },
+    {
+      "rank": 18,
+      "name": "ShelzZ",
+      "country": "BR"
+    },
+    {
+      "rank": 19,
+      "name": "Roggers",
+      "country": "BR"
+    },
+    {
+      "rank": 20,
+      "name": "Zunhn",
+      "country": "BR"
+    }
+  ],
+  "2023": [
+    {
+      "rank": 1,
+      "name": "Tamashi",
+      "country": "FR"
+    },
+    {
+      "rank": 2,
+      "name": "Oskar",
+      "country": "BR"
+    },
+    {
+      "rank": 3,
+      "name": "NiKo",
+      "country": "BR"
+    },
+    {
+      "rank": 4,
+      "name": "Valknut",
+      "country": "BR"
+    },
+    {
+      "rank": 5,
+      "name": "Helix",
+      "country": "BR"
+    },
+    {
+      "rank": 6,
+      "name": "4i20",
+      "country": "BR"
+    },
+    {
+      "rank": 7,
+      "name": "Rn",
+      "country": "BR"
+    },
+    {
+      "rank": 8,
+      "name": "Salty",
+      "country": "DE"
+    },
+    {
+      "rank": 9,
+      "name": "Mirezz",
+      "country": "UA"
+    },
+    {
+      "rank": 10,
+      "name": "Ralzee",
+      "country": "FR"
+    },
+    {
+      "rank": 11,
+      "name": "Scrimx",
+      "country": "BR"
+    },
+    {
+      "rank": 12,
+      "name": "Tenz",
+      "country": "FR"
+    },
+    {
+      "rank": 13,
+      "name": "Fnx",
+      "country": "BR"
+    },
+    {
+      "rank": 14,
+      "name": "tabsenn",
+      "country": "BR",
+      "realName": "Gustavo",
+      "sourceLabel": "Gustavo / tabsenn"
+    },
+    {
+      "rank": 15,
+      "name": "Kmx",
+      "country": "BR"
+    },
+    {
+      "rank": 16,
+      "name": "GaH",
+      "country": "BR"
+    },
+    {
+      "rank": 17,
+      "name": "Misuta",
+      "country": "BR"
+    },
+    {
+      "rank": 18,
+      "name": "H0pe",
+      "country": "BR"
+    },
+    {
+      "rank": 19,
+      "name": "T10",
+      "country": "BR"
+    },
+    {
+      "rank": 20,
+      "name": "Insani",
+      "country": "BR"
+    }
+  ],
+  "2024": [
+    {
+      "rank": 1,
+      "name": "Tamashi",
+      "country": "FR"
+    },
+    {
+      "rank": 2,
+      "name": "4i20",
+      "country": "BR"
+    },
+    {
+      "rank": 3,
+      "name": "Insani",
+      "country": "BR"
+    },
+    {
+      "rank": 4,
+      "name": "NiKo",
+      "country": "BR"
+    },
+    {
+      "rank": 5,
+      "name": "Tabsenn",
+      "country": "BR"
+    },
+    {
+      "rank": 6,
+      "name": "Oskar",
+      "country": "BR"
+    },
+    {
+      "rank": 7,
+      "name": "Cheaprain",
+      "country": "BR"
+    },
+    {
+      "rank": 8,
+      "name": "Zeldris",
+      "country": "BR"
+    },
+    {
+      "rank": 9,
+      "name": "Conjure",
+      "country": "BR"
+    },
+    {
+      "rank": 10,
+      "name": "Bigode",
+      "country": "BR",
+      "realName": "Erick"
+    },
+    {
+      "rank": 11,
+      "name": "Fnx",
+      "country": "BR"
+    },
+    {
+      "rank": 12,
+      "name": "Scrimx",
+      "country": "BR"
+    },
+    {
+      "rank": 13,
+      "name": "Pedrinn",
+      "country": "BR"
+    },
+    {
+      "rank": 14,
+      "name": "Valknut",
+      "country": "BR"
+    },
+    {
+      "rank": 15,
+      "name": "Lucky",
+      "country": "BR"
+    },
+    {
+      "rank": 16,
+      "name": "H10",
+      "country": "BR",
+      "realName": "Henrique"
+    },
+    {
+      "rank": 17,
+      "name": "inovate",
+      "country": "BR"
+    },
+    {
+      "rank": 18,
+      "name": "Invoke",
+      "country": "LT"
+    },
+    {
+      "rank": 19,
+      "name": "Misuta",
+      "country": "BR"
+    },
+    {
+      "rank": 20,
+      "name": "H0pe",
+      "country": "BR"
+    }
+  ],
+  "2025": [
+    {
+      "rank": 1,
+      "name": "Tabsen",
+      "country": "BR"
+    },
+    {
+      "rank": 2,
+      "name": "Zdr",
+      "country": "BR"
+    },
+    {
+      "rank": 3,
+      "name": "4i20",
+      "country": "BR"
+    },
+    {
+      "rank": 4,
+      "name": "Conjure",
+      "country": "BR"
+    },
+    {
+      "rank": 5,
+      "name": "Salty",
+      "country": "DE"
+    },
+    {
+      "rank": 6,
+      "name": "INSANI",
+      "country": "BR"
+    },
+    {
+      "rank": 7,
+      "name": "Marvywn",
+      "country": "BR"
+    },
+    {
+      "rank": 8,
+      "name": "Invoke",
+      "country": "LT"
+    },
+    {
+      "rank": 9,
+      "name": "Oskar",
+      "country": "BR"
+    },
+    {
+      "rank": 10,
+      "name": "Tamashi",
+      "country": "FR"
+    },
+    {
+      "rank": 11,
+      "name": "T10",
+      "country": "BR"
+    },
+    {
+      "rank": 12,
+      "name": "Bezdarnost",
+      "country": "KZ"
+    },
+    {
+      "rank": 13,
+      "name": "Misuta",
+      "country": "BR"
+    },
+    {
+      "rank": 14,
+      "name": "Lucky",
+      "country": "BR"
+    },
+    {
+      "rank": 15,
+      "name": "Niko",
+      "country": "BR"
+    },
+    {
+      "rank": 16,
+      "name": "Brizado",
+      "country": "BR",
+      "realName": "Juan",
+      "sourceNote": "Nome corrigido pelo proprietário: Juan Brizado; a arte escreve Ryan Briza."
+    },
+    {
+      "rank": 17,
+      "name": "Helix",
+      "country": "BR"
+    },
+    {
+      "rank": 18,
+      "name": "Fway",
+      "country": "BR"
+    },
+    {
+      "rank": 19,
+      "name": "Hardzera",
+      "country": "BR"
+    },
+    {
+      "rank": 20,
+      "name": "Vat",
+      "country": "PT"
+    }
+  ]
+};
