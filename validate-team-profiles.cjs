@@ -1,7 +1,8 @@
 const fs=require('node:fs'),vm=require('node:vm'),assert=require('node:assert/strict');const c={window:{}};vm.runInNewContext(fs.readFileSync('dist/team-profiles-data.js','utf8'),c);const teams=c.window.HBSTV_TEAMS;
 assert.equal(teams.length,42);assert.equal(new Set(teams.map(t=>t.id)).size,teams.length);
 for(const t of teams){assert.equal(new Set(t.titles.map(r=>r.id)).size,t.titles.length);assert.equal(new Set(t.members.map(m=>m.id)).size,t.members.length);for(const r of t.titles){assert(r.year>=2017&&r.year<=2025);assert(r.source);if(r.roster.length){const text=(r.blocks||[]).filter(b=>b.type==='text').map(b=>b.text).join('\n');if(r.rosterSourceImage)assert(fs.existsSync('dist/'+r.rosterSourceImage));else assert(r.manual||/PLAYERS/.test(text));assert(!r.roster.some(n=>/MVP|EVP|CAMPE[ÃA]O/i.test(n)));}}for(const m of t.members){assert(m.name&&m.years.length&&m.sources.length);assert.equal(new Set(m.years).size,m.years.length);}}
-assert.equal(teams.find(t=>t.name==='IK Legends').titles.length,7);assert.equal(teams.find(t=>t.name==='Miracle').titles.length,4);
+assert.equal(teams.find(t=>t.name==='IK').titles.length,7);assert.equal(teams.find(t=>t.name==='Miracle').titles.length,4);
 const gc=teams.find(t=>t.id==='gc2019');assert.equal(gc.titles.filter(r=>r.year===2019).length,10);assert.equal(gc.titles.filter(r=>r.year===2019&&r.major).length,1);
-const league=teams.find(t=>t.name==='IK Legends').titles.find(r=>r.title==='BCN | FINALS 25');assert(!league.roster.some(n=>n==='4i20'));assert(league.roster.some(n=>n==='Tamashi'));
+const league=teams.find(t=>t.name==='IK').titles.find(r=>r.title==='BCN | FINALS 25');assert(!league.roster.some(n=>n==='4i20'));assert(league.roster.some(n=>n==='Tamashi'));
 console.log('Team profiles: unique teams, titles, memberships, champion rosters and sources verified.');
+

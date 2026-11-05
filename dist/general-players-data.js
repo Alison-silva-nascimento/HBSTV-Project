@@ -763,7 +763,7 @@ window.HBSTV_PLAYER_INDEX = {
       "teams": [
         {
           "id": "iklegends",
-          "name": "IK Legends",
+          "name": "IK",
           "years": [
             2025
           ]
@@ -782,7 +782,7 @@ window.HBSTV_PLAYER_INDEX = {
           "title": "BCN | LEAGUE 2025",
           "year": 2025,
           "teamId": "iklegends",
-          "team": "IK Legends",
+          "team": "IK",
           "major": false,
           "source": "events-2025"
         },
@@ -791,7 +791,7 @@ window.HBSTV_PLAYER_INDEX = {
           "title": "BCN | STRIKE CUP",
           "year": 2025,
           "teamId": "iklegends",
-          "team": "IK Legends",
+          "team": "IK",
           "major": false,
           "source": "events-2025"
         },
@@ -800,7 +800,7 @@ window.HBSTV_PLAYER_INDEX = {
           "title": "BCN | YALLA COMPASS 2025",
           "year": 2025,
           "teamId": "iklegends",
-          "team": "IK Legends",
+          "team": "IK",
           "major": false,
           "source": "events-2025"
         },
@@ -1950,7 +1950,7 @@ window.HBSTV_PLAYER_INDEX = {
       "teams": [
         {
           "id": "iklegends",
-          "name": "IK Legends",
+          "name": "IK",
           "years": [
             2025
           ]
@@ -1983,7 +1983,7 @@ window.HBSTV_PLAYER_INDEX = {
           "title": "LCS | LEAGUE S1",
           "year": 2025,
           "teamId": "iklegends",
-          "team": "IK Legends",
+          "team": "IK",
           "major": false,
           "source": "events-2025"
         },
@@ -2119,7 +2119,7 @@ window.HBSTV_PLAYER_INDEX = {
       "teams": [
         {
           "id": "iklegends",
-          "name": "IK Legends",
+          "name": "IK",
           "years": [
             2025
           ]
@@ -2160,7 +2160,7 @@ window.HBSTV_PLAYER_INDEX = {
           "title": "BCN | FINALS 25",
           "year": 2025,
           "teamId": "iklegends",
-          "team": "IK Legends",
+          "team": "IK",
           "major": false,
           "source": "events-2025"
         },
@@ -2169,7 +2169,7 @@ window.HBSTV_PLAYER_INDEX = {
           "title": "BCN | STRIKE CUP",
           "year": 2025,
           "teamId": "iklegends",
-          "team": "IK Legends",
+          "team": "IK",
           "major": false,
           "source": "events-2025"
         },
@@ -2178,7 +2178,7 @@ window.HBSTV_PLAYER_INDEX = {
           "title": "LCS | LEAGUE S1",
           "year": 2025,
           "teamId": "iklegends",
-          "team": "IK Legends",
+          "team": "IK",
           "major": false,
           "source": "events-2025"
         },
@@ -2443,7 +2443,7 @@ window.HBSTV_PLAYER_INDEX = {
       "teams": [
         {
           "id": "iklegends",
-          "name": "IK Legends",
+          "name": "IK",
           "years": [
             2025
           ]
@@ -2476,7 +2476,7 @@ window.HBSTV_PLAYER_INDEX = {
           "title": "LCS | LEAGUE S1",
           "year": 2025,
           "teamId": "iklegends",
-          "team": "IK Legends",
+          "team": "IK",
           "major": false,
           "source": "events-2025"
         },
@@ -3961,7 +3961,7 @@ window.HBSTV_PLAYER_INDEX = {
       "teams": [
         {
           "id": "iklegends",
-          "name": "IK Legends",
+          "name": "IK",
           "years": [
             2025
           ]
@@ -3988,7 +3988,7 @@ window.HBSTV_PLAYER_INDEX = {
           "title": "BCN | LEAGUE 2025",
           "year": 2025,
           "teamId": "iklegends",
-          "team": "IK Legends",
+          "team": "IK",
           "major": false,
           "source": "events-2025"
         },
@@ -3997,7 +3997,7 @@ window.HBSTV_PLAYER_INDEX = {
           "title": "BCN | STRIKE CUP",
           "year": 2025,
           "teamId": "iklegends",
-          "team": "IK Legends",
+          "team": "IK",
           "major": false,
           "source": "events-2025"
         },
@@ -4378,7 +4378,7 @@ window.HBSTV_PLAYER_INDEX = {
       "teams": [
         {
           "id": "iklegends",
-          "name": "IK Legends",
+          "name": "IK",
           "years": [
             2025
           ]
@@ -4425,7 +4425,7 @@ window.HBSTV_PLAYER_INDEX = {
           "title": "BCN | FINALS 25",
           "year": 2025,
           "teamId": "iklegends",
-          "team": "IK Legends",
+          "team": "IK",
           "major": false,
           "source": "events-2025"
         },
@@ -4434,7 +4434,7 @@ window.HBSTV_PLAYER_INDEX = {
           "title": "BCN | YALLA COMPASS 2025",
           "year": 2025,
           "teamId": "iklegends",
-          "team": "IK Legends",
+          "team": "IK",
           "major": false,
           "source": "events-2025"
         },
@@ -4550,7 +4550,7 @@ window.HBSTV_PLAYER_INDEX = {
       "teams": [
         {
           "id": "iklegends",
-          "name": "IK Legends",
+          "name": "IK",
           "years": [
             2025
           ]
@@ -4583,7 +4583,7 @@ window.HBSTV_PLAYER_INDEX = {
           "title": "LCS | LEAGUE S1",
           "year": 2025,
           "teamId": "iklegends",
-          "team": "IK Legends",
+          "team": "IK",
           "major": false,
           "source": "events-2025"
         },
@@ -4592,7 +4592,7 @@ window.HBSTV_PLAYER_INDEX = {
           "title": "XMS | MASTER LEAGUE",
           "year": 2025,
           "teamId": "iklegends",
-          "team": "IK Legends",
+          "team": "IK",
           "major": false,
           "source": "events-2025"
         },
@@ -4842,7 +4842,7 @@ window.HBSTV_PLAYER_INDEX = {
       "teams": [
         {
           "id": "iklegends",
-          "name": "IK Legends",
+          "name": "IK",
           "years": [
             2025
           ]
@@ -4889,7 +4889,7 @@ window.HBSTV_PLAYER_INDEX = {
           "title": "BCN | LEAGUE 2025",
           "year": 2025,
           "teamId": "iklegends",
-          "team": "IK Legends",
+          "team": "IK",
           "major": false,
           "source": "events-2025"
         },
@@ -4898,7 +4898,7 @@ window.HBSTV_PLAYER_INDEX = {
           "title": "BCN | STRIKE CUP",
           "year": 2025,
           "teamId": "iklegends",
-          "team": "IK Legends",
+          "team": "IK",
           "major": false,
           "source": "events-2025"
         },
@@ -4907,7 +4907,7 @@ window.HBSTV_PLAYER_INDEX = {
           "title": "BCN | YALLA COMPASS 2025",
           "year": 2025,
           "teamId": "iklegends",
-          "team": "IK Legends",
+          "team": "IK",
           "major": false,
           "source": "events-2025"
         },
@@ -4916,7 +4916,7 @@ window.HBSTV_PLAYER_INDEX = {
           "title": "LCS | LEAGUE S1",
           "year": 2025,
           "teamId": "iklegends",
-          "team": "IK Legends",
+          "team": "IK",
           "major": false,
           "source": "events-2025"
         },
@@ -4925,7 +4925,7 @@ window.HBSTV_PLAYER_INDEX = {
           "title": "XMS | MASTER LEAGUE",
           "year": 2025,
           "teamId": "iklegends",
-          "team": "IK Legends",
+          "team": "IK",
           "major": false,
           "source": "events-2025"
         },
@@ -5100,7 +5100,7 @@ window.HBSTV_PLAYER_INDEX = {
       "teams": [
         {
           "id": "iklegends",
-          "name": "IK Legends",
+          "name": "IK",
           "years": [
             2025
           ]
@@ -5140,7 +5140,7 @@ window.HBSTV_PLAYER_INDEX = {
           "title": "BCN | FINALS 25",
           "year": 2025,
           "teamId": "iklegends",
-          "team": "IK Legends",
+          "team": "IK",
           "major": false,
           "source": "events-2025"
         },
@@ -5275,7 +5275,7 @@ window.HBSTV_PLAYER_INDEX = {
       "teams": [
         {
           "id": "iklegends",
-          "name": "IK Legends",
+          "name": "IK",
           "years": [
             2025
           ]
@@ -5287,7 +5287,7 @@ window.HBSTV_PLAYER_INDEX = {
           "title": "BCN | LEAGUE 2025",
           "year": 2025,
           "teamId": "iklegends",
-          "team": "IK Legends",
+          "team": "IK",
           "major": false,
           "source": "events-2025"
         },
@@ -5296,7 +5296,7 @@ window.HBSTV_PLAYER_INDEX = {
           "title": "BCN | STRIKE CUP",
           "year": 2025,
           "teamId": "iklegends",
-          "team": "IK Legends",
+          "team": "IK",
           "major": false,
           "source": "events-2025"
         },
@@ -5305,7 +5305,7 @@ window.HBSTV_PLAYER_INDEX = {
           "title": "BCN | YALLA COMPASS 2025",
           "year": 2025,
           "teamId": "iklegends",
-          "team": "IK Legends",
+          "team": "IK",
           "major": false,
           "source": "events-2025"
         }
@@ -6125,7 +6125,7 @@ window.HBSTV_PLAYER_INDEX = {
       "teams": [
         {
           "id": "iklegends",
-          "name": "IK Legends",
+          "name": "IK",
           "years": [
             2025
           ]
@@ -6159,7 +6159,7 @@ window.HBSTV_PLAYER_INDEX = {
           "title": "XMS | MASTER LEAGUE",
           "year": 2025,
           "teamId": "iklegends",
-          "team": "IK Legends",
+          "team": "IK",
           "major": false,
           "source": "events-2025"
         },
@@ -6330,7 +6330,7 @@ window.HBSTV_PLAYER_INDEX = {
       "teams": [
         {
           "id": "iklegends",
-          "name": "IK Legends",
+          "name": "IK",
           "years": [
             2025
           ]
@@ -6356,7 +6356,7 @@ window.HBSTV_PLAYER_INDEX = {
           "title": "BCN | FINALS 25",
           "year": 2025,
           "teamId": "iklegends",
-          "team": "IK Legends",
+          "team": "IK",
           "major": false,
           "source": "events-2025"
         },
@@ -6365,7 +6365,7 @@ window.HBSTV_PLAYER_INDEX = {
           "title": "BCN | LEAGUE 2025",
           "year": 2025,
           "teamId": "iklegends",
-          "team": "IK Legends",
+          "team": "IK",
           "major": false,
           "source": "events-2025"
         },
@@ -6374,7 +6374,7 @@ window.HBSTV_PLAYER_INDEX = {
           "title": "BCN | STRIKE CUP",
           "year": 2025,
           "teamId": "iklegends",
-          "team": "IK Legends",
+          "team": "IK",
           "major": false,
           "source": "events-2025"
         },
@@ -6383,7 +6383,7 @@ window.HBSTV_PLAYER_INDEX = {
           "title": "BCN | YALLA COMPASS 2025",
           "year": 2025,
           "teamId": "iklegends",
-          "team": "IK Legends",
+          "team": "IK",
           "major": false,
           "source": "events-2025"
         },
@@ -6392,7 +6392,7 @@ window.HBSTV_PLAYER_INDEX = {
           "title": "LCS | LEAGUE S1",
           "year": 2025,
           "teamId": "iklegends",
-          "team": "IK Legends",
+          "team": "IK",
           "major": false,
           "source": "events-2025"
         },
@@ -6401,7 +6401,7 @@ window.HBSTV_PLAYER_INDEX = {
           "title": "XMS | MASTER LEAGUE",
           "year": 2025,
           "teamId": "iklegends",
-          "team": "IK Legends",
+          "team": "IK",
           "major": false,
           "source": "events-2025"
         },
@@ -6750,7 +6750,7 @@ window.HBSTV_PLAYER_INDEX = {
       "teams": [
         {
           "id": "iklegends",
-          "name": "IK Legends",
+          "name": "IK",
           "years": [
             2025
           ]
@@ -6784,7 +6784,7 @@ window.HBSTV_PLAYER_INDEX = {
           "title": "BCN | LEAGUE 2025",
           "year": 2025,
           "teamId": "iklegends",
-          "team": "IK Legends",
+          "team": "IK",
           "major": false,
           "source": "events-2025"
         },
@@ -6793,7 +6793,7 @@ window.HBSTV_PLAYER_INDEX = {
           "title": "BCN | YALLA COMPASS 2025",
           "year": 2025,
           "teamId": "iklegends",
-          "team": "IK Legends",
+          "team": "IK",
           "major": false,
           "source": "events-2025"
         },
@@ -7228,7 +7228,7 @@ window.HBSTV_PLAYER_INDEX = {
       "teams": [
         {
           "id": "iklegends",
-          "name": "IK Legends",
+          "name": "IK",
           "years": [
             2025
           ]
@@ -7247,7 +7247,7 @@ window.HBSTV_PLAYER_INDEX = {
           "title": "BCN | LEAGUE 2025",
           "year": 2025,
           "teamId": "iklegends",
-          "team": "IK Legends",
+          "team": "IK",
           "major": false,
           "source": "events-2025"
         },
@@ -7256,7 +7256,7 @@ window.HBSTV_PLAYER_INDEX = {
           "title": "BCN | STRIKE CUP",
           "year": 2025,
           "teamId": "iklegends",
-          "team": "IK Legends",
+          "team": "IK",
           "major": false,
           "source": "events-2025"
         },
@@ -7265,7 +7265,7 @@ window.HBSTV_PLAYER_INDEX = {
           "title": "BCN | YALLA COMPASS 2025",
           "year": 2025,
           "teamId": "iklegends",
-          "team": "IK Legends",
+          "team": "IK",
           "major": false,
           "source": "events-2025"
         },
@@ -7435,7 +7435,7 @@ window.HBSTV_PLAYER_INDEX = {
       "teams": [
         {
           "id": "iklegends",
-          "name": "IK Legends",
+          "name": "IK",
           "years": [
             2025
           ]
@@ -7499,7 +7499,7 @@ window.HBSTV_PLAYER_INDEX = {
           "title": "LCS | LEAGUE S1",
           "year": 2025,
           "teamId": "iklegends",
-          "team": "IK Legends",
+          "team": "IK",
           "major": false,
           "source": "events-2025"
         },
@@ -8382,7 +8382,7 @@ window.HBSTV_PLAYER_INDEX = {
       "teams": [
         {
           "id": "iklegends",
-          "name": "IK Legends",
+          "name": "IK",
           "years": [
             2025
           ]
@@ -8408,7 +8408,7 @@ window.HBSTV_PLAYER_INDEX = {
           "title": "XMS | MASTER LEAGUE",
           "year": 2025,
           "teamId": "iklegends",
-          "team": "IK Legends",
+          "team": "IK",
           "major": false,
           "source": "events-2025"
         },
@@ -8701,7 +8701,7 @@ window.HBSTV_PLAYER_INDEX = {
       "teams": [
         {
           "id": "iklegends",
-          "name": "IK Legends",
+          "name": "IK",
           "years": [
             2025
           ]
@@ -8713,7 +8713,7 @@ window.HBSTV_PLAYER_INDEX = {
           "title": "BCN | LEAGUE 2025",
           "year": 2025,
           "teamId": "iklegends",
-          "team": "IK Legends",
+          "team": "IK",
           "major": false,
           "source": "events-2025"
         },
@@ -8722,7 +8722,7 @@ window.HBSTV_PLAYER_INDEX = {
           "title": "BCN | STRIKE CUP",
           "year": 2025,
           "teamId": "iklegends",
-          "team": "IK Legends",
+          "team": "IK",
           "major": false,
           "source": "events-2025"
         },
@@ -8731,7 +8731,7 @@ window.HBSTV_PLAYER_INDEX = {
           "title": "BCN | YALLA COMPASS 2025",
           "year": 2025,
           "teamId": "iklegends",
-          "team": "IK Legends",
+          "team": "IK",
           "major": false,
           "source": "events-2025"
         }
@@ -9616,7 +9616,7 @@ window.HBSTV_PLAYER_INDEX = {
         },
         {
           "id": "iklegends",
-          "name": "IK Legends",
+          "name": "IK",
           "years": [
             2025
           ]
@@ -9807,7 +9807,7 @@ window.HBSTV_PLAYER_INDEX = {
       "teams": [
         {
           "id": "iklegends",
-          "name": "IK Legends",
+          "name": "IK",
           "years": [
             2025
           ]
@@ -9819,7 +9819,7 @@ window.HBSTV_PLAYER_INDEX = {
           "title": "XMS | MASTER LEAGUE",
           "year": 2025,
           "teamId": "iklegends",
-          "team": "IK Legends",
+          "team": "IK",
           "major": false,
           "source": "events-2025"
         }
@@ -10987,7 +10987,7 @@ window.HBSTV_PLAYER_INDEX = {
       "teams": [
         {
           "id": "iklegends",
-          "name": "IK Legends",
+          "name": "IK",
           "years": [
             2025
           ]
@@ -11020,7 +11020,7 @@ window.HBSTV_PLAYER_INDEX = {
           "title": "BCN | FINALS 25",
           "year": 2025,
           "teamId": "iklegends",
-          "team": "IK Legends",
+          "team": "IK",
           "major": false,
           "source": "events-2025"
         },
@@ -11029,7 +11029,7 @@ window.HBSTV_PLAYER_INDEX = {
           "title": "BCN | LEAGUE 2025",
           "year": 2025,
           "teamId": "iklegends",
-          "team": "IK Legends",
+          "team": "IK",
           "major": false,
           "source": "events-2025"
         },
@@ -11038,7 +11038,7 @@ window.HBSTV_PLAYER_INDEX = {
           "title": "BCN | STRIKE CUP",
           "year": 2025,
           "teamId": "iklegends",
-          "team": "IK Legends",
+          "team": "IK",
           "major": false,
           "source": "events-2025"
         },
@@ -11047,7 +11047,7 @@ window.HBSTV_PLAYER_INDEX = {
           "title": "BCN | YALLA COMPASS 2025",
           "year": 2025,
           "teamId": "iklegends",
-          "team": "IK Legends",
+          "team": "IK",
           "major": false,
           "source": "events-2025"
         },
@@ -11056,7 +11056,7 @@ window.HBSTV_PLAYER_INDEX = {
           "title": "LCS | LEAGUE S1",
           "year": 2025,
           "teamId": "iklegends",
-          "team": "IK Legends",
+          "team": "IK",
           "major": false,
           "source": "events-2025"
         },
@@ -11065,7 +11065,7 @@ window.HBSTV_PLAYER_INDEX = {
           "title": "XMS | MASTER LEAGUE",
           "year": 2025,
           "teamId": "iklegends",
-          "team": "IK Legends",
+          "team": "IK",
           "major": false,
           "source": "events-2025"
         },
@@ -11333,7 +11333,7 @@ window.HBSTV_PLAYER_INDEX = {
       "teams": [
         {
           "id": "iklegends",
-          "name": "IK Legends",
+          "name": "IK",
           "years": [
             2025
           ]
@@ -11383,7 +11383,7 @@ window.HBSTV_PLAYER_INDEX = {
           "title": "BCN | FINALS 25",
           "year": 2025,
           "teamId": "iklegends",
-          "team": "IK Legends",
+          "team": "IK",
           "major": false,
           "source": "events-2025"
         },
@@ -12767,7 +12767,7 @@ window.HBSTV_PLAYER_INDEX = {
       "teams": [
         {
           "id": "iklegends",
-          "name": "IK Legends",
+          "name": "IK",
           "years": [
             2025
           ]
@@ -12807,7 +12807,7 @@ window.HBSTV_PLAYER_INDEX = {
           "title": "BCN | FINALS 25",
           "year": 2025,
           "teamId": "iklegends",
-          "team": "IK Legends",
+          "team": "IK",
           "major": false,
           "source": "events-2025"
         },
@@ -12816,7 +12816,7 @@ window.HBSTV_PLAYER_INDEX = {
           "title": "BCN | LEAGUE 2025",
           "year": 2025,
           "teamId": "iklegends",
-          "team": "IK Legends",
+          "team": "IK",
           "major": false,
           "source": "events-2025"
         },
@@ -12825,7 +12825,7 @@ window.HBSTV_PLAYER_INDEX = {
           "title": "BCN | STRIKE CUP",
           "year": 2025,
           "teamId": "iklegends",
-          "team": "IK Legends",
+          "team": "IK",
           "major": false,
           "source": "events-2025"
         },
@@ -12834,7 +12834,7 @@ window.HBSTV_PLAYER_INDEX = {
           "title": "BCN | YALLA COMPASS 2025",
           "year": 2025,
           "teamId": "iklegends",
-          "team": "IK Legends",
+          "team": "IK",
           "major": false,
           "source": "events-2025"
         },
@@ -12843,7 +12843,7 @@ window.HBSTV_PLAYER_INDEX = {
           "title": "LCS | LEAGUE S1",
           "year": 2025,
           "teamId": "iklegends",
-          "team": "IK Legends",
+          "team": "IK",
           "major": false,
           "source": "events-2025"
         },
@@ -12852,7 +12852,7 @@ window.HBSTV_PLAYER_INDEX = {
           "title": "XMS | MASTER LEAGUE",
           "year": 2025,
           "teamId": "iklegends",
-          "team": "IK Legends",
+          "team": "IK",
           "major": false,
           "source": "events-2025"
         },

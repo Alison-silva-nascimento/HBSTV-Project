@@ -1185,10 +1185,9 @@ window.HBSTV_TEAMS = [
   },
   {
     "id": "iklegends",
-    "name": "IK Legends",
+    "name": "IK",
     "aliases": [
-      "IK LEGENDS",
-      "iK"
+      "IK"
     ],
     "titles": [
       {

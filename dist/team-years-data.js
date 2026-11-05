@@ -2,7 +2,7 @@ window.RANKS_TEAM_YEARS = {
   "champions": [
     {
       "year": 2025,
-      "name": "IK Legends",
+      "name": "IK",
       "roster": [
         "Tabsen",
         "Insani",
@@ -306,7 +306,7 @@ window.RANKS_TEAM_YEARS = {
       "teams": [
         {
           "rank": 1,
-          "name": "IK LEGENDS",
+          "name": "IK",
           "roster": [
             "BETÃO",
             "TABSEN",

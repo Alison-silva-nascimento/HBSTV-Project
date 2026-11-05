@@ -1,6 +1,6 @@
 const fs=require('node:fs');
 const rows=[
-[2025,'IK Legends','6f4711e32c84829117e2.jpg',['Tabsen','Insani','Zeldris','Conjure','Invoke','Salty','Hardzera','Lucas','Jeff','PZ579','Neguin','Marvywn'],['BCN | Strike Cup','BCN | Yalla Compass 2025','BCN | League 2025','XMS | Master League','LCS | LCS League S1','LCS | LCS League S2','BCN | Finals 2025']],
+[2025,'IK','6f4711e32c84829117e2.jpg',['Tabsen','Insani','Zeldris','Conjure','Invoke','Salty','Hardzera','Lucas','Jeff','PZ579','Neguin','Marvywn'],['BCN | Strike Cup','BCN | Yalla Compass 2025','BCN | League 2025','XMS | Master League','LCS | LCS League S1','LCS | LCS League S2','BCN | Finals 2025']],
 [2024,'Miracle','7efb20f87d91cfd77311.jpeg',['Leonardo “4i20”','Ryan “NIKO”','Victor “T10”','Gabriel “DOLLYN”','Victor “VNCX”','Ysn “Tamashi”','Wen “Wentyl”','Bob “Bonjour”'],['GZ BGE','GZ PSL','BSTV Insanity S1','WHL World Ranking']],
 [2023,'Chaos Sports Club','ad01ce3028b8f3b83dae.jpeg',['Eduardo “Oskar”','Yan “Scr1mx”','Marcos “Valknut”','Savio “FNX”','Rodrigo “Noway”','Bryan “KMX”','Allysson “ZDR”','Carlos “UCH”','Felipe “NooN”','Victor “Bronkz”','Caua “Cauajr”','Erick “DarK”','Bernardo “Bee”'],['GSC Pro Series','GSC Pro League','WHL ESL s2','RANK S Invitational','GZ Sanity Cup','RANK S DreamHack','ESC Libertadores','RANK S Major League']],
 [2021,'Team Infinity','de3443dafa74cd6a62ab.jpeg',['Alysson “ShelzZ”','Lucas “Ryota”','Hernani “Kscerato”','Kauan “rN”','Kauã “Conjure”','Matheus “FugLY”','Renan “inovate”'],['GSE Masters','PNL Peninsula Cup','LCB Pro League','LCB Masters','SUVOH Major']],
