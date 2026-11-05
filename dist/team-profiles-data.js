@@ -8474,7 +8474,7 @@ window.HBSTV_TEAMS = [
     "titles": [
       {
         "id": "2018:tslcbbs20",
-        "title": "TSL | CBBS 2.0 2018",
+        "title": "TSL | CBBS 2.0",
         "year": 2018,
         "source": "owner-confirmed",
         "sourceNote": "Título e jogadores confirmados pelo proprietário do site.",

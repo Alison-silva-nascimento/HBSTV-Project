@@ -1351,7 +1351,7 @@ window.HBSTV_PLAYER_INDEX = {
       "titles": [
         {
           "id": "2018:tslcbbs20",
-          "title": "TSL | CBBS 2.0 2018",
+          "title": "TSL | CBBS 2.0",
           "year": 2018,
           "teamId": "stompatopteam",
           "team": "STOMPA TOP TEAM",
@@ -1698,7 +1698,7 @@ window.HBSTV_PLAYER_INDEX = {
       "titles": [
         {
           "id": "2018:tslcbbs20",
-          "title": "TSL | CBBS 2.0 2018",
+          "title": "TSL | CBBS 2.0",
           "year": 2018,
           "teamId": "stompatopteam",
           "team": "STOMPA TOP TEAM",
@@ -4104,7 +4104,7 @@ window.HBSTV_PLAYER_INDEX = {
       "titles": [
         {
           "id": "2018:tslcbbs20",
-          "title": "TSL | CBBS 2.0 2018",
+          "title": "TSL | CBBS 2.0",
           "year": 2018,
           "teamId": "stompatopteam",
           "team": "STOMPA TOP TEAM",
@@ -4460,7 +4460,7 @@ window.HBSTV_PLAYER_INDEX = {
         },
         {
           "id": "2018:tslcbbs20",
-          "title": "TSL | CBBS 2.0 2018",
+          "title": "TSL | CBBS 2.0",
           "year": 2018,
           "teamId": "stompatopteam",
           "team": "STOMPA TOP TEAM",
@@ -8223,7 +8223,7 @@ window.HBSTV_PLAYER_INDEX = {
       "titles": [
         {
           "id": "2018:tslcbbs20",
-          "title": "TSL | CBBS 2.0 2018",
+          "title": "TSL | CBBS 2.0",
           "year": 2018,
           "teamId": "stompatopteam",
           "team": "STOMPA TOP TEAM",
@@ -11752,7 +11752,7 @@ window.HBSTV_PLAYER_INDEX = {
       "titles": [
         {
           "id": "2018:tslcbbs20",
-          "title": "TSL | CBBS 2.0 2018",
+          "title": "TSL | CBBS 2.0",
           "year": 2018,
           "teamId": "stompatopteam",
           "team": "STOMPA TOP TEAM",

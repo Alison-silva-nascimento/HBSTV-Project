@@ -1314,7 +1314,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "2018:tslcbbs20",
-          "title": "TSL | CBBS 2.0 2018",
+          "title": "TSL | CBBS 2.0",
           "year": 2018,
           "teamId": "stompatopteam",
           "team": "STOMPA TOP TEAM",
@@ -1661,7 +1661,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "2018:tslcbbs20",
-          "title": "TSL | CBBS 2.0 2018",
+          "title": "TSL | CBBS 2.0",
           "year": 2018,
           "teamId": "stompatopteam",
           "team": "STOMPA TOP TEAM",
@@ -4068,7 +4068,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "2018:tslcbbs20",
-          "title": "TSL | CBBS 2.0 2018",
+          "title": "TSL | CBBS 2.0",
           "year": 2018,
           "teamId": "stompatopteam",
           "team": "STOMPA TOP TEAM",
@@ -4424,7 +4424,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2018:tslcbbs20",
-          "title": "TSL | CBBS 2.0 2018",
+          "title": "TSL | CBBS 2.0",
           "year": 2018,
           "teamId": "stompatopteam",
           "team": "STOMPA TOP TEAM",
@@ -8189,7 +8189,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "2018:tslcbbs20",
-          "title": "TSL | CBBS 2.0 2018",
+          "title": "TSL | CBBS 2.0",
           "year": 2018,
           "teamId": "stompatopteam",
           "team": "STOMPA TOP TEAM",
@@ -11719,7 +11719,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "2018:tslcbbs20",
-          "title": "TSL | CBBS 2.0 2018",
+          "title": "TSL | CBBS 2.0",
           "year": 2018,
           "teamId": "stompatopteam",
           "team": "STOMPA TOP TEAM",
@@ -16208,7 +16208,7 @@ window.HBSTV_DATABASE = {
     },
     {
       "id": "2018:tslcbbs20",
-      "title": "TSL | CBBS 2.0 2018",
+      "title": "TSL | CBBS 2.0",
       "year": 2018,
       "organizer": "TSL",
       "major": false,
@@ -24906,7 +24906,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "2018:tslcbbs20",
-          "title": "TSL | CBBS 2.0 2018",
+          "title": "TSL | CBBS 2.0",
           "year": 2018,
           "source": "owner-confirmed",
           "sourceNote": "Título e jogadores confirmados pelo proprietário do site.",
