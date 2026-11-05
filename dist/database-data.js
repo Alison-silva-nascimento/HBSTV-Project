@@ -15159,7 +15159,7 @@ window.HBSTV_DATABASE = {
     },
     {
       "id": "2021:gsemasters",
-      "title": "GSE | Masters",
+      "title": "GSE | Masters Inverno",
       "year": 2021,
       "organizer": "GSE",
       "major": false,
@@ -19255,7 +19255,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "2021:gsemasters",
-          "title": "GSE Masters",
+          "title": "GSE | Masters Inverno",
           "year": 2021,
           "source": "top-1-teams-of-years",
           "major": false,
