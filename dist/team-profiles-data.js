@@ -3479,6 +3479,16 @@ window.HBSTV_TEAMS = [
         ]
       },
       {
+        "id": "shelzz",
+        "name": "ShelzZ",
+        "years": [
+          2024
+        ],
+        "sources": [
+          "Passagem pela Miracle em 2024 confirmada pelo proprietário do site."
+        ]
+      },
+      {
         "id": "t1o",
         "name": "T10",
         "years": [
@@ -5272,16 +5282,6 @@ window.HBSTV_TEAMS = [
         ],
         "sources": [
           "events-2025"
-        ]
-      },
-      {
-        "id": "shelzz",
-        "name": "ShelzZ",
-        "years": [
-          2025
-        ],
-        "sources": [
-          "Passagem pela VISS em 2025 confirmada pelo proprietário do site."
         ]
       },
       {

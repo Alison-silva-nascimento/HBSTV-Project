@@ -10354,13 +10354,6 @@ window.HBSTV_PLAYER_INDEX = {
       "realNames": [],
       "teams": [
         {
-          "id": "vissionary",
-          "name": "Vissionary",
-          "years": [
-            2025
-          ]
-        },
-        {
           "id": "d2w",
           "name": "D2W",
           "years": [
@@ -10370,6 +10363,13 @@ window.HBSTV_PLAYER_INDEX = {
         {
           "id": "sdpinterlude",
           "name": "SDP Interlude",
+          "years": [
+            2024
+          ]
+        },
+        {
+          "id": "miracle",
+          "name": "Miracle",
           "years": [
             2024
           ]
