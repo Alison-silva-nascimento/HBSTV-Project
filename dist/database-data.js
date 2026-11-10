@@ -15,7 +15,7 @@ window.HBSTV_DATABASE = {
       "evps": [
         {
           "id": "2024:llpstrikeones4",
-          "title": "LLP | STRIKE ONE SEASON 4 [TIER S]",
+          "title": "LLP | STRIKE ONE SEASON 4",
           "year": 2024,
           "source": "events-2024"
         }
@@ -134,20 +134,20 @@ window.HBSTV_DATABASE = {
           "source": "events-2025"
         },
         {
-          "id": "2025:bsgbpl",
-          "title": "BSG | BPL",
-          "year": 2025,
-          "teamId": "vissionary",
-          "team": "Vissionary",
-          "major": false,
-          "source": "events-2025"
-        },
-        {
           "id": "2025:bcnstrikecup20",
           "title": "BCN | STRIKE CUP 2.0",
           "year": 2025,
           "teamId": "exeteam",
           "team": "EXE Team",
+          "major": false,
+          "source": "events-2025"
+        },
+        {
+          "id": "2025:bsgbpl",
+          "title": "BSG | BPL",
+          "year": 2025,
+          "teamId": "vissionary",
+          "team": "Vissionary",
           "major": false,
           "source": "events-2025"
         },
@@ -161,26 +161,17 @@ window.HBSTV_DATABASE = {
           "source": "events-2025"
         },
         {
-          "id": "2024:gzgamingelite",
-          "title": "GAMEZONE | BRASIL GAMING ELITE [TIER S]",
+          "id": "2024:bsgchallengersprotour",
+          "title": "BS:G | CHALLENGERS PRO TOUR",
           "year": 2024,
-          "teamId": "d2w",
-          "team": "D2W",
-          "major": false,
-          "source": "events-2024"
-        },
-        {
-          "id": "2024:whlworldrankings2",
-          "title": "WHL | WORLD RANKING S2 [TIER S]",
-          "year": 2024,
-          "teamId": "d2w",
-          "team": "D2W",
+          "teamId": "csl",
+          "team": "CSL",
           "major": false,
           "source": "events-2024"
         },
         {
           "id": "2024:bstvinsanitys1",
-          "title": "BSTV | INSANITY SEASON 1 [TIER S+]",
+          "title": "BSTV | INSANITY SEASON 1",
           "year": 2024,
           "teamId": "miracle",
           "team": "Miracle",
@@ -188,8 +179,17 @@ window.HBSTV_DATABASE = {
           "source": "events-2024"
         },
         {
+          "id": "2024:gzgamingelite",
+          "title": "GAMEZONE | BRASIL GAMING ELITE",
+          "year": 2024,
+          "teamId": "d2w",
+          "team": "D2W",
+          "major": false,
+          "source": "events-2024"
+        },
+        {
           "id": "2024:gzproseriesleague",
-          "title": "GAMEZONE | PRO SERIES LEAGUE [TIER S]",
+          "title": "GAMEZONE | PRO SERIES LEAGUE",
           "year": 2024,
           "teamId": "miracle",
           "team": "Miracle",
@@ -198,28 +198,28 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2024:gzproseriesleagues3",
-          "title": "GAMEZONE | PRO SERIES LEAGUE SEASON 3 [TIER S+]",
+          "title": "GAMEZONE | PRO SERIES LEAGUE SEASON 3",
           "year": 2024,
           "teamId": "vissionary",
           "team": "Vissionary",
+          "major": false,
+          "source": "events-2024"
+        },
+        {
+          "id": "2024:whlworldrankings2",
+          "title": "WHL | WORLD RANKING S2",
+          "year": 2024,
+          "teamId": "d2w",
+          "team": "D2W",
           "major": false,
           "source": "events-2024"
         },
         {
           "id": "2024:xmsxbstvdreammastersstarss2",
-          "title": "XMS x BSTV | DREAM MASTERS STARS S2 [TIER S]",
+          "title": "XMS x BSTV | DREAM MASTERS STARS S2",
           "year": 2024,
           "teamId": "vissionary",
           "team": "Vissionary",
-          "major": false,
-          "source": "events-2024"
-        },
-        {
-          "id": "2024:bsgchallengersprotour",
-          "title": "BS:G | CHALLENGERS PRO TOUR [TIER S]",
-          "year": 2024,
-          "teamId": "csl",
-          "team": "CSL",
           "major": false,
           "source": "events-2024"
         },
@@ -262,20 +262,20 @@ window.HBSTV_DATABASE = {
       ],
       "mvps": [
         {
-          "id": "2025:whlleagues2",
-          "title": "WHL | LEAGUE S2",
-          "year": 2025,
-          "source": "events-2025"
-        },
-        {
           "id": "2025:bsgbpl",
           "title": "BSG | BPL",
           "year": 2025,
           "source": "events-2025"
         },
         {
+          "id": "2025:whlleagues2",
+          "title": "WHL | LEAGUE S2",
+          "year": 2025,
+          "source": "events-2025"
+        },
+        {
           "id": "2024:bsgchallengersprotour",
-          "title": "BS:G | CHALLENGERS PRO TOUR [TIER S]",
+          "title": "BS:G | CHALLENGERS PRO TOUR",
           "year": 2024,
           "source": "events-2024"
         },
@@ -306,20 +306,14 @@ window.HBSTV_DATABASE = {
       ],
       "evps": [
         {
-          "id": "2025:bcnfinals",
-          "title": "BCN | FINALS 25",
-          "year": 2025,
-          "source": "events-2025"
-        },
-        {
-          "id": "2025:bcnstrikecup20",
-          "title": "BCN | STRIKE CUP 2.0",
-          "year": 2025,
-          "source": "events-2025"
-        },
-        {
           "id": "2025:bcnemulabilecup",
           "title": "BCN | EMULABILE CUP",
+          "year": 2025,
+          "source": "events-2025"
+        },
+        {
+          "id": "2025:bcnfinals",
+          "title": "BCN | FINALS 25",
           "year": 2025,
           "source": "events-2025"
         },
@@ -330,90 +324,88 @@ window.HBSTV_DATABASE = {
           "source": "events-2025"
         },
         {
-          "id": "2024:gzproseriesleagues3",
-          "title": "GAMEZONE | PRO SERIES LEAGUE SEASON 3 [TIER S+]",
-          "year": 2024,
-          "source": "events-2024"
-        },
-        {
-          "id": "2024:xmsxbstvdreammastersstarss2",
-          "title": "XMS x BSTV | DREAM MASTERS STARS S2 [TIER S]",
-          "year": 2024,
-          "source": "events-2024"
-        },
-        {
-          "id": "2024:gzproseriesleagues2",
-          "title": "GAMEZONE | PRO SERIES LEAGUE SEASON 2 [TIER S]",
-          "year": 2024,
-          "source": "events-2024"
-        },
-        {
-          "id": "2024:xmsextrememasters",
-          "title": "XMS | EXTREME MASTERS [TIER S]",
-          "year": 2024,
-          "source": "events-2024"
+          "id": "2025:bcnstrikecup20",
+          "title": "BCN | STRIKE CUP 2.0",
+          "year": 2025,
+          "source": "events-2025"
         },
         {
           "id": "2024:bcnchallengers",
-          "title": "BCN | CHALLENGERS BRAZIL [TIER S]",
+          "title": "BCN | CHALLENGERS BRAZIL",
           "year": 2024,
           "source": "events-2024"
         },
         {
           "id": "2024:bcnyallacompass",
-          "title": "BCN | YALLA COMPASS 2024 [TIER S]",
-          "year": 2024,
-          "source": "events-2024"
-        },
-        {
-          "id": "2024:gzproseriesleague",
-          "title": "GAMEZONE | PRO SERIES LEAGUE [TIER S]",
+          "title": "BCN | YALLA COMPASS 2024",
           "year": 2024,
           "source": "events-2024"
         },
         {
           "id": "2024:bstvinsanitys1",
-          "title": "BSTV | INSANITY SEASON 1 [TIER S+]",
+          "title": "BSTV | INSANITY SEASON 1",
           "year": 2024,
           "source": "events-2024"
         },
         {
           "id": "2024:gznewage",
-          "title": "GAMEZONE | NEW AGE [TIER S]",
+          "title": "GAMEZONE | NEW AGE",
+          "year": 2024,
+          "source": "events-2024"
+        },
+        {
+          "id": "2024:gzproseriesleague",
+          "title": "GAMEZONE | PRO SERIES LEAGUE",
+          "year": 2024,
+          "source": "events-2024"
+        },
+        {
+          "id": "2024:gzproseriesleagues2",
+          "title": "GAMEZONE | PRO SERIES LEAGUE SEASON 2",
+          "year": 2024,
+          "source": "events-2024"
+        },
+        {
+          "id": "2024:gzproseriesleagues3",
+          "title": "GAMEZONE | PRO SERIES LEAGUE SEASON 3",
+          "year": 2024,
+          "source": "events-2024"
+        },
+        {
+          "id": "2024:xmsextrememasters",
+          "title": "XMS | EXTREME MASTERS",
+          "year": 2024,
+          "source": "events-2024"
+        },
+        {
+          "id": "2024:xmsxbstvdreammastersstarss2",
+          "title": "XMS x BSTV | DREAM MASTERS STARS S2",
           "year": 2024,
           "source": "events-2024"
         },
         {
           "id": "2023:ranksdreamhack",
-          "title": "RANK S | DREAM HACK BRAZIL [TIER S]",
+          "title": "RANK S | DREAM HACK BRAZIL",
           "year": 2023,
           "source": "events-2023"
         },
         {
           "id": "2023:ranksinvitational",
-          "title": "RANK S | INVITATIONAL LEAGUE 2023 [TIER S]",
+          "title": "RANK S | INVITATIONAL LEAGUE 2023",
           "year": 2023,
           "source": "events-2023"
         },
         {
           "id": "2023:tslblaststrikeleague",
-          "title": "TSL | BLAST STRIKE LEAGUE [TIER S]",
+          "title": "TSL | BLAST STRIKE LEAGUE",
           "year": 2023,
           "source": "events-2023"
         },
         {
           "id": "2023:whlztournoment",
-          "title": "WHL | Z TOURNOMENT [ TIER S]",
+          "title": "WHL | Z TOURNOMENT",
           "year": 2023,
           "source": "events-2023"
-        },
-        {
-          "id": "major:188f48896736e07cbe4d",
-          "title": "TSL | MAJOR PREMIERE 2.0",
-          "year": 2018,
-          "source": "major-history",
-          "sourceImage": "assets/archive/188f48896736e07cbe4d.jpeg",
-          "major": true
         },
         {
           "id": "major:ba4b48dba7cb6e5526a7",
@@ -421,6 +413,14 @@ window.HBSTV_DATABASE = {
           "year": 2018,
           "source": "major-history",
           "sourceImage": "assets/archive/ba4b48dba7cb6e5526a7.jpeg",
+          "major": true
+        },
+        {
+          "id": "major:188f48896736e07cbe4d",
+          "title": "TSL | MAJOR PREMIERE 2.0",
+          "year": 2018,
+          "source": "major-history",
+          "sourceImage": "assets/archive/188f48896736e07cbe4d.jpeg",
           "major": true
         }
       ],
@@ -486,6 +486,197 @@ window.HBSTV_DATABASE = {
           "sourceImage": "assets/archive/98dbd927447979b7c66e.png",
           "source": "ak-de-ouro-awards"
         }
+      ],
+      "historicalTitles": [
+        {
+          "id": "hof:2017:TSL:majorcup",
+          "title": "TSL | MAJOR CUP 2017",
+          "year": 2017,
+          "organizer": "TSL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2018:tslhardnesleague",
+          "title": "TSL | Hardness Pro League",
+          "year": 2018,
+          "organizer": "TSL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2018:tslextrememasters",
+          "title": "TSL | Brasil extreme Masters",
+          "year": 2018,
+          "organizer": "TSL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2018:tslmajorcup",
+          "title": "TSL | MAJOR CUP",
+          "year": 2018,
+          "organizer": "TSL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "major:ba4b48dba7cb6e5526a7",
+          "title": "TSL | MAJOR PREMIERE",
+          "year": 2018,
+          "organizer": "TSL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2018:TSL:mundial",
+          "title": "TSL I MUNDIAL 2018",
+          "year": 2018,
+          "organizer": "TSL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "major:4ed7f41456f8697e77c6",
+          "title": "GSE | MAJOR Adrenaline",
+          "year": 2020,
+          "organizer": "GSE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2021:GSE:mastersverao",
+          "title": "GSE | MASTERS VERÃO 2021",
+          "year": 2021,
+          "organizer": "GSE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2021:LCB:blockstrikeleague",
+          "title": "LCB | BLOCK STRIKE LEAGUE 2021",
+          "year": 2021,
+          "organizer": "LCB",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2021:lcbmasters",
+          "title": "LCB | Masters",
+          "year": 2021,
+          "organizer": "LCB",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2021:SUVOH:loftuscup",
+          "title": "SUVOH | LOFTUS CUP 2021",
+          "year": 2021,
+          "organizer": "SUVOH",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2021:GLBS:gameleague",
+          "title": "GLBS | GAME LEAGUE 2021",
+          "year": 2021,
+          "organizer": "GLBS",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2021:TSL:suzuka",
+          "title": "TSL | SUZUKA 2021",
+          "year": 2021,
+          "organizer": "TSL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2021:TSL:seasonone",
+          "title": "TSL |  SEASON ONE 2021",
+          "year": 2021,
+          "organizer": "TSL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "major:86ed67893904be137a59",
+          "title": "TSL | MAJOR",
+          "year": 2021,
+          "organizer": "TSL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2024:whlworldranking",
+          "title": "WHL | World Ranking",
+          "year": 2024,
+          "organizer": "WHL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2024:gzgamingelite",
+          "title": "GAMEZONE | BRASIL GAMING ELITE",
+          "year": 2024,
+          "organizer": "GAMEZONE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2024:GAMEZONE:pslseason1",
+          "title": "GZ | PSL Season  1 2024",
+          "year": 2024,
+          "organizer": "GAMEZONE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2024:bstvinsanitys1",
+          "title": "BSTV | INSANITY SEASON 1",
+          "year": 2024,
+          "organizer": "BSTV",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2024:FX:copafx",
+          "title": "FX |  COPA FX 2024",
+          "year": 2024,
+          "organizer": "FX",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2024:bsgchallengersprotour",
+          "title": "BS:G | CHALLENGERS PRO TOUR",
+          "year": 2024,
+          "organizer": "BSG",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2024:XMS:dreammastersstar",
+          "title": "XMS | DREAM MASTERS STAR 2024",
+          "year": 2024,
+          "organizer": "XMS",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2024:GAMEZONE:pslseason3",
+          "title": "GZ | PSL SEASON 3 2024",
+          "year": 2024,
+          "organizer": "GAMEZONE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2025:BPL:brazilproleague",
+          "title": "BPL | BRAZIL PRO LEAGUE 2025",
+          "year": 2025,
+          "organizer": "BPL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2025:bcnemulabilecup",
+          "title": "BCN | EMULABILE CUP",
+          "year": 2025,
+          "organizer": "BCN",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2025:WHL:leagueseason2",
+          "title": "WHL | LEAGUE SEASON 2 2025",
+          "year": 2025,
+          "organizer": "WHL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2025:bcnstrikecup20",
+          "title": "BCN | STRIKE CUP 2.0",
+          "year": 2025,
+          "organizer": "BCN",
+          "source": "hall-of-fame"
+        }
       ]
     },
     {
@@ -532,7 +723,107 @@ window.HBSTV_DATABASE = {
           "country": "BR"
         }
       ],
-      "awards": []
+      "awards": [],
+      "historicalTitles": [
+        {
+          "id": "hof:2017:TSL:majorcup",
+          "title": "TSL | MAJOR CUP 2017",
+          "year": 2017,
+          "organizer": "TSL",
+          "source": "hall-of-fame-3"
+        },
+        {
+          "id": "hof:2018:TSL:cbbs10",
+          "title": "TSL | CBBS 1.0 2018",
+          "year": 2018,
+          "organizer": "TSL",
+          "source": "hall-of-fame-3"
+        },
+        {
+          "id": "2018:tslmajorcup",
+          "title": "TSL | MAJOR CUP",
+          "year": 2018,
+          "organizer": "TSL",
+          "source": "hall-of-fame-3"
+        },
+        {
+          "id": "2018:tslhardnesleague",
+          "title": "TSL | Hardness Pro League",
+          "year": 2018,
+          "organizer": "TSL",
+          "source": "hall-of-fame-3"
+        },
+        {
+          "id": "2018:tslextrememasters",
+          "title": "TSL | Brasil extreme Masters",
+          "year": 2018,
+          "organizer": "TSL",
+          "source": "hall-of-fame-3"
+        },
+        {
+          "id": "major:ba4b48dba7cb6e5526a7",
+          "title": "TSL | MAJOR PREMIERE",
+          "year": 2018,
+          "organizer": "TSL",
+          "source": "hall-of-fame-3"
+        },
+        {
+          "id": "hof:2020:TSL:worldproleague",
+          "title": "TSL  | WORLD PRO LEAGUE 2020",
+          "year": 2020,
+          "organizer": "TSL",
+          "source": "hall-of-fame-3"
+        },
+        {
+          "id": "hof:2021:LCB:blockstrikeleague",
+          "title": "LCB | BLOCK STRIKE LEAGUE 2021",
+          "year": 2021,
+          "organizer": "LCB",
+          "source": "hall-of-fame-3"
+        },
+        {
+          "id": "2021:lcbmasters",
+          "title": "LCB | Masters",
+          "year": 2021,
+          "organizer": "LCB",
+          "source": "hall-of-fame-3"
+        },
+        {
+          "id": "hof:2021:SUVOH:loftuscup",
+          "title": "SUVOH | LOFTUS CUP 2021",
+          "year": 2021,
+          "organizer": "SUVOH",
+          "source": "hall-of-fame-3"
+        },
+        {
+          "id": "hof:2021:GLBS:gameleague",
+          "title": "GLBS | GAME LEAGUE 2021",
+          "year": 2021,
+          "organizer": "GLBS",
+          "source": "hall-of-fame-3"
+        },
+        {
+          "id": "hof:2021:TSL:smackcup",
+          "title": "TSL | SMACK 2021",
+          "year": 2021,
+          "organizer": "TSL",
+          "source": "hall-of-fame-3"
+        },
+        {
+          "id": "hof:2021:TSL:seasonone",
+          "title": "TSL |  SEASON ONE 2021",
+          "year": 2021,
+          "organizer": "TSL",
+          "source": "hall-of-fame-3"
+        },
+        {
+          "id": "major:86ed67893904be137a59",
+          "title": "TSL | MAJOR",
+          "year": 2021,
+          "organizer": "TSL",
+          "source": "hall-of-fame-3"
+        }
+      ]
     },
     {
       "id": "adren",
@@ -559,7 +850,22 @@ window.HBSTV_DATABASE = {
       ],
       "titles": [],
       "mvps": [],
-      "evps": [],
+      "evps": [
+        {
+          "id": "2020:acecup",
+          "title": "ACE | Cup Season 1",
+          "year": 2020,
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:lcbproleague",
+          "title": "LCB | Pro League",
+          "year": 2020,
+          "major": false,
+          "source": "owner-confirmed"
+        }
+      ],
       "rankings": [
         {
           "year": 2020,
@@ -572,7 +878,93 @@ window.HBSTV_DATABASE = {
           "country": "BR"
         }
       ],
-      "awards": []
+      "awards": [],
+      "historicalTitles": [
+        {
+          "id": "major:7713f3c1b8fa50d7e849",
+          "title": "GSE | Brasil Extreme Masters MAJOR",
+          "year": 2019,
+          "organizer": "GSE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2019:gsehpls3",
+          "title": "GSE | HPL Season 3",
+          "year": 2019,
+          "organizer": "GSE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2019:gsetourii",
+          "title": "GSE | Tour II 2019",
+          "year": 2019,
+          "organizer": "GSE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2019:gseproleague",
+          "title": "GSE | Pro League 2019",
+          "year": 2019,
+          "organizer": "GSE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2020:tslnodus",
+          "title": "TSL | Nodus",
+          "year": 2020,
+          "organizer": "TSL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2020:tslrenovatedgameleague",
+          "title": "TSL | Renovated Game League",
+          "year": 2020,
+          "organizer": "TSL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2020:mawares",
+          "title": "MAWARE | Season",
+          "year": 2020,
+          "organizer": "MAWARE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2020:gseproleague",
+          "title": "GSE | Pro League",
+          "year": 2020,
+          "organizer": "GSE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2020:acecup",
+          "title": "ACE | Cup Season 1",
+          "year": 2020,
+          "organizer": "ACE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2020:lcbproleague",
+          "title": "LCB | Pro League",
+          "year": 2020,
+          "organizer": "LCB",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2020:gsetour",
+          "title": "GSE | Tour",
+          "year": 2020,
+          "organizer": "GSE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2020:tslmjonircup",
+          "title": "TSL | Mjonir Cup",
+          "year": 2020,
+          "organizer": "TSL",
+          "source": "hall-of-fame"
+        }
+      ]
     },
     {
       "id": "aerial",
@@ -620,7 +1012,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "2023:lhaworldcupofclans",
-          "title": "LHA | WORLD CUP OF CLANS [TIER S+]",
+          "title": "LHA | WORLD CUP OF CLANS",
           "year": 2023,
           "teamId": "bm",
           "team": "BM",
@@ -629,7 +1021,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2023:whlleague",
-          "title": "WHL | LEAGUE 2023 [TIER S]",
+          "title": "WHL | LEAGUE 2023",
           "year": 2023,
           "teamId": "v13",
           "team": "V13",
@@ -641,13 +1033,13 @@ window.HBSTV_DATABASE = {
       "evps": [
         {
           "id": "2024:xmsextrememasters",
-          "title": "XMS | EXTREME MASTERS [TIER S]",
+          "title": "XMS | EXTREME MASTERS",
           "year": 2024,
           "source": "events-2024"
         },
         {
           "id": "2023:lhaworldcupofclans",
-          "title": "LHA | WORLD CUP OF CLANS [TIER S+]",
+          "title": "LHA | WORLD CUP OF CLANS",
           "year": 2023,
           "source": "events-2023"
         }
@@ -687,13 +1079,13 @@ window.HBSTV_DATABASE = {
       "evps": [
         {
           "id": "2023:ranksinvitational",
-          "title": "RANK S | INVITATIONAL LEAGUE 2023 [TIER S]",
+          "title": "RANK S | INVITATIONAL LEAGUE 2023",
           "year": 2023,
           "source": "events-2023"
         },
         {
           "id": "2023:tslblaststrikeleague",
-          "title": "TSL | BLAST STRIKE LEAGUE [TIER S]",
+          "title": "TSL | BLAST STRIKE LEAGUE",
           "year": 2023,
           "source": "events-2023"
         },
@@ -740,6 +1132,15 @@ window.HBSTV_DATABASE = {
       ],
       "titles": [
         {
+          "id": "2025:bcnchampionship20",
+          "title": "BCN | CHAMPIONSHIP 2.0",
+          "year": 2025,
+          "teamId": "sx",
+          "team": "SX",
+          "major": false,
+          "source": "events-2025"
+        },
+        {
           "id": "2025:bcnleague",
           "title": "BCN | LEAGUE 2025",
           "year": 2025,
@@ -763,15 +1164,6 @@ window.HBSTV_DATABASE = {
           "year": 2025,
           "teamId": "iklegends",
           "team": "IK",
-          "major": false,
-          "source": "events-2025"
-        },
-        {
-          "id": "2025:bcnchampionship20",
-          "title": "BCN | CHAMPIONSHIP 2.0",
-          "year": 2025,
-          "teamId": "sx",
-          "team": "SX",
           "major": false,
           "source": "events-2025"
         }
@@ -807,7 +1199,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "2024:gzproseriesleague",
-          "title": "GAMEZONE | PRO SERIES LEAGUE [TIER S]",
+          "title": "GAMEZONE | PRO SERIES LEAGUE",
           "year": 2024,
           "teamId": "miracle",
           "team": "Miracle",
@@ -828,7 +1220,7 @@ window.HBSTV_DATABASE = {
       "evps": [
         {
           "id": "2024:gzproseriesleagues2",
-          "title": "GAMEZONE | PRO SERIES LEAGUE SEASON 2 [TIER S]",
+          "title": "GAMEZONE | PRO SERIES LEAGUE SEASON 2",
           "year": 2024,
           "source": "events-2024"
         }
@@ -856,7 +1248,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "2023:whlleague",
-          "title": "WHL | LEAGUE 2023 [TIER S]",
+          "title": "WHL | LEAGUE 2023",
           "year": 2023,
           "teamId": "v13",
           "team": "V13",
@@ -868,7 +1260,7 @@ window.HBSTV_DATABASE = {
       "evps": [
         {
           "id": "2023:whlleague",
-          "title": "WHL | LEAGUE 2023 [TIER S]",
+          "title": "WHL | LEAGUE 2023",
           "year": 2023,
           "source": "events-2023"
         }
@@ -908,17 +1300,17 @@ window.HBSTV_DATABASE = {
       ],
       "titles": [
         {
-          "id": "2024:gzproseriesleagues3",
-          "title": "GAMEZONE | PRO SERIES LEAGUE SEASON 3 [TIER S+]",
+          "id": "2024:bsgchallengersprotour",
+          "title": "BS:G | CHALLENGERS PRO TOUR",
           "year": 2024,
-          "teamId": "vissionary",
-          "team": "Vissionary",
+          "teamId": "csl",
+          "team": "CSL",
           "major": false,
           "source": "events-2024"
         },
         {
-          "id": "2024:xmsxbstvdreammastersstarss2",
-          "title": "XMS x BSTV | DREAM MASTERS STARS S2 [TIER S]",
+          "id": "2024:gzproseriesleagues3",
+          "title": "GAMEZONE | PRO SERIES LEAGUE SEASON 3",
           "year": 2024,
           "teamId": "vissionary",
           "team": "Vissionary",
@@ -927,7 +1319,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2024:xmsxbstvdreammastersstars",
-          "title": "XMS x BSTV | DREAM MASTERS STARS [TIER S]",
+          "title": "XMS x BSTV | DREAM MASTERS STARS",
           "year": 2024,
           "teamId": "fenix",
           "team": "FENIX",
@@ -935,11 +1327,11 @@ window.HBSTV_DATABASE = {
           "source": "events-2024"
         },
         {
-          "id": "2024:bsgchallengersprotour",
-          "title": "BS:G | CHALLENGERS PRO TOUR [TIER S]",
+          "id": "2024:xmsxbstvdreammastersstarss2",
+          "title": "XMS x BSTV | DREAM MASTERS STARS S2",
           "year": 2024,
-          "teamId": "csl",
-          "team": "CSL",
+          "teamId": "vissionary",
+          "team": "Vissionary",
           "major": false,
           "source": "events-2024"
         }
@@ -948,13 +1340,13 @@ window.HBSTV_DATABASE = {
       "evps": [
         {
           "id": "2024:bsgchallengersprotour",
-          "title": "BS:G | CHALLENGERS PRO TOUR [TIER S]",
+          "title": "BS:G | CHALLENGERS PRO TOUR",
           "year": 2024,
           "source": "events-2024"
         },
         {
           "id": "2024:xmsxbstvdreammastersstars",
-          "title": "XMS x BSTV | DREAM MASTERS STARS [TIER S]",
+          "title": "XMS x BSTV | DREAM MASTERS STARS",
           "year": 2024,
           "source": "events-2024"
         }
@@ -1103,6 +1495,71 @@ window.HBSTV_DATABASE = {
           "sourceImage": "assets/archive/98dbd927447979b7c66e.png",
           "source": "ak-de-ouro-awards"
         }
+      ],
+      "historicalTitles": [
+        {
+          "id": "hof:2018:TSL:brasilextrememastersii",
+          "title": "TSL | BRASIL EXTREME MASTERS II 2018",
+          "year": 2018,
+          "organizer": "TSL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "major:188f48896736e07cbe4d",
+          "title": "TSL | MAJOR PREMIERE 2.0",
+          "year": 2018,
+          "organizer": "TSL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2019:gsetuessone",
+          "title": "GSE | TUES Season One 2019",
+          "year": 2019,
+          "organizer": "GSE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2019:gsetoc",
+          "title": "GSE | TOC 2019",
+          "year": 2019,
+          "organizer": "GSE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "major:7713f3c1b8fa50d7e849",
+          "title": "GSE | Brasil Extreme Masters MAJOR",
+          "year": 2019,
+          "organizer": "GSE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2019:gsehpls3",
+          "title": "GSE | HPL Season 3",
+          "year": 2019,
+          "organizer": "GSE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2019:gsetourii",
+          "title": "GSE | Tour II 2019",
+          "year": 2019,
+          "organizer": "GSE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2019:gseproleague",
+          "title": "GSE | Pro League 2019",
+          "year": 2019,
+          "organizer": "GSE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2025:xmszonaprotournoment",
+          "title": "XMS | ZONA PRO TOURNOMENT",
+          "year": 2025,
+          "organizer": "XMS",
+          "source": "hall-of-fame"
+        }
       ]
     },
     {
@@ -1124,7 +1581,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "2024:gblstarscups2",
-          "title": "GBL | STARS CUP SEASON 2 [TIER S]",
+          "title": "GBL | STARS CUP SEASON 2",
           "year": 2024,
           "teamId": "fenix",
           "team": "FENIX",
@@ -1150,7 +1607,7 @@ window.HBSTV_DATABASE = {
       "evps": [
         {
           "id": "2023:whlleague",
-          "title": "WHL | LEAGUE 2023 [TIER S]",
+          "title": "WHL | LEAGUE 2023",
           "year": 2023,
           "source": "events-2023"
         }
@@ -1197,7 +1654,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "2024:xmsxbstvewcproleague",
-          "title": "XMS x BSTV | EWC PRO LEAGUE [TIER S]",
+          "title": "XMS x BSTV | EWC PRO LEAGUE",
           "year": 2024,
           "teamId": "rs4",
           "team": "RS4",
@@ -1268,7 +1725,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "2024:bsgchallengersprotour",
-          "title": "BS:G | CHALLENGERS PRO TOUR [TIER S]",
+          "title": "BS:G | CHALLENGERS PRO TOUR",
           "year": 2024,
           "teamId": "csl",
           "team": "CSL",
@@ -1280,7 +1737,7 @@ window.HBSTV_DATABASE = {
       "evps": [
         {
           "id": "2024:llpstrikeones4",
-          "title": "LLP | STRIKE ONE SEASON 4 [TIER S]",
+          "title": "LLP | STRIKE ONE SEASON 4",
           "year": 2024,
           "source": "events-2024"
         }
@@ -1357,7 +1814,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "2024:whlworldrankings2",
-          "title": "WHL | WORLD RANKING S2 [TIER S]",
+          "title": "WHL | WORLD RANKING S2",
           "year": 2024,
           "teamId": "d2w",
           "team": "D2W",
@@ -1450,7 +1907,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "2023:whlesls2",
-          "title": "WHL | ELETRONIC SPORTS LEAGUE SEASON 2 [TIER S]",
+          "title": "WHL | ELETRONIC SPORTS LEAGUE SEASON 2",
           "year": 2023,
           "teamId": "chaos",
           "team": "Chaos",
@@ -1515,7 +1972,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2024:xmsxbstvdreammastersstarss2",
-          "title": "XMS x BSTV | DREAM MASTERS STARS S2 [TIER S]",
+          "title": "XMS x BSTV | DREAM MASTERS STARS S2",
           "year": 2024,
           "teamId": "vissionary",
           "team": "Vissionary",
@@ -1524,7 +1981,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2023:ranksworlds",
-          "title": "RANK S | WORLDS 2023 [TIER S]",
+          "title": "RANK S | WORLDS 2023",
           "year": 2023,
           "teamId": "svicious",
           "team": "Svicious",
@@ -1551,13 +2008,13 @@ window.HBSTV_DATABASE = {
       "evps": [
         {
           "id": "2023:ranksworlds",
-          "title": "RANK S | WORLDS 2023 [TIER S]",
+          "title": "RANK S | WORLDS 2023",
           "year": 2023,
           "source": "events-2023"
         },
         {
           "id": "major:194c5f557f9f233ff918",
-          "title": "WHL | MAJOR 2023 [TIER S+]",
+          "title": "WHL | Major",
           "year": 2023,
           "source": "events-2023"
         }
@@ -1610,7 +2067,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2024:xmsxbstvewcproleague",
-          "title": "XMS x BSTV | EWC PRO LEAGUE [TIER S]",
+          "title": "XMS x BSTV | EWC PRO LEAGUE",
           "year": 2024,
           "teamId": "rs4",
           "team": "RS4",
@@ -1621,14 +2078,14 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [
         {
-          "id": "2025:bcnyallacompass",
-          "title": "BCN | YALLA COMPASS 2025",
+          "id": "2025:bcnstrikecup",
+          "title": "BCN | STRIKE CUP",
           "year": 2025,
           "source": "events-2025"
         },
         {
-          "id": "2025:bcnstrikecup",
-          "title": "BCN | STRIKE CUP",
+          "id": "2025:bcnyallacompass",
+          "title": "BCN | YALLA COMPASS 2025",
           "year": 2025,
           "source": "events-2025"
         }
@@ -1693,7 +2150,7 @@ window.HBSTV_DATABASE = {
       "evps": [
         {
           "id": "2024:xmsxbstvewcproleague",
-          "title": "XMS x BSTV | EWC PRO LEAGUE [TIER S]",
+          "title": "XMS x BSTV | EWC PRO LEAGUE",
           "year": 2024,
           "source": "events-2024"
         }
@@ -1742,7 +2199,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "2023:lhaworldcupofclans",
-          "title": "LHA | WORLD CUP OF CLANS [TIER S+]",
+          "title": "LHA | WORLD CUP OF CLANS",
           "year": 2023,
           "teamId": "bm",
           "team": "BM",
@@ -1774,7 +2231,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "2023:ranksworlds",
-          "title": "RANK S | WORLDS 2023 [TIER S]",
+          "title": "RANK S | WORLDS 2023",
           "year": 2023,
           "teamId": "svicious",
           "team": "Svicious",
@@ -1786,7 +2243,7 @@ window.HBSTV_DATABASE = {
       "evps": [
         {
           "id": "2023:ranksworlds",
-          "title": "RANK S | WORLDS 2023 [TIER S]",
+          "title": "RANK S | WORLDS 2023",
           "year": 2023,
           "source": "events-2023"
         }
@@ -1853,20 +2310,20 @@ window.HBSTV_DATABASE = {
           "source": "events-2025"
         },
         {
-          "id": "2024:whlworldrankings2",
-          "title": "WHL | WORLD RANKING S2 [TIER S]",
+          "id": "2024:bstvinsanitys1",
+          "title": "BSTV | INSANITY SEASON 1",
           "year": 2024,
-          "teamId": "d2w",
-          "team": "D2W",
+          "teamId": "miracle",
+          "team": "Miracle",
           "major": false,
           "source": "events-2024"
         },
         {
-          "id": "2024:bstvinsanitys1",
-          "title": "BSTV | INSANITY SEASON 1 [TIER S+]",
+          "id": "2024:whlworldrankings2",
+          "title": "WHL | WORLD RANKING S2",
           "year": 2024,
-          "teamId": "miracle",
-          "team": "Miracle",
+          "teamId": "d2w",
+          "team": "D2W",
           "major": false,
           "source": "events-2024"
         },
@@ -1884,13 +2341,13 @@ window.HBSTV_DATABASE = {
       "evps": [
         {
           "id": "2024:bcnyallacompass",
-          "title": "BCN | YALLA COMPASS 2024 [TIER S]",
+          "title": "BCN | YALLA COMPASS 2024",
           "year": 2024,
           "source": "events-2024"
         },
         {
           "id": "2024:bstvinsanitys1",
-          "title": "BSTV | INSANITY SEASON 1 [TIER S+]",
+          "title": "BSTV | INSANITY SEASON 1",
           "year": 2024,
           "source": "events-2024"
         }
@@ -1942,20 +2399,20 @@ window.HBSTV_DATABASE = {
       ],
       "titles": [
         {
-          "id": "2025:lcsleagues1",
-          "title": "LCS | LEAGUE S1",
-          "year": 2025,
-          "teamId": "iklegends",
-          "team": "IK",
-          "major": false,
-          "source": "events-2025"
-        },
-        {
           "id": "2025:bcnchampionship20",
           "title": "BCN | CHAMPIONSHIP 2.0",
           "year": 2025,
           "teamId": "sx",
           "team": "SX",
+          "major": false,
+          "source": "events-2025"
+        },
+        {
+          "id": "2025:lcsleagues1",
+          "title": "LCS | LEAGUE S1",
+          "year": 2025,
+          "teamId": "iklegends",
+          "team": "IK",
           "major": false,
           "source": "events-2025"
         },
@@ -1978,12 +2435,6 @@ window.HBSTV_DATABASE = {
           "source": "events-2025"
         },
         {
-          "id": "2025:xmsmasterleague",
-          "title": "XMS | MASTER LEAGUE",
-          "year": 2025,
-          "source": "events-2025"
-        },
-        {
           "id": "2025:bcnemulabilecup",
           "title": "BCN | EMULABILE CUP",
           "year": 2025,
@@ -1992,6 +2443,12 @@ window.HBSTV_DATABASE = {
         {
           "id": "2025:bcnimpactleague",
           "title": "BCN | IMPACT LEAGUE",
+          "year": 2025,
+          "source": "events-2025"
+        },
+        {
+          "id": "2025:xmsmasterleague",
+          "title": "XMS | MASTER LEAGUE",
           "year": 2025,
           "source": "events-2025"
         },
@@ -2026,6 +2483,100 @@ window.HBSTV_DATABASE = {
           "country": "BR"
         }
       ],
+      "awards": [],
+      "historicalTitles": [
+        {
+          "id": "major:188f48896736e07cbe4d",
+          "title": "TSL | MAJOR PREMIERE 2.0",
+          "year": 2018,
+          "organizer": "TSL",
+          "source": "hall-of-fame-3"
+        },
+        {
+          "id": "2019:gsetourii",
+          "title": "GSE | Tour II 2019",
+          "year": 2019,
+          "organizer": "GSE",
+          "source": "hall-of-fame-3"
+        },
+        {
+          "id": "2019:gsehpls3",
+          "title": "GSE | HPL Season 3",
+          "year": 2019,
+          "organizer": "GSE",
+          "source": "hall-of-fame-3"
+        },
+        {
+          "id": "2019:gseproleague",
+          "title": "GSE | Pro League 2019",
+          "year": 2019,
+          "organizer": "GSE",
+          "source": "hall-of-fame-3"
+        },
+        {
+          "id": "hof:2019:GSE:tues",
+          "title": "GSE | TUES 2019",
+          "year": 2019,
+          "organizer": "GSE",
+          "source": "hall-of-fame-3"
+        },
+        {
+          "id": "2019:gsegpls2",
+          "title": "GSE | GPL Season 2",
+          "year": 2019,
+          "organizer": "GSE",
+          "source": "hall-of-fame-3"
+        },
+        {
+          "id": "hof:2019:GSE:toc20",
+          "title": "GSE | TOC 2.0 2019",
+          "year": 2019,
+          "organizer": "GSE",
+          "source": "hall-of-fame-3"
+        },
+        {
+          "id": "hof:2023:BSC:brazilianstormcup",
+          "title": "BSC | BRAZILIAN STORM CUP 2023",
+          "year": 2023,
+          "organizer": "BSC",
+          "source": "hall-of-fame-3"
+        },
+        {
+          "id": "hof:2025:LCS:leagueseason1",
+          "title": "LCS | LEAGUE SEASON 1 2025",
+          "year": 2025,
+          "organizer": "LCS",
+          "source": "hall-of-fame-3"
+        },
+        {
+          "id": "2025:bcnchampionship20",
+          "title": "BCN | CHAMPIONSHIP 2.0",
+          "year": 2025,
+          "organizer": "BCN",
+          "source": "hall-of-fame-3"
+        }
+      ]
+    },
+    {
+      "id": "broky",
+      "name": "Broky",
+      "aliases": [
+        "Broky"
+      ],
+      "realNames": [],
+      "teams": [],
+      "titles": [],
+      "mvps": [],
+      "evps": [
+        {
+          "id": "2020:pnlpeninsulacup",
+          "title": "PNL | Peninsula Cup",
+          "year": 2020,
+          "major": false,
+          "source": "owner-confirmed"
+        }
+      ],
+      "rankings": [],
       "awards": []
     },
     {
@@ -2054,7 +2605,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "2024:gznewage",
-          "title": "GAMEZONE | NEW AGE [TIER S]",
+          "title": "GAMEZONE | NEW AGE",
           "year": 2024,
           "teamId": "aura",
           "team": "AURA",
@@ -2119,6 +2670,24 @@ window.HBSTV_DATABASE = {
       ],
       "titles": [
         {
+          "id": "2025:bcnchallengerschampionship",
+          "title": "BCN | CHALLENGERS CHAMPIONSHIP",
+          "year": 2025,
+          "teamId": "sdpinterlude",
+          "team": "SDP Interlude",
+          "major": false,
+          "source": "events-2025"
+        },
+        {
+          "id": "2025:bcnchampionship20",
+          "title": "BCN | CHAMPIONSHIP 2.0",
+          "year": 2025,
+          "teamId": "sx",
+          "team": "SX",
+          "major": false,
+          "source": "events-2025"
+        },
+        {
           "id": "2025:bcnfinals",
           "title": "BCN | FINALS 25",
           "year": 2025,
@@ -2146,26 +2715,8 @@ window.HBSTV_DATABASE = {
           "source": "events-2025"
         },
         {
-          "id": "2025:bcnchallengerschampionship",
-          "title": "BCN | CHALLENGERS CHAMPIONSHIP",
-          "year": 2025,
-          "teamId": "sdpinterlude",
-          "team": "SDP Interlude",
-          "major": false,
-          "source": "events-2025"
-        },
-        {
-          "id": "2025:bcnchampionship20",
-          "title": "BCN | CHAMPIONSHIP 2.0",
-          "year": 2025,
-          "teamId": "sx",
-          "team": "SX",
-          "major": false,
-          "source": "events-2025"
-        },
-        {
           "id": "2024:bcnchallengers",
-          "title": "BCN | CHALLENGERS BRAZIL [TIER S]",
+          "title": "BCN | CHALLENGERS BRAZIL",
           "year": 2024,
           "teamId": "sdpinterlude",
           "team": "SDP Interlude",
@@ -2174,7 +2725,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2024:llpstrikeones4",
-          "title": "LLP | STRIKE ONE SEASON 4 [TIER S]",
+          "title": "LLP | STRIKE ONE SEASON 4",
           "year": 2024,
           "teamId": "sdpinterlude",
           "team": "SDP Interlude",
@@ -2183,7 +2734,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2024:premierpremierleaguea",
-          "title": "PREMIER | PREMIER LEAGUE A [TIER S]",
+          "title": "PREMIER | PREMIER LEAGUE A",
           "year": 2024,
           "teamId": "sdpinterlude",
           "team": "SDP Interlude",
@@ -2202,28 +2753,28 @@ window.HBSTV_DATABASE = {
       ],
       "mvps": [
         {
-          "id": "2025:bcnchampionship20",
-          "title": "BCN | CHAMPIONSHIP 2.0",
+          "id": "2025:bcnchallengerschampionship",
+          "title": "BCN | CHALLENGERS CHAMPIONSHIP",
           "year": 2025,
           "source": "events-2025"
         },
         {
-          "id": "2025:bcnchallengerschampionship",
-          "title": "BCN | CHALLENGERS CHAMPIONSHIP",
+          "id": "2025:bcnchampionship20",
+          "title": "BCN | CHAMPIONSHIP 2.0",
           "year": 2025,
           "source": "events-2025"
         }
       ],
       "evps": [
         {
-          "id": "2025:bcnfinals",
-          "title": "BCN | FINALS 25",
+          "id": "2025:bcnemulabilecup",
+          "title": "BCN | EMULABILE CUP",
           "year": 2025,
           "source": "events-2025"
         },
         {
-          "id": "2025:lcsleagues1",
-          "title": "LCS | LEAGUE S1",
+          "id": "2025:bcnfinals",
+          "title": "BCN | FINALS 25",
           "year": 2025,
           "source": "events-2025"
         },
@@ -2234,34 +2785,41 @@ window.HBSTV_DATABASE = {
           "source": "events-2025"
         },
         {
-          "id": "2025:bcnemulabilecup",
-          "title": "BCN | EMULABILE CUP",
+          "id": "2025:lcsleagues1",
+          "title": "LCS | LEAGUE S1",
           "year": 2025,
           "source": "events-2025"
         },
         {
-          "id": "2024:xmsxbstvdreammastersstars",
-          "title": "XMS x BSTV | DREAM MASTERS STARS [TIER S]",
-          "year": 2024,
-          "source": "events-2024"
-        },
-        {
-          "id": "2024:llpstrikeones4",
-          "title": "LLP | STRIKE ONE SEASON 4 [TIER S]",
-          "year": 2024,
-          "source": "events-2024"
-        },
-        {
           "id": "2024:bcnyallacompass",
-          "title": "BCN | YALLA COMPASS 2024 [TIER S]",
+          "title": "BCN | YALLA COMPASS 2024",
           "year": 2024,
           "source": "events-2024"
         },
         {
           "id": "2024:gznewage",
-          "title": "GAMEZONE | NEW AGE [TIER S]",
+          "title": "GAMEZONE | NEW AGE",
           "year": 2024,
           "source": "events-2024"
+        },
+        {
+          "id": "2024:llpstrikeones4",
+          "title": "LLP | STRIKE ONE SEASON 4",
+          "year": 2024,
+          "source": "events-2024"
+        },
+        {
+          "id": "2024:xmsxbstvdreammastersstars",
+          "title": "XMS x BSTV | DREAM MASTERS STARS",
+          "year": 2024,
+          "source": "events-2024"
+        },
+        {
+          "id": "2021:gsemasters",
+          "title": "GSE | Masters Inverno",
+          "year": 2021,
+          "major": false,
+          "source": "owner-confirmed"
         },
         {
           "id": "major:4ed7f41456f8697e77c6",
@@ -2270,6 +2828,13 @@ window.HBSTV_DATABASE = {
           "source": "major-history",
           "sourceImage": "assets/archive/4ed7f41456f8697e77c6.jpg",
           "major": true
+        },
+        {
+          "id": "2020:pnlpeninsulacup",
+          "title": "PNL | Peninsula Cup",
+          "year": 2020,
+          "major": false,
+          "source": "owner-confirmed"
         }
       ],
       "rankings": [
@@ -2313,6 +2878,157 @@ window.HBSTV_DATABASE = {
           "series": "AK de Ouro",
           "sourceImage": "assets/archive/b121ef5c805eed55d138.png",
           "source": "ak-de-ouro-awards"
+        }
+      ],
+      "mvs": [
+        {
+          "id": "2021:gsemasters",
+          "title": "GSE | Masters Inverno",
+          "year": 2021,
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:pnlpeninsulacup",
+          "title": "PNL | Peninsula Cup",
+          "year": 2020,
+          "major": false,
+          "source": "owner-confirmed"
+        }
+      ],
+      "historicalTitles": [
+        {
+          "id": "2020:tslmjonircup",
+          "title": "TSL | Mjonir Cup",
+          "year": 2020,
+          "organizer": "TSL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2021:gsemasters",
+          "title": "GSE | Masters Inverno",
+          "year": 2021,
+          "organizer": "GSE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2021:pnlpeninsulacup",
+          "title": "PNL | Peninsula Cup",
+          "year": 2021,
+          "organizer": "PNL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2021:lcbproleague",
+          "title": "LCB | Pro League",
+          "year": 2021,
+          "organizer": "LCB",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2021:LCB:masters20",
+          "title": "LCB | MASTERS 2.0 2021",
+          "year": 2021,
+          "organizer": "LCB",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "major:007759b02a7d7543b0a1",
+          "title": "SUVOH | MAJOR",
+          "year": 2021,
+          "organizer": "SUVOH",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2023:LCB:summerchampioship",
+          "title": "LCB | Summer Champioship 2023",
+          "year": 2023,
+          "organizer": "LCB",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2023:XMS:leaguecup",
+          "title": "XMS | LEAGUE CUP 2023",
+          "year": 2023,
+          "organizer": "XMS",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2024:GAMEZONE:alphacup",
+          "title": "GZ | ALPHA CUP 2024",
+          "year": 2024,
+          "organizer": "GAMEZONE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2024:GS:copadoscampoes",
+          "title": "GS | COPA DOS CAMPÕES 2024",
+          "year": 2024,
+          "organizer": "GS",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2024:LLP:strikeone",
+          "title": "LLP | STRIKE ONE 2024",
+          "year": 2024,
+          "organizer": "LLP",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2024:BCN:challengersbrasil",
+          "title": "BCN | CHALLENGERS BRASIL 2024",
+          "year": 2024,
+          "organizer": "BCN",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2024:premierpremierleaguea",
+          "title": "PREMIER | PREMIER LEAGUE A",
+          "year": 2024,
+          "organizer": "PREMIER",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2025:bcnchallengerschampionship",
+          "title": "BCN | CHALLENGERS CHAMPIONSHIP",
+          "year": 2025,
+          "organizer": "BCN",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2025:bcnstrikecup",
+          "title": "BCN | STRIKE CUP",
+          "year": 2025,
+          "organizer": "BCN",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2025:BCN:finals",
+          "title": "BCN | FINALS 2025",
+          "year": 2025,
+          "organizer": "BCN",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2025:bcnchampionship20",
+          "title": "BCN | CHAMPIONSHIP 2.0",
+          "year": 2025,
+          "organizer": "BCN",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2025:LCS:leagueseason1",
+          "title": "LCS | LEAGUE SEASON 1 2025",
+          "year": 2025,
+          "organizer": "LCS",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2025:LCS:leagueseason2",
+          "title": "LCS | LEAGUE SEASON 2 2025",
+          "year": 2025,
+          "organizer": "LCS",
+          "source": "hall-of-fame"
         }
       ]
     },
@@ -2436,15 +3152,6 @@ window.HBSTV_DATABASE = {
       ],
       "titles": [
         {
-          "id": "2025:lcsleagues1",
-          "title": "LCS | LEAGUE S1",
-          "year": 2025,
-          "teamId": "iklegends",
-          "team": "IK",
-          "major": false,
-          "source": "events-2025"
-        },
-        {
           "id": "2025:bcnchallengerschampionship",
           "title": "BCN | CHALLENGERS CHAMPIONSHIP",
           "year": 2025,
@@ -2463,8 +3170,17 @@ window.HBSTV_DATABASE = {
           "source": "events-2025"
         },
         {
+          "id": "2025:lcsleagues1",
+          "title": "LCS | LEAGUE S1",
+          "year": 2025,
+          "teamId": "iklegends",
+          "team": "IK",
+          "major": false,
+          "source": "events-2025"
+        },
+        {
           "id": "2024:gblstarscups2",
-          "title": "GBL | STARS CUP SEASON 2 [TIER S]",
+          "title": "GBL | STARS CUP SEASON 2",
           "year": 2024,
           "teamId": "fenix",
           "team": "FENIX",
@@ -2473,7 +3189,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2024:xmsxbstvdreammastersstars",
-          "title": "XMS x BSTV | DREAM MASTERS STARS [TIER S]",
+          "title": "XMS x BSTV | DREAM MASTERS STARS",
           "year": 2024,
           "teamId": "fenix",
           "team": "FENIX",
@@ -2483,14 +3199,14 @@ window.HBSTV_DATABASE = {
       ],
       "mvps": [
         {
-          "id": "2024:xmsxbstvdreammastersstarss2",
-          "title": "XMS x BSTV | DREAM MASTERS STARS S2 [TIER S]",
+          "id": "2024:xmsxbstvdreammastersstars",
+          "title": "XMS x BSTV | DREAM MASTERS STARS",
           "year": 2024,
           "source": "events-2024"
         },
         {
-          "id": "2024:xmsxbstvdreammastersstars",
-          "title": "XMS x BSTV | DREAM MASTERS STARS [TIER S]",
+          "id": "2024:xmsxbstvdreammastersstarss2",
+          "title": "XMS x BSTV | DREAM MASTERS STARS S2",
           "year": 2024,
           "source": "events-2024"
         }
@@ -2498,7 +3214,7 @@ window.HBSTV_DATABASE = {
       "evps": [
         {
           "id": "2024:gblstarscups2",
-          "title": "GBL | STARS CUP SEASON 2 [TIER S]",
+          "title": "GBL | STARS CUP SEASON 2",
           "year": 2024,
           "source": "events-2024"
         }
@@ -2562,7 +3278,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "2024:xmsxbstvdreammastersstars",
-          "title": "XMS x BSTV | DREAM MASTERS STARS [TIER S]",
+          "title": "XMS x BSTV | DREAM MASTERS STARS",
           "year": 2024,
           "teamId": "fenix",
           "team": "FENIX",
@@ -2629,7 +3345,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "2024:gblstarscups2",
-          "title": "GBL | STARS CUP SEASON 2 [TIER S]",
+          "title": "GBL | STARS CUP SEASON 2",
           "year": 2024,
           "teamId": "fenix",
           "team": "FENIX",
@@ -2703,7 +3419,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "2023:whlworldrankings1",
-          "title": "WHL | WORLD RANKING SEASON 1 [TIER S]",
+          "title": "WHL | WORLD RANKING SEASON 1",
           "year": 2023,
           "teamId": "d2w",
           "team": "D2W",
@@ -2712,7 +3428,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2023:whlztournoment",
-          "title": "WHL | Z TOURNOMENT [ TIER S]",
+          "title": "WHL | Z TOURNOMENT",
           "year": 2023,
           "teamId": "d2w",
           "team": "D2W",
@@ -2761,7 +3477,7 @@ window.HBSTV_DATABASE = {
       "evps": [
         {
           "id": "2023:whlelectronicsportsleague",
-          "title": "WHL | ELECTRONIC SPORTS LEAGUE [TIER S]",
+          "title": "WHL | ELECTRONIC SPORTS LEAGUE",
           "year": 2023,
           "source": "events-2023"
         }
@@ -2812,7 +3528,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2024:gzgamingelite",
-          "title": "GAMEZONE | BRASIL GAMING ELITE [TIER S]",
+          "title": "GAMEZONE | BRASIL GAMING ELITE",
           "year": 2024,
           "teamId": "d2w",
           "team": "D2W",
@@ -2838,7 +3554,7 @@ window.HBSTV_DATABASE = {
       "evps": [
         {
           "id": "2023:whlztournoment",
-          "title": "WHL | Z TOURNOMENT [ TIER S]",
+          "title": "WHL | Z TOURNOMENT",
           "year": 2023,
           "source": "events-2023"
         }
@@ -2872,8 +3588,17 @@ window.HBSTV_DATABASE = {
       ],
       "titles": [
         {
+          "id": "2023:whlleague",
+          "title": "WHL | LEAGUE 2023",
+          "year": 2023,
+          "teamId": "v13",
+          "team": "V13",
+          "major": false,
+          "source": "events-2023"
+        },
+        {
           "id": "2023:whlworldrankings1",
-          "title": "WHL | WORLD RANKING SEASON 1 [TIER S]",
+          "title": "WHL | WORLD RANKING SEASON 1",
           "year": 2023,
           "teamId": "d2w",
           "team": "D2W",
@@ -2882,19 +3607,10 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2023:whlztournoment",
-          "title": "WHL | Z TOURNOMENT [ TIER S]",
+          "title": "WHL | Z TOURNOMENT",
           "year": 2023,
           "teamId": "d2w",
           "team": "D2W",
-          "major": false,
-          "source": "events-2023"
-        },
-        {
-          "id": "2023:whlleague",
-          "title": "WHL | LEAGUE 2023 [TIER S]",
-          "year": 2023,
-          "teamId": "v13",
-          "team": "V13",
           "major": false,
           "source": "events-2023"
         }
@@ -2903,7 +3619,7 @@ window.HBSTV_DATABASE = {
       "evps": [
         {
           "id": "2023:whlworldrankings1",
-          "title": "WHL | WORLD RANKING SEASON 1 [TIER S]",
+          "title": "WHL | WORLD RANKING SEASON 1",
           "year": 2023,
           "source": "events-2023"
         }
@@ -2937,7 +3653,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "2024:premierpremierleaguea",
-          "title": "PREMIER | PREMIER LEAGUE A [TIER S]",
+          "title": "PREMIER | PREMIER LEAGUE A",
           "year": 2024,
           "teamId": "sdpinterlude",
           "team": "SDP Interlude",
@@ -2946,7 +3662,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2023:tslblaststrikeleague",
-          "title": "TSL | BLAST STRIKE LEAGUE [TIER S]",
+          "title": "TSL | BLAST STRIKE LEAGUE",
           "year": 2023,
           "teamId": "gt2023",
           "team": "GT 2023",
@@ -2955,7 +3671,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "major:194c5f557f9f233ff918",
-          "title": "WHL | MAJOR 2023 [TIER S+]",
+          "title": "WHL | Major",
           "year": 2023,
           "teamId": "gt2023",
           "team": "GT 2023",
@@ -2982,14 +3698,14 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [
         {
-          "id": "major:67b535053e8ba3d242da",
-          "title": "RANK S | MajoR LEAGUE 2023 [TIER S+]",
+          "id": "2023:gzgtrleague",
+          "title": "GAMEZONE | GTR LEAGUE",
           "year": 2023,
           "source": "events-2023"
         },
         {
-          "id": "2023:gzgtrleague",
-          "title": "GAMEZONE | GTR LEAGUE [TIER S]",
+          "id": "major:67b535053e8ba3d242da",
+          "title": "RANK S | Major",
           "year": 2023,
           "source": "events-2023"
         }
@@ -3010,7 +3726,7 @@ window.HBSTV_DATABASE = {
       "evps": [
         {
           "id": "2023:whlztournoment",
-          "title": "WHL | Z TOURNOMENT [ TIER S]",
+          "title": "WHL | Z TOURNOMENT",
           "year": 2023,
           "source": "events-2023"
         }
@@ -3061,7 +3777,7 @@ window.HBSTV_DATABASE = {
       "evps": [
         {
           "id": "2024:xmsxbstvewcproleague",
-          "title": "XMS x BSTV | EWC PRO LEAGUE [TIER S]",
+          "title": "XMS x BSTV | EWC PRO LEAGUE",
           "year": 2024,
           "source": "events-2024"
         }
@@ -3136,7 +3852,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "2023:whlleague",
-          "title": "WHL | LEAGUE 2023 [TIER S]",
+          "title": "WHL | LEAGUE 2023",
           "year": 2023,
           "teamId": "v13",
           "team": "V13",
@@ -3175,7 +3891,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "2024:whlworldrankings2",
-          "title": "WHL | WORLD RANKING S2 [TIER S]",
+          "title": "WHL | WORLD RANKING S2",
           "year": 2024,
           "teamId": "d2w",
           "team": "D2W",
@@ -3250,7 +3966,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "2023:tslblaststrikeleague",
-          "title": "TSL | BLAST STRIKE LEAGUE [TIER S]",
+          "title": "TSL | BLAST STRIKE LEAGUE",
           "year": 2023,
           "teamId": "gt2023",
           "team": "GT 2023",
@@ -3259,7 +3975,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "major:194c5f557f9f233ff918",
-          "title": "WHL | MAJOR 2023 [TIER S+]",
+          "title": "WHL | Major",
           "year": 2023,
           "teamId": "gt2023",
           "team": "GT 2023",
@@ -3294,7 +4010,65 @@ window.HBSTV_DATABASE = {
           "country": "BR"
         }
       ],
-      "awards": []
+      "awards": [],
+      "historicalTitles": [
+        {
+          "id": "hof:2021:ACE:leaguecup",
+          "title": "ACE | LEAGUE CUP 2021",
+          "year": 2021,
+          "organizer": "ACE",
+          "source": "hall-of-fame-3"
+        },
+        {
+          "id": "hof:2021:SUVOH:loftuscups2",
+          "title": "SUVOH | LOFTUS CUP S2 2021",
+          "year": 2021,
+          "organizer": "SUVOH",
+          "source": "hall-of-fame-3"
+        },
+        {
+          "id": "hof:2021:LCB:blockstrikeleague",
+          "title": "LCB | BLOCK STRIKE LEAGUE 2021",
+          "year": 2021,
+          "organizer": "LCB",
+          "source": "hall-of-fame-3"
+        },
+        {
+          "id": "hof:2021:LCB:mastercup",
+          "title": "LCB | MASTER CUP 2021",
+          "year": 2021,
+          "organizer": "LCB",
+          "source": "hall-of-fame-3"
+        },
+        {
+          "id": "hof:2021:TSL:smackcup",
+          "title": "TSL | SMACK CUP 2021",
+          "year": 2021,
+          "organizer": "TSL",
+          "source": "hall-of-fame-3"
+        },
+        {
+          "id": "major:86ed67893904be137a59",
+          "title": "TSL | MAJOR",
+          "year": 2021,
+          "organizer": "TSL",
+          "source": "hall-of-fame-3"
+        },
+        {
+          "id": "hof:2022:SEL:tournament",
+          "title": "SEL | TOURNAMENT 2022",
+          "year": 2022,
+          "organizer": "SEL",
+          "source": "hall-of-fame-3"
+        },
+        {
+          "id": "major:194c5f557f9f233ff918",
+          "title": "WHL | Major",
+          "year": 2023,
+          "organizer": "WHL",
+          "source": "hall-of-fame-3"
+        }
+      ]
     },
     {
       "id": "fabri",
@@ -3468,7 +4242,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "2024:gzproseriesleague",
-          "title": "GAMEZONE | PRO SERIES LEAGUE [TIER S]",
+          "title": "GAMEZONE | PRO SERIES LEAGUE",
           "year": 2024,
           "teamId": "miracle",
           "team": "Miracle",
@@ -3509,7 +4283,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "2024:bcnyallacompass",
-          "title": "BCN | YALLA COMPASS 2024 [TIER S]",
+          "title": "BCN | YALLA COMPASS 2024",
           "year": 2024,
           "teamId": "aura",
           "team": "AURA",
@@ -3518,7 +4292,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2024:gznewage",
-          "title": "GAMEZONE | NEW AGE [TIER S]",
+          "title": "GAMEZONE | NEW AGE",
           "year": 2024,
           "teamId": "aura",
           "team": "AURA",
@@ -3527,7 +4301,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2023:ranksdreamhack",
-          "title": "RANK S | DREAM HACK BRAZIL [TIER S]",
+          "title": "RANK S | DREAM HACK BRAZIL",
           "year": 2023,
           "teamId": "chaos",
           "team": "Chaos",
@@ -3536,7 +4310,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2023:ranksinvitational",
-          "title": "RANK S | INVITATIONAL LEAGUE 2023 [TIER S]",
+          "title": "RANK S | INVITATIONAL LEAGUE 2023",
           "year": 2023,
           "teamId": "chaos",
           "team": "Chaos",
@@ -3545,7 +4319,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "major:67b535053e8ba3d242da",
-          "title": "RANK S | MajoR LEAGUE 2023 [TIER S+]",
+          "title": "RANK S | Major",
           "year": 2023,
           "teamId": "chaos",
           "team": "Chaos",
@@ -3556,32 +4330,32 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [
         {
-          "id": "2024:gzproseriesleagues3",
-          "title": "GAMEZONE | PRO SERIES LEAGUE SEASON 3 [TIER S+]",
-          "year": 2024,
-          "source": "events-2024"
-        },
-        {
           "id": "2024:bcnyallacompass",
-          "title": "BCN | YALLA COMPASS 2024 [TIER S]",
+          "title": "BCN | YALLA COMPASS 2024",
           "year": 2024,
           "source": "events-2024"
         },
         {
           "id": "2024:gznewage",
-          "title": "GAMEZONE | NEW AGE [TIER S]",
+          "title": "GAMEZONE | NEW AGE",
+          "year": 2024,
+          "source": "events-2024"
+        },
+        {
+          "id": "2024:gzproseriesleagues3",
+          "title": "GAMEZONE | PRO SERIES LEAGUE SEASON 3",
           "year": 2024,
           "source": "events-2024"
         },
         {
           "id": "2023:ranksdreamhack",
-          "title": "RANK S | DREAM HACK BRAZIL [TIER S]",
+          "title": "RANK S | DREAM HACK BRAZIL",
           "year": 2023,
           "source": "events-2023"
         },
         {
           "id": "2023:ranksinvitational",
-          "title": "RANK S | INVITATIONAL LEAGUE 2023 [TIER S]",
+          "title": "RANK S | INVITATIONAL LEAGUE 2023",
           "year": 2023,
           "source": "events-2023"
         }
@@ -3598,7 +4372,65 @@ window.HBSTV_DATABASE = {
           "country": "BR"
         }
       ],
-      "awards": []
+      "awards": [],
+      "historicalTitles": [
+        {
+          "id": "hof:2023:GTR:sanitycup",
+          "title": "GTR | SANITY CUP 2023",
+          "year": 2023,
+          "organizer": "GTR",
+          "source": "hall-of-fame-3"
+        },
+        {
+          "id": "hof:2023:GBL:cup",
+          "title": "GBL | CUP  2023",
+          "year": 2023,
+          "organizer": "GBL",
+          "source": "hall-of-fame-3"
+        },
+        {
+          "id": "hof:2023:GTR:liberators",
+          "title": "GTR | LIBERATORS 2023",
+          "year": 2023,
+          "organizer": "GTR",
+          "source": "hall-of-fame-3"
+        },
+        {
+          "id": "hof:2023:RANK S:invitional",
+          "title": "RANK S | INVITIONAL 2023",
+          "year": 2023,
+          "organizer": "RANK S",
+          "source": "hall-of-fame-3"
+        },
+        {
+          "id": "hof:2023:RANK S:dreamhack",
+          "title": "RANK S | DREAM HACK 2023",
+          "year": 2023,
+          "organizer": "RANK S",
+          "source": "hall-of-fame-3"
+        },
+        {
+          "id": "major:67b535053e8ba3d242da",
+          "title": "RANK S | Major",
+          "year": 2023,
+          "organizer": "RANK S",
+          "source": "hall-of-fame-3"
+        },
+        {
+          "id": "2024:gznewage",
+          "title": "GAMEZONE | NEW AGE",
+          "year": 2024,
+          "organizer": "GAMEZONE",
+          "source": "hall-of-fame-3"
+        },
+        {
+          "id": "2024:bcnyallacompass",
+          "title": "BCN | YALLA COMPASS 2024",
+          "year": 2024,
+          "organizer": "BCN",
+          "source": "hall-of-fame-3"
+        }
+      ]
     },
     {
       "id": "fomezero",
@@ -3676,6 +4508,20 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [
         {
+          "id": "2021:gsemasters",
+          "title": "GSE | Masters Inverno",
+          "year": 2021,
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:acecup",
+          "title": "ACE | Cup Season 1",
+          "year": 2020,
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
           "id": "major:4ed7f41456f8697e77c6",
           "title": "GSE | MAJOR Adrenaline",
           "year": 2020,
@@ -3706,7 +4552,7 @@ window.HBSTV_DATABASE = {
       "evps": [
         {
           "id": "2024:xmsxbstvewcproleague",
-          "title": "XMS x BSTV | EWC PRO LEAGUE [TIER S]",
+          "title": "XMS x BSTV | EWC PRO LEAGUE",
           "year": 2024,
           "source": "events-2024"
         }
@@ -3755,14 +4601,14 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [
         {
-          "id": "2023:whlztournoment",
-          "title": "WHL | Z TOURNOMENT [ TIER S]",
+          "id": "2023:whlesls2",
+          "title": "WHL | ELETRONIC SPORTS LEAGUE SEASON 2",
           "year": 2023,
           "source": "events-2023"
         },
         {
-          "id": "2023:whlesls2",
-          "title": "WHL | ELETRONIC SPORTS LEAGUE SEASON 2 [TIER S]",
+          "id": "2023:whlztournoment",
+          "title": "WHL | Z TOURNOMENT",
           "year": 2023,
           "source": "events-2023"
         },
@@ -3792,7 +4638,86 @@ window.HBSTV_DATABASE = {
           "country": "BR"
         }
       ],
-      "awards": []
+      "awards": [],
+      "historicalTitles": [
+        {
+          "id": "hof:2019:GSE:evolutionchampionship",
+          "title": "GSE | Evolution Championship 2019",
+          "year": 2019,
+          "organizer": "GSE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2019:gsetoc",
+          "title": "GSE | TOC 2019",
+          "year": 2019,
+          "organizer": "GSE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2019:GSE:tuesseason2",
+          "title": "GSE | TUES SEASON 2 2019",
+          "year": 2019,
+          "organizer": "GSE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2020:GSE:locstarsleague",
+          "title": "GSE | LOC STARS LEAGUE 2020",
+          "year": 2020,
+          "organizer": "GSE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2020:tslmjonircup",
+          "title": "TSL | Mjonir Cup",
+          "year": 2020,
+          "organizer": "TSL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2021:gsemasters",
+          "title": "GSE | Masters Inverno",
+          "year": 2021,
+          "organizer": "GSE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2021:pnlpeninsulacup",
+          "title": "PNL | Peninsula Cup",
+          "year": 2021,
+          "organizer": "PNL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2021:lcbproleague",
+          "title": "LCB | Pro League",
+          "year": 2021,
+          "organizer": "LCB",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2021:LCB:masters20",
+          "title": "LCB | MASTERS 2.0 2021",
+          "year": 2021,
+          "organizer": "LCB",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "major:007759b02a7d7543b0a1",
+          "title": "SUVOH | MAJOR",
+          "year": 2021,
+          "organizer": "SUVOH",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2023:LCB:summerchampioship",
+          "title": "LCB | Summer Champioship 2023",
+          "year": 2023,
+          "organizer": "LCB",
+          "source": "hall-of-fame"
+        }
+      ]
     },
     {
       "id": "fuyutsuki",
@@ -3807,7 +4732,7 @@ window.HBSTV_DATABASE = {
       "evps": [
         {
           "id": "2023:whlesls2",
-          "title": "WHL | ELETRONIC SPORTS LEAGUE SEASON 2 [TIER S]",
+          "title": "WHL | ELETRONIC SPORTS LEAGUE SEASON 2",
           "year": 2023,
           "source": "events-2023"
         }
@@ -3842,7 +4767,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "2024:llpstrikeones4",
-          "title": "LLP | STRIKE ONE SEASON 4 [TIER S]",
+          "title": "LLP | STRIKE ONE SEASON 4",
           "year": 2024,
           "teamId": "sdpinterlude",
           "team": "SDP Interlude",
@@ -3851,7 +4776,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2024:premierpremierleaguea",
-          "title": "PREMIER | PREMIER LEAGUE A [TIER S]",
+          "title": "PREMIER | PREMIER LEAGUE A",
           "year": 2024,
           "teamId": "sdpinterlude",
           "team": "SDP Interlude",
@@ -3874,20 +4799,20 @@ window.HBSTV_DATABASE = {
           "source": "events-2025"
         },
         {
-          "id": "2025:xmsmasterleague",
-          "title": "XMS | MASTER LEAGUE",
-          "year": 2025,
-          "source": "events-2025"
-        },
-        {
           "id": "2025:bcnyallacompass",
           "title": "BCN | YALLA COMPASS 2025",
           "year": 2025,
           "source": "events-2025"
         },
         {
+          "id": "2025:xmsmasterleague",
+          "title": "XMS | MASTER LEAGUE",
+          "year": 2025,
+          "source": "events-2025"
+        },
+        {
           "id": "2024:premierpremierleaguea",
-          "title": "PREMIER | PREMIER LEAGUE A [TIER S]",
+          "title": "PREMIER | PREMIER LEAGUE A",
           "year": 2024,
           "source": "events-2024"
         }
@@ -3948,24 +4873,6 @@ window.HBSTV_DATABASE = {
       ],
       "titles": [
         {
-          "id": "2025:bcnleague",
-          "title": "BCN | LEAGUE 2025",
-          "year": 2025,
-          "teamId": "iklegends",
-          "team": "IK",
-          "major": false,
-          "source": "events-2025"
-        },
-        {
-          "id": "2025:bcnstrikecup",
-          "title": "BCN | STRIKE CUP",
-          "year": 2025,
-          "teamId": "iklegends",
-          "team": "IK",
-          "major": false,
-          "source": "events-2025"
-        },
-        {
           "id": "2025:bcnchallengerschampionship",
           "title": "BCN | CHALLENGERS CHAMPIONSHIP",
           "year": 2025,
@@ -3984,8 +4891,26 @@ window.HBSTV_DATABASE = {
           "source": "events-2025"
         },
         {
+          "id": "2025:bcnleague",
+          "title": "BCN | LEAGUE 2025",
+          "year": 2025,
+          "teamId": "iklegends",
+          "team": "IK",
+          "major": false,
+          "source": "events-2025"
+        },
+        {
+          "id": "2025:bcnstrikecup",
+          "title": "BCN | STRIKE CUP",
+          "year": 2025,
+          "teamId": "iklegends",
+          "team": "IK",
+          "major": false,
+          "source": "events-2025"
+        },
+        {
           "id": "2024:bcnchallengers",
-          "title": "BCN | CHALLENGERS BRAZIL [TIER S]",
+          "title": "BCN | CHALLENGERS BRAZIL",
           "year": 2024,
           "teamId": "sdpinterlude",
           "team": "SDP Interlude",
@@ -3994,7 +4919,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2024:llpstrikeones4",
-          "title": "LLP | STRIKE ONE SEASON 4 [TIER S]",
+          "title": "LLP | STRIKE ONE SEASON 4",
           "year": 2024,
           "teamId": "sdpinterlude",
           "team": "SDP Interlude",
@@ -4003,7 +4928,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2024:premierpremierleaguea",
-          "title": "PREMIER | PREMIER LEAGUE A [TIER S]",
+          "title": "PREMIER | PREMIER LEAGUE A",
           "year": 2024,
           "teamId": "sdpinterlude",
           "team": "SDP Interlude",
@@ -4014,7 +4939,7 @@ window.HBSTV_DATABASE = {
       "mvps": [
         {
           "id": "2023:whlztournoment",
-          "title": "WHL | Z TOURNOMENT [ TIER S]",
+          "title": "WHL | Z TOURNOMENT",
           "year": 2023,
           "source": "events-2023"
         }
@@ -4022,13 +4947,13 @@ window.HBSTV_DATABASE = {
       "evps": [
         {
           "id": "2024:bcnchallengers",
-          "title": "BCN | CHALLENGERS BRAZIL [TIER S]",
+          "title": "BCN | CHALLENGERS BRAZIL",
           "year": 2024,
           "source": "events-2024"
         },
         {
           "id": "major:67b535053e8ba3d242da",
-          "title": "RANK S | MajoR LEAGUE 2023 [TIER S+]",
+          "title": "RANK S | Major",
           "year": 2023,
           "source": "events-2023"
         }
@@ -4040,7 +4965,93 @@ window.HBSTV_DATABASE = {
           "country": "BR"
         }
       ],
-      "awards": []
+      "awards": [],
+      "historicalTitles": [
+        {
+          "id": "hof:2021:SUVOH:loftuscup20",
+          "title": "SUVOH | LOFTUS CUP 2.0 2021",
+          "year": 2021,
+          "organizer": "SUVOH",
+          "source": "hall-of-fame-3"
+        },
+        {
+          "id": "hof:2022:SUVOH:revelationscup",
+          "title": "SUVOH | REVELATIONS CUP 2022",
+          "year": 2022,
+          "organizer": "SUVOH",
+          "source": "hall-of-fame-3"
+        },
+        {
+          "id": "hof:2023:LN:lancup",
+          "title": "LN | LAN CUP 2023",
+          "year": 2023,
+          "organizer": "LN",
+          "source": "hall-of-fame-3"
+        },
+        {
+          "id": "hof:2023:GS:superleague",
+          "title": "GS | SUPER LEAGUE 2023",
+          "year": 2023,
+          "organizer": "GS",
+          "source": "hall-of-fame-3"
+        },
+        {
+          "id": "hof:2023:LCB:summerchampionship",
+          "title": "LCB | Summer Championship 2023",
+          "year": 2023,
+          "organizer": "LCB",
+          "source": "hall-of-fame-3"
+        },
+        {
+          "id": "hof:2024:GS:copadoscampeoes",
+          "title": "GS | COPA DOS CAMPEOES 2024",
+          "year": 2024,
+          "organizer": "GS",
+          "source": "hall-of-fame-3"
+        },
+        {
+          "id": "hof:2024:PREMIER:premierseriea",
+          "title": "PREMIER | PREMIER SERIE A 2024",
+          "year": 2024,
+          "organizer": "PREMIER",
+          "source": "hall-of-fame-3"
+        },
+        {
+          "id": "2024:llpstrikeones4",
+          "title": "LLP | STRIKE ONE SEASON 4",
+          "year": 2024,
+          "organizer": "LLP",
+          "source": "hall-of-fame-3"
+        },
+        {
+          "id": "hof:2024:BCN:challengersbr",
+          "title": "BCN | CHALLENGERS BR 2024",
+          "year": 2024,
+          "organizer": "BCN",
+          "source": "hall-of-fame-3"
+        },
+        {
+          "id": "hof:2025:BCN:challengers",
+          "title": "BCN | CHALLENGERS 2025",
+          "year": 2025,
+          "organizer": "BCN",
+          "source": "hall-of-fame-3"
+        },
+        {
+          "id": "2025:bcnchampionship20",
+          "title": "BCN | CHAMPIONSHIP 2.0",
+          "year": 2025,
+          "organizer": "BCN",
+          "source": "hall-of-fame-3"
+        },
+        {
+          "id": "2025:bcnleague",
+          "title": "BCN | LEAGUE 2025",
+          "year": 2025,
+          "organizer": "BCN",
+          "source": "hall-of-fame-3"
+        }
+      ]
     },
     {
       "id": "galaxy",
@@ -4116,7 +5127,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2024:llpstrikeones4",
-          "title": "LLP | STRIKE ONE SEASON 4 [TIER S]",
+          "title": "LLP | STRIKE ONE SEASON 4",
           "year": 2024,
           "teamId": "sdpinterlude",
           "team": "SDP Interlude",
@@ -4187,8 +5198,17 @@ window.HBSTV_DATABASE = {
           "source": "events-2025"
         },
         {
+          "id": "2024:bsgchallengersprotour",
+          "title": "BS:G | CHALLENGERS PRO TOUR",
+          "year": 2024,
+          "teamId": "csl",
+          "team": "CSL",
+          "major": false,
+          "source": "events-2024"
+        },
+        {
           "id": "2024:gzproseriesleagues3",
-          "title": "GAMEZONE | PRO SERIES LEAGUE SEASON 3 [TIER S+]",
+          "title": "GAMEZONE | PRO SERIES LEAGUE SEASON 3",
           "year": 2024,
           "teamId": "vissionary",
           "team": "Vissionary",
@@ -4197,19 +5217,10 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2024:xmsxbstvdreammastersstarss2",
-          "title": "XMS x BSTV | DREAM MASTERS STARS S2 [TIER S]",
+          "title": "XMS x BSTV | DREAM MASTERS STARS S2",
           "year": 2024,
           "teamId": "vissionary",
           "team": "Vissionary",
-          "major": false,
-          "source": "events-2024"
-        },
-        {
-          "id": "2024:bsgchallengersprotour",
-          "title": "BS:G | CHALLENGERS PRO TOUR [TIER S]",
-          "year": 2024,
-          "teamId": "csl",
-          "team": "CSL",
           "major": false,
           "source": "events-2024"
         }
@@ -4217,26 +5228,26 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [
         {
-          "id": "2024:bsgchallengersprotour",
-          "title": "BS:G | CHALLENGERS PRO TOUR [TIER S]",
-          "year": 2024,
-          "source": "events-2024"
-        },
-        {
           "id": "2024:bcnyallacompass",
-          "title": "BCN | YALLA COMPASS 2024 [TIER S]",
+          "title": "BCN | YALLA COMPASS 2024",
           "year": 2024,
           "source": "events-2024"
         },
         {
-          "id": "2023:ranksworlds",
-          "title": "RANK S | WORLDS 2023 [TIER S]",
+          "id": "2024:bsgchallengersprotour",
+          "title": "BS:G | CHALLENGERS PRO TOUR",
+          "year": 2024,
+          "source": "events-2024"
+        },
+        {
+          "id": "2023:ranksinvitational",
+          "title": "RANK S | INVITATIONAL LEAGUE 2023",
           "year": 2023,
           "source": "events-2023"
         },
         {
-          "id": "2023:ranksinvitational",
-          "title": "RANK S | INVITATIONAL LEAGUE 2023 [TIER S]",
+          "id": "2023:ranksworlds",
+          "title": "RANK S | WORLDS 2023",
           "year": 2023,
           "source": "events-2023"
         }
@@ -4276,7 +5287,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "2024:gblstarscups2",
-          "title": "GBL | STARS CUP SEASON 2 [TIER S]",
+          "title": "GBL | STARS CUP SEASON 2",
           "year": 2024,
           "teamId": "fenix",
           "team": "FENIX",
@@ -4285,7 +5296,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2024:xmsxbstvdreammastersstars",
-          "title": "XMS x BSTV | DREAM MASTERS STARS [TIER S]",
+          "title": "XMS x BSTV | DREAM MASTERS STARS",
           "year": 2024,
           "teamId": "fenix",
           "team": "FENIX",
@@ -4303,19 +5314,19 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2024:gblstarscups2",
-          "title": "GBL | STARS CUP SEASON 2 [TIER S]",
-          "year": 2024,
-          "source": "events-2024"
-        },
-        {
-          "id": "2024:xmsxbstvdreammastersstars",
-          "title": "XMS x BSTV | DREAM MASTERS STARS [TIER S]",
+          "title": "GBL | STARS CUP SEASON 2",
           "year": 2024,
           "source": "events-2024"
         },
         {
           "id": "2024:premierpremierleaguea",
-          "title": "PREMIER | PREMIER LEAGUE A [TIER S]",
+          "title": "PREMIER | PREMIER LEAGUE A",
+          "year": 2024,
+          "source": "events-2024"
+        },
+        {
+          "id": "2024:xmsxbstvdreammastersstars",
+          "title": "XMS x BSTV | DREAM MASTERS STARS",
           "year": 2024,
           "source": "events-2024"
         }
@@ -4378,6 +5389,15 @@ window.HBSTV_DATABASE = {
       ],
       "titles": [
         {
+          "id": "2025:bcnchampionship20",
+          "title": "BCN | CHAMPIONSHIP 2.0",
+          "year": 2025,
+          "teamId": "sx",
+          "team": "SX",
+          "major": false,
+          "source": "events-2025"
+        },
+        {
           "id": "2025:bcnfinals",
           "title": "BCN | FINALS 25",
           "year": 2025,
@@ -4405,17 +5425,8 @@ window.HBSTV_DATABASE = {
           "source": "events-2025"
         },
         {
-          "id": "2025:bcnchampionship20",
-          "title": "BCN | CHAMPIONSHIP 2.0",
-          "year": 2025,
-          "teamId": "sx",
-          "team": "SX",
-          "major": false,
-          "source": "events-2025"
-        },
-        {
           "id": "2024:gzgamingelite",
-          "title": "GAMEZONE | BRASIL GAMING ELITE [TIER S]",
+          "title": "GAMEZONE | BRASIL GAMING ELITE",
           "year": 2024,
           "teamId": "d2w",
           "team": "D2W",
@@ -4453,20 +5464,20 @@ window.HBSTV_DATABASE = {
           "source": "events-2025"
         },
         {
-          "id": "2024:gznewage",
-          "title": "GAMEZONE | NEW AGE [TIER S]",
+          "id": "2024:gzgamingelite",
+          "title": "GAMEZONE | BRASIL GAMING ELITE",
           "year": 2024,
           "source": "events-2024"
         },
         {
-          "id": "2024:gzgamingelite",
-          "title": "GAMEZONE | BRASIL GAMING ELITE [TIER S]",
+          "id": "2024:gznewage",
+          "title": "GAMEZONE | NEW AGE",
           "year": 2024,
           "source": "events-2024"
         },
         {
           "id": "major:194c5f557f9f233ff918",
-          "title": "WHL | MAJOR 2023 [TIER S+]",
+          "title": "WHL | Major",
           "year": 2023,
           "source": "events-2023"
         }
@@ -4483,7 +5494,121 @@ window.HBSTV_DATABASE = {
           "country": "BR"
         }
       ],
-      "awards": []
+      "awards": [],
+      "historicalTitles": [
+        {
+          "id": "2018:tslcbbs20",
+          "title": "TSL | CBBS 2.0",
+          "year": 2018,
+          "organizer": "TSL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2018:TSL:majorcupoctuber",
+          "title": "TSL | MAJOR CUP OCTUBER 2018",
+          "year": 2018,
+          "organizer": "TSL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2018:TSL:mundial",
+          "title": "TSL | MUNDIAL 2018",
+          "year": 2018,
+          "organizer": "TSL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2018:TSL:hardnessproleague20",
+          "title": "TSL | HARDNESS PRO LEAGUE 2.0 2018",
+          "year": 2018,
+          "organizer": "TSL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2019:GSE:tues",
+          "title": "GSE | TUES 2019",
+          "year": 2019,
+          "organizer": "GSE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2023:XMS:leaguecup",
+          "title": "XMS | LEAGUE CUP 2023",
+          "year": 2023,
+          "organizer": "XMS",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2023:GTR:nationalleague",
+          "title": "GTR | NATIONAL LEAGUE 2023",
+          "year": 2023,
+          "organizer": "GTR",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2024:GAMEZONE:alphacup",
+          "title": "GZ | ALPHA CUP 2024",
+          "year": 2024,
+          "organizer": "GAMEZONE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2024:gzgamingelite",
+          "title": "GAMEZONE | BRASIL GAMING ELITE",
+          "year": 2024,
+          "organizer": "GAMEZONE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2025:xmszonaprotournoment",
+          "title": "XMS | ZONA PRO TOURNOMENT",
+          "year": 2025,
+          "organizer": "XMS",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2025:LHA:mundial",
+          "title": "LHA | MUNDIAL 2025",
+          "year": 2025,
+          "organizer": "LHA",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2025:MK9:biggestleague",
+          "title": "MK9 | Biggest League 2025",
+          "year": 2025,
+          "organizer": "MK9",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2025:BCN:finals",
+          "title": "BCN I FINALS 2025",
+          "year": 2025,
+          "organizer": "BCN",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2025:LCS:leagueseason2",
+          "title": "LCS | LEAGUE SEASON 2 2025",
+          "year": 2025,
+          "organizer": "LCS",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2025:bcnchampionship20",
+          "title": "BCN | CHAMPIONSHIP 2.0",
+          "year": 2025,
+          "organizer": "BCN",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2025:BCN:yallacampass",
+          "title": "BCN I YALLA CAMPASS 2025",
+          "year": 2025,
+          "organizer": "BCN",
+          "source": "hall-of-fame"
+        }
+      ]
     },
     {
       "id": "helix",
@@ -4555,7 +5680,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2023:tslblaststrikeleague",
-          "title": "TSL | BLAST STRIKE LEAGUE [TIER S]",
+          "title": "TSL | BLAST STRIKE LEAGUE",
           "year": 2023,
           "teamId": "gt2023",
           "team": "GT 2023",
@@ -4564,7 +5689,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "major:194c5f557f9f233ff918",
-          "title": "WHL | MAJOR 2023 [TIER S+]",
+          "title": "WHL | Major",
           "year": 2023,
           "teamId": "gt2023",
           "team": "GT 2023",
@@ -4584,15 +5709,15 @@ window.HBSTV_DATABASE = {
       "mvps": [
         {
           "id": "2023:tslblaststrikeleague",
-          "title": "TSL | BLAST STRIKE LEAGUE [TIER S]",
+          "title": "TSL | BLAST STRIKE LEAGUE",
           "year": 2023,
           "source": "events-2023"
         }
       ],
       "evps": [
         {
-          "id": "2025:bcnstrikecup",
-          "title": "BCN | STRIKE CUP",
+          "id": "2025:bcnchallengerschampionship",
+          "title": "BCN | CHALLENGERS CHAMPIONSHIP",
           "year": 2025,
           "source": "events-2025"
         },
@@ -4603,32 +5728,32 @@ window.HBSTV_DATABASE = {
           "source": "events-2025"
         },
         {
-          "id": "2025:bcnchallengerschampionship",
-          "title": "BCN | CHALLENGERS CHAMPIONSHIP",
+          "id": "2025:bcnstrikecup",
+          "title": "BCN | STRIKE CUP",
           "year": 2025,
           "source": "events-2025"
         },
         {
           "id": "2024:gznewage",
-          "title": "GAMEZONE | NEW AGE [TIER S]",
+          "title": "GAMEZONE | NEW AGE",
           "year": 2024,
           "source": "events-2024"
         },
         {
           "id": "2023:lhaworldcupofclans",
-          "title": "LHA | WORLD CUP OF CLANS [TIER S+]",
+          "title": "LHA | WORLD CUP OF CLANS",
           "year": 2023,
           "source": "events-2023"
         },
         {
           "id": "2023:ranksinvitational",
-          "title": "RANK S | INVITATIONAL LEAGUE 2023 [TIER S]",
+          "title": "RANK S | INVITATIONAL LEAGUE 2023",
           "year": 2023,
           "source": "events-2023"
         },
         {
           "id": "major:194c5f557f9f233ff918",
-          "title": "WHL | MAJOR 2023 [TIER S+]",
+          "title": "WHL | Major",
           "year": 2023,
           "source": "events-2023"
         },
@@ -4658,7 +5783,86 @@ window.HBSTV_DATABASE = {
           "country": "BR"
         }
       ],
-      "awards": []
+      "awards": [],
+      "historicalTitles": [
+        {
+          "id": "hof:2021:GLBS:gameleague",
+          "title": "GLBS | GAME LEAGUE 2021",
+          "year": 2021,
+          "organizer": "GLBS",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2021:TSL:suzuka",
+          "title": "TSL | SUZUKA 2021",
+          "year": 2021,
+          "organizer": "TSL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2021:LLP:strikeone",
+          "title": "LLP | STRIKE ONE  2021",
+          "year": 2021,
+          "organizer": "LLP",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2021:CLUTCHERS:seasonone",
+          "title": "CLUTCHERS | SEASON ONE 2021",
+          "year": 2021,
+          "organizer": "CLUTCHERS",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2021:RISE LEADERS:seasonone",
+          "title": "RISE LEADERS | SEASON ONE 2021",
+          "year": 2021,
+          "organizer": "RISE LEADERS",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "major:007759b02a7d7543b0a1",
+          "title": "SUVOH | MAJOR",
+          "year": 2021,
+          "organizer": "SUVOH",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2023:tslblaststrikeleague",
+          "title": "TSL | BLAST STRIKE LEAGUE",
+          "year": 2023,
+          "organizer": "TSL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "major:194c5f557f9f233ff918",
+          "title": "WHL | Major",
+          "year": 2023,
+          "organizer": "WHL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2025:xmszonaprotournoment",
+          "title": "XMS | ZONA PRO TOURNOMENT",
+          "year": 2025,
+          "organizer": "XMS",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2025:LCS:leagueseason1",
+          "title": "LCS | LEAGUE SEASON 1 2025",
+          "year": 2025,
+          "organizer": "LCS",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2025:XMS:mastersleague",
+          "title": "XMS | MASTERS LEAGUE 2025",
+          "year": 2025,
+          "organizer": "XMS",
+          "source": "hall-of-fame"
+        }
+      ]
     },
     {
       "id": "henzo",
@@ -4673,7 +5877,7 @@ window.HBSTV_DATABASE = {
       "evps": [
         {
           "id": "2023:lhaworldcupofclans",
-          "title": "LHA | WORLD CUP OF CLANS [TIER S+]",
+          "title": "LHA | WORLD CUP OF CLANS",
           "year": 2023,
           "source": "events-2023"
         }
@@ -4736,26 +5940,26 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [
         {
-          "id": "2024:premierpremierleaguea",
-          "title": "PREMIER | PREMIER LEAGUE A [TIER S]",
-          "year": 2024,
-          "source": "events-2024"
-        },
-        {
           "id": "2024:bcnchallengers",
-          "title": "BCN | CHALLENGERS BRAZIL [TIER S]",
+          "title": "BCN | CHALLENGERS BRAZIL",
           "year": 2024,
           "source": "events-2024"
         },
         {
           "id": "2024:llpstrikeones4",
-          "title": "LLP | STRIKE ONE SEASON 4 [TIER S]",
+          "title": "LLP | STRIKE ONE SEASON 4",
+          "year": 2024,
+          "source": "events-2024"
+        },
+        {
+          "id": "2024:premierpremierleaguea",
+          "title": "PREMIER | PREMIER LEAGUE A",
           "year": 2024,
           "source": "events-2024"
         },
         {
           "id": "2023:tslblaststrikeleague",
-          "title": "TSL | BLAST STRIKE LEAGUE [TIER S]",
+          "title": "TSL | BLAST STRIKE LEAGUE",
           "year": 2023,
           "source": "events-2023"
         }
@@ -4833,6 +6037,15 @@ window.HBSTV_DATABASE = {
       ],
       "titles": [
         {
+          "id": "2025:bcnchallengerschampionship",
+          "title": "BCN | CHALLENGERS CHAMPIONSHIP",
+          "year": 2025,
+          "teamId": "sdpinterlude",
+          "team": "SDP Interlude",
+          "major": false,
+          "source": "events-2025"
+        },
+        {
           "id": "2025:bcnleague",
           "title": "BCN | LEAGUE 2025",
           "year": 2025,
@@ -4878,15 +6091,6 @@ window.HBSTV_DATABASE = {
           "source": "events-2025"
         },
         {
-          "id": "2025:bcnchallengerschampionship",
-          "title": "BCN | CHALLENGERS CHAMPIONSHIP",
-          "year": 2025,
-          "teamId": "sdpinterlude",
-          "team": "SDP Interlude",
-          "major": false,
-          "source": "events-2025"
-        },
-        {
           "id": "2025:xmszonaprotournoment",
           "title": "XMS | ZONA PRO TOURNOMENT",
           "year": 2025,
@@ -4897,7 +6101,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2024:gzproseriesleagues2",
-          "title": "GAMEZONE | PRO SERIES LEAGUE SEASON 2 [TIER S]",
+          "title": "GAMEZONE | PRO SERIES LEAGUE SEASON 2",
           "year": 2024,
           "teamId": "controlz",
           "team": "CONTROL Z",
@@ -4906,7 +6110,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2024:gzproseriesleagues3",
-          "title": "GAMEZONE | PRO SERIES LEAGUE SEASON 3 [TIER S+]",
+          "title": "GAMEZONE | PRO SERIES LEAGUE SEASON 3",
           "year": 2024,
           "teamId": "vissionary",
           "team": "Vissionary",
@@ -4915,7 +6119,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2024:gblstarscups2",
-          "title": "GBL | STARS CUP SEASON 2 [TIER S]",
+          "title": "GBL | STARS CUP SEASON 2",
           "year": 2024,
           "teamId": "fenix",
           "team": "FENIX",
@@ -4925,34 +6129,22 @@ window.HBSTV_DATABASE = {
       ],
       "mvps": [
         {
-          "id": "2024:gblstarscups2",
-          "title": "GBL | STARS CUP SEASON 2 [TIER S]",
+          "id": "2024:gzproseriesleagues2",
+          "title": "GAMEZONE | PRO SERIES LEAGUE SEASON 2",
           "year": 2024,
           "source": "events-2024"
         },
         {
-          "id": "2024:gzproseriesleagues2",
-          "title": "GAMEZONE | PRO SERIES LEAGUE SEASON 2 [TIER S]",
+          "id": "2024:gblstarscups2",
+          "title": "GBL | STARS CUP SEASON 2",
           "year": 2024,
           "source": "events-2024"
         }
       ],
       "evps": [
         {
-          "id": "2025:bcnstrikecup20",
-          "title": "BCN | STRIKE CUP 2.0",
-          "year": 2025,
-          "source": "events-2025"
-        },
-        {
-          "id": "2025:lcsleagues1",
-          "title": "LCS | LEAGUE S1",
-          "year": 2025,
-          "source": "events-2025"
-        },
-        {
-          "id": "2025:bcnyallacompass",
-          "title": "BCN | YALLA COMPASS 2025",
+          "id": "2025:bcnchallengerschampionship",
+          "title": "BCN | CHALLENGERS CHAMPIONSHIP",
           "year": 2025,
           "source": "events-2025"
         },
@@ -4969,26 +6161,38 @@ window.HBSTV_DATABASE = {
           "source": "events-2025"
         },
         {
+          "id": "2025:bcnstrikecup20",
+          "title": "BCN | STRIKE CUP 2.0",
+          "year": 2025,
+          "source": "events-2025"
+        },
+        {
+          "id": "2025:bcnyallacompass",
+          "title": "BCN | YALLA COMPASS 2025",
+          "year": 2025,
+          "source": "events-2025"
+        },
+        {
+          "id": "2025:lcsleagues1",
+          "title": "LCS | LEAGUE S1",
+          "year": 2025,
+          "source": "events-2025"
+        },
+        {
           "id": "2025:xmszonaprotournoment",
           "title": "XMS | ZONA PRO TOURNOMENT",
           "year": 2025,
           "source": "events-2025"
         },
         {
-          "id": "2025:bcnchallengerschampionship",
-          "title": "BCN | CHALLENGERS CHAMPIONSHIP",
-          "year": 2025,
-          "source": "events-2025"
-        },
-        {
           "id": "2024:gzproseriesleagues3",
-          "title": "GAMEZONE | PRO SERIES LEAGUE SEASON 3 [TIER S+]",
+          "title": "GAMEZONE | PRO SERIES LEAGUE SEASON 3",
           "year": 2024,
           "source": "events-2024"
         },
         {
           "id": "2024:xmsxbstvdreammastersstarss2",
-          "title": "XMS x BSTV | DREAM MASTERS STARS S2 [TIER S]",
+          "title": "XMS x BSTV | DREAM MASTERS STARS S2",
           "year": 2024,
           "source": "events-2024"
         }
@@ -5034,6 +6238,106 @@ window.HBSTV_DATABASE = {
           "series": "RANK S Awards",
           "sourceImage": "assets/archive/37e30feeb92f511c6931.jpg",
           "source": "awards"
+        }
+      ],
+      "historicalTitles": [
+        {
+          "id": "hof:2023:XMS:leaguecup",
+          "title": "XMS | LEAGUE CUP 2023",
+          "year": 2023,
+          "organizer": "XMS",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2024:xmsextrememasters",
+          "title": "XMS | EXTREME MASTERS",
+          "year": 2024,
+          "organizer": "XMS",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2024:GAMEZONE:psls2",
+          "title": "GZ |  PSL S2 2024",
+          "year": 2024,
+          "organizer": "GAMEZONE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2024:GBL:starscup",
+          "title": "GBL | STARS CUP 2024",
+          "year": 2024,
+          "organizer": "GBL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2024:GAMEZONE:psls3",
+          "title": "GZ | PSL S3 2024",
+          "year": 2024,
+          "organizer": "GAMEZONE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2025:xmszonaprotournoment",
+          "title": "XMS | ZONA PRO TOURNOMENT",
+          "year": 2025,
+          "organizer": "XMS",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2025:bcnstrikecup",
+          "title": "BCN | STRIKE CUP",
+          "year": 2025,
+          "organizer": "BCN",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2025:bcnyallacompass",
+          "title": "BCN | YALLA COMPASS 2025",
+          "year": 2025,
+          "organizer": "BCN",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2025:bcnleague",
+          "title": "BCN | LEAGUE 2025",
+          "year": 2025,
+          "organizer": "BCN",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2025:BCN:finals",
+          "title": "BCN I FINALS 2025",
+          "year": 2025,
+          "organizer": "BCN",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2025:BCN:championship",
+          "title": "BCN I CHAMPIONSHIP 2025",
+          "year": 2025,
+          "organizer": "BCN",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2025:xmsmasterleague",
+          "title": "XMS | MASTER LEAGUE",
+          "year": 2025,
+          "organizer": "XMS",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2025:LCS:leagueseason1",
+          "title": "LCS | LEAGUE SEASON 1 2025",
+          "year": 2025,
+          "organizer": "LCS",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2025:LCS:leagueseason2",
+          "title": "LCS | LEAGUE SEASON 2 2025",
+          "year": 2025,
+          "organizer": "LCS",
+          "source": "hall-of-fame"
         }
       ]
     },
@@ -5112,7 +6416,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2024:gzproseriesleagues3",
-          "title": "GAMEZONE | PRO SERIES LEAGUE SEASON 3 [TIER S+]",
+          "title": "GAMEZONE | PRO SERIES LEAGUE SEASON 3",
           "year": 2024,
           "teamId": "vissionary",
           "team": "Vissionary",
@@ -5121,7 +6425,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2023:ranksworlds",
-          "title": "RANK S | WORLDS 2023 [TIER S]",
+          "title": "RANK S | WORLDS 2023",
           "year": 2023,
           "teamId": "svicious",
           "team": "Svicious",
@@ -5138,14 +6442,14 @@ window.HBSTV_DATABASE = {
           "source": "events-2025"
         },
         {
-          "id": "2025:bcnyallacompass",
-          "title": "BCN | YALLA COMPASS 2025",
+          "id": "2025:bcnstrikecup",
+          "title": "BCN | STRIKE CUP",
           "year": 2025,
           "source": "events-2025"
         },
         {
-          "id": "2025:bcnstrikecup",
-          "title": "BCN | STRIKE CUP",
+          "id": "2025:bcnyallacompass",
+          "title": "BCN | YALLA COMPASS 2025",
           "year": 2025,
           "source": "events-2025"
         },
@@ -5157,13 +6461,13 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2024:bsgchallengersprotour",
-          "title": "BS:G | CHALLENGERS PRO TOUR [TIER S]",
+          "title": "BS:G | CHALLENGERS PRO TOUR",
           "year": 2024,
           "source": "events-2024"
         },
         {
           "id": "2024:gzproseriesleagues2",
-          "title": "GAMEZONE | PRO SERIES LEAGUE SEASON 2 [TIER S]",
+          "title": "GAMEZONE | PRO SERIES LEAGUE SEASON 2",
           "year": 2024,
           "source": "events-2024"
         }
@@ -5204,7 +6508,7 @@ window.HBSTV_DATABASE = {
       "evps": [
         {
           "id": "2023:whlesls2",
-          "title": "WHL | ELETRONIC SPORTS LEAGUE SEASON 2 [TIER S]",
+          "title": "WHL | ELETRONIC SPORTS LEAGUE SEASON 2",
           "year": 2023,
           "source": "events-2023"
         }
@@ -5288,6 +6592,15 @@ window.HBSTV_DATABASE = {
       ],
       "titles": [
         {
+          "id": "2025:bcnimpactleague",
+          "title": "BCN | IMPACT LEAGUE",
+          "year": 2025,
+          "teamId": "i2n",
+          "team": "I2N",
+          "major": false,
+          "source": "events-2025"
+        },
+        {
           "id": "2025:bcnstrikecup20",
           "title": "BCN | STRIKE CUP 2.0",
           "year": 2025,
@@ -5302,15 +6615,6 @@ window.HBSTV_DATABASE = {
           "year": 2025,
           "teamId": "exeteam",
           "team": "EXE Team",
-          "major": false,
-          "source": "events-2025"
-        },
-        {
-          "id": "2025:bcnimpactleague",
-          "title": "BCN | IMPACT LEAGUE",
-          "year": 2025,
-          "teamId": "i2n",
-          "team": "I2N",
           "major": false,
           "source": "events-2025"
         }
@@ -5351,7 +6655,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2024:bcnchallengers",
-          "title": "BCN | CHALLENGERS BRAZIL [TIER S]",
+          "title": "BCN | CHALLENGERS BRAZIL",
           "year": 2024,
           "teamId": "sdpinterlude",
           "team": "SDP Interlude",
@@ -5360,7 +6664,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2024:llpstrikeones4",
-          "title": "LLP | STRIKE ONE SEASON 4 [TIER S]",
+          "title": "LLP | STRIKE ONE SEASON 4",
           "year": 2024,
           "teamId": "sdpinterlude",
           "team": "SDP Interlude",
@@ -5369,7 +6673,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2024:premierpremierleaguea",
-          "title": "PREMIER | PREMIER LEAGUE A [TIER S]",
+          "title": "PREMIER | PREMIER LEAGUE A",
           "year": 2024,
           "teamId": "sdpinterlude",
           "team": "SDP Interlude",
@@ -5451,7 +6755,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2024:gzproseriesleagues3",
-          "title": "GAMEZONE | PRO SERIES LEAGUE SEASON 3 [TIER S+]",
+          "title": "GAMEZONE | PRO SERIES LEAGUE SEASON 3",
           "year": 2024,
           "teamId": "vissionary",
           "team": "Vissionary",
@@ -5460,7 +6764,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2024:xmsxbstvdreammastersstarss2",
-          "title": "XMS x BSTV | DREAM MASTERS STARS S2 [TIER S]",
+          "title": "XMS x BSTV | DREAM MASTERS STARS S2",
           "year": 2024,
           "teamId": "vissionary",
           "team": "Vissionary",
@@ -5468,8 +6772,24 @@ window.HBSTV_DATABASE = {
           "source": "events-2024"
         }
       ],
-      "mvps": [],
-      "evps": [],
+      "mvps": [
+        {
+          "id": "2021:gsemasters",
+          "title": "GSE | Masters Inverno",
+          "year": 2021,
+          "major": false,
+          "source": "owner-confirmed"
+        }
+      ],
+      "evps": [
+        {
+          "id": "2020:pnlpeninsulacup",
+          "title": "PNL | Peninsula Cup",
+          "year": 2020,
+          "major": false,
+          "source": "owner-confirmed"
+        }
+      ],
       "rankings": [
         {
           "year": 2021,
@@ -5500,28 +6820,6 @@ window.HBSTV_DATABASE = {
       "awards": []
     },
     {
-      "id": "kauan",
-      "name": "Kauan",
-      "aliases": [
-        "Kauan"
-      ],
-      "realNames": [],
-      "teams": [
-        {
-          "id": "pentaesports",
-          "name": "Penta E-sports",
-          "years": [
-            2020
-          ]
-        }
-      ],
-      "titles": [],
-      "mvps": [],
-      "evps": [],
-      "rankings": [],
-      "awards": []
-    },
-    {
       "id": "kento",
       "name": "kento",
       "aliases": [
@@ -5540,7 +6838,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "2024:gzproseriesleagues2",
-          "title": "GAMEZONE | PRO SERIES LEAGUE SEASON 2 [TIER S]",
+          "title": "GAMEZONE | PRO SERIES LEAGUE SEASON 2",
           "year": 2024,
           "teamId": "controlz",
           "team": "CONTROL Z",
@@ -5566,19 +6864,19 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [
         {
-          "id": "major:188f48896736e07cbe4d",
-          "title": "TSL | MAJOR PREMIERE 2.0",
-          "year": 2018,
-          "source": "major-history",
-          "sourceImage": "assets/archive/188f48896736e07cbe4d.jpeg",
-          "major": true
-        },
-        {
           "id": "major:ba4b48dba7cb6e5526a7",
           "title": "TSL | MAJOR PREMIERE",
           "year": 2018,
           "source": "major-history",
           "sourceImage": "assets/archive/ba4b48dba7cb6e5526a7.jpeg",
+          "major": true
+        },
+        {
+          "id": "major:188f48896736e07cbe4d",
+          "title": "TSL | MAJOR PREMIERE 2.0",
+          "year": 2018,
+          "source": "major-history",
+          "sourceImage": "assets/archive/188f48896736e07cbe4d.jpeg",
           "major": true
         }
       ],
@@ -5628,7 +6926,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "2024:bcnyallacompass",
-          "title": "BCN | YALLA COMPASS 2024 [TIER S]",
+          "title": "BCN | YALLA COMPASS 2024",
           "year": 2024,
           "teamId": "aura",
           "team": "AURA",
@@ -5637,7 +6935,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2023:ranksdreamhack",
-          "title": "RANK S | DREAM HACK BRAZIL [TIER S]",
+          "title": "RANK S | DREAM HACK BRAZIL",
           "year": 2023,
           "teamId": "chaos",
           "team": "Chaos",
@@ -5646,7 +6944,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "major:67b535053e8ba3d242da",
-          "title": "RANK S | MajoR LEAGUE 2023 [TIER S+]",
+          "title": "RANK S | Major",
           "year": 2023,
           "teamId": "chaos",
           "team": "Chaos",
@@ -5657,14 +6955,14 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [
         {
-          "id": "major:67b535053e8ba3d242da",
-          "title": "RANK S | MajoR LEAGUE 2023 [TIER S+]",
+          "id": "2023:ranksdreamhack",
+          "title": "RANK S | DREAM HACK BRAZIL",
           "year": 2023,
           "source": "events-2023"
         },
         {
-          "id": "2023:ranksdreamhack",
-          "title": "RANK S | DREAM HACK BRAZIL [TIER S]",
+          "id": "major:67b535053e8ba3d242da",
+          "title": "RANK S | Major",
           "year": 2023,
           "source": "events-2023"
         }
@@ -5740,7 +7038,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "2023:ranksworlds",
-          "title": "RANK S | WORLDS 2023 [TIER S]",
+          "title": "RANK S | WORLDS 2023",
           "year": 2023,
           "teamId": "svicious",
           "team": "Svicious",
@@ -5752,13 +7050,13 @@ window.HBSTV_DATABASE = {
       "evps": [
         {
           "id": "2023:tslblaststrikeleague",
-          "title": "TSL | BLAST STRIKE LEAGUE [TIER S]",
+          "title": "TSL | BLAST STRIKE LEAGUE",
           "year": 2023,
           "source": "events-2023"
         },
         {
           "id": "2023:whlelectronicsportsleague",
-          "title": "WHL | ELECTRONIC SPORTS LEAGUE [TIER S]",
+          "title": "WHL | ELECTRONIC SPORTS LEAGUE",
           "year": 2023,
           "source": "events-2023"
         }
@@ -5795,35 +7093,6 @@ window.HBSTV_DATABASE = {
       ]
     },
     {
-      "id": "kscerato",
-      "name": "Kscerato",
-      "aliases": [
-        "Kscerato"
-      ],
-      "realNames": [],
-      "teams": [
-        {
-          "id": "teaminfinity",
-          "name": "Team Infinity",
-          "years": [
-            2021
-          ]
-        },
-        {
-          "id": "pentaesports",
-          "name": "Penta E-sports",
-          "years": [
-            2020
-          ]
-        }
-      ],
-      "titles": [],
-      "mvps": [],
-      "evps": [],
-      "rankings": [],
-      "awards": []
-    },
-    {
       "id": "kzl",
       "name": "KZL",
       "aliases": [
@@ -5842,7 +7111,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "2024:xmsextrememasters",
-          "title": "XMS | EXTREME MASTERS [TIER S]",
+          "title": "XMS | EXTREME MASTERS",
           "year": 2024,
           "teamId": "controlz",
           "team": "CONTROL Z",
@@ -5868,7 +7137,7 @@ window.HBSTV_DATABASE = {
       "evps": [
         {
           "id": "2024:whlworldrankings2",
-          "title": "WHL | WORLD RANKING S2 [TIER S]",
+          "title": "WHL | WORLD RANKING S2",
           "year": 2024,
           "source": "events-2024"
         }
@@ -5895,7 +7164,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "2023:tslblaststrikeleague",
-          "title": "TSL | BLAST STRIKE LEAGUE [TIER S]",
+          "title": "TSL | BLAST STRIKE LEAGUE",
           "year": 2023,
           "teamId": "gt2023",
           "team": "GT 2023",
@@ -5904,7 +7173,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "major:194c5f557f9f233ff918",
-          "title": "WHL | MAJOR 2023 [TIER S+]",
+          "title": "WHL | Major",
           "year": 2023,
           "teamId": "gt2023",
           "team": "GT 2023",
@@ -5930,7 +7199,7 @@ window.HBSTV_DATABASE = {
       "evps": [
         {
           "id": "2023:ranksworlds",
-          "title": "RANK S | WORLDS 2023 [TIER S]",
+          "title": "RANK S | WORLDS 2023",
           "year": 2023,
           "source": "events-2023"
         }
@@ -5980,7 +7249,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "2023:ranksworlds",
-          "title": "RANK S | WORLDS 2023 [TIER S]",
+          "title": "RANK S | WORLDS 2023",
           "year": 2023,
           "teamId": "svicious",
           "team": "Svicious",
@@ -6013,7 +7282,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "2023:lhaworldcupofclans",
-          "title": "LHA | WORLD CUP OF CLANS [TIER S+]",
+          "title": "LHA | WORLD CUP OF CLANS",
           "year": 2023,
           "teamId": "bm",
           "team": "BM",
@@ -6024,7 +7293,7 @@ window.HBSTV_DATABASE = {
       "mvps": [
         {
           "id": "2024:xmsxbstvewcproleague",
-          "title": "XMS x BSTV | EWC PRO LEAGUE [TIER S]",
+          "title": "XMS x BSTV | EWC PRO LEAGUE",
           "year": 2024,
           "source": "events-2024"
         }
@@ -6032,7 +7301,7 @@ window.HBSTV_DATABASE = {
       "evps": [
         {
           "id": "2024:xmsextrememasters",
-          "title": "XMS | EXTREME MASTERS [TIER S]",
+          "title": "XMS | EXTREME MASTERS",
           "year": 2024,
           "source": "events-2024"
         }
@@ -6103,15 +7372,6 @@ window.HBSTV_DATABASE = {
       ],
       "titles": [
         {
-          "id": "2025:xmsmasterleague",
-          "title": "XMS | MASTER LEAGUE",
-          "year": 2025,
-          "teamId": "iklegends",
-          "team": "IK",
-          "major": false,
-          "source": "events-2025"
-        },
-        {
           "id": "2025:bcnchallengerschampionship",
           "title": "BCN | CHALLENGERS CHAMPIONSHIP",
           "year": 2025,
@@ -6130,17 +7390,17 @@ window.HBSTV_DATABASE = {
           "source": "events-2025"
         },
         {
-          "id": "2024:premierpremierleaguea",
-          "title": "PREMIER | PREMIER LEAGUE A [TIER S]",
-          "year": 2024,
-          "teamId": "sdpinterlude",
-          "team": "SDP Interlude",
+          "id": "2025:xmsmasterleague",
+          "title": "XMS | MASTER LEAGUE",
+          "year": 2025,
+          "teamId": "iklegends",
+          "team": "IK",
           "major": false,
-          "source": "events-2024"
+          "source": "events-2025"
         },
         {
           "id": "2024:gblstarscups2",
-          "title": "GBL | STARS CUP SEASON 2 [TIER S]",
+          "title": "GBL | STARS CUP SEASON 2",
           "year": 2024,
           "teamId": "fenix",
           "team": "FENIX",
@@ -6148,8 +7408,17 @@ window.HBSTV_DATABASE = {
           "source": "events-2024"
         },
         {
+          "id": "2024:premierpremierleaguea",
+          "title": "PREMIER | PREMIER LEAGUE A",
+          "year": 2024,
+          "teamId": "sdpinterlude",
+          "team": "SDP Interlude",
+          "major": false,
+          "source": "events-2024"
+        },
+        {
           "id": "2024:xmsxbstvdreammastersstars",
-          "title": "XMS x BSTV | DREAM MASTERS STARS [TIER S]",
+          "title": "XMS x BSTV | DREAM MASTERS STARS",
           "year": 2024,
           "teamId": "fenix",
           "team": "FENIX",
@@ -6178,20 +7447,20 @@ window.HBSTV_DATABASE = {
           "source": "events-2025"
         },
         {
-          "id": "2024:xmsxbstvdreammastersstarss2",
-          "title": "XMS x BSTV | DREAM MASTERS STARS S2 [TIER S]",
+          "id": "2024:whlworldrankings2",
+          "title": "WHL | WORLD RANKING S2",
           "year": 2024,
           "source": "events-2024"
         },
         {
           "id": "2024:xmsxbstvdreammastersstars",
-          "title": "XMS x BSTV | DREAM MASTERS STARS [TIER S]",
+          "title": "XMS x BSTV | DREAM MASTERS STARS",
           "year": 2024,
           "source": "events-2024"
         },
         {
-          "id": "2024:whlworldrankings2",
-          "title": "WHL | WORLD RANKING S2 [TIER S]",
+          "id": "2024:xmsxbstvdreammastersstarss2",
+          "title": "XMS x BSTV | DREAM MASTERS STARS S2",
           "year": 2024,
           "source": "events-2024"
         }
@@ -6223,7 +7492,7 @@ window.HBSTV_DATABASE = {
       "evps": [
         {
           "id": "2024:premierpremierleaguea",
-          "title": "PREMIER | PREMIER LEAGUE A [TIER S]",
+          "title": "PREMIER | PREMIER LEAGUE A",
           "year": 2024,
           "source": "events-2024"
         }
@@ -6250,7 +7519,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "2023:ranksworlds",
-          "title": "RANK S | WORLDS 2023 [TIER S]",
+          "title": "RANK S | WORLDS 2023",
           "year": 2023,
           "teamId": "svicious",
           "team": "Svicious",
@@ -6300,6 +7569,15 @@ window.HBSTV_DATABASE = {
       ],
       "titles": [
         {
+          "id": "2025:bcnchampionship20",
+          "title": "BCN | CHAMPIONSHIP 2.0",
+          "year": 2025,
+          "teamId": "sx",
+          "team": "SX",
+          "major": false,
+          "source": "events-2025"
+        },
+        {
           "id": "2025:bcnfinals",
           "title": "BCN | FINALS 25",
           "year": 2025,
@@ -6336,6 +7614,15 @@ window.HBSTV_DATABASE = {
           "source": "events-2025"
         },
         {
+          "id": "2025:bsgbpl",
+          "title": "BSG | BPL",
+          "year": 2025,
+          "teamId": "vissionary",
+          "team": "Vissionary",
+          "major": false,
+          "source": "events-2025"
+        },
+        {
           "id": "2025:lcsleagues1",
           "title": "LCS | LEAGUE S1",
           "year": 2025,
@@ -6352,24 +7639,6 @@ window.HBSTV_DATABASE = {
           "team": "IK",
           "major": false,
           "source": "events-2025"
-        },
-        {
-          "id": "2025:bsgbpl",
-          "title": "BSG | BPL",
-          "year": 2025,
-          "teamId": "vissionary",
-          "team": "Vissionary",
-          "major": false,
-          "source": "events-2025"
-        },
-        {
-          "id": "2025:bcnchampionship20",
-          "title": "BCN | CHAMPIONSHIP 2.0",
-          "year": 2025,
-          "teamId": "sx",
-          "team": "SX",
-          "major": false,
-          "source": "events-2025"
         }
       ],
       "mvps": [],
@@ -6381,14 +7650,14 @@ window.HBSTV_DATABASE = {
           "source": "events-2025"
         },
         {
-          "id": "2025:bcnstrikecup20",
-          "title": "BCN | STRIKE CUP 2.0",
+          "id": "2025:bcnstrikecup",
+          "title": "BCN | STRIKE CUP",
           "year": 2025,
           "source": "events-2025"
         },
         {
-          "id": "2025:lcsleagues1",
-          "title": "LCS | LEAGUE S1",
+          "id": "2025:bcnstrikecup20",
+          "title": "BCN | STRIKE CUP 2.0",
           "year": 2025,
           "source": "events-2025"
         },
@@ -6399,8 +7668,8 @@ window.HBSTV_DATABASE = {
           "source": "events-2025"
         },
         {
-          "id": "2025:bcnstrikecup",
-          "title": "BCN | STRIKE CUP",
+          "id": "2025:lcsleagues1",
+          "title": "LCS | LEAGUE S1",
           "year": 2025,
           "source": "events-2025"
         }
@@ -6476,7 +7745,7 @@ window.HBSTV_DATABASE = {
       "evps": [
         {
           "id": "2023:whlelectronicsportsleague",
-          "title": "WHL | ELECTRONIC SPORTS LEAGUE [TIER S]",
+          "title": "WHL | ELECTRONIC SPORTS LEAGUE",
           "year": 2023,
           "source": "events-2023"
         }
@@ -6504,7 +7773,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "2024:bcnchallengers",
-          "title": "BCN | CHALLENGERS BRAZIL [TIER S]",
+          "title": "BCN | CHALLENGERS BRAZIL",
           "year": 2024,
           "teamId": "sdpinterlude",
           "team": "SDP Interlude",
@@ -6531,7 +7800,7 @@ window.HBSTV_DATABASE = {
       "evps": [
         {
           "id": "major:67b535053e8ba3d242da",
-          "title": "RANK S | MajoR LEAGUE 2023 [TIER S+]",
+          "title": "RANK S | Major",
           "year": 2023,
           "source": "events-2023"
         }
@@ -6553,7 +7822,7 @@ window.HBSTV_DATABASE = {
       "mvps": [
         {
           "id": "2023:gzgtrleague",
-          "title": "GAMEZONE | GTR LEAGUE [TIER S]",
+          "title": "GAMEZONE | GTR LEAGUE",
           "year": 2023,
           "source": "events-2023"
         }
@@ -6584,7 +7853,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "2024:xmsxbstvewcproleague",
-          "title": "XMS x BSTV | EWC PRO LEAGUE [TIER S]",
+          "title": "XMS x BSTV | EWC PRO LEAGUE",
           "year": 2024,
           "teamId": "rs4",
           "team": "RS4",
@@ -6595,32 +7864,32 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [
         {
-          "id": "2024:xmsxbstvewcproleague",
-          "title": "XMS x BSTV | EWC PRO LEAGUE [TIER S]",
+          "id": "2024:bstvinsanitys1",
+          "title": "BSTV | INSANITY SEASON 1",
           "year": 2024,
           "source": "events-2024"
         },
         {
-          "id": "2024:bstvinsanitys1",
-          "title": "BSTV | INSANITY SEASON 1 [TIER S+]",
+          "id": "2024:xmsxbstvewcproleague",
+          "title": "XMS x BSTV | EWC PRO LEAGUE",
           "year": 2024,
           "source": "events-2024"
         },
         {
           "id": "2023:lhaworldcupofclans",
-          "title": "LHA | WORLD CUP OF CLANS [TIER S+]",
+          "title": "LHA | WORLD CUP OF CLANS",
           "year": 2023,
           "source": "events-2023"
         },
         {
           "id": "major:194c5f557f9f233ff918",
-          "title": "WHL | MAJOR 2023 [TIER S+]",
+          "title": "WHL | Major",
           "year": 2023,
           "source": "events-2023"
         },
         {
           "id": "2023:whlworldrankings1",
-          "title": "WHL | WORLD RANKING SEASON 1 [TIER S]",
+          "title": "WHL | WORLD RANKING SEASON 1",
           "year": 2023,
           "source": "events-2023"
         }
@@ -6654,7 +7923,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "2024:gzproseriesleagues2",
-          "title": "GAMEZONE | PRO SERIES LEAGUE SEASON 2 [TIER S]",
+          "title": "GAMEZONE | PRO SERIES LEAGUE SEASON 2",
           "year": 2024,
           "teamId": "controlz",
           "team": "CONTROL Z",
@@ -6663,7 +7932,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2024:xmsextrememasters",
-          "title": "XMS | EXTREME MASTERS [TIER S]",
+          "title": "XMS | EXTREME MASTERS",
           "year": 2024,
           "teamId": "controlz",
           "team": "CONTROL Z",
@@ -6675,7 +7944,7 @@ window.HBSTV_DATABASE = {
       "evps": [
         {
           "id": "2024:bsgchallengersprotour",
-          "title": "BS:G | CHALLENGERS PRO TOUR [TIER S]",
+          "title": "BS:G | CHALLENGERS PRO TOUR",
           "year": 2024,
           "source": "events-2024"
         }
@@ -6729,24 +7998,6 @@ window.HBSTV_DATABASE = {
       ],
       "titles": [
         {
-          "id": "2025:bcnleague",
-          "title": "BCN | LEAGUE 2025",
-          "year": 2025,
-          "teamId": "iklegends",
-          "team": "IK",
-          "major": false,
-          "source": "events-2025"
-        },
-        {
-          "id": "2025:bcnyallacompass",
-          "title": "BCN | YALLA COMPASS 2025",
-          "year": 2025,
-          "teamId": "iklegends",
-          "team": "IK",
-          "major": false,
-          "source": "events-2025"
-        },
-        {
           "id": "2025:bcnchallengerschampionship",
           "title": "BCN | CHALLENGERS CHAMPIONSHIP",
           "year": 2025,
@@ -6765,8 +8016,26 @@ window.HBSTV_DATABASE = {
           "source": "events-2025"
         },
         {
+          "id": "2025:bcnleague",
+          "title": "BCN | LEAGUE 2025",
+          "year": 2025,
+          "teamId": "iklegends",
+          "team": "IK",
+          "major": false,
+          "source": "events-2025"
+        },
+        {
+          "id": "2025:bcnyallacompass",
+          "title": "BCN | YALLA COMPASS 2025",
+          "year": 2025,
+          "teamId": "iklegends",
+          "team": "IK",
+          "major": false,
+          "source": "events-2025"
+        },
+        {
           "id": "2024:bcnchallengers",
-          "title": "BCN | CHALLENGERS BRAZIL [TIER S]",
+          "title": "BCN | CHALLENGERS BRAZIL",
           "year": 2024,
           "teamId": "sdpinterlude",
           "team": "SDP Interlude",
@@ -6775,7 +8044,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2024:llpstrikeones4",
-          "title": "LLP | STRIKE ONE SEASON 4 [TIER S]",
+          "title": "LLP | STRIKE ONE SEASON 4",
           "year": 2024,
           "teamId": "sdpinterlude",
           "team": "SDP Interlude",
@@ -6784,7 +8053,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2024:premierpremierleaguea",
-          "title": "PREMIER | PREMIER LEAGUE A [TIER S]",
+          "title": "PREMIER | PREMIER LEAGUE A",
           "year": 2024,
           "teamId": "sdpinterlude",
           "team": "SDP Interlude",
@@ -6793,7 +8062,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2023:tslblaststrikeleague",
-          "title": "TSL | BLAST STRIKE LEAGUE [TIER S]",
+          "title": "TSL | BLAST STRIKE LEAGUE",
           "year": 2023,
           "teamId": "gt2023",
           "team": "GT 2023",
@@ -6802,7 +8071,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "major:194c5f557f9f233ff918",
-          "title": "WHL | MAJOR 2023 [TIER S+]",
+          "title": "WHL | Major",
           "year": 2023,
           "teamId": "gt2023",
           "team": "GT 2023",
@@ -6819,6 +8088,12 @@ window.HBSTV_DATABASE = {
           "source": "events-2025"
         },
         {
+          "id": "2025:bcnleague",
+          "title": "BCN | LEAGUE 2025",
+          "year": 2025,
+          "source": "events-2025"
+        },
+        {
           "id": "2025:lcsleagues1",
           "title": "LCS | LEAGUE S1",
           "year": 2025,
@@ -6831,12 +8106,6 @@ window.HBSTV_DATABASE = {
           "source": "events-2025"
         },
         {
-          "id": "2025:bcnleague",
-          "title": "BCN | LEAGUE 2025",
-          "year": 2025,
-          "source": "events-2025"
-        },
-        {
           "id": "2025:xmszonaprotournoment",
           "title": "XMS | ZONA PRO TOURNOMENT",
           "year": 2025,
@@ -6844,25 +8113,25 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2024:bcnchallengers",
-          "title": "BCN | CHALLENGERS BRAZIL [TIER S]",
+          "title": "BCN | CHALLENGERS BRAZIL",
           "year": 2024,
           "source": "events-2024"
         },
         {
           "id": "2024:llpstrikeones4",
-          "title": "LLP | STRIKE ONE SEASON 4 [TIER S]",
+          "title": "LLP | STRIKE ONE SEASON 4",
           "year": 2024,
           "source": "events-2024"
         },
         {
           "id": "major:67b535053e8ba3d242da",
-          "title": "RANK S | MajoR LEAGUE 2023 [TIER S+]",
+          "title": "RANK S | Major",
           "year": 2023,
           "source": "events-2023"
         },
         {
           "id": "2023:tslblaststrikeleague",
-          "title": "TSL | BLAST STRIKE LEAGUE [TIER S]",
+          "title": "TSL | BLAST STRIKE LEAGUE",
           "year": 2023,
           "source": "events-2023"
         }
@@ -6884,7 +8153,107 @@ window.HBSTV_DATABASE = {
           "country": "BR"
         }
       ],
-      "awards": []
+      "awards": [],
+      "historicalTitles": [
+        {
+          "id": "hof:2023:LCB:summerchampionship",
+          "title": "LCB | Summer Championship 2023",
+          "year": 2023,
+          "organizer": "LCB",
+          "source": "hall-of-fame-3"
+        },
+        {
+          "id": "hof:2023:GS:superleague",
+          "title": "GS | SUPER LEAGUE 2023",
+          "year": 2023,
+          "organizer": "GS",
+          "source": "hall-of-fame-3"
+        },
+        {
+          "id": "hof:2023:TSL:blastleague",
+          "title": "TSL | BLAST LEAGUE 2023",
+          "year": 2023,
+          "organizer": "TSL",
+          "source": "hall-of-fame-3"
+        },
+        {
+          "id": "major:194c5f557f9f233ff918",
+          "title": "WHL | Major",
+          "year": 2023,
+          "organizer": "WHL",
+          "source": "hall-of-fame-3"
+        },
+        {
+          "id": "hof:2024:GS:copadoscampeoes",
+          "title": "GS | COPA DOS CAMPEOES 2024",
+          "year": 2024,
+          "organizer": "GS",
+          "source": "hall-of-fame-3"
+        },
+        {
+          "id": "hof:2024:BCN:challengersbr",
+          "title": "BCN | CHALLENGERS BR 2024",
+          "year": 2024,
+          "organizer": "BCN",
+          "source": "hall-of-fame-3"
+        },
+        {
+          "id": "hof:2024:LLP:strikeone40",
+          "title": "LLP | STRIKE ONE 4.0 2024",
+          "year": 2024,
+          "organizer": "LLP",
+          "source": "hall-of-fame-3"
+        },
+        {
+          "id": "hof:2024:PREMIER:premierleagueseriea",
+          "title": "Premier | Premier League Série A 2024",
+          "year": 2024,
+          "organizer": "PREMIER",
+          "source": "hall-of-fame-3"
+        },
+        {
+          "id": "2025:bcnchallengerschampionship",
+          "title": "BCN | CHALLENGERS CHAMPIONSHIP",
+          "year": 2025,
+          "organizer": "BCN",
+          "source": "hall-of-fame-3"
+        },
+        {
+          "id": "hof:2025:LHA:mundial",
+          "title": "LHA | Mundial 2025",
+          "year": 2025,
+          "organizer": "LHA",
+          "source": "hall-of-fame-3"
+        },
+        {
+          "id": "hof:2025:MK9:biggestleague",
+          "title": "MK9 | Biggest League 2025",
+          "year": 2025,
+          "organizer": "MK9",
+          "source": "hall-of-fame-3"
+        },
+        {
+          "id": "2025:bcnyallacompass",
+          "title": "BCN | YALLA COMPASS 2025",
+          "year": 2025,
+          "organizer": "BCN",
+          "source": "hall-of-fame-3"
+        },
+        {
+          "id": "2025:bcnleague",
+          "title": "BCN | LEAGUE 2025",
+          "year": 2025,
+          "organizer": "BCN",
+          "source": "hall-of-fame-3"
+        },
+        {
+          "id": "2025:bcnchampionship20",
+          "title": "BCN | CHAMPIONSHIP 2.0",
+          "year": 2025,
+          "organizer": "BCN",
+          "source": "hall-of-fame-3"
+        }
+      ]
     },
     {
       "id": "money",
@@ -6905,7 +8274,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "2024:xmsextrememasters",
-          "title": "XMS | EXTREME MASTERS [TIER S]",
+          "title": "XMS | EXTREME MASTERS",
           "year": 2024,
           "teamId": "controlz",
           "team": "CONTROL Z",
@@ -6963,8 +8332,17 @@ window.HBSTV_DATABASE = {
       ],
       "titles": [
         {
+          "id": "2023:whlleague",
+          "title": "WHL | LEAGUE 2023",
+          "year": 2023,
+          "teamId": "v13",
+          "team": "V13",
+          "major": false,
+          "source": "events-2023"
+        },
+        {
           "id": "2023:whlworldrankings1",
-          "title": "WHL | WORLD RANKING SEASON 1 [TIER S]",
+          "title": "WHL | WORLD RANKING SEASON 1",
           "year": 2023,
           "teamId": "d2w",
           "team": "D2W",
@@ -6973,19 +8351,10 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2023:whlztournoment",
-          "title": "WHL | Z TOURNOMENT [ TIER S]",
+          "title": "WHL | Z TOURNOMENT",
           "year": 2023,
           "teamId": "d2w",
           "team": "D2W",
-          "major": false,
-          "source": "events-2023"
-        },
-        {
-          "id": "2023:whlleague",
-          "title": "WHL | LEAGUE 2023 [TIER S]",
-          "year": 2023,
-          "teamId": "v13",
-          "team": "V13",
           "major": false,
           "source": "events-2023"
         }
@@ -6993,14 +8362,14 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [
         {
-          "id": "2023:whlworldrankings1",
-          "title": "WHL | WORLD RANKING SEASON 1 [TIER S]",
+          "id": "2023:whlelectronicsportsleague",
+          "title": "WHL | ELECTRONIC SPORTS LEAGUE",
           "year": 2023,
           "source": "events-2023"
         },
         {
-          "id": "2023:whlelectronicsportsleague",
-          "title": "WHL | ELECTRONIC SPORTS LEAGUE [TIER S]",
+          "id": "2023:whlworldrankings1",
+          "title": "WHL | WORLD RANKING SEASON 1",
           "year": 2023,
           "source": "events-2023"
         }
@@ -7043,7 +8412,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2024:gzproseriesleagues2",
-          "title": "GAMEZONE | PRO SERIES LEAGUE SEASON 2 [TIER S]",
+          "title": "GAMEZONE | PRO SERIES LEAGUE SEASON 2",
           "year": 2024,
           "teamId": "controlz",
           "team": "CONTROL Z",
@@ -7052,7 +8421,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2024:xmsextrememasters",
-          "title": "XMS | EXTREME MASTERS [TIER S]",
+          "title": "XMS | EXTREME MASTERS",
           "year": 2024,
           "teamId": "controlz",
           "team": "CONTROL Z",
@@ -7086,7 +8455,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "2023:whlworldrankings1",
-          "title": "WHL | WORLD RANKING SEASON 1 [TIER S]",
+          "title": "WHL | WORLD RANKING SEASON 1",
           "year": 2023,
           "teamId": "d2w",
           "team": "D2W",
@@ -7095,7 +8464,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2023:whlztournoment",
-          "title": "WHL | Z TOURNOMENT [ TIER S]",
+          "title": "WHL | Z TOURNOMENT",
           "year": 2023,
           "teamId": "d2w",
           "team": "D2W",
@@ -7107,7 +8476,7 @@ window.HBSTV_DATABASE = {
       "evps": [
         {
           "id": "2023:whlworldrankings1",
-          "title": "WHL | WORLD RANKING SEASON 1 [TIER S]",
+          "title": "WHL | WORLD RANKING SEASON 1",
           "year": 2023,
           "source": "events-2023"
         }
@@ -7134,7 +8503,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "2023:whlleague",
-          "title": "WHL | LEAGUE 2023 [TIER S]",
+          "title": "WHL | LEAGUE 2023",
           "year": 2023,
           "teamId": "v13",
           "team": "V13",
@@ -7221,7 +8590,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2024:bsgchallengersprotour",
-          "title": "BS:G | CHALLENGERS PRO TOUR [TIER S]",
+          "title": "BS:G | CHALLENGERS PRO TOUR",
           "year": 2024,
           "teamId": "csl",
           "team": "CSL",
@@ -7253,7 +8622,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "2024:gzproseriesleagues2",
-          "title": "GAMEZONE | PRO SERIES LEAGUE SEASON 2 [TIER S]",
+          "title": "GAMEZONE | PRO SERIES LEAGUE SEASON 2",
           "year": 2024,
           "teamId": "controlz",
           "team": "CONTROL Z",
@@ -7270,9 +8639,12 @@ window.HBSTV_DATABASE = {
       "id": "nescau",
       "name": "Nescau",
       "aliases": [
+        "Kauan",
         "Nescau"
       ],
-      "realNames": [],
+      "realNames": [
+        "Kauan"
+      ],
       "teams": [
         {
           "id": "pentaesports",
@@ -7292,7 +8664,58 @@ window.HBSTV_DATABASE = {
           "country": "BR"
         }
       ],
-      "awards": []
+      "awards": [],
+      "hallOfFame": true,
+      "seasonTitles": [
+        {
+          "id": "2020:acecup",
+          "title": "ACE | Cup Season 1",
+          "year": 2020,
+          "team": "Penta E-sports"
+        },
+        {
+          "id": "2020:gseproleague",
+          "title": "GSE | Pro League",
+          "year": 2020,
+          "team": "Penta E-sports"
+        },
+        {
+          "id": "2020:gsetour",
+          "title": "GSE | Tour",
+          "year": 2020,
+          "team": "Penta E-sports"
+        },
+        {
+          "id": "2020:lcbproleague",
+          "title": "LCB | Pro League",
+          "year": 2020,
+          "team": "Penta E-sports"
+        },
+        {
+          "id": "2020:mawares",
+          "title": "MAWARE | Season",
+          "year": 2020,
+          "team": "Penta E-sports"
+        },
+        {
+          "id": "2020:tslmjonircup",
+          "title": "TSL | Mjonir Cup",
+          "year": 2020,
+          "team": "Penta E-sports"
+        },
+        {
+          "id": "2020:tslnodus",
+          "title": "TSL | Nodus",
+          "year": 2020,
+          "team": "Penta E-sports"
+        },
+        {
+          "id": "2020:tslrenovatedgameleague",
+          "title": "TSL | Renovated Game League",
+          "year": 2020,
+          "team": "Penta E-sports"
+        }
+      ]
     },
     {
       "id": "nesk",
@@ -7339,7 +8762,7 @@ window.HBSTV_DATABASE = {
       "evps": [
         {
           "id": "major:194c5f557f9f233ff918",
-          "title": "WHL | MAJOR 2023 [TIER S+]",
+          "title": "WHL | Major",
           "year": 2023,
           "source": "events-2023"
         }
@@ -7445,11 +8868,11 @@ window.HBSTV_DATABASE = {
       ],
       "titles": [
         {
-          "id": "2025:lcsleagues1",
-          "title": "LCS | LEAGUE S1",
+          "id": "2025:bcnchallengerschampionship",
+          "title": "BCN | CHALLENGERS CHAMPIONSHIP",
           "year": 2025,
-          "teamId": "iklegends",
-          "team": "IK",
+          "teamId": "sdpinterlude",
+          "team": "SDP Interlude",
           "major": false,
           "source": "events-2025"
         },
@@ -7463,15 +8886,6 @@ window.HBSTV_DATABASE = {
           "source": "events-2025"
         },
         {
-          "id": "2025:bcnchallengerschampionship",
-          "title": "BCN | CHALLENGERS CHAMPIONSHIP",
-          "year": 2025,
-          "teamId": "sdpinterlude",
-          "team": "SDP Interlude",
-          "major": false,
-          "source": "events-2025"
-        },
-        {
           "id": "2025:bcnimpactleague",
           "title": "BCN | IMPACT LEAGUE",
           "year": 2025,
@@ -7481,35 +8895,35 @@ window.HBSTV_DATABASE = {
           "source": "events-2025"
         },
         {
-          "id": "2024:gzgamingelite",
-          "title": "GAMEZONE | BRASIL GAMING ELITE [TIER S]",
-          "year": 2024,
-          "teamId": "d2w",
-          "team": "D2W",
+          "id": "2025:lcsleagues1",
+          "title": "LCS | LEAGUE S1",
+          "year": 2025,
+          "teamId": "iklegends",
+          "team": "IK",
           "major": false,
-          "source": "events-2024"
-        },
-        {
-          "id": "2024:whlworldrankings2",
-          "title": "WHL | WORLD RANKING S2 [TIER S]",
-          "year": 2024,
-          "teamId": "d2w",
-          "team": "D2W",
-          "major": false,
-          "source": "events-2024"
+          "source": "events-2025"
         },
         {
           "id": "2024:bstvinsanitys1",
-          "title": "BSTV | INSANITY SEASON 1 [TIER S+]",
+          "title": "BSTV | INSANITY SEASON 1",
           "year": 2024,
           "teamId": "miracle",
           "team": "Miracle",
+          "major": false,
+          "source": "events-2024"
+        },
+        {
+          "id": "2024:gzgamingelite",
+          "title": "GAMEZONE | BRASIL GAMING ELITE",
+          "year": 2024,
+          "teamId": "d2w",
+          "team": "D2W",
           "major": false,
           "source": "events-2024"
         },
         {
           "id": "2024:gzproseriesleague",
-          "title": "GAMEZONE | PRO SERIES LEAGUE [TIER S]",
+          "title": "GAMEZONE | PRO SERIES LEAGUE",
           "year": 2024,
           "teamId": "miracle",
           "team": "Miracle",
@@ -7517,17 +8931,8 @@ window.HBSTV_DATABASE = {
           "source": "events-2024"
         },
         {
-          "id": "2024:llpstrikeones4",
-          "title": "LLP | STRIKE ONE SEASON 4 [TIER S]",
-          "year": 2024,
-          "teamId": "sdpinterlude",
-          "team": "SDP Interlude",
-          "major": false,
-          "source": "events-2024"
-        },
-        {
           "id": "2024:gzproseriesleagues2",
-          "title": "GAMEZONE | PRO SERIES LEAGUE SEASON 2 [TIER S]",
+          "title": "GAMEZONE | PRO SERIES LEAGUE SEASON 2",
           "year": 2024,
           "teamId": "controlz",
           "team": "CONTROL Z",
@@ -7535,8 +8940,26 @@ window.HBSTV_DATABASE = {
           "source": "events-2024"
         },
         {
+          "id": "2024:llpstrikeones4",
+          "title": "LLP | STRIKE ONE SEASON 4",
+          "year": 2024,
+          "teamId": "sdpinterlude",
+          "team": "SDP Interlude",
+          "major": false,
+          "source": "events-2024"
+        },
+        {
+          "id": "2024:whlworldrankings2",
+          "title": "WHL | WORLD RANKING S2",
+          "year": 2024,
+          "teamId": "d2w",
+          "team": "D2W",
+          "major": false,
+          "source": "events-2024"
+        },
+        {
           "id": "2024:xmsextrememasters",
-          "title": "XMS | EXTREME MASTERS [TIER S]",
+          "title": "XMS | EXTREME MASTERS",
           "year": 2024,
           "teamId": "controlz",
           "team": "CONTROL Z",
@@ -7554,7 +8977,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2023:tslblaststrikeleague",
-          "title": "TSL | BLAST STRIKE LEAGUE [TIER S]",
+          "title": "TSL | BLAST STRIKE LEAGUE",
           "year": 2023,
           "teamId": "gt2023",
           "team": "GT 2023",
@@ -7563,7 +8986,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "major:194c5f557f9f233ff918",
-          "title": "WHL | MAJOR 2023 [TIER S+]",
+          "title": "WHL | Major",
           "year": 2023,
           "teamId": "gt2023",
           "team": "GT 2023",
@@ -7589,75 +9012,75 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2024:bstvinsanitys1",
-          "title": "BSTV | INSANITY SEASON 1 [TIER S+]",
+          "title": "BSTV | INSANITY SEASON 1",
           "year": 2024,
           "source": "events-2024"
         }
       ],
       "evps": [
         {
-          "id": "2024:premierpremierleaguea",
-          "title": "PREMIER | PREMIER LEAGUE A [TIER S]",
-          "year": 2024,
-          "source": "events-2024"
-        },
-        {
-          "id": "2024:xmsextrememasters",
-          "title": "XMS | EXTREME MASTERS [TIER S]",
-          "year": 2024,
-          "source": "events-2024"
-        },
-        {
           "id": "2024:bcnchallengers",
-          "title": "BCN | CHALLENGERS BRAZIL [TIER S]",
-          "year": 2024,
-          "source": "events-2024"
-        },
-        {
-          "id": "2024:gzproseriesleague",
-          "title": "GAMEZONE | PRO SERIES LEAGUE [TIER S]",
+          "title": "BCN | CHALLENGERS BRAZIL",
           "year": 2024,
           "source": "events-2024"
         },
         {
           "id": "2024:gzgamingelite",
-          "title": "GAMEZONE | BRASIL GAMING ELITE [TIER S]",
+          "title": "GAMEZONE | BRASIL GAMING ELITE",
+          "year": 2024,
+          "source": "events-2024"
+        },
+        {
+          "id": "2024:gzproseriesleague",
+          "title": "GAMEZONE | PRO SERIES LEAGUE",
+          "year": 2024,
+          "source": "events-2024"
+        },
+        {
+          "id": "2024:premierpremierleaguea",
+          "title": "PREMIER | PREMIER LEAGUE A",
           "year": 2024,
           "source": "events-2024"
         },
         {
           "id": "2024:whlworldrankings2",
-          "title": "WHL | WORLD RANKING S2 [TIER S]",
+          "title": "WHL | WORLD RANKING S2",
           "year": 2024,
           "source": "events-2024"
         },
         {
-          "id": "2023:ranksdreamhack",
-          "title": "RANK S | DREAM HACK BRAZIL [TIER S]",
-          "year": 2023,
-          "source": "events-2023"
+          "id": "2024:xmsextrememasters",
+          "title": "XMS | EXTREME MASTERS",
+          "year": 2024,
+          "source": "events-2024"
         },
         {
           "id": "2023:gzgtrleague",
-          "title": "GAMEZONE | GTR LEAGUE [TIER S]",
+          "title": "GAMEZONE | GTR LEAGUE",
           "year": 2023,
           "source": "events-2023"
         },
         {
-          "id": "2023:ranksworlds",
-          "title": "RANK S | WORLDS 2023 [TIER S]",
+          "id": "2023:ranksdreamhack",
+          "title": "RANK S | DREAM HACK BRAZIL",
           "year": 2023,
           "source": "events-2023"
         },
         {
           "id": "2023:ranksinvitational",
-          "title": "RANK S | INVITATIONAL LEAGUE 2023 [TIER S]",
+          "title": "RANK S | INVITATIONAL LEAGUE 2023",
+          "year": 2023,
+          "source": "events-2023"
+        },
+        {
+          "id": "2023:ranksworlds",
+          "title": "RANK S | WORLDS 2023",
           "year": 2023,
           "source": "events-2023"
         },
         {
           "id": "2023:tslblaststrikeleague",
-          "title": "TSL | BLAST STRIKE LEAGUE [TIER S]",
+          "title": "TSL | BLAST STRIKE LEAGUE",
           "year": 2023,
           "source": "events-2023"
         },
@@ -7708,6 +9131,141 @@ window.HBSTV_DATABASE = {
           "series": "AK de Ouro",
           "sourceImage": "assets/archive/b121ef5c805eed55d138.png",
           "source": "ak-de-ouro-awards"
+        }
+      ],
+      "historicalTitles": [
+        {
+          "id": "hof:2021:TSL:suzuka",
+          "title": "TSL | SUZUKA 2021",
+          "year": 2021,
+          "organizer": "TSL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2021:LCB:blockstrikeleague",
+          "title": "LCB | Block Strike league 2021",
+          "year": 2021,
+          "organizer": "LCB",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2021:lcbmasters",
+          "title": "LCB | Masters",
+          "year": 2021,
+          "organizer": "LCB",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "major:86ed67893904be137a59",
+          "title": "TSL | MAJOR",
+          "year": 2021,
+          "organizer": "TSL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2021:TSL:smackcup",
+          "title": "TSL | SMACK CUP 2021",
+          "year": 2021,
+          "organizer": "TSL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2021:GLBS:gameleague",
+          "title": "GLBS | GAME LEAGUE 2021",
+          "year": 2021,
+          "organizer": "GLBS",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2023:g3xcups2",
+          "title": "G3X | CUP SEASON 2 2023",
+          "year": 2023,
+          "organizer": "G3X",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2023:tslblaststrikeleague",
+          "title": "TSL | BLAST STRIKE LEAGUE",
+          "year": 2023,
+          "organizer": "TSL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "major:194c5f557f9f233ff918",
+          "title": "WHL | Major",
+          "year": 2023,
+          "organizer": "WHL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2024:bstvinsanitys1",
+          "title": "BSTV | INSANITY SEASON 1",
+          "year": 2024,
+          "organizer": "BSTV",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2024:WHL:worldrankingseason2",
+          "title": "WHL | WORLD RANKING SEASON 2 2024",
+          "year": 2024,
+          "organizer": "WHL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2024:gzgamingelite",
+          "title": "GAMEZONE | BRASIL GAMING ELITE",
+          "year": 2024,
+          "organizer": "GAMEZONE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2024:GAMEZONE:pslseason1",
+          "title": "GZ | PSL SEASON 1 2024",
+          "year": 2024,
+          "organizer": "GAMEZONE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2024:NZK:champions",
+          "title": "NZK | CHAMPIONS 2024",
+          "year": 2024,
+          "organizer": "NZK",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2024:xmsextrememasters",
+          "title": "XMS | EXTREME MASTERS",
+          "year": 2024,
+          "organizer": "XMS",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2024:GAMEZONE:pslseason2",
+          "title": "GZ | PSL SEASON 2 2024",
+          "year": 2024,
+          "organizer": "GAMEZONE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2025:bcnimpactleague",
+          "title": "BCN | IMPACT LEAGUE",
+          "year": 2025,
+          "organizer": "BCN",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2025:bcnemulabilecup",
+          "title": "BCN | EMULABILE CUP",
+          "year": 2025,
+          "organizer": "BCN",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2025:LCS:leagueseason1",
+          "title": "LCS | LEAGUE SEASON 1 2025",
+          "year": 2025,
+          "organizer": "LCS",
+          "source": "hall-of-fame"
         }
       ]
     },
@@ -7785,7 +9343,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "2023:ranksdreamhack",
-          "title": "RANK S | DREAM HACK BRAZIL [TIER S]",
+          "title": "RANK S | DREAM HACK BRAZIL",
           "year": 2023,
           "teamId": "chaos",
           "team": "Chaos",
@@ -7794,7 +9352,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2023:ranksinvitational",
-          "title": "RANK S | INVITATIONAL LEAGUE 2023 [TIER S]",
+          "title": "RANK S | INVITATIONAL LEAGUE 2023",
           "year": 2023,
           "teamId": "chaos",
           "team": "Chaos",
@@ -7803,7 +9361,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2023:whlesls2",
-          "title": "WHL | ELETRONIC SPORTS LEAGUE SEASON 2 [TIER S]",
+          "title": "WHL | ELETRONIC SPORTS LEAGUE SEASON 2",
           "year": 2023,
           "teamId": "chaos",
           "team": "Chaos",
@@ -7836,7 +9394,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "2023:ranksinvitational",
-          "title": "RANK S | INVITATIONAL LEAGUE 2023 [TIER S]",
+          "title": "RANK S | INVITATIONAL LEAGUE 2023",
           "year": 2023,
           "teamId": "chaos",
           "team": "Chaos",
@@ -7845,7 +9403,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2023:whlesls2",
-          "title": "WHL | ELETRONIC SPORTS LEAGUE SEASON 2 [TIER S]",
+          "title": "WHL | ELETRONIC SPORTS LEAGUE SEASON 2",
           "year": 2023,
           "teamId": "chaos",
           "team": "Chaos",
@@ -7857,13 +9415,13 @@ window.HBSTV_DATABASE = {
       "evps": [
         {
           "id": "2023:ranksinvitational",
-          "title": "RANK S | INVITATIONAL LEAGUE 2023 [TIER S]",
+          "title": "RANK S | INVITATIONAL LEAGUE 2023",
           "year": 2023,
           "source": "events-2023"
         },
         {
           "id": "2023:whlesls2",
-          "title": "WHL | ELETRONIC SPORTS LEAGUE SEASON 2 [TIER S]",
+          "title": "WHL | ELETRONIC SPORTS LEAGUE SEASON 2",
           "year": 2023,
           "source": "events-2023"
         }
@@ -7890,7 +9448,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "2024:xmsxbstvdreammastersstars",
-          "title": "XMS x BSTV | DREAM MASTERS STARS [TIER S]",
+          "title": "XMS x BSTV | DREAM MASTERS STARS",
           "year": 2024,
           "teamId": "fenix",
           "team": "FENIX",
@@ -7940,7 +9498,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "2024:bcnyallacompass",
-          "title": "BCN | YALLA COMPASS 2024 [TIER S]",
+          "title": "BCN | YALLA COMPASS 2024",
           "year": 2024,
           "teamId": "aura",
           "team": "AURA",
@@ -7949,7 +9507,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2024:gznewage",
-          "title": "GAMEZONE | NEW AGE [TIER S]",
+          "title": "GAMEZONE | NEW AGE",
           "year": 2024,
           "teamId": "aura",
           "team": "AURA",
@@ -7958,7 +9516,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2023:ranksdreamhack",
-          "title": "RANK S | DREAM HACK BRAZIL [TIER S]",
+          "title": "RANK S | DREAM HACK BRAZIL",
           "year": 2023,
           "teamId": "chaos",
           "team": "Chaos",
@@ -7967,7 +9525,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2023:ranksinvitational",
-          "title": "RANK S | INVITATIONAL LEAGUE 2023 [TIER S]",
+          "title": "RANK S | INVITATIONAL LEAGUE 2023",
           "year": 2023,
           "teamId": "chaos",
           "team": "Chaos",
@@ -7976,7 +9534,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "major:67b535053e8ba3d242da",
-          "title": "RANK S | MajoR LEAGUE 2023 [TIER S+]",
+          "title": "RANK S | Major",
           "year": 2023,
           "teamId": "chaos",
           "team": "Chaos",
@@ -7985,7 +9543,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2023:whlesls2",
-          "title": "WHL | ELETRONIC SPORTS LEAGUE SEASON 2 [TIER S]",
+          "title": "WHL | ELETRONIC SPORTS LEAGUE SEASON 2",
           "year": 2023,
           "teamId": "chaos",
           "team": "Chaos",
@@ -7996,19 +9554,19 @@ window.HBSTV_DATABASE = {
       "mvps": [
         {
           "id": "2024:gznewage",
-          "title": "GAMEZONE | NEW AGE [TIER S]",
+          "title": "GAMEZONE | NEW AGE",
           "year": 2024,
           "source": "events-2024"
         },
         {
           "id": "major:67b535053e8ba3d242da",
-          "title": "RANK S | MajoR LEAGUE 2023 [TIER S+]",
+          "title": "RANK S | Major",
           "year": 2023,
           "source": "events-2023"
         },
         {
           "id": "2023:whlesls2",
-          "title": "WHL | ELETRONIC SPORTS LEAGUE SEASON 2 [TIER S]",
+          "title": "WHL | ELETRONIC SPORTS LEAGUE SEASON 2",
           "year": 2023,
           "source": "events-2023"
         }
@@ -8021,14 +9579,8 @@ window.HBSTV_DATABASE = {
           "source": "events-2025"
         },
         {
-          "id": "2025:bcnstrikecup20",
-          "title": "BCN | STRIKE CUP 2.0",
-          "year": 2025,
-          "source": "events-2025"
-        },
-        {
-          "id": "2025:xmsmasterleague",
-          "title": "XMS | MASTER LEAGUE",
+          "id": "2025:bcnemulabilecup",
+          "title": "BCN | EMULABILE CUP",
           "year": 2025,
           "source": "events-2025"
         },
@@ -8039,62 +9591,68 @@ window.HBSTV_DATABASE = {
           "source": "events-2025"
         },
         {
+          "id": "2025:bcnstrikecup20",
+          "title": "BCN | STRIKE CUP 2.0",
+          "year": 2025,
+          "source": "events-2025"
+        },
+        {
           "id": "2025:bcnyallacompass",
           "title": "BCN | YALLA COMPASS 2025",
           "year": 2025,
           "source": "events-2025"
         },
         {
-          "id": "2025:bcnemulabilecup",
-          "title": "BCN | EMULABILE CUP",
+          "id": "2025:xmsmasterleague",
+          "title": "XMS | MASTER LEAGUE",
           "year": 2025,
           "source": "events-2025"
         },
         {
-          "id": "2024:gzproseriesleagues3",
-          "title": "GAMEZONE | PRO SERIES LEAGUE SEASON 3 [TIER S+]",
-          "year": 2024,
-          "source": "events-2024"
-        },
-        {
-          "id": "2024:gzproseriesleagues2",
-          "title": "GAMEZONE | PRO SERIES LEAGUE SEASON 2 [TIER S]",
-          "year": 2024,
-          "source": "events-2024"
-        },
-        {
-          "id": "2024:premierpremierleaguea",
-          "title": "PREMIER | PREMIER LEAGUE A [TIER S]",
+          "id": "2024:gzgamingelite",
+          "title": "GAMEZONE | BRASIL GAMING ELITE",
           "year": 2024,
           "source": "events-2024"
         },
         {
           "id": "2024:gzproseriesleague",
-          "title": "GAMEZONE | PRO SERIES LEAGUE [TIER S]",
+          "title": "GAMEZONE | PRO SERIES LEAGUE",
           "year": 2024,
           "source": "events-2024"
         },
         {
-          "id": "2024:gzgamingelite",
-          "title": "GAMEZONE | BRASIL GAMING ELITE [TIER S]",
+          "id": "2024:gzproseriesleagues2",
+          "title": "GAMEZONE | PRO SERIES LEAGUE SEASON 2",
+          "year": 2024,
+          "source": "events-2024"
+        },
+        {
+          "id": "2024:gzproseriesleagues3",
+          "title": "GAMEZONE | PRO SERIES LEAGUE SEASON 3",
+          "year": 2024,
+          "source": "events-2024"
+        },
+        {
+          "id": "2024:premierpremierleaguea",
+          "title": "PREMIER | PREMIER LEAGUE A",
           "year": 2024,
           "source": "events-2024"
         },
         {
           "id": "2023:ranksdreamhack",
-          "title": "RANK S | DREAM HACK BRAZIL [TIER S]",
+          "title": "RANK S | DREAM HACK BRAZIL",
           "year": 2023,
           "source": "events-2023"
         },
         {
           "id": "2023:ranksinvitational",
-          "title": "RANK S | INVITATIONAL LEAGUE 2023 [TIER S]",
+          "title": "RANK S | INVITATIONAL LEAGUE 2023",
           "year": 2023,
           "source": "events-2023"
         },
         {
           "id": "2023:whlleague",
-          "title": "WHL | LEAGUE 2023 [TIER S]",
+          "title": "WHL | LEAGUE 2023",
           "year": 2023,
           "source": "events-2023"
         },
@@ -8113,6 +9671,13 @@ window.HBSTV_DATABASE = {
           "source": "major-history",
           "sourceImage": "assets/archive/86ed67893904be137a59.jpeg",
           "major": true
+        },
+        {
+          "id": "2020:acecup",
+          "title": "ACE | Cup Season 1",
+          "year": 2020,
+          "major": false,
+          "source": "owner-confirmed"
         },
         {
           "id": "major:4ed7f41456f8697e77c6",
@@ -8167,6 +9732,134 @@ window.HBSTV_DATABASE = {
           "sourceImage": "assets/archive/2d2a1ba76bfaee252c68.jpeg",
           "source": "awards"
         }
+      ],
+      "historicalTitles": [
+        {
+          "id": "hof:2019:BSL:cup",
+          "title": "BSL  | Cup 2019",
+          "year": 2019,
+          "organizer": "BSL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2019:LCB:strikeone",
+          "title": "LCB  | Strike One 2019",
+          "year": 2019,
+          "organizer": "LCB",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2020:gseevolutionchampionship",
+          "title": "GSE | Evolution Championship 2020",
+          "year": 2020,
+          "organizer": "GSE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2020:tslcbbs40",
+          "title": "TSL | CBBS 4.0 2020",
+          "year": 2020,
+          "organizer": "TSL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2020:gsetuescup",
+          "title": "GSE | TUES CUP 2020",
+          "year": 2020,
+          "organizer": "GSE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2020:suvohloftuscup",
+          "title": "SUVOH | Loftus Cup 2020",
+          "year": 2020,
+          "organizer": "SUVOH",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2020:elitestrike",
+          "title": "? | Elite Strike 2020",
+          "year": 2020,
+          "organizer": "Não informada",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2023:gscproseries",
+          "title": "GSC | Pro Series",
+          "year": 2023,
+          "organizer": "GSC",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2023:gscproleague",
+          "title": "GSC | Pro League",
+          "year": 2023,
+          "organizer": "GSC",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2023:whlelectronicsportsleague",
+          "title": "WHL | ELECTRONIC SPORTS LEAGUE",
+          "year": 2023,
+          "organizer": "WHL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2023:ranksinvitational",
+          "title": "RANK S | INVITATIONAL LEAGUE 2023",
+          "year": 2023,
+          "organizer": "RANK S",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2023:GTR:sanitycup",
+          "title": "GTR | Sanity Cup 2023",
+          "year": 2023,
+          "organizer": "GTR",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2023:GTR:libertadores",
+          "title": "GTR  | Libertadores 2023",
+          "year": 2023,
+          "organizer": "GTR",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2023:RANK S:dreamhack",
+          "title": "RanK S | DreamHacK 2023",
+          "year": 2023,
+          "organizer": "RANK S",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "major:67b535053e8ba3d242da",
+          "title": "RANK S | Major",
+          "year": 2023,
+          "organizer": "RANK S",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2024:gznewage",
+          "title": "GAMEZONE | NEW AGE",
+          "year": 2024,
+          "organizer": "GAMEZONE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2024:GBL:copagbl",
+          "title": "GBL | Copa GBL 2024",
+          "year": 2024,
+          "organizer": "GBL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2024:bcnyallacompass",
+          "title": "BCN | YALLA COMPASS 2024",
+          "year": 2024,
+          "organizer": "BCN",
+          "source": "hall-of-fame"
+        }
       ]
     },
     {
@@ -8211,7 +9904,23 @@ window.HBSTV_DATABASE = {
           "country": "BR"
         }
       ],
-      "awards": []
+      "awards": [],
+      "historicalTitles": [
+        {
+          "id": "hof:2017:TSL:majorcup",
+          "title": "TSL | MAJOR CUP 2017",
+          "year": 2017,
+          "organizer": "TSL",
+          "source": "hall-of-fame-3"
+        },
+        {
+          "id": "2018:tslcbbs20",
+          "title": "TSL | CBBS 2.0",
+          "year": 2018,
+          "organizer": "TSL",
+          "source": "hall-of-fame-3"
+        }
+      ]
     },
     {
       "id": "pala4",
@@ -8232,7 +9941,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "2024:xmsxbstvewcproleague",
-          "title": "XMS x BSTV | EWC PRO LEAGUE [TIER S]",
+          "title": "XMS x BSTV | EWC PRO LEAGUE",
           "year": 2024,
           "teamId": "rs4",
           "team": "RS4",
@@ -8258,7 +9967,7 @@ window.HBSTV_DATABASE = {
       "evps": [
         {
           "id": "2024:bcnyallacompass",
-          "title": "BCN | YALLA COMPASS 2024 [TIER S]",
+          "title": "BCN | YALLA COMPASS 2024",
           "year": 2024,
           "source": "events-2024"
         }
@@ -8297,19 +10006,19 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [
         {
-          "id": "major:188f48896736e07cbe4d",
-          "title": "TSL | MAJOR PREMIERE 2.0",
-          "year": 2018,
-          "source": "major-history",
-          "sourceImage": "assets/archive/188f48896736e07cbe4d.jpeg",
-          "major": true
-        },
-        {
           "id": "major:ba4b48dba7cb6e5526a7",
           "title": "TSL | MAJOR PREMIERE",
           "year": 2018,
           "source": "major-history",
           "sourceImage": "assets/archive/ba4b48dba7cb6e5526a7.jpeg",
+          "major": true
+        },
+        {
+          "id": "major:188f48896736e07cbe4d",
+          "title": "TSL | MAJOR PREMIERE 2.0",
+          "year": 2018,
+          "source": "major-history",
+          "sourceImage": "assets/archive/188f48896736e07cbe4d.jpeg",
           "major": true
         }
       ],
@@ -8354,15 +10063,6 @@ window.HBSTV_DATABASE = {
       ],
       "titles": [
         {
-          "id": "2025:xmsmasterleague",
-          "title": "XMS | MASTER LEAGUE",
-          "year": 2025,
-          "teamId": "iklegends",
-          "team": "IK",
-          "major": false,
-          "source": "events-2025"
-        },
-        {
           "id": "2025:bsgbpl",
           "title": "BSG | BPL",
           "year": 2025,
@@ -8372,8 +10072,17 @@ window.HBSTV_DATABASE = {
           "source": "events-2025"
         },
         {
+          "id": "2025:xmsmasterleague",
+          "title": "XMS | MASTER LEAGUE",
+          "year": 2025,
+          "teamId": "iklegends",
+          "team": "IK",
+          "major": false,
+          "source": "events-2025"
+        },
+        {
           "id": "2024:gblstarscups2",
-          "title": "GBL | STARS CUP SEASON 2 [TIER S]",
+          "title": "GBL | STARS CUP SEASON 2",
           "year": 2024,
           "teamId": "fenix",
           "team": "FENIX",
@@ -8382,7 +10091,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2024:xmsxbstvdreammastersstars",
-          "title": "XMS x BSTV | DREAM MASTERS STARS [TIER S]",
+          "title": "XMS x BSTV | DREAM MASTERS STARS",
           "year": 2024,
           "teamId": "fenix",
           "team": "FENIX",
@@ -8393,26 +10102,26 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [
         {
-          "id": "2024:xmsxbstvdreammastersstarss2",
-          "title": "XMS x BSTV | DREAM MASTERS STARS S2 [TIER S]",
-          "year": 2024,
-          "source": "events-2024"
-        },
-        {
           "id": "2024:gblstarscups2",
-          "title": "GBL | STARS CUP SEASON 2 [TIER S]",
-          "year": 2024,
-          "source": "events-2024"
-        },
-        {
-          "id": "2024:xmsxbstvdreammastersstars",
-          "title": "XMS x BSTV | DREAM MASTERS STARS [TIER S]",
+          "title": "GBL | STARS CUP SEASON 2",
           "year": 2024,
           "source": "events-2024"
         },
         {
           "id": "2024:whlworldrankings2",
-          "title": "WHL | WORLD RANKING S2 [TIER S]",
+          "title": "WHL | WORLD RANKING S2",
+          "year": 2024,
+          "source": "events-2024"
+        },
+        {
+          "id": "2024:xmsxbstvdreammastersstars",
+          "title": "XMS x BSTV | DREAM MASTERS STARS",
+          "year": 2024,
+          "source": "events-2024"
+        },
+        {
+          "id": "2024:xmsxbstvdreammastersstarss2",
+          "title": "XMS x BSTV | DREAM MASTERS STARS S2",
           "year": 2024,
           "source": "events-2024"
         }
@@ -8482,7 +10191,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "2024:bcnyallacompass",
-          "title": "BCN | YALLA COMPASS 2024 [TIER S]",
+          "title": "BCN | YALLA COMPASS 2024",
           "year": 2024,
           "teamId": "aura",
           "team": "AURA",
@@ -8508,7 +10217,7 @@ window.HBSTV_DATABASE = {
       "evps": [
         {
           "id": "2024:gzproseriesleague",
-          "title": "GAMEZONE | PRO SERIES LEAGUE [TIER S]",
+          "title": "GAMEZONE | PRO SERIES LEAGUE",
           "year": 2024,
           "source": "events-2024"
         }
@@ -8572,7 +10281,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2024:gzproseriesleagues2",
-          "title": "GAMEZONE | PRO SERIES LEAGUE SEASON 2 [TIER S]",
+          "title": "GAMEZONE | PRO SERIES LEAGUE SEASON 2",
           "year": 2024,
           "teamId": "controlz",
           "team": "CONTROL Z",
@@ -8800,26 +10509,8 @@ window.HBSTV_DATABASE = {
       ],
       "titles": [
         {
-          "id": "2023:whlworldrankings1",
-          "title": "WHL | WORLD RANKING SEASON 1 [TIER S]",
-          "year": 2023,
-          "teamId": "d2w",
-          "team": "D2W",
-          "major": false,
-          "source": "events-2023"
-        },
-        {
-          "id": "2023:whlztournoment",
-          "title": "WHL | Z TOURNOMENT [ TIER S]",
-          "year": 2023,
-          "teamId": "d2w",
-          "team": "D2W",
-          "major": false,
-          "source": "events-2023"
-        },
-        {
           "id": "2023:lhaworldcupofclans",
-          "title": "LHA | WORLD CUP OF CLANS [TIER S+]",
+          "title": "LHA | WORLD CUP OF CLANS",
           "year": 2023,
           "teamId": "bm",
           "team": "BM",
@@ -8828,10 +10519,28 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2023:whlleague",
-          "title": "WHL | LEAGUE 2023 [TIER S]",
+          "title": "WHL | LEAGUE 2023",
           "year": 2023,
           "teamId": "v13",
           "team": "V13",
+          "major": false,
+          "source": "events-2023"
+        },
+        {
+          "id": "2023:whlworldrankings1",
+          "title": "WHL | WORLD RANKING SEASON 1",
+          "year": 2023,
+          "teamId": "d2w",
+          "team": "D2W",
+          "major": false,
+          "source": "events-2023"
+        },
+        {
+          "id": "2023:whlztournoment",
+          "title": "WHL | Z TOURNOMENT",
+          "year": 2023,
+          "teamId": "d2w",
+          "team": "D2W",
           "major": false,
           "source": "events-2023"
         }
@@ -8839,25 +10548,25 @@ window.HBSTV_DATABASE = {
       "mvps": [
         {
           "id": "2024:xmsextrememasters",
-          "title": "XMS | EXTREME MASTERS [TIER S]",
+          "title": "XMS | EXTREME MASTERS",
           "year": 2024,
           "source": "events-2024"
         },
         {
           "id": "2023:lhaworldcupofclans",
-          "title": "LHA | WORLD CUP OF CLANS [TIER S+]",
-          "year": 2023,
-          "source": "events-2023"
-        },
-        {
-          "id": "major:194c5f557f9f233ff918",
-          "title": "WHL | MAJOR 2023 [TIER S+]",
+          "title": "LHA | WORLD CUP OF CLANS",
           "year": 2023,
           "source": "events-2023"
         },
         {
           "id": "2023:whlleague",
-          "title": "WHL | LEAGUE 2023 [TIER S]",
+          "title": "WHL | LEAGUE 2023",
+          "year": 2023,
+          "source": "events-2023"
+        },
+        {
+          "id": "major:194c5f557f9f233ff918",
+          "title": "WHL | Major",
           "year": 2023,
           "source": "events-2023"
         }
@@ -8865,13 +10574,13 @@ window.HBSTV_DATABASE = {
       "evps": [
         {
           "id": "2024:bstvinsanitys1",
-          "title": "BSTV | INSANITY SEASON 1 [TIER S+]",
+          "title": "BSTV | INSANITY SEASON 1",
           "year": 2024,
           "source": "events-2024"
         },
         {
           "id": "2023:whlworldrankings1",
-          "title": "WHL | WORLD RANKING SEASON 1 [TIER S]",
+          "title": "WHL | WORLD RANKING SEASON 1",
           "year": 2023,
           "source": "events-2023"
         }
@@ -8921,7 +10630,7 @@ window.HBSTV_DATABASE = {
       "evps": [
         {
           "id": "2024:whlworldrankings2",
-          "title": "WHL | WORLD RANKING S2 [TIER S]",
+          "title": "WHL | WORLD RANKING S2",
           "year": 2024,
           "source": "events-2024"
         }
@@ -8971,16 +10680,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2024:bcnchallengers",
-          "title": "BCN | CHALLENGERS BRAZIL [TIER S]",
-          "year": 2024,
-          "teamId": "sdpinterlude",
-          "team": "SDP Interlude",
-          "major": false,
-          "source": "events-2024"
-        },
-        {
-          "id": "2024:premierpremierleaguea",
-          "title": "PREMIER | PREMIER LEAGUE A [TIER S]",
+          "title": "BCN | CHALLENGERS BRAZIL",
           "year": 2024,
           "teamId": "sdpinterlude",
           "team": "SDP Interlude",
@@ -8989,7 +10689,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2024:gblstarscups2",
-          "title": "GBL | STARS CUP SEASON 2 [TIER S]",
+          "title": "GBL | STARS CUP SEASON 2",
           "year": 2024,
           "teamId": "fenix",
           "team": "FENIX",
@@ -8997,8 +10697,17 @@ window.HBSTV_DATABASE = {
           "source": "events-2024"
         },
         {
+          "id": "2024:premierpremierleaguea",
+          "title": "PREMIER | PREMIER LEAGUE A",
+          "year": 2024,
+          "teamId": "sdpinterlude",
+          "team": "SDP Interlude",
+          "major": false,
+          "source": "events-2024"
+        },
+        {
           "id": "2024:xmsxbstvdreammastersstars",
-          "title": "XMS x BSTV | DREAM MASTERS STARS [TIER S]",
+          "title": "XMS x BSTV | DREAM MASTERS STARS",
           "year": 2024,
           "teamId": "fenix",
           "team": "FENIX",
@@ -9009,7 +10718,7 @@ window.HBSTV_DATABASE = {
       "mvps": [
         {
           "id": "2024:llpstrikeones4",
-          "title": "LLP | STRIKE ONE SEASON 4 [TIER S]",
+          "title": "LLP | STRIKE ONE SEASON 4",
           "year": 2024,
           "source": "events-2024"
         }
@@ -9022,14 +10731,14 @@ window.HBSTV_DATABASE = {
           "source": "events-2025"
         },
         {
-          "id": "2024:premierpremierleaguea",
-          "title": "PREMIER | PREMIER LEAGUE A [TIER S]",
+          "id": "2024:bcnchallengers",
+          "title": "BCN | CHALLENGERS BRAZIL",
           "year": 2024,
           "source": "events-2024"
         },
         {
-          "id": "2024:bcnchallengers",
-          "title": "BCN | CHALLENGERS BRAZIL [TIER S]",
+          "id": "2024:premierpremierleaguea",
+          "title": "PREMIER | PREMIER LEAGUE A",
           "year": 2024,
           "source": "events-2024"
         }
@@ -9062,7 +10771,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "2024:xmsxbstvewcproleague",
-          "title": "XMS x BSTV | EWC PRO LEAGUE [TIER S]",
+          "title": "XMS x BSTV | EWC PRO LEAGUE",
           "year": 2024,
           "teamId": "rs4",
           "team": "RS4",
@@ -9072,6 +10781,50 @@ window.HBSTV_DATABASE = {
       ],
       "mvps": [],
       "evps": [],
+      "rankings": [],
+      "awards": []
+    },
+    {
+      "id": "realnoob",
+      "name": "ReAL NOOB",
+      "aliases": [
+        "ReAL NOOB"
+      ],
+      "realNames": [],
+      "teams": [],
+      "titles": [],
+      "mvps": [],
+      "evps": [
+        {
+          "id": "2020:lcbproleague",
+          "title": "LCB | Pro League",
+          "year": 2020,
+          "major": false,
+          "source": "owner-confirmed"
+        }
+      ],
+      "rankings": [],
+      "awards": []
+    },
+    {
+      "id": "reidogame",
+      "name": "ReiDoGame",
+      "aliases": [
+        "ReiDoGame"
+      ],
+      "realNames": [],
+      "teams": [],
+      "titles": [],
+      "mvps": [],
+      "evps": [
+        {
+          "id": "2020:acecup",
+          "title": "ACE | Cup Season 1",
+          "year": 2020,
+          "major": false,
+          "source": "owner-confirmed"
+        }
+      ],
       "rankings": [],
       "awards": []
     },
@@ -9133,7 +10886,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2023:tslblaststrikeleague",
-          "title": "TSL | BLAST STRIKE LEAGUE [TIER S]",
+          "title": "TSL | BLAST STRIKE LEAGUE",
           "year": 2023,
           "teamId": "gt2023",
           "team": "GT 2023",
@@ -9142,7 +10895,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "major:194c5f557f9f233ff918",
-          "title": "WHL | MAJOR 2023 [TIER S+]",
+          "title": "WHL | Major",
           "year": 2023,
           "teamId": "gt2023",
           "team": "GT 2023",
@@ -9186,32 +10939,32 @@ window.HBSTV_DATABASE = {
           "source": "events-2025"
         },
         {
-          "id": "2023:ranksdreamhack",
-          "title": "RANK S | DREAM HACK BRAZIL [TIER S]",
+          "id": "2023:gzgtrleague",
+          "title": "GAMEZONE | GTR LEAGUE",
           "year": 2023,
           "source": "events-2023"
         },
         {
-          "id": "2023:gzgtrleague",
-          "title": "GAMEZONE | GTR LEAGUE [TIER S]",
+          "id": "2023:ranksdreamhack",
+          "title": "RANK S | DREAM HACK BRAZIL",
           "year": 2023,
           "source": "events-2023"
         },
         {
           "id": "2023:ranksinvitational",
-          "title": "RANK S | INVITATIONAL LEAGUE 2023 [TIER S]",
-          "year": 2023,
-          "source": "events-2023"
-        },
-        {
-          "id": "major:194c5f557f9f233ff918",
-          "title": "WHL | MAJOR 2023 [TIER S+]",
+          "title": "RANK S | INVITATIONAL LEAGUE 2023",
           "year": 2023,
           "source": "events-2023"
         },
         {
           "id": "2023:tslblaststrikeleague",
-          "title": "TSL | BLAST STRIKE LEAGUE [TIER S]",
+          "title": "TSL | BLAST STRIKE LEAGUE",
+          "year": 2023,
+          "source": "events-2023"
+        },
+        {
+          "id": "major:194c5f557f9f233ff918",
+          "title": "WHL | Major",
           "year": 2023,
           "source": "events-2023"
         },
@@ -9255,6 +11008,176 @@ window.HBSTV_DATABASE = {
           "sourceImage": "assets/archive/9427c471a43e4f8317c6.png",
           "source": "ak-de-ouro-awards"
         }
+      ],
+      "historicalTitles": [
+        {
+          "id": "2019:tslapsleague",
+          "title": "TSL | APS League 2019",
+          "year": 2019,
+          "organizer": "TSL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2019:tslforcefield",
+          "title": "TSL | Forcefield 2019",
+          "year": 2019,
+          "organizer": "TSL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2019:tslhardnessproleague",
+          "title": "TSL | Hardness Pro League 2019",
+          "year": 2019,
+          "organizer": "TSL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2019:gsetuessone",
+          "title": "GSE | TUES Season One 2019",
+          "year": 2019,
+          "organizer": "GSE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2019:gsetoc",
+          "title": "GSE | TOC 2019",
+          "year": 2019,
+          "organizer": "GSE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "major:7713f3c1b8fa50d7e849",
+          "title": "GSE | Brasil Extreme Masters MAJOR",
+          "year": 2019,
+          "organizer": "GSE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2019:gsetourii",
+          "title": "GSE | Tour II 2019",
+          "year": 2019,
+          "organizer": "GSE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2019:gseproleague",
+          "title": "GSE | Pro League 2019",
+          "year": 2019,
+          "organizer": "GSE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2020:tslnodus",
+          "title": "TSL | Nodus",
+          "year": 2020,
+          "organizer": "TSL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2020:tslrenovatedgameleague",
+          "title": "TSL | Renovated Game League",
+          "year": 2020,
+          "organizer": "TSL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2020:mawares",
+          "title": "MAWARE | Season",
+          "year": 2020,
+          "organizer": "MAWARE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2020:gseproleague",
+          "title": "GSE | Pro League",
+          "year": 2020,
+          "organizer": "GSE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2020:acecup",
+          "title": "ACE | Cup Season 1",
+          "year": 2020,
+          "organizer": "ACE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2020:lcbproleague",
+          "title": "LCB | Pro League",
+          "year": 2020,
+          "organizer": "LCB",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2020:gsetour",
+          "title": "GSE | Tour",
+          "year": 2020,
+          "organizer": "GSE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2020:tslmjonircup",
+          "title": "TSL | Mjonir Cup",
+          "year": 2020,
+          "organizer": "TSL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2021:LLP:strikeone",
+          "title": "LLP | STRIKE ONE  2021",
+          "year": 2021,
+          "organizer": "LLP",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2021:CLUTCHERS:seasonone",
+          "title": "CLUTCHERS | SEASON ONE 2021",
+          "year": 2021,
+          "organizer": "CLUTCHERS",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2021:RISE LEADERS:seasonone",
+          "title": "RISE LEADERS | SEASON ONE 2021",
+          "year": 2021,
+          "organizer": "RISE LEADERS",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "major:007759b02a7d7543b0a1",
+          "title": "SUVOH | MAJOR",
+          "year": 2021,
+          "organizer": "SUVOH",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2023:tslblaststrikeleague",
+          "title": "TSL | BLAST STRIKE LEAGUE",
+          "year": 2023,
+          "organizer": "TSL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "major:194c5f557f9f233ff918",
+          "title": "WHL | Major",
+          "year": 2023,
+          "organizer": "WHL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2024:GAMEZONE:alphacup",
+          "title": "GZ |  ALPHA CUP 2024",
+          "year": 2024,
+          "organizer": "GAMEZONE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2025:bcnchallengerschampionship",
+          "title": "BCN | CHALLENGERS CHAMPIONSHIP",
+          "year": 2025,
+          "organizer": "BCN",
+          "source": "hall-of-fame"
+        }
       ]
     },
     {
@@ -9297,7 +11220,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "2023:tslblaststrikeleague",
-          "title": "TSL | BLAST STRIKE LEAGUE [TIER S]",
+          "title": "TSL | BLAST STRIKE LEAGUE",
           "year": 2023,
           "teamId": "gt2023",
           "team": "GT 2023",
@@ -9306,7 +11229,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "major:194c5f557f9f233ff918",
-          "title": "WHL | MAJOR 2023 [TIER S+]",
+          "title": "WHL | Major",
           "year": 2023,
           "teamId": "gt2023",
           "team": "GT 2023",
@@ -9318,7 +11241,7 @@ window.HBSTV_DATABASE = {
       "evps": [
         {
           "id": "2023:whlztournoment",
-          "title": "WHL | Z TOURNOMENT [ TIER S]",
+          "title": "WHL | Z TOURNOMENT",
           "year": 2023,
           "source": "events-2023"
         }
@@ -9376,8 +11299,23 @@ window.HBSTV_DATABASE = {
           "source": "major-history"
         }
       ],
-      "mvps": [],
+      "mvps": [
+        {
+          "id": "2020:pnlpeninsulacup",
+          "title": "PNL | Peninsula Cup",
+          "year": 2020,
+          "major": false,
+          "source": "owner-confirmed"
+        }
+      ],
       "evps": [
+        {
+          "id": "2021:gsemasters",
+          "title": "GSE | Masters Inverno",
+          "year": 2021,
+          "major": false,
+          "source": "owner-confirmed"
+        },
         {
           "id": "major:4ed7f41456f8697e77c6",
           "title": "GSE | MAJOR Adrenaline",
@@ -9413,6 +11351,99 @@ window.HBSTV_DATABASE = {
           "sourceImage": "assets/archive/9427c471a43e4f8317c6.png",
           "source": "ak-de-ouro-awards"
         }
+      ],
+      "historicalTitles": [
+        {
+          "id": "2019:gsetourii",
+          "title": "GSE | Tour II 2019",
+          "year": 2019,
+          "organizer": "GSE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2019:tslhardnessproleague",
+          "title": "TSL | Hardness Pro League 2019",
+          "year": 2019,
+          "organizer": "TSL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2019:gseproleague",
+          "title": "GSE | Pro League 2019",
+          "year": 2019,
+          "organizer": "GSE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2020:acecup",
+          "title": "ACE | Cup Season 1",
+          "year": 2020,
+          "organizer": "ACE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2020:lcbproleague",
+          "title": "LCB | Pro League",
+          "year": 2020,
+          "organizer": "LCB",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2020:gsetour",
+          "title": "GSE | Tour",
+          "year": 2020,
+          "organizer": "GSE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2020:tslmjonircup",
+          "title": "TSL | Mjonir Cup",
+          "year": 2020,
+          "organizer": "TSL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2021:gsemasters",
+          "title": "GSE | Masters Inverno",
+          "year": 2021,
+          "organizer": "GSE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2021:pnlpeninsulacup",
+          "title": "PNL | Peninsula Cup",
+          "year": 2021,
+          "organizer": "PNL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2021:lcbproleague",
+          "title": "LCB | Pro League",
+          "year": 2021,
+          "organizer": "LCB",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2021:LCB:masters20",
+          "title": "LCB | MASTERS 2.0 2021",
+          "year": 2021,
+          "organizer": "LCB",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "major:007759b02a7d7543b0a1",
+          "title": "SUVOH | MAJOR",
+          "year": 2021,
+          "organizer": "SUVOH",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2023:LCB:summerchampioship",
+          "title": "LCB |  Summer Champioship 2023",
+          "year": 2023,
+          "organizer": "LCB",
+          "source": "hall-of-fame"
+        }
       ]
     },
     {
@@ -9434,7 +11465,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "2024:gblstarscups2",
-          "title": "GBL | STARS CUP SEASON 2 [TIER S]",
+          "title": "GBL | STARS CUP SEASON 2",
           "year": 2024,
           "teamId": "fenix",
           "team": "FENIX",
@@ -9591,7 +11622,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2023:ranksworlds",
-          "title": "RANK S | WORLDS 2023 [TIER S]",
+          "title": "RANK S | WORLDS 2023",
           "year": 2023,
           "teamId": "svicious",
           "team": "Svicious",
@@ -9602,27 +11633,27 @@ window.HBSTV_DATABASE = {
       "mvps": [
         {
           "id": "2023:ranksworlds",
-          "title": "RANK S | WORLDS 2023 [TIER S]",
+          "title": "RANK S | WORLDS 2023",
           "year": 2023,
           "source": "events-2023"
         }
       ],
       "evps": [
         {
-          "id": "major:67b535053e8ba3d242da",
-          "title": "RANK S | MajoR LEAGUE 2023 [TIER S+]",
+          "id": "2023:gzgtrleague",
+          "title": "GAMEZONE | GTR LEAGUE",
           "year": 2023,
           "source": "events-2023"
         },
         {
-          "id": "2023:gzgtrleague",
-          "title": "GAMEZONE | GTR LEAGUE [TIER S]",
+          "id": "major:67b535053e8ba3d242da",
+          "title": "RANK S | Major",
           "year": 2023,
           "source": "events-2023"
         },
         {
           "id": "2023:tslblaststrikeleague",
-          "title": "TSL | BLAST STRIKE LEAGUE [TIER S]",
+          "title": "TSL | BLAST STRIKE LEAGUE",
           "year": 2023,
           "source": "events-2023"
         }
@@ -9713,7 +11744,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "2024:xmsxbstvewcproleague",
-          "title": "XMS x BSTV | EWC PRO LEAGUE [TIER S]",
+          "title": "XMS x BSTV | EWC PRO LEAGUE",
           "year": 2024,
           "teamId": "rs4",
           "team": "RS4",
@@ -9739,7 +11770,7 @@ window.HBSTV_DATABASE = {
       "evps": [
         {
           "id": "2024:xmsxbstvewcproleague",
-          "title": "XMS x BSTV | EWC PRO LEAGUE [TIER S]",
+          "title": "XMS x BSTV | EWC PRO LEAGUE",
           "year": 2024,
           "source": "events-2024"
         }
@@ -9809,7 +11840,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "2024:bcnyallacompass",
-          "title": "BCN | YALLA COMPASS 2024 [TIER S]",
+          "title": "BCN | YALLA COMPASS 2024",
           "year": 2024,
           "teamId": "aura",
           "team": "AURA",
@@ -9818,7 +11849,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2024:gznewage",
-          "title": "GAMEZONE | NEW AGE [TIER S]",
+          "title": "GAMEZONE | NEW AGE",
           "year": 2024,
           "teamId": "aura",
           "team": "AURA",
@@ -9827,7 +11858,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2023:ranksdreamhack",
-          "title": "RANK S | DREAM HACK BRAZIL [TIER S]",
+          "title": "RANK S | DREAM HACK BRAZIL",
           "year": 2023,
           "teamId": "chaos",
           "team": "Chaos",
@@ -9836,7 +11867,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2023:ranksinvitational",
-          "title": "RANK S | INVITATIONAL LEAGUE 2023 [TIER S]",
+          "title": "RANK S | INVITATIONAL LEAGUE 2023",
           "year": 2023,
           "teamId": "chaos",
           "team": "Chaos",
@@ -9845,7 +11876,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "major:67b535053e8ba3d242da",
-          "title": "RANK S | MajoR LEAGUE 2023 [TIER S+]",
+          "title": "RANK S | Major",
           "year": 2023,
           "teamId": "chaos",
           "team": "Chaos",
@@ -9854,7 +11885,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2023:whlesls2",
-          "title": "WHL | ELETRONIC SPORTS LEAGUE SEASON 2 [TIER S]",
+          "title": "WHL | ELETRONIC SPORTS LEAGUE SEASON 2",
           "year": 2023,
           "teamId": "chaos",
           "team": "Chaos",
@@ -9865,44 +11896,44 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [
         {
+          "id": "2024:gznewage",
+          "title": "GAMEZONE | NEW AGE",
+          "year": 2024,
+          "source": "events-2024"
+        },
+        {
           "id": "2024:gzproseriesleagues3",
-          "title": "GAMEZONE | PRO SERIES LEAGUE SEASON 3 [TIER S+]",
+          "title": "GAMEZONE | PRO SERIES LEAGUE SEASON 3",
           "year": 2024,
           "source": "events-2024"
         },
         {
           "id": "2024:gblstarscups2",
-          "title": "GBL | STARS CUP SEASON 2 [TIER S]",
+          "title": "GBL | STARS CUP SEASON 2",
           "year": 2024,
           "source": "events-2024"
         },
         {
           "id": "2024:premierpremierleaguea",
-          "title": "PREMIER | PREMIER LEAGUE A [TIER S]",
+          "title": "PREMIER | PREMIER LEAGUE A",
           "year": 2024,
           "source": "events-2024"
         },
         {
-          "id": "2024:gznewage",
-          "title": "GAMEZONE | NEW AGE [TIER S]",
-          "year": 2024,
-          "source": "events-2024"
-        },
-        {
-          "id": "major:67b535053e8ba3d242da",
-          "title": "RANK S | MajoR LEAGUE 2023 [TIER S+]",
+          "id": "2023:ranksinvitational",
+          "title": "RANK S | INVITATIONAL LEAGUE 2023",
           "year": 2023,
           "source": "events-2023"
         },
         {
-          "id": "2023:ranksinvitational",
-          "title": "RANK S | INVITATIONAL LEAGUE 2023 [TIER S]",
+          "id": "major:67b535053e8ba3d242da",
+          "title": "RANK S | Major",
           "year": 2023,
           "source": "events-2023"
         },
         {
           "id": "2023:whlesls2",
-          "title": "WHL | ELETRONIC SPORTS LEAGUE SEASON 2 [TIER S]",
+          "title": "WHL | ELETRONIC SPORTS LEAGUE SEASON 2",
           "year": 2023,
           "source": "events-2023"
         }
@@ -9926,6 +11957,7 @@ window.HBSTV_DATABASE = {
       "name": "ScreaM",
       "aliases": [
         "ScreaM",
+        "Kscerato",
         "SCREAM"
       ],
       "realNames": [],
@@ -9956,13 +11988,28 @@ window.HBSTV_DATABASE = {
           "source": "major-history"
         }
       ],
-      "mvps": [],
+      "mvps": [
+        {
+          "id": "2020:lcbproleague",
+          "title": "LCB | Pro League",
+          "year": 2020,
+          "major": false,
+          "source": "owner-confirmed"
+        }
+      ],
       "evps": [
         {
           "id": "2024:gzproseriesleague",
-          "title": "GAMEZONE | PRO SERIES LEAGUE [TIER S]",
+          "title": "GAMEZONE | PRO SERIES LEAGUE",
           "year": 2024,
           "source": "events-2024"
+        },
+        {
+          "id": "2021:gsemasters",
+          "title": "GSE | Masters Inverno",
+          "year": 2021,
+          "major": false,
+          "source": "owner-confirmed"
         },
         {
           "id": "major:007759b02a7d7543b0a1",
@@ -9971,6 +12018,13 @@ window.HBSTV_DATABASE = {
           "source": "major-history",
           "sourceImage": "assets/archive/007759b02a7d7543b0a1.jpeg",
           "major": true
+        },
+        {
+          "id": "2020:acecup",
+          "title": "ACE | Cup Season 1",
+          "year": 2020,
+          "major": false,
+          "source": "owner-confirmed"
         },
         {
           "id": "major:4ed7f41456f8697e77c6",
@@ -9998,7 +12052,142 @@ window.HBSTV_DATABASE = {
           "country": "BR"
         }
       ],
-      "awards": []
+      "awards": [],
+      "historicalTitles": [
+        {
+          "id": "hof:2019:GSE:evolutionchampionship",
+          "title": "GSE | Evolution Championship 2019",
+          "year": 2019,
+          "organizer": "GSE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2019:gsetoc",
+          "title": "GSE | TOC 2019",
+          "year": 2019,
+          "organizer": "GSE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2019:GSE:tuesseason2",
+          "title": "GSE | TUES SEASON 2  2019",
+          "year": 2019,
+          "organizer": "GSE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2019:GSE:tobsiii",
+          "title": "GSE | TOBS III 2019",
+          "year": 2019,
+          "organizer": "GSE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2020:tslnodus",
+          "title": "TSL | Nodus",
+          "year": 2020,
+          "organizer": "TSL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2020:tslrenovatedgameleague",
+          "title": "TSL | Renovated Game League",
+          "year": 2020,
+          "organizer": "TSL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2020:mawares",
+          "title": "MAWARE | Season",
+          "year": 2020,
+          "organizer": "MAWARE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2020:gseproleague",
+          "title": "GSE | Pro League",
+          "year": 2020,
+          "organizer": "GSE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2020:acecup",
+          "title": "ACE | Cup Season 1",
+          "year": 2020,
+          "organizer": "ACE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2020:lcbproleague",
+          "title": "LCB | Pro League",
+          "year": 2020,
+          "organizer": "LCB",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2020:gsetour",
+          "title": "GSE | Tour",
+          "year": 2020,
+          "organizer": "GSE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2020:tslmjonircup",
+          "title": "TSL | Mjonir Cup",
+          "year": 2020,
+          "organizer": "TSL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2021:gsemasters",
+          "title": "GSE | Masters Inverno",
+          "year": 2021,
+          "organizer": "GSE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2021:pnlpeninsulacup",
+          "title": "PNL | Peninsula Cup",
+          "year": 2021,
+          "organizer": "PNL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2021:lcbproleague",
+          "title": "LCB | Pro League",
+          "year": 2021,
+          "organizer": "LCB",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2021:LCB:masters20",
+          "title": "LCB | MASTERS 2.0 2021",
+          "year": 2021,
+          "organizer": "LCB",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "major:007759b02a7d7543b0a1",
+          "title": "SUVOH | MAJOR",
+          "year": 2021,
+          "organizer": "SUVOH",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2023:XMS:league",
+          "title": "XMS | LEAGUE 2023",
+          "year": 2023,
+          "organizer": "XMS",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2024:GAMEZONE:alphacup",
+          "title": "GZ |  ALPHA CUP 2024",
+          "year": 2024,
+          "organizer": "GAMEZONE",
+          "source": "hall-of-fame"
+        }
+      ]
     },
     {
       "id": "scuba",
@@ -10037,6 +12226,13 @@ window.HBSTV_DATABASE = {
       ],
       "mvps": [],
       "evps": [
+        {
+          "id": "2020:acecup",
+          "title": "ACE | Cup Season 1",
+          "year": 2020,
+          "major": false,
+          "source": "owner-confirmed"
+        },
         {
           "id": "major:4ed7f41456f8697e77c6",
           "title": "GSE | MAJOR Adrenaline",
@@ -10082,7 +12278,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "2024:bcnchallengers",
-          "title": "BCN | CHALLENGERS BRAZIL [TIER S]",
+          "title": "BCN | CHALLENGERS BRAZIL",
           "year": 2024,
           "teamId": "sdpinterlude",
           "team": "SDP Interlude",
@@ -10091,7 +12287,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2024:llpstrikeones4",
-          "title": "LLP | STRIKE ONE SEASON 4 [TIER S]",
+          "title": "LLP | STRIKE ONE SEASON 4",
           "year": 2024,
           "teamId": "sdpinterlude",
           "team": "SDP Interlude",
@@ -10100,7 +12296,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2023:tslblaststrikeleague",
-          "title": "TSL | BLAST STRIKE LEAGUE [TIER S]",
+          "title": "TSL | BLAST STRIKE LEAGUE",
           "year": 2023,
           "teamId": "gt2023",
           "team": "GT 2023",
@@ -10109,7 +12305,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "major:194c5f557f9f233ff918",
-          "title": "WHL | MAJOR 2023 [TIER S+]",
+          "title": "WHL | Major",
           "year": 2023,
           "teamId": "gt2023",
           "team": "GT 2023",
@@ -10121,7 +12317,7 @@ window.HBSTV_DATABASE = {
       "evps": [
         {
           "id": "2024:llpstrikeones4",
-          "title": "LLP | STRIKE ONE SEASON 4 [TIER S]",
+          "title": "LLP | STRIKE ONE SEASON 4",
           "year": 2024,
           "source": "events-2024"
         }
@@ -10172,7 +12368,101 @@ window.HBSTV_DATABASE = {
           "sourceImage": "assets/archive/127015a4498591f58c89.png",
           "source": "ak-de-ouro-awards"
         }
+      ],
+      "historicalTitles": [
+        {
+          "id": "hof:2019:GSE:minor",
+          "title": "GSE | MINOR 2019",
+          "year": 2019,
+          "organizer": "GSE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2020:GSE:revolution",
+          "title": "GSE | REVOLUTION 2020",
+          "year": 2020,
+          "organizer": "GSE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2020:TSL:mundial",
+          "title": "TSL | MUNDIAL 2020",
+          "year": 2020,
+          "organizer": "TSL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2020:tslnodus",
+          "title": "TSL | Nodus",
+          "year": 2020,
+          "organizer": "TSL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2020:tslrenovatedgameleague",
+          "title": "TSL | Renovated Game League",
+          "year": 2020,
+          "organizer": "TSL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2020:gseproleague",
+          "title": "GSE | Pro League",
+          "year": 2020,
+          "organizer": "GSE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2021:ACE:leaguecup",
+          "title": "ACE | LEAGUE CUP 2021",
+          "year": 2021,
+          "organizer": "ACE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2021:LLP:strikeone",
+          "title": "LLP | STRIKE ONE  2021",
+          "year": 2021,
+          "organizer": "LLP",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2021:CLUTCHERS:seasonone",
+          "title": "CLUTCHERS | SEASON ONE 2021",
+          "year": 2021,
+          "organizer": "CLUTCHERS",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2021:RISE LEADERS:seasonone",
+          "title": "RISE LEADERS | SEASON ONE 2021",
+          "year": 2021,
+          "organizer": "RISE LEADERS",
+          "source": "hall-of-fame"
+        }
       ]
+    },
+    {
+      "id": "sharp1",
+      "name": "sharp1",
+      "aliases": [
+        "sharp1"
+      ],
+      "realNames": [],
+      "teams": [],
+      "titles": [],
+      "mvps": [],
+      "evps": [
+        {
+          "id": "2020:acecup",
+          "title": "ACE | Cup Season 1",
+          "year": 2020,
+          "major": false,
+          "source": "owner-confirmed"
+        }
+      ],
+      "rankings": [],
+      "awards": []
     },
     {
       "id": "shelzz",
@@ -10222,7 +12512,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "2024:gzgamingelite",
-          "title": "GAMEZONE | BRASIL GAMING ELITE [TIER S]",
+          "title": "GAMEZONE | BRASIL GAMING ELITE",
           "year": 2024,
           "teamId": "d2w",
           "team": "D2W",
@@ -10231,7 +12521,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2024:llpstrikeones4",
-          "title": "LLP | STRIKE ONE SEASON 4 [TIER S]",
+          "title": "LLP | STRIKE ONE SEASON 4",
           "year": 2024,
           "teamId": "sdpinterlude",
           "team": "SDP Interlude",
@@ -10240,7 +12530,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2024:premierpremierleaguea",
-          "title": "PREMIER | PREMIER LEAGUE A [TIER S]",
+          "title": "PREMIER | PREMIER LEAGUE A",
           "year": 2024,
           "teamId": "sdpinterlude",
           "team": "SDP Interlude",
@@ -10269,12 +12559,32 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [
         {
-          "id": "major:188f48896736e07cbe4d",
-          "title": "TSL | MAJOR PREMIERE 2.0",
-          "year": 2018,
-          "source": "major-history",
-          "sourceImage": "assets/archive/188f48896736e07cbe4d.jpeg",
-          "major": true
+          "id": "2021:gsemasters",
+          "title": "GSE | Masters Inverno",
+          "year": 2021,
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:acecup",
+          "title": "ACE | Cup Season 1",
+          "year": 2020,
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:lcbproleague",
+          "title": "LCB | Pro League",
+          "year": 2020,
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:pnlpeninsulacup",
+          "title": "PNL | Peninsula Cup",
+          "year": 2020,
+          "major": false,
+          "source": "owner-confirmed"
         },
         {
           "id": "major:ba4b48dba7cb6e5526a7",
@@ -10282,6 +12592,14 @@ window.HBSTV_DATABASE = {
           "year": 2018,
           "source": "major-history",
           "sourceImage": "assets/archive/ba4b48dba7cb6e5526a7.jpeg",
+          "major": true
+        },
+        {
+          "id": "major:188f48896736e07cbe4d",
+          "title": "TSL | MAJOR PREMIERE 2.0",
+          "year": 2018,
+          "source": "major-history",
+          "sourceImage": "assets/archive/188f48896736e07cbe4d.jpeg",
           "major": true
         }
       ],
@@ -10319,6 +12637,176 @@ window.HBSTV_DATABASE = {
           "sourceImage": "assets/archive/127015a4498591f58c89.png",
           "source": "ak-de-ouro-awards"
         }
+      ],
+      "historicalTitles": [
+        {
+          "id": "hof:2017:TSL:majorcup",
+          "title": "TSL | MAJOR CUP 2017",
+          "year": 2017,
+          "organizer": "TSL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2018:tslhardnesleague",
+          "title": "TSL | Hardness Pro League",
+          "year": 2018,
+          "organizer": "TSL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2018:tslextrememasters",
+          "title": "TSL | Brasil extreme Masters",
+          "year": 2018,
+          "organizer": "TSL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2018:tslmajorcup",
+          "title": "TSL | MAJOR CUP",
+          "year": 2018,
+          "organizer": "TSL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "major:ba4b48dba7cb6e5526a7",
+          "title": "TSL | MAJOR PREMIERE",
+          "year": 2018,
+          "organizer": "TSL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2018:TSL:mundial",
+          "title": "TSL | MUNDIAL 2018",
+          "year": 2018,
+          "organizer": "TSL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2020:tslnodus",
+          "title": "TSL | Nodus",
+          "year": 2020,
+          "organizer": "TSL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2020:tslrenovatedgameleague",
+          "title": "TSL | Renovated Game League",
+          "year": 2020,
+          "organizer": "TSL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2020:mawares",
+          "title": "MAWARE | Season",
+          "year": 2020,
+          "organizer": "MAWARE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2020:gseproleague",
+          "title": "GSE | Pro League",
+          "year": 2020,
+          "organizer": "GSE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2020:acecup",
+          "title": "ACE | Cup Season 1",
+          "year": 2020,
+          "organizer": "ACE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2020:lcbproleague",
+          "title": "LCB | Pro League",
+          "year": 2020,
+          "organizer": "LCB",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2020:gsetour",
+          "title": "GSE | Tour",
+          "year": 2020,
+          "organizer": "GSE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2020:tslmjonircup",
+          "title": "TSL | Mjonir Cup",
+          "year": 2020,
+          "organizer": "TSL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2021:gsemasters",
+          "title": "GSE | Masters Inverno",
+          "year": 2021,
+          "organizer": "GSE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2021:pnlpeninsulacup",
+          "title": "PNL | Peninsula Cup",
+          "year": 2021,
+          "organizer": "PNL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2021:lcbproleague",
+          "title": "LCB | Pro League",
+          "year": 2021,
+          "organizer": "LCB",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2021:LCB:masters20",
+          "title": "LCB | MASTERS 2.0 2021",
+          "year": 2021,
+          "organizer": "LCB",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "major:007759b02a7d7543b0a1",
+          "title": "SUVOH | MAJOR",
+          "year": 2021,
+          "organizer": "SUVOH",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2023:XMS:leaguecup",
+          "title": "XMS | LEAGUE CUP 2023",
+          "year": 2023,
+          "organizer": "XMS",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2023:GTR:nationalleague",
+          "title": "GTR | NATIONAL LEAGUE 2023",
+          "year": 2023,
+          "organizer": "GTR",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2024:GAMEZONE:alphacup",
+          "title": "GZ | ALPHA CUP 2024",
+          "year": 2024,
+          "organizer": "GAMEZONE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2024:gzgamingelite",
+          "title": "GAMEZONE | BRASIL GAMING ELITE",
+          "year": 2024,
+          "organizer": "GAMEZONE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2024:LLP:strikeone",
+          "title": "LLP | STRIKE ONE 2024",
+          "year": 2024,
+          "organizer": "LLP",
+          "source": "hall-of-fame"
+        }
       ]
     },
     {
@@ -10346,20 +12834,20 @@ window.HBSTV_DATABASE = {
       ],
       "titles": [
         {
-          "id": "2024:xmsxbstvdreammastersstarss2",
-          "title": "XMS x BSTV | DREAM MASTERS STARS S2 [TIER S]",
+          "id": "2024:bsgchallengersprotour",
+          "title": "BS:G | CHALLENGERS PRO TOUR",
           "year": 2024,
-          "teamId": "vissionary",
-          "team": "Vissionary",
+          "teamId": "csl",
+          "team": "CSL",
           "major": false,
           "source": "events-2024"
         },
         {
-          "id": "2024:bsgchallengersprotour",
-          "title": "BS:G | CHALLENGERS PRO TOUR [TIER S]",
+          "id": "2024:xmsxbstvdreammastersstarss2",
+          "title": "XMS x BSTV | DREAM MASTERS STARS S2",
           "year": 2024,
-          "teamId": "csl",
-          "team": "CSL",
+          "teamId": "vissionary",
+          "team": "Vissionary",
           "major": false,
           "source": "events-2024"
         }
@@ -10486,7 +12974,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "2023:lhaworldcupofclans",
-          "title": "LHA | WORLD CUP OF CLANS [TIER S+]",
+          "title": "LHA | WORLD CUP OF CLANS",
           "year": 2023,
           "teamId": "bm",
           "team": "BM",
@@ -10498,7 +12986,7 @@ window.HBSTV_DATABASE = {
       "evps": [
         {
           "id": "2023:lhaworldcupofclans",
-          "title": "LHA | WORLD CUP OF CLANS [TIER S+]",
+          "title": "LHA | WORLD CUP OF CLANS",
           "year": 2023,
           "source": "events-2023"
         }
@@ -10525,7 +13013,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "2023:whlleague",
-          "title": "WHL | LEAGUE 2023 [TIER S]",
+          "title": "WHL | LEAGUE 2023",
           "year": 2023,
           "teamId": "v13",
           "team": "V13",
@@ -10641,6 +13129,43 @@ window.HBSTV_DATABASE = {
           "series": "AK de Ouro",
           "sourceImage": "assets/archive/98dbd927447979b7c66e.png",
           "source": "ak-de-ouro-awards"
+        }
+      ],
+      "historicalTitles": [
+        {
+          "id": "2018:tslmajorcup",
+          "title": "TSL | MAJOR CUP",
+          "year": 2018,
+          "organizer": "TSL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2018:tslhardnesleague",
+          "title": "TSL | Hardness Pro League",
+          "year": 2018,
+          "organizer": "TSL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2018:tslextrememasters",
+          "title": "TSL | Brasil extreme Masters",
+          "year": 2018,
+          "organizer": "TSL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "major:ba4b48dba7cb6e5526a7",
+          "title": "TSL | MAJOR PREMIERE",
+          "year": 2018,
+          "organizer": "TSL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2018:TSL:mundial",
+          "title": "TSL | MUNDIAL 2018",
+          "year": 2018,
+          "organizer": "TSL",
+          "source": "hall-of-fame"
         }
       ]
     },
@@ -10788,6 +13313,15 @@ window.HBSTV_DATABASE = {
       ],
       "titles": [
         {
+          "id": "2025:bcnimpactleague",
+          "title": "BCN | IMPACT LEAGUE",
+          "year": 2025,
+          "teamId": "i2n",
+          "team": "I2N",
+          "major": false,
+          "source": "events-2025"
+        },
+        {
           "id": "2025:bcnstrikecup20",
           "title": "BCN | STRIKE CUP 2.0",
           "year": 2025,
@@ -10806,47 +13340,38 @@ window.HBSTV_DATABASE = {
           "source": "events-2025"
         },
         {
-          "id": "2025:bcnimpactleague",
-          "title": "BCN | IMPACT LEAGUE",
-          "year": 2025,
-          "teamId": "i2n",
-          "team": "I2N",
-          "major": false,
-          "source": "events-2025"
-        },
-        {
-          "id": "2024:gzgamingelite",
-          "title": "GAMEZONE | BRASIL GAMING ELITE [TIER S]",
-          "year": 2024,
-          "teamId": "d2w",
-          "team": "D2W",
-          "major": false,
-          "source": "events-2024"
-        },
-        {
-          "id": "2024:whlworldrankings2",
-          "title": "WHL | WORLD RANKING S2 [TIER S]",
-          "year": 2024,
-          "teamId": "d2w",
-          "team": "D2W",
-          "major": false,
-          "source": "events-2024"
-        },
-        {
           "id": "2024:bstvinsanitys1",
-          "title": "BSTV | INSANITY SEASON 1 [TIER S+]",
+          "title": "BSTV | INSANITY SEASON 1",
           "year": 2024,
           "teamId": "miracle",
           "team": "Miracle",
+          "major": false,
+          "source": "events-2024"
+        },
+        {
+          "id": "2024:gzgamingelite",
+          "title": "GAMEZONE | BRASIL GAMING ELITE",
+          "year": 2024,
+          "teamId": "d2w",
+          "team": "D2W",
           "major": false,
           "source": "events-2024"
         },
         {
           "id": "2024:gzproseriesleague",
-          "title": "GAMEZONE | PRO SERIES LEAGUE [TIER S]",
+          "title": "GAMEZONE | PRO SERIES LEAGUE",
           "year": 2024,
           "teamId": "miracle",
           "team": "Miracle",
+          "major": false,
+          "source": "events-2024"
+        },
+        {
+          "id": "2024:whlworldrankings2",
+          "title": "WHL | WORLD RANKING S2",
+          "year": 2024,
+          "teamId": "d2w",
+          "team": "D2W",
           "major": false,
           "source": "events-2024"
         },
@@ -10861,7 +13386,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2023:tslblaststrikeleague",
-          "title": "TSL | BLAST STRIKE LEAGUE [TIER S]",
+          "title": "TSL | BLAST STRIKE LEAGUE",
           "year": 2023,
           "teamId": "gt2023",
           "team": "GT 2023",
@@ -10870,7 +13395,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "major:194c5f557f9f233ff918",
-          "title": "WHL | MAJOR 2023 [TIER S+]",
+          "title": "WHL | Major",
           "year": 2023,
           "teamId": "gt2023",
           "team": "GT 2023",
@@ -10895,13 +13420,13 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2023:ranksdreamhack",
-          "title": "RANK S | DREAM HACK BRAZIL [TIER S]",
+          "title": "RANK S | DREAM HACK BRAZIL",
           "year": 2023,
           "source": "events-2023"
         },
         {
           "id": "2023:ranksworlds",
-          "title": "RANK S | WORLDS 2023 [TIER S]",
+          "title": "RANK S | WORLDS 2023",
           "year": 2023,
           "source": "events-2023"
         }
@@ -11031,7 +13556,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2024:gzgamingelite",
-          "title": "GAMEZONE | BRASIL GAMING ELITE [TIER S]",
+          "title": "GAMEZONE | BRASIL GAMING ELITE",
           "year": 2024,
           "teamId": "d2w",
           "team": "D2W",
@@ -11040,7 +13565,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2024:gzproseriesleagues3",
-          "title": "GAMEZONE | PRO SERIES LEAGUE SEASON 3 [TIER S+]",
+          "title": "GAMEZONE | PRO SERIES LEAGUE SEASON 3",
           "year": 2024,
           "teamId": "vissionary",
           "team": "Vissionary",
@@ -11049,7 +13574,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2024:xmsxbstvdreammastersstarss2",
-          "title": "XMS x BSTV | DREAM MASTERS STARS S2 [TIER S]",
+          "title": "XMS x BSTV | DREAM MASTERS STARS S2",
           "year": 2024,
           "teamId": "vissionary",
           "team": "Vissionary",
@@ -11058,12 +13583,6 @@ window.HBSTV_DATABASE = {
         }
       ],
       "mvps": [
-        {
-          "id": "2025:lcsleagues1",
-          "title": "LCS | LEAGUE S1",
-          "year": 2025,
-          "source": "events-2025"
-        },
         {
           "id": "2025:bcnleague",
           "title": "BCN | LEAGUE 2025",
@@ -11077,40 +13596,34 @@ window.HBSTV_DATABASE = {
           "source": "events-2025"
         },
         {
+          "id": "2025:lcsleagues1",
+          "title": "LCS | LEAGUE S1",
+          "year": 2025,
+          "source": "events-2025"
+        },
+        {
           "id": "2025:xmszonaprotournoment",
           "title": "XMS | ZONA PRO TOURNOMENT",
           "year": 2025,
           "source": "events-2025"
         },
         {
-          "id": "2024:gzproseriesleagues3",
-          "title": "GAMEZONE | PRO SERIES LEAGUE SEASON 3 [TIER S+]",
+          "id": "2024:gzgamingelite",
+          "title": "GAMEZONE | BRASIL GAMING ELITE",
           "year": 2024,
           "source": "events-2024"
         },
         {
-          "id": "2024:gzgamingelite",
-          "title": "GAMEZONE | BRASIL GAMING ELITE [TIER S]",
+          "id": "2024:gzproseriesleagues3",
+          "title": "GAMEZONE | PRO SERIES LEAGUE SEASON 3",
           "year": 2024,
           "source": "events-2024"
         }
       ],
       "evps": [
         {
-          "id": "2025:bcnfinals",
-          "title": "BCN | FINALS 25",
-          "year": 2025,
-          "source": "events-2025"
-        },
-        {
-          "id": "2025:bcnstrikecup20",
-          "title": "BCN | STRIKE CUP 2.0",
-          "year": 2025,
-          "source": "events-2025"
-        },
-        {
-          "id": "2025:bcnstrikecup",
-          "title": "BCN | STRIKE CUP",
+          "id": "2025:bcnchallengerschampionship",
+          "title": "BCN | CHALLENGERS CHAMPIONSHIP",
           "year": 2025,
           "source": "events-2025"
         },
@@ -11121,44 +13634,56 @@ window.HBSTV_DATABASE = {
           "source": "events-2025"
         },
         {
+          "id": "2025:bcnfinals",
+          "title": "BCN | FINALS 25",
+          "year": 2025,
+          "source": "events-2025"
+        },
+        {
+          "id": "2025:bcnstrikecup",
+          "title": "BCN | STRIKE CUP",
+          "year": 2025,
+          "source": "events-2025"
+        },
+        {
+          "id": "2025:bcnstrikecup20",
+          "title": "BCN | STRIKE CUP 2.0",
+          "year": 2025,
+          "source": "events-2025"
+        },
+        {
           "id": "2025:bsgbpl",
           "title": "BSG | BPL",
           "year": 2025,
           "source": "events-2025"
         },
         {
-          "id": "2025:bcnchallengerschampionship",
-          "title": "BCN | CHALLENGERS CHAMPIONSHIP",
-          "year": 2025,
-          "source": "events-2025"
-        },
-        {
-          "id": "2024:xmsxbstvdreammastersstarss2",
-          "title": "XMS x BSTV | DREAM MASTERS STARS S2 [TIER S]",
+          "id": "2024:gblstarscups2",
+          "title": "GBL | STARS CUP SEASON 2",
           "year": 2024,
           "source": "events-2024"
         },
         {
-          "id": "2024:gblstarscups2",
-          "title": "GBL | STARS CUP SEASON 2 [TIER S]",
+          "id": "2024:xmsxbstvdreammastersstarss2",
+          "title": "XMS x BSTV | DREAM MASTERS STARS S2",
           "year": 2024,
           "source": "events-2024"
         },
         {
           "id": "2023:lhaworldcupofclans",
-          "title": "LHA | WORLD CUP OF CLANS [TIER S+]",
-          "year": 2023,
-          "source": "events-2023"
-        },
-        {
-          "id": "major:67b535053e8ba3d242da",
-          "title": "RANK S | MajoR LEAGUE 2023 [TIER S+]",
+          "title": "LHA | WORLD CUP OF CLANS",
           "year": 2023,
           "source": "events-2023"
         },
         {
           "id": "2023:ranksdreamhack",
-          "title": "RANK S | DREAM HACK BRAZIL [TIER S]",
+          "title": "RANK S | DREAM HACK BRAZIL",
+          "year": 2023,
+          "source": "events-2023"
+        },
+        {
+          "id": "major:67b535053e8ba3d242da",
+          "title": "RANK S | Major",
           "year": 2023,
           "source": "events-2023"
         },
@@ -11238,6 +13763,120 @@ window.HBSTV_DATABASE = {
           "series": "AK de Ouro",
           "sourceImage": "assets/archive/127015a4498591f58c89.png",
           "source": "ak-de-ouro-awards"
+        }
+      ],
+      "historicalTitles": [
+        {
+          "id": "hof:2020:GSE:mastersinverno",
+          "title": "GSE | MASTERS INVERNO 2020",
+          "year": 2020,
+          "organizer": "GSE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2023:XMS:leaguecup",
+          "title": "XMS | LEAGUE CUP 2023",
+          "year": 2023,
+          "organizer": "XMS",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2023:GTR:nationalleague",
+          "title": "GTR | NATIONAL LEAGUE 2023",
+          "year": 2023,
+          "organizer": "GTR",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2024:GAMEZONE:alphacup",
+          "title": "GZ | ALPHA CUP 2024",
+          "year": 2024,
+          "organizer": "GAMEZONE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2024:gzgamingelite",
+          "title": "GAMEZONE | BRASIL GAMING ELITE",
+          "year": 2024,
+          "organizer": "GAMEZONE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2024:XMS:dreammastersstar",
+          "title": "XMS | DREAM MASTERS STAR 2024",
+          "year": 2024,
+          "organizer": "XMS",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2024:GAMEZONE:pslseason3",
+          "title": "GZ | PSL SEASON 3 2024",
+          "year": 2024,
+          "organizer": "GAMEZONE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2025:xmszonaprotournoment",
+          "title": "XMS | ZONA PRO TOURNOMENT",
+          "year": 2025,
+          "organizer": "XMS",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2025:bcnstrikecup",
+          "title": "BCN | STRIKE CUP",
+          "year": 2025,
+          "organizer": "BCN",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2025:bcnyallacompass",
+          "title": "BCN | YALLA COMPASS 2025",
+          "year": 2025,
+          "organizer": "BCN",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2025:bcnleague",
+          "title": "BCN | LEAGUE 2025",
+          "year": 2025,
+          "organizer": "BCN",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2025:WATCHING:league20",
+          "title": "Watching | LEAGUE 2.0 2025",
+          "year": 2025,
+          "organizer": "WATCHING",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2025:xmsmasterleague",
+          "title": "XMS | MASTER LEAGUE",
+          "year": 2025,
+          "organizer": "XMS",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2025:LCS:leagueseason1",
+          "title": "LCS | LEAGUE SEASON 1 2025",
+          "year": 2025,
+          "organizer": "LCS",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2025:LCS:leagueseason2",
+          "title": "LCS | LEAGUE SEASON 2 2025",
+          "year": 2025,
+          "organizer": "LCS",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2025:RED:league",
+          "title": "RED | LEAGUE 2025",
+          "year": 2025,
+          "organizer": "RED",
+          "source": "hall-of-fame"
         }
       ]
     },
@@ -11330,15 +13969,6 @@ window.HBSTV_DATABASE = {
       ],
       "titles": [
         {
-          "id": "2025:bcnfinals",
-          "title": "BCN | FINALS 25",
-          "year": 2025,
-          "teamId": "iklegends",
-          "team": "IK",
-          "major": false,
-          "source": "events-2025"
-        },
-        {
           "id": "2025:bcnemulabilecup",
           "title": "BCN | EMULABILE CUP",
           "year": 2025,
@@ -11348,11 +13978,11 @@ window.HBSTV_DATABASE = {
           "source": "events-2025"
         },
         {
-          "id": "2025:bcnstrikecup20",
-          "title": "BCN | STRIKE CUP 2.0",
+          "id": "2025:bcnfinals",
+          "title": "BCN | FINALS 25",
           "year": 2025,
-          "teamId": "exeteam",
-          "team": "EXE Team",
+          "teamId": "iklegends",
+          "team": "IK",
           "major": false,
           "source": "events-2025"
         },
@@ -11366,17 +13996,17 @@ window.HBSTV_DATABASE = {
           "source": "events-2025"
         },
         {
-          "id": "2024:whlworldrankings2",
-          "title": "WHL | WORLD RANKING S2 [TIER S]",
-          "year": 2024,
-          "teamId": "d2w",
-          "team": "D2W",
+          "id": "2025:bcnstrikecup20",
+          "title": "BCN | STRIKE CUP 2.0",
+          "year": 2025,
+          "teamId": "exeteam",
+          "team": "EXE Team",
           "major": false,
-          "source": "events-2024"
+          "source": "events-2025"
         },
         {
           "id": "2024:bstvinsanitys1",
-          "title": "BSTV | INSANITY SEASON 1 [TIER S+]",
+          "title": "BSTV | INSANITY SEASON 1",
           "year": 2024,
           "teamId": "miracle",
           "team": "Miracle",
@@ -11385,7 +14015,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2024:gzproseriesleague",
-          "title": "GAMEZONE | PRO SERIES LEAGUE [TIER S]",
+          "title": "GAMEZONE | PRO SERIES LEAGUE",
           "year": 2024,
           "teamId": "miracle",
           "team": "Miracle",
@@ -11394,39 +14024,30 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2024:gzproseriesleagues2",
-          "title": "GAMEZONE | PRO SERIES LEAGUE SEASON 2 [TIER S]",
+          "title": "GAMEZONE | PRO SERIES LEAGUE SEASON 2",
           "year": 2024,
           "teamId": "controlz",
           "team": "CONTROL Z",
+          "major": false,
+          "source": "events-2024"
+        },
+        {
+          "id": "2024:whlworldrankings2",
+          "title": "WHL | WORLD RANKING S2",
+          "year": 2024,
+          "teamId": "d2w",
+          "team": "D2W",
           "major": false,
           "source": "events-2024"
         },
         {
           "id": "2024:xmsextrememasters",
-          "title": "XMS | EXTREME MASTERS [TIER S]",
+          "title": "XMS | EXTREME MASTERS",
           "year": 2024,
           "teamId": "controlz",
           "team": "CONTROL Z",
           "major": false,
           "source": "events-2024"
-        },
-        {
-          "id": "2023:whlworldrankings1",
-          "title": "WHL | WORLD RANKING SEASON 1 [TIER S]",
-          "year": 2023,
-          "teamId": "d2w",
-          "team": "D2W",
-          "major": false,
-          "source": "events-2023"
-        },
-        {
-          "id": "2023:whlztournoment",
-          "title": "WHL | Z TOURNOMENT [ TIER S]",
-          "year": 2023,
-          "teamId": "d2w",
-          "team": "D2W",
-          "major": false,
-          "source": "events-2023"
         },
         {
           "id": "2023:g3xcups2",
@@ -11436,6 +14057,24 @@ window.HBSTV_DATABASE = {
           "team": "CONTROL Z",
           "major": false,
           "source": "owner-confirmed"
+        },
+        {
+          "id": "2023:whlworldrankings1",
+          "title": "WHL | WORLD RANKING SEASON 1",
+          "year": 2023,
+          "teamId": "d2w",
+          "team": "D2W",
+          "major": false,
+          "source": "events-2023"
+        },
+        {
+          "id": "2023:whlztournoment",
+          "title": "WHL | Z TOURNOMENT",
+          "year": 2023,
+          "teamId": "d2w",
+          "team": "D2W",
+          "major": false,
+          "source": "events-2023"
         }
       ],
       "mvps": [
@@ -11446,44 +14085,44 @@ window.HBSTV_DATABASE = {
           "source": "events-2025"
         },
         {
-          "id": "2024:premierpremierleaguea",
-          "title": "PREMIER | PREMIER LEAGUE A [TIER S]",
-          "year": 2024,
-          "source": "events-2024"
-        },
-        {
           "id": "2024:bcnchallengers",
-          "title": "BCN | CHALLENGERS BRAZIL [TIER S]",
+          "title": "BCN | CHALLENGERS BRAZIL",
           "year": 2024,
           "source": "events-2024"
         },
         {
           "id": "2024:gzproseriesleague",
-          "title": "GAMEZONE | PRO SERIES LEAGUE [TIER S]",
+          "title": "GAMEZONE | PRO SERIES LEAGUE",
+          "year": 2024,
+          "source": "events-2024"
+        },
+        {
+          "id": "2024:premierpremierleaguea",
+          "title": "PREMIER | PREMIER LEAGUE A",
           "year": 2024,
           "source": "events-2024"
         },
         {
           "id": "2024:whlworldrankings2",
-          "title": "WHL | WORLD RANKING S2 [TIER S]",
+          "title": "WHL | WORLD RANKING S2",
           "year": 2024,
           "source": "events-2024"
         },
         {
           "id": "2023:ranksdreamhack",
-          "title": "RANK S | DREAM HACK BRAZIL [TIER S]",
-          "year": 2023,
-          "source": "events-2023"
-        },
-        {
-          "id": "2023:whlworldrankings1",
-          "title": "WHL | WORLD RANKING SEASON 1 [TIER S]",
+          "title": "RANK S | DREAM HACK BRAZIL",
           "year": 2023,
           "source": "events-2023"
         },
         {
           "id": "2023:whlelectronicsportsleague",
-          "title": "WHL | ELECTRONIC SPORTS LEAGUE [TIER S]",
+          "title": "WHL | ELECTRONIC SPORTS LEAGUE",
+          "year": 2023,
+          "source": "events-2023"
+        },
+        {
+          "id": "2023:whlworldrankings1",
+          "title": "WHL | WORLD RANKING SEASON 1",
           "year": 2023,
           "source": "events-2023"
         }
@@ -11496,68 +14135,68 @@ window.HBSTV_DATABASE = {
           "source": "events-2025"
         },
         {
-          "id": "2024:gzproseriesleagues2",
-          "title": "GAMEZONE | PRO SERIES LEAGUE SEASON 2 [TIER S]",
-          "year": 2024,
-          "source": "events-2024"
-        },
-        {
-          "id": "2024:xmsextrememasters",
-          "title": "XMS | EXTREME MASTERS [TIER S]",
-          "year": 2024,
-          "source": "events-2024"
-        },
-        {
           "id": "2024:bcnyallacompass",
-          "title": "BCN | YALLA COMPASS 2024 [TIER S]",
+          "title": "BCN | YALLA COMPASS 2024",
           "year": 2024,
           "source": "events-2024"
         },
         {
           "id": "2024:bstvinsanitys1",
-          "title": "BSTV | INSANITY SEASON 1 [TIER S+]",
+          "title": "BSTV | INSANITY SEASON 1",
           "year": 2024,
           "source": "events-2024"
         },
         {
           "id": "2024:gznewage",
-          "title": "GAMEZONE | NEW AGE [TIER S]",
+          "title": "GAMEZONE | NEW AGE",
           "year": 2024,
           "source": "events-2024"
         },
         {
-          "id": "major:67b535053e8ba3d242da",
-          "title": "RANK S | MajoR LEAGUE 2023 [TIER S+]",
+          "id": "2024:gzproseriesleagues2",
+          "title": "GAMEZONE | PRO SERIES LEAGUE SEASON 2",
+          "year": 2024,
+          "source": "events-2024"
+        },
+        {
+          "id": "2024:xmsextrememasters",
+          "title": "XMS | EXTREME MASTERS",
+          "year": 2024,
+          "source": "events-2024"
+        },
+        {
+          "id": "2023:gzgtrleague",
+          "title": "GAMEZONE | GTR LEAGUE",
           "year": 2023,
           "source": "events-2023"
         },
         {
-          "id": "2023:gzgtrleague",
-          "title": "GAMEZONE | GTR LEAGUE [TIER S]",
+          "id": "major:67b535053e8ba3d242da",
+          "title": "RANK S | Major",
           "year": 2023,
           "source": "events-2023"
         },
         {
           "id": "2023:ranksworlds",
-          "title": "RANK S | WORLDS 2023 [TIER S]",
-          "year": 2023,
-          "source": "events-2023"
-        },
-        {
-          "id": "major:194c5f557f9f233ff918",
-          "title": "WHL | MAJOR 2023 [TIER S+]",
-          "year": 2023,
-          "source": "events-2023"
-        },
-        {
-          "id": "2023:whlztournoment",
-          "title": "WHL | Z TOURNOMENT [ TIER S]",
+          "title": "RANK S | WORLDS 2023",
           "year": 2023,
           "source": "events-2023"
         },
         {
           "id": "2023:whlesls2",
-          "title": "WHL | ELETRONIC SPORTS LEAGUE SEASON 2 [TIER S]",
+          "title": "WHL | ELETRONIC SPORTS LEAGUE SEASON 2",
+          "year": 2023,
+          "source": "events-2023"
+        },
+        {
+          "id": "major:194c5f557f9f233ff918",
+          "title": "WHL | Major",
+          "year": 2023,
+          "source": "events-2023"
+        },
+        {
+          "id": "2023:whlztournoment",
+          "title": "WHL | Z TOURNOMENT",
           "year": 2023,
           "source": "events-2023"
         }
@@ -11620,6 +14259,99 @@ window.HBSTV_DATABASE = {
           "sourceImage": "assets/archive/3e3303f472dfd0ec160d.jpeg",
           "source": "awards"
         }
+      ],
+      "historicalTitles": [
+        {
+          "id": "2023:whlztournoment",
+          "title": "WHL | Z TOURNOMENT",
+          "year": 2023,
+          "organizer": "WHL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2023:whlworldrankings1",
+          "title": "WHL | WORLD RANKING SEASON 1",
+          "year": 2023,
+          "organizer": "WHL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2024:bstvinsanitys1",
+          "title": "BSTV | INSANITY SEASON 1",
+          "year": 2024,
+          "organizer": "BSTV",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2024:WHL:worldrankingseason2",
+          "title": "WHL | WORLD RANKING SEASON 2 2024",
+          "year": 2024,
+          "organizer": "WHL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2024:gzgamingelite",
+          "title": "GAMEZONE | BRASIL GAMING ELITE",
+          "year": 2024,
+          "organizer": "GAMEZONE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2024:GAMEZONE:pslseason1",
+          "title": "GZ | PSL SEASON 1 2024",
+          "year": 2024,
+          "organizer": "GAMEZONE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2024:NZK:champions",
+          "title": "NZK | CHAMPIONS 2024",
+          "year": 2024,
+          "organizer": "NZK",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2024:xmsextrememasters",
+          "title": "XMS | EXTREME MASTERS",
+          "year": 2024,
+          "organizer": "XMS",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2024:GAMEZONE:pslseason2",
+          "title": "GZ | PSL SEASON 2 2024",
+          "year": 2024,
+          "organizer": "GAMEZONE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2025:bcnimpactleague",
+          "title": "BCN | IMPACT LEAGUE",
+          "year": 2025,
+          "organizer": "BCN",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2025:bcnemulabilecup",
+          "title": "BCN | EMULABILE CUP",
+          "year": 2025,
+          "organizer": "BCN",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2025:bcnstrikecup20",
+          "title": "BCN | STRIKE CUP 2.0",
+          "year": 2025,
+          "organizer": "BCN",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2025:BCN:finals",
+          "title": "BCN | FINALS 2025",
+          "year": 2025,
+          "organizer": "BCN",
+          "source": "hall-of-fame"
+        }
       ]
     },
     {
@@ -11641,7 +14373,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "2023:lhaworldcupofclans",
-          "title": "LHA | WORLD CUP OF CLANS [TIER S+]",
+          "title": "LHA | WORLD CUP OF CLANS",
           "year": 2023,
           "teamId": "bm",
           "team": "BM",
@@ -11667,19 +14399,19 @@ window.HBSTV_DATABASE = {
       "evps": [
         {
           "id": "2023:ranksworlds",
-          "title": "RANK S | WORLDS 2023 [TIER S]",
-          "year": 2023,
-          "source": "events-2023"
-        },
-        {
-          "id": "2023:whlleague",
-          "title": "WHL | LEAGUE 2023 [TIER S]",
+          "title": "RANK S | WORLDS 2023",
           "year": 2023,
           "source": "events-2023"
         },
         {
           "id": "2023:whlelectronicsportsleague",
-          "title": "WHL | ELECTRONIC SPORTS LEAGUE [TIER S]",
+          "title": "WHL | ELECTRONIC SPORTS LEAGUE",
+          "year": 2023,
+          "source": "events-2023"
+        },
+        {
+          "id": "2023:whlleague",
+          "title": "WHL | LEAGUE 2023",
           "year": 2023,
           "source": "events-2023"
         }
@@ -11789,7 +14521,7 @@ window.HBSTV_DATABASE = {
       "evps": [
         {
           "id": "2024:xmsextrememasters",
-          "title": "XMS | EXTREME MASTERS [TIER S]",
+          "title": "XMS | EXTREME MASTERS",
           "year": 2024,
           "source": "events-2024"
         }
@@ -11810,7 +14542,7 @@ window.HBSTV_DATABASE = {
       "evps": [
         {
           "id": "2023:lhaworldcupofclans",
-          "title": "LHA | WORLD CUP OF CLANS [TIER S+]",
+          "title": "LHA | WORLD CUP OF CLANS",
           "year": 2023,
           "source": "events-2023"
         }
@@ -11831,9 +14563,31 @@ window.HBSTV_DATABASE = {
       "evps": [
         {
           "id": "2024:whlworldrankings2",
-          "title": "WHL | WORLD RANKING S2 [TIER S]",
+          "title": "WHL | WORLD RANKING S2",
           "year": 2024,
           "source": "events-2024"
+        }
+      ],
+      "rankings": [],
+      "awards": []
+    },
+    {
+      "id": "trex999",
+      "name": "Trex999",
+      "aliases": [
+        "Trex999"
+      ],
+      "realNames": [],
+      "teams": [],
+      "titles": [],
+      "mvps": [],
+      "evps": [
+        {
+          "id": "2020:lcbproleague",
+          "title": "LCB | Pro League",
+          "year": 2020,
+          "major": false,
+          "source": "owner-confirmed"
         }
       ],
       "rankings": [],
@@ -11858,7 +14612,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "2023:ranksinvitational",
-          "title": "RANK S | INVITATIONAL LEAGUE 2023 [TIER S]",
+          "title": "RANK S | INVITATIONAL LEAGUE 2023",
           "year": 2023,
           "teamId": "chaos",
           "team": "Chaos",
@@ -11898,7 +14652,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "2024:bcnyallacompass",
-          "title": "BCN | YALLA COMPASS 2024 [TIER S]",
+          "title": "BCN | YALLA COMPASS 2024",
           "year": 2024,
           "teamId": "aura",
           "team": "AURA",
@@ -11907,7 +14661,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2024:gznewage",
-          "title": "GAMEZONE | NEW AGE [TIER S]",
+          "title": "GAMEZONE | NEW AGE",
           "year": 2024,
           "teamId": "aura",
           "team": "AURA",
@@ -11916,7 +14670,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2023:ranksdreamhack",
-          "title": "RANK S | DREAM HACK BRAZIL [TIER S]",
+          "title": "RANK S | DREAM HACK BRAZIL",
           "year": 2023,
           "teamId": "chaos",
           "team": "Chaos",
@@ -11967,7 +14721,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "2024:bcnyallacompass",
-          "title": "BCN | YALLA COMPASS 2024 [TIER S]",
+          "title": "BCN | YALLA COMPASS 2024",
           "year": 2024,
           "teamId": "aura",
           "team": "AURA",
@@ -11976,7 +14730,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2024:gznewage",
-          "title": "GAMEZONE | NEW AGE [TIER S]",
+          "title": "GAMEZONE | NEW AGE",
           "year": 2024,
           "teamId": "aura",
           "team": "AURA",
@@ -11985,7 +14739,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2023:ranksdreamhack",
-          "title": "RANK S | DREAM HACK BRAZIL [TIER S]",
+          "title": "RANK S | DREAM HACK BRAZIL",
           "year": 2023,
           "teamId": "chaos",
           "team": "Chaos",
@@ -11994,7 +14748,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2023:ranksinvitational",
-          "title": "RANK S | INVITATIONAL LEAGUE 2023 [TIER S]",
+          "title": "RANK S | INVITATIONAL LEAGUE 2023",
           "year": 2023,
           "teamId": "chaos",
           "team": "Chaos",
@@ -12003,7 +14757,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "major:67b535053e8ba3d242da",
-          "title": "RANK S | MajoR LEAGUE 2023 [TIER S+]",
+          "title": "RANK S | Major",
           "year": 2023,
           "teamId": "chaos",
           "team": "Chaos",
@@ -12012,7 +14766,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2023:whlesls2",
-          "title": "WHL | ELETRONIC SPORTS LEAGUE SEASON 2 [TIER S]",
+          "title": "WHL | ELETRONIC SPORTS LEAGUE SEASON 2",
           "year": 2023,
           "teamId": "chaos",
           "team": "Chaos",
@@ -12032,45 +14786,45 @@ window.HBSTV_DATABASE = {
       "mvps": [
         {
           "id": "2023:ranksinvitational",
-          "title": "RANK S | INVITATIONAL LEAGUE 2023 [TIER S]",
+          "title": "RANK S | INVITATIONAL LEAGUE 2023",
           "year": 2023,
           "source": "events-2023"
         }
       ],
       "evps": [
         {
-          "id": "2024:premierpremierleaguea",
-          "title": "PREMIER | PREMIER LEAGUE A [TIER S]",
+          "id": "2024:bcnyallacompass",
+          "title": "BCN | YALLA COMPASS 2024",
           "year": 2024,
           "source": "events-2024"
         },
         {
           "id": "2024:llpstrikeones4",
-          "title": "LLP | STRIKE ONE SEASON 4 [TIER S]",
+          "title": "LLP | STRIKE ONE SEASON 4",
           "year": 2024,
           "source": "events-2024"
         },
         {
-          "id": "2024:bcnyallacompass",
-          "title": "BCN | YALLA COMPASS 2024 [TIER S]",
+          "id": "2024:premierpremierleaguea",
+          "title": "PREMIER | PREMIER LEAGUE A",
           "year": 2024,
           "source": "events-2024"
         },
         {
-          "id": "major:67b535053e8ba3d242da",
-          "title": "RANK S | MajoR LEAGUE 2023 [TIER S+]",
+          "id": "2023:ranksdreamhack",
+          "title": "RANK S | DREAM HACK BRAZIL",
           "year": 2023,
           "source": "events-2023"
         },
         {
-          "id": "2023:ranksdreamhack",
-          "title": "RANK S | DREAM HACK BRAZIL [TIER S]",
+          "id": "major:67b535053e8ba3d242da",
+          "title": "RANK S | Major",
           "year": 2023,
           "source": "events-2023"
         },
         {
           "id": "2023:whlesls2",
-          "title": "WHL | ELETRONIC SPORTS LEAGUE SEASON 2 [TIER S]",
+          "title": "WHL | ELETRONIC SPORTS LEAGUE SEASON 2",
           "year": 2023,
           "source": "events-2023"
         }
@@ -12087,7 +14841,72 @@ window.HBSTV_DATABASE = {
           "country": "BR"
         }
       ],
-      "awards": []
+      "awards": [],
+      "historicalTitles": [
+        {
+          "id": "major:86ed67893904be137a59",
+          "title": "TSL | MAJOR",
+          "year": 2021,
+          "organizer": "TSL",
+          "source": "hall-of-fame-3"
+        },
+        {
+          "id": "hof:2023:GTR:sanitycup",
+          "title": "GTR | SANITY CUP 2023",
+          "year": 2023,
+          "organizer": "GTR",
+          "source": "hall-of-fame-3"
+        },
+        {
+          "id": "hof:2023:GBL:cup",
+          "title": "GBL | CUP  2023",
+          "year": 2023,
+          "organizer": "GBL",
+          "source": "hall-of-fame-3"
+        },
+        {
+          "id": "hof:2023:GTR:liberators",
+          "title": "GTR | LIBERATORS 2023",
+          "year": 2023,
+          "organizer": "GTR",
+          "source": "hall-of-fame-3"
+        },
+        {
+          "id": "hof:2023:RANK S:invitational",
+          "title": "RANK S | INVITATIONAL 2023",
+          "year": 2023,
+          "organizer": "RANK S",
+          "source": "hall-of-fame-3"
+        },
+        {
+          "id": "hof:2023:RANK S:dreamhack",
+          "title": "RANK S | DREAM HACK 2023",
+          "year": 2023,
+          "organizer": "RANK S",
+          "source": "hall-of-fame-3"
+        },
+        {
+          "id": "major:67b535053e8ba3d242da",
+          "title": "RANK S | Major",
+          "year": 2023,
+          "organizer": "RANK S",
+          "source": "hall-of-fame-3"
+        },
+        {
+          "id": "2024:gznewage",
+          "title": "GAMEZONE | NEW AGE",
+          "year": 2024,
+          "organizer": "GAMEZONE",
+          "source": "hall-of-fame-3"
+        },
+        {
+          "id": "2024:bcnyallacompass",
+          "title": "BCN | YALLA COMPASS 2024",
+          "year": 2024,
+          "organizer": "BCN",
+          "source": "hall-of-fame-3"
+        }
+      ]
     },
     {
       "id": "vamp",
@@ -12227,17 +15046,8 @@ window.HBSTV_DATABASE = {
       ],
       "titles": [
         {
-          "id": "2024:whlworldrankings2",
-          "title": "WHL | WORLD RANKING S2 [TIER S]",
-          "year": 2024,
-          "teamId": "d2w",
-          "team": "D2W",
-          "major": false,
-          "source": "events-2024"
-        },
-        {
           "id": "2024:bstvinsanitys1",
-          "title": "BSTV | INSANITY SEASON 1 [TIER S+]",
+          "title": "BSTV | INSANITY SEASON 1",
           "year": 2024,
           "teamId": "miracle",
           "team": "Miracle",
@@ -12246,10 +15056,19 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2024:gzproseriesleague",
-          "title": "GAMEZONE | PRO SERIES LEAGUE [TIER S]",
+          "title": "GAMEZONE | PRO SERIES LEAGUE",
           "year": 2024,
           "teamId": "miracle",
           "team": "Miracle",
+          "major": false,
+          "source": "events-2024"
+        },
+        {
+          "id": "2024:whlworldrankings2",
+          "title": "WHL | WORLD RANKING S2",
+          "year": 2024,
+          "teamId": "d2w",
+          "team": "D2W",
           "major": false,
           "source": "events-2024"
         },
@@ -12267,13 +15086,13 @@ window.HBSTV_DATABASE = {
       "evps": [
         {
           "id": "2024:gznewage",
-          "title": "GAMEZONE | NEW AGE [TIER S]",
+          "title": "GAMEZONE | NEW AGE",
           "year": 2024,
           "source": "events-2024"
         },
         {
           "id": "2024:whlworldrankings2",
-          "title": "WHL | WORLD RANKING S2 [TIER S]",
+          "title": "WHL | WORLD RANKING S2",
           "year": 2024,
           "source": "events-2024"
         }
@@ -12294,7 +15113,7 @@ window.HBSTV_DATABASE = {
       "evps": [
         {
           "id": "2023:whlesls2",
-          "title": "WHL | ELETRONIC SPORTS LEAGUE SEASON 2 [TIER S]",
+          "title": "WHL | ELETRONIC SPORTS LEAGUE SEASON 2",
           "year": 2023,
           "source": "events-2023"
         }
@@ -12360,7 +15179,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2024:gzproseriesleague",
-          "title": "GAMEZONE | PRO SERIES LEAGUE [TIER S]",
+          "title": "GAMEZONE | PRO SERIES LEAGUE",
           "year": 2024,
           "teamId": "miracle",
           "team": "Miracle",
@@ -12435,7 +15254,58 @@ window.HBSTV_DATABASE = {
           "country": "BR"
         }
       ],
-      "awards": []
+      "awards": [],
+      "historicalTitles": [
+        {
+          "id": "2019:tslapsleague",
+          "title": "TSL | APS League 2019",
+          "year": 2019,
+          "organizer": "TSL",
+          "source": "hall-of-fame-3"
+        },
+        {
+          "id": "2019:tslforcefield",
+          "title": "TSL | Forcefield 2019",
+          "year": 2019,
+          "organizer": "TSL",
+          "source": "hall-of-fame-3"
+        },
+        {
+          "id": "2019:gsetourii",
+          "title": "GSE | Tour II 2019",
+          "year": 2019,
+          "organizer": "GSE",
+          "source": "hall-of-fame-3"
+        },
+        {
+          "id": "2019:gsehpls3",
+          "title": "GSE | HPL Season 3",
+          "year": 2019,
+          "organizer": "GSE",
+          "source": "hall-of-fame-3"
+        },
+        {
+          "id": "2019:gseproleague",
+          "title": "GSE | Pro League 2019",
+          "year": 2019,
+          "organizer": "GSE",
+          "source": "hall-of-fame-3"
+        },
+        {
+          "id": "major:7713f3c1b8fa50d7e849",
+          "title": "GSE | Brasil Extreme Masters MAJOR",
+          "year": 2019,
+          "organizer": "GSE",
+          "source": "hall-of-fame-3"
+        },
+        {
+          "id": "hof:2021:GSE:mastersinvernoinvitational",
+          "title": "GSE | MASTERS INVERNO INVITATIONAL 2021",
+          "year": 2021,
+          "organizer": "GSE",
+          "source": "hall-of-fame-3"
+        }
+      ]
     },
     {
       "id": "whitday",
@@ -12450,7 +15320,7 @@ window.HBSTV_DATABASE = {
       "evps": [
         {
           "id": "2023:lhaworldcupofclans",
-          "title": "LHA | WORLD CUP OF CLANS [TIER S+]",
+          "title": "LHA | WORLD CUP OF CLANS",
           "year": 2023,
           "source": "events-2023"
         }
@@ -12477,7 +15347,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "2023:lhaworldcupofclans",
-          "title": "LHA | WORLD CUP OF CLANS [TIER S+]",
+          "title": "LHA | WORLD CUP OF CLANS",
           "year": 2023,
           "teamId": "bm",
           "team": "BM",
@@ -12509,7 +15379,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "2024:xmsxbstvewcproleague",
-          "title": "XMS x BSTV | EWC PRO LEAGUE [TIER S]",
+          "title": "XMS x BSTV | EWC PRO LEAGUE",
           "year": 2024,
           "teamId": "rs4",
           "team": "RS4",
@@ -12633,7 +15503,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "2023:ranksworlds",
-          "title": "RANK S | WORLDS 2023 [TIER S]",
+          "title": "RANK S | WORLDS 2023",
           "year": 2023,
           "teamId": "svicious",
           "team": "Svicious",
@@ -12754,6 +15624,15 @@ window.HBSTV_DATABASE = {
       ],
       "titles": [
         {
+          "id": "2025:bcnemulabilecup",
+          "title": "BCN | EMULABILE CUP",
+          "year": 2025,
+          "teamId": "d2w",
+          "team": "D2W",
+          "major": false,
+          "source": "events-2025"
+        },
+        {
           "id": "2025:bcnfinals",
           "title": "BCN | FINALS 25",
           "year": 2025,
@@ -12790,6 +15669,15 @@ window.HBSTV_DATABASE = {
           "source": "events-2025"
         },
         {
+          "id": "2025:bsgbpl",
+          "title": "BSG | BPL",
+          "year": 2025,
+          "teamId": "vissionary",
+          "team": "Vissionary",
+          "major": false,
+          "source": "events-2025"
+        },
+        {
           "id": "2025:lcsleagues1",
           "title": "LCS | LEAGUE S1",
           "year": 2025,
@@ -12808,26 +15696,8 @@ window.HBSTV_DATABASE = {
           "source": "events-2025"
         },
         {
-          "id": "2025:bcnemulabilecup",
-          "title": "BCN | EMULABILE CUP",
-          "year": 2025,
-          "teamId": "d2w",
-          "team": "D2W",
-          "major": false,
-          "source": "events-2025"
-        },
-        {
-          "id": "2025:bsgbpl",
-          "title": "BSG | BPL",
-          "year": 2025,
-          "teamId": "vissionary",
-          "team": "Vissionary",
-          "major": false,
-          "source": "events-2025"
-        },
-        {
           "id": "2024:bcnyallacompass",
-          "title": "BCN | YALLA COMPASS 2024 [TIER S]",
+          "title": "BCN | YALLA COMPASS 2024",
           "year": 2024,
           "teamId": "aura",
           "team": "AURA",
@@ -12836,7 +15706,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2024:gznewage",
-          "title": "GAMEZONE | NEW AGE [TIER S]",
+          "title": "GAMEZONE | NEW AGE",
           "year": 2024,
           "teamId": "aura",
           "team": "AURA",
@@ -12845,7 +15715,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "major:67b535053e8ba3d242da",
-          "title": "RANK S | MajoR LEAGUE 2023 [TIER S+]",
+          "title": "RANK S | Major",
           "year": 2023,
           "teamId": "chaos",
           "team": "Chaos",
@@ -12854,6 +15724,12 @@ window.HBSTV_DATABASE = {
         }
       ],
       "mvps": [
+        {
+          "id": "2025:bcnstrikecup",
+          "title": "BCN | STRIKE CUP",
+          "year": 2025,
+          "source": "events-2025"
+        },
         {
           "id": "2025:bcnstrikecup20",
           "title": "BCN | STRIKE CUP 2.0",
@@ -12867,19 +15743,19 @@ window.HBSTV_DATABASE = {
           "source": "events-2025"
         },
         {
-          "id": "2025:bcnstrikecup",
-          "title": "BCN | STRIKE CUP",
-          "year": 2025,
-          "source": "events-2025"
-        },
-        {
           "id": "2024:bcnyallacompass",
-          "title": "BCN | YALLA COMPASS 2024 [TIER S]",
+          "title": "BCN | YALLA COMPASS 2024",
           "year": 2024,
           "source": "events-2024"
         }
       ],
       "evps": [
+        {
+          "id": "2025:bcnemulabilecup",
+          "title": "BCN | EMULABILE CUP",
+          "year": 2025,
+          "source": "events-2025"
+        },
         {
           "id": "2025:bcnleague",
           "title": "BCN | LEAGUE 2025",
@@ -12893,12 +15769,6 @@ window.HBSTV_DATABASE = {
           "source": "events-2025"
         },
         {
-          "id": "2025:bcnemulabilecup",
-          "title": "BCN | EMULABILE CUP",
-          "year": 2025,
-          "source": "events-2025"
-        },
-        {
           "id": "2025:bsgbpl",
           "title": "BSG | BPL",
           "year": 2025,
@@ -12906,19 +15776,19 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2024:bcnchallengers",
-          "title": "BCN | CHALLENGERS BRAZIL [TIER S]",
-          "year": 2024,
-          "source": "events-2024"
-        },
-        {
-          "id": "2024:gznewage",
-          "title": "GAMEZONE | NEW AGE [TIER S]",
+          "title": "BCN | CHALLENGERS BRAZIL",
           "year": 2024,
           "source": "events-2024"
         },
         {
           "id": "2024:gzgamingelite",
-          "title": "GAMEZONE | BRASIL GAMING ELITE [TIER S]",
+          "title": "GAMEZONE | BRASIL GAMING ELITE",
+          "year": 2024,
+          "source": "events-2024"
+        },
+        {
+          "id": "2024:gznewage",
+          "title": "GAMEZONE | NEW AGE",
           "year": 2024,
           "source": "events-2024"
         }
@@ -12935,7 +15805,86 @@ window.HBSTV_DATABASE = {
           "country": "BR"
         }
       ],
-      "awards": []
+      "awards": [],
+      "historicalTitles": [
+        {
+          "id": "hof:2025:BCN:finals",
+          "title": "BCN | FINALS 2025",
+          "year": 2025,
+          "organizer": "BCN",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2025:bcnleague",
+          "title": "BCN | LEAGUE 2025",
+          "year": 2025,
+          "organizer": "BCN",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2025:bcnstrikecup",
+          "title": "BCN | STRIKE CUP",
+          "year": 2025,
+          "organizer": "BCN",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2025:bcnyallacompass",
+          "title": "BCN | YALLA COMPASS 2025",
+          "year": 2025,
+          "organizer": "BCN",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2025:lcsleagues1",
+          "title": "LCS | LEAGUE S1",
+          "year": 2025,
+          "organizer": "LCS",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2025:xmsmasterleague",
+          "title": "XMS | MASTER LEAGUE",
+          "year": 2025,
+          "organizer": "XMS",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2025:bcnemulabilecup",
+          "title": "BCN | EMULABILE CUP",
+          "year": 2025,
+          "organizer": "BCN",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2025:bsgbpl",
+          "title": "BSG | BPL",
+          "year": 2025,
+          "organizer": "BSG",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2024:bcnyallacompass",
+          "title": "BCN | YALLA COMPASS 2024",
+          "year": 2024,
+          "organizer": "BCN",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2024:gznewage",
+          "title": "GAMEZONE | NEW AGE",
+          "year": 2024,
+          "organizer": "GAMEZONE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2023:RANK S:majorleague",
+          "title": "RANK S | MajoR LEAGUE 2023Ⓜ️",
+          "year": 2023,
+          "organizer": "RANK S",
+          "source": "hall-of-fame"
+        }
+      ]
     },
     {
       "id": "zenk",
@@ -13011,7 +15960,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "2024:xmsextrememasters",
-          "title": "XMS | EXTREME MASTERS [TIER S]",
+          "title": "XMS | EXTREME MASTERS",
           "year": 2024,
           "teamId": "controlz",
           "team": "CONTROL Z",
@@ -13028,37 +15977,59 @@ window.HBSTV_DATABASE = {
           "source": "major-history"
         }
       ],
-      "mvps": [],
+      "mvps": [
+        {
+          "id": "2020:acecup",
+          "title": "ACE | Cup Season 1",
+          "year": 2020,
+          "major": false,
+          "source": "owner-confirmed"
+        }
+      ],
       "evps": [
         {
           "id": "2024:bcnchallengers",
-          "title": "BCN | CHALLENGERS BRAZIL [TIER S]",
-          "year": 2024,
-          "source": "events-2024"
-        },
-        {
-          "id": "2024:llpstrikeones4",
-          "title": "LLP | STRIKE ONE SEASON 4 [TIER S]",
+          "title": "BCN | CHALLENGERS BRAZIL",
           "year": 2024,
           "source": "events-2024"
         },
         {
           "id": "2024:gzproseriesleague",
-          "title": "GAMEZONE | PRO SERIES LEAGUE [TIER S]",
+          "title": "GAMEZONE | PRO SERIES LEAGUE",
+          "year": 2024,
+          "source": "events-2024"
+        },
+        {
+          "id": "2024:llpstrikeones4",
+          "title": "LLP | STRIKE ONE SEASON 4",
           "year": 2024,
           "source": "events-2024"
         },
         {
           "id": "2024:whlworldrankings2",
-          "title": "WHL | WORLD RANKING S2 [TIER S]",
+          "title": "WHL | WORLD RANKING S2",
           "year": 2024,
           "source": "events-2024"
         },
         {
           "id": "2023:ranksdreamhack",
-          "title": "RANK S | DREAM HACK BRAZIL [TIER S]",
+          "title": "RANK S | DREAM HACK BRAZIL",
           "year": 2023,
           "source": "events-2023"
+        },
+        {
+          "id": "2020:lcbproleague",
+          "title": "LCB | Pro League",
+          "year": 2020,
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:pnlpeninsulacup",
+          "title": "PNL | Peninsula Cup",
+          "year": 2020,
+          "major": false,
+          "source": "owner-confirmed"
         }
       ],
       "rankings": [
@@ -13078,7 +16049,107 @@ window.HBSTV_DATABASE = {
           "country": "BR"
         }
       ],
-      "awards": []
+      "awards": [],
+      "historicalTitles": [
+        {
+          "id": "hof:2017:TSL:majorcup",
+          "title": "TSL | MAJOR CUP 2017",
+          "year": 2017,
+          "organizer": "TSL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2020:tslnodus",
+          "title": "TSL | Nodus",
+          "year": 2020,
+          "organizer": "TSL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2020:tslrenovatedgameleague",
+          "title": "TSL | Renovated Game League",
+          "year": 2020,
+          "organizer": "TSL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2020:mawares",
+          "title": "MAWARE | Season",
+          "year": 2020,
+          "organizer": "MAWARE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2020:gseproleague",
+          "title": "GSE | Pro League",
+          "year": 2020,
+          "organizer": "GSE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2020:acecup",
+          "title": "ACE | Cup Season 1",
+          "year": 2020,
+          "organizer": "ACE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2020:lcbproleague",
+          "title": "LCB | Pro League",
+          "year": 2020,
+          "organizer": "LCB",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2020:gsetour",
+          "title": "GSE | Tour",
+          "year": 2020,
+          "organizer": "GSE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2020:tslmjonircup",
+          "title": "TSL | Mjonir Cup",
+          "year": 2020,
+          "organizer": "TSL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2021:gsemasters",
+          "title": "GSE | Masters Inverno",
+          "year": 2021,
+          "organizer": "GSE",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "major:86ed67893904be137a59",
+          "title": "TSL | MAJOR",
+          "year": 2021,
+          "organizer": "TSL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2021:pnlpeninsulacup",
+          "title": "PNL | Peninsula Cup",
+          "year": 2021,
+          "organizer": "PNL",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2021:lcbproleague",
+          "title": "LCB | Pro League",
+          "year": 2021,
+          "organizer": "LCB",
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "hof:2021:LCB:masters20",
+          "title": "LCB | MASTERS 2.0 2021",
+          "year": 2021,
+          "organizer": "LCB",
+          "source": "hall-of-fame"
+        }
+      ]
     },
     {
       "id": "zmat",
@@ -13101,7 +16172,7 @@ window.HBSTV_DATABASE = {
       "evps": [
         {
           "id": "2023:lhaworldcupofclans",
-          "title": "LHA | WORLD CUP OF CLANS [TIER S+]",
+          "title": "LHA | WORLD CUP OF CLANS",
           "year": 2023,
           "source": "events-2023"
         }
@@ -13200,7 +16271,9 @@ window.HBSTV_DATABASE = {
     "biond": "Biondi",
     "robertinha": "Michel",
     "misutaa": "misuuta",
-    "benzin": "BENZ1N"
+    "benzin": "BENZ1N",
+    "kauan": "Nescau",
+    "kscerato": "ScreaM"
   },
   "events": [
     {
@@ -15167,18 +18240,32 @@ window.HBSTV_DATABASE = {
         "teaminfinity"
       ],
       "roster": [],
-      "mvps": [],
-      "evps": [],
-      "sources": [
-        "top-1-teams-of-years"
+      "mvps": [
+        "jigsaw"
       ],
-      "notes": [],
+      "evps": [
+        "ryota",
+        "scream",
+        "conjure",
+        "shelzz",
+        "force"
+      ],
+      "sources": [
+        "top-1-teams-of-years",
+        "owner-confirmed"
+      ],
+      "notes": [
+        "Premiações individuais confirmadas pelo responsável pelo site."
+      ],
       "images": [],
+      "mvs": [
+        "conjure"
+      ],
       "rosterReference": {
         "players": [
           "shelzz",
           "ryota",
-          "kscerato",
+          "scream",
           "rn",
           "conjure",
           "fugly",
@@ -15210,7 +18297,7 @@ window.HBSTV_DATABASE = {
         "players": [
           "shelzz",
           "ryota",
-          "kscerato",
+          "scream",
           "rn",
           "conjure",
           "fugly",
@@ -15242,7 +18329,7 @@ window.HBSTV_DATABASE = {
         "players": [
           "shelzz",
           "ryota",
-          "kscerato",
+          "scream",
           "rn",
           "conjure",
           "fugly",
@@ -15274,7 +18361,7 @@ window.HBSTV_DATABASE = {
         "players": [
           "shelzz",
           "ryota",
-          "kscerato",
+          "scream",
           "rn",
           "conjure",
           "fugly",
@@ -15402,7 +18489,7 @@ window.HBSTV_DATABASE = {
     },
     {
       "id": "2020:acecup",
-      "title": "ACE | Cup",
+      "title": "ACE | Cup Season 1",
       "year": 2020,
       "organizer": "ACE",
       "major": false,
@@ -15410,19 +18497,34 @@ window.HBSTV_DATABASE = {
         "pentaesports"
       ],
       "roster": [],
-      "mvps": [],
-      "evps": [],
-      "sources": [
-        "top-1-teams-of-years"
+      "mvps": [
+        "zenn"
       ],
-      "notes": [],
+      "evps": [
+        "reidogame",
+        "scream",
+        "sharp1",
+        "force",
+        "scuba",
+        "adren",
+        "oskar",
+        "shelzz"
+      ],
+      "sources": [
+        "top-1-teams-of-years",
+        "owner-confirmed"
+      ],
+      "notes": [
+        "Premiações individuais confirmadas pelo responsável pelo site."
+      ],
       "images": [],
+      "mvs": [],
       "rosterReference": {
         "players": [
           "shelzz",
           "ryota",
-          "kscerato",
-          "kauan",
+          "scream",
+          "nescau",
           "zenn",
           "rn",
           "adren",
@@ -15527,8 +18629,8 @@ window.HBSTV_DATABASE = {
         "players": [
           "shelzz",
           "ryota",
-          "kscerato",
-          "kauan",
+          "scream",
+          "nescau",
           "zenn",
           "rn",
           "adren",
@@ -15561,8 +18663,8 @@ window.HBSTV_DATABASE = {
         "players": [
           "shelzz",
           "ryota",
-          "kscerato",
-          "kauan",
+          "scream",
+          "nescau",
           "zenn",
           "rn",
           "adren",
@@ -15617,19 +18719,31 @@ window.HBSTV_DATABASE = {
         "pentaesports"
       ],
       "roster": [],
-      "mvps": [],
-      "evps": [],
-      "sources": [
-        "top-1-teams-of-years"
+      "mvps": [
+        "scream"
       ],
-      "notes": [],
+      "evps": [
+        "realnoob",
+        "adren",
+        "trex999",
+        "zenn",
+        "shelzz"
+      ],
+      "sources": [
+        "top-1-teams-of-years",
+        "owner-confirmed"
+      ],
+      "notes": [
+        "Premiações individuais confirmadas pelo responsável pelo site."
+      ],
       "images": [],
+      "mvs": [],
       "rosterReference": {
         "players": [
           "shelzz",
           "ryota",
-          "kscerato",
-          "kauan",
+          "scream",
+          "nescau",
           "zenn",
           "rn",
           "adren",
@@ -15662,8 +18776,8 @@ window.HBSTV_DATABASE = {
         "players": [
           "shelzz",
           "ryota",
-          "kscerato",
-          "kauan",
+          "scream",
+          "nescau",
           "zenn",
           "rn",
           "adren",
@@ -15674,6 +18788,35 @@ window.HBSTV_DATABASE = {
         "source": "Elenco anual da equipe em 2020",
         "kind": "annual-team"
       }
+    },
+    {
+      "id": "2020:pnlpeninsulacup",
+      "title": "PNL | Peninsula Cup",
+      "year": 2020,
+      "organizer": "PNL",
+      "major": false,
+      "winners": [],
+      "roster": [],
+      "mvps": [
+        "ryota"
+      ],
+      "evps": [
+        "broky",
+        "zenn",
+        "jigsaw",
+        "conjure",
+        "shelzz"
+      ],
+      "sources": [
+        "owner-confirmed"
+      ],
+      "notes": [
+        "Premiações individuais confirmadas pelo responsável pelo site."
+      ],
+      "images": [],
+      "mvs": [
+        "conjure"
+      ]
     },
     {
       "id": "2020:suvohloftuscup",
@@ -15762,8 +18905,8 @@ window.HBSTV_DATABASE = {
         "players": [
           "shelzz",
           "ryota",
-          "kscerato",
-          "kauan",
+          "scream",
+          "nescau",
           "zenn",
           "rn",
           "adren",
@@ -15796,8 +18939,8 @@ window.HBSTV_DATABASE = {
         "players": [
           "shelzz",
           "ryota",
-          "kscerato",
-          "kauan",
+          "scream",
+          "nescau",
           "zenn",
           "rn",
           "adren",
@@ -15830,8 +18973,8 @@ window.HBSTV_DATABASE = {
         "players": [
           "shelzz",
           "ryota",
-          "kscerato",
-          "kauan",
+          "scream",
+          "nescau",
           "zenn",
           "rn",
           "adren",
@@ -17376,7 +20519,7 @@ window.HBSTV_DATABASE = {
       "titles": [
         {
           "id": "2020:acecup",
-          "title": "ACE Cup",
+          "title": "ACE | Cup Season 1",
           "year": 2020,
           "source": "top-1-teams-of-years",
           "major": false,
@@ -17403,7 +20546,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2020:lcbproleague",
-          "title": "LCB Pro League",
+          "title": "LCB | Pro League",
           "year": 2020,
           "source": "top-1-teams-of-years",
           "major": false,
@@ -17471,26 +20614,6 @@ window.HBSTV_DATABASE = {
         {
           "id": "fugly",
           "name": "FugLY",
-          "years": [
-            2020
-          ],
-          "sources": [
-            "top-1-teams-of-years"
-          ]
-        },
-        {
-          "id": "kauan",
-          "name": "Kauan",
-          "years": [
-            2020
-          ],
-          "sources": [
-            "top-1-teams-of-years"
-          ]
-        },
-        {
-          "id": "kscerato",
-          "name": "Kscerato",
           "years": [
             2020
           ],
@@ -19383,16 +22506,6 @@ window.HBSTV_DATABASE = {
           "sources": [
             "top-1-teams-of-years",
             "major-history"
-          ]
-        },
-        {
-          "id": "kscerato",
-          "name": "Kscerato",
-          "years": [
-            2021
-          ],
-          "sources": [
-            "top-1-teams-of-years"
           ]
         },
         {

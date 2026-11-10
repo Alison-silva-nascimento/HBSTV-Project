@@ -1082,26 +1082,6 @@ window.HBSTV_TEAMS = [
         ]
       },
       {
-        "id": "kauan",
-        "name": "Kauan",
-        "years": [
-          2020
-        ],
-        "sources": [
-          "top-1-teams-of-years"
-        ]
-      },
-      {
-        "id": "kscerato",
-        "name": "Kscerato",
-        "years": [
-          2020
-        ],
-        "sources": [
-          "top-1-teams-of-years"
-        ]
-      },
-      {
         "id": "nescau",
         "name": "Nescau",
         "years": [
@@ -2981,16 +2961,6 @@ window.HBSTV_TEAMS = [
         "sources": [
           "top-1-teams-of-years",
           "major-history"
-        ]
-      },
-      {
-        "id": "kscerato",
-        "name": "Kscerato",
-        "years": [
-          2021
-        ],
-        "sources": [
-          "top-1-teams-of-years"
         ]
       },
       {

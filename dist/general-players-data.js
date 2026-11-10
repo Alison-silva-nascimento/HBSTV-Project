@@ -37,7 +37,9 @@ window.HBSTV_PLAYER_INDEX = {
     "biond": "Biondi",
     "robertinha": "Michel",
     "misutaa": "misuuta",
-    "benzin": "BENZ1N"
+    "benzin": "BENZ1N",
+    "kauan": "Nescau",
+    "kscerato": "ScreaM"
   },
   "players": [
     {
@@ -2063,6 +2065,20 @@ window.HBSTV_PLAYER_INDEX = {
           "country": "BR"
         }
       ],
+      "awards": []
+    },
+    {
+      "id": "broky",
+      "name": "Broky",
+      "aliases": [
+        "Broky"
+      ],
+      "realNames": [],
+      "teams": [],
+      "titles": [],
+      "mvps": [],
+      "evps": [],
+      "rankings": [],
       "awards": []
     },
     {
@@ -5536,28 +5552,6 @@ window.HBSTV_PLAYER_INDEX = {
       "awards": []
     },
     {
-      "id": "kauan",
-      "name": "Kauan",
-      "aliases": [
-        "Kauan"
-      ],
-      "realNames": [],
-      "teams": [
-        {
-          "id": "pentaesports",
-          "name": "Penta E-sports",
-          "years": [
-            2020
-          ]
-        }
-      ],
-      "titles": [],
-      "mvps": [],
-      "evps": [],
-      "rankings": [],
-      "awards": []
-    },
-    {
       "id": "kento",
       "name": "kento",
       "aliases": [
@@ -5829,35 +5823,6 @@ window.HBSTV_PLAYER_INDEX = {
           "source": "awards"
         }
       ]
-    },
-    {
-      "id": "kscerato",
-      "name": "Kscerato",
-      "aliases": [
-        "Kscerato"
-      ],
-      "realNames": [],
-      "teams": [
-        {
-          "id": "teaminfinity",
-          "name": "Team Infinity",
-          "years": [
-            2021
-          ]
-        },
-        {
-          "id": "pentaesports",
-          "name": "Penta E-sports",
-          "years": [
-            2020
-          ]
-        }
-      ],
-      "titles": [],
-      "mvps": [],
-      "evps": [],
-      "rankings": [],
-      "awards": []
     },
     {
       "id": "kzl",
@@ -7304,9 +7269,12 @@ window.HBSTV_PLAYER_INDEX = {
       "id": "nescau",
       "name": "Nescau",
       "aliases": [
+        "Kauan",
         "Nescau"
       ],
-      "realNames": [],
+      "realNames": [
+        "Kauan"
+      ],
       "teams": [
         {
           "id": "pentaesports",
@@ -9110,6 +9078,34 @@ window.HBSTV_PLAYER_INDEX = {
       "awards": []
     },
     {
+      "id": "realnoob",
+      "name": "ReAL NOOB",
+      "aliases": [
+        "ReAL NOOB"
+      ],
+      "realNames": [],
+      "teams": [],
+      "titles": [],
+      "mvps": [],
+      "evps": [],
+      "rankings": [],
+      "awards": []
+    },
+    {
+      "id": "reidogame",
+      "name": "ReiDoGame",
+      "aliases": [
+        "ReiDoGame"
+      ],
+      "realNames": [],
+      "teams": [],
+      "titles": [],
+      "mvps": [],
+      "evps": [],
+      "rankings": [],
+      "awards": []
+    },
+    {
       "id": "rn",
       "name": "rN",
       "aliases": [
@@ -9960,6 +9956,7 @@ window.HBSTV_PLAYER_INDEX = {
       "name": "ScreaM",
       "aliases": [
         "ScreaM",
+        "Kscerato",
         "SCREAM"
       ],
       "realNames": [],
@@ -10207,6 +10204,20 @@ window.HBSTV_PLAYER_INDEX = {
           "source": "ak-de-ouro-awards"
         }
       ]
+    },
+    {
+      "id": "sharp1",
+      "name": "sharp1",
+      "aliases": [
+        "sharp1"
+      ],
+      "realNames": [],
+      "teams": [],
+      "titles": [],
+      "mvps": [],
+      "evps": [],
+      "rankings": [],
+      "awards": []
     },
     {
       "id": "shelzz",
@@ -11869,6 +11880,20 @@ window.HBSTV_PLAYER_INDEX = {
           "source": "events-2024"
         }
       ],
+      "rankings": [],
+      "awards": []
+    },
+    {
+      "id": "trex999",
+      "name": "Trex999",
+      "aliases": [
+        "Trex999"
+      ],
+      "realNames": [],
+      "teams": [],
+      "titles": [],
+      "mvps": [],
+      "evps": [],
       "rankings": [],
       "awards": []
     },

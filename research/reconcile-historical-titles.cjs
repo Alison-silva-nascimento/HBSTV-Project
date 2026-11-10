@@ -1,0 +1,70 @@
+const organizers = {
+  gz: 'GAMEZONE', gamezone: 'GAMEZONE', pns: 'PNL', pnl: 'PNL', bsg: 'BSG'
+};
+
+function normalizeTitle(title, year) {
+  const text = title.replace(/[Ⓜ🅼]\uFE0F?/gu, '').normalize('NFKC')
+    .normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
+  const match = text.trim().match(/^(.+?)\s*(?:\||\s+i\s+)\s*(.+)$/);
+  if (!match) return null;
+  const tag = match[1].replace(/[^a-z0-9]/g, '');
+  const organizer = organizers[tag] || match[1].trim().toUpperCase();
+  let name = match[2].replace(new RegExp('\\b' + year + '\\b', 'g'), '')
+    .replace(/[^a-z0-9]/g, '');
+  const variants = {
+    '2018:TSL': {cbbs: 'cbbs20'},
+    '2019:GSE': {majorextrememasters: 'brasilextrememastersmajor', extrememastersmajor: 'brasilextrememastersmajor',
+      tour2: 'tourii', tuesseason1: 'tuesseasonone', hardnessproleague: 'hplseason3'},
+    '2020:GSE': {tour3: 'tour', touriii: 'tour'},
+    '2020:TSL': {ronovatedgameleague: 'renovatedgameleague'},
+    '2020:ACE': {leaguecup: 'cupseason1', cup: 'cupseason1'},
+    '2020:MAWARE': {seasonone: 'season'},
+    '2021:GSE': {masters: 'mastersinverno', msters: 'mastersinverno'},
+    '2021:SUVOH': {majorcup: 'major'},
+    '2021:TSL': {majorcup: 'major', smack: 'smackcup'}
+  };
+  name = variants[year + ':' + organizer]?.[name] || name;
+  return { organizer, key: year + ':' + organizer + ':' + name };
+}
+
+module.exports = ({ archive, players, events, key }) => {
+  const eventByName = new Map();
+  for (const e of events.values()) {
+    const name = normalizeTitle(e.title, e.year);
+    if (!name) continue;
+    const candidates = eventByName.get(name.key) || [];
+    candidates.push(e);
+    eventByName.set(name.key, candidates);
+  }
+
+  for (const page of archive.pages.filter(page => /^hall-of-fame/.test(page.slug))) {
+    for (const section of page.sections) {
+      const heading = section.blocks.find(block => block.level === 4)?.text || '';
+      const nickname = heading.match(/(?:´´|“|")([^´”"]+)(?:´´|”|")/)?.[1];
+      const player = nickname && players.find(player => player.id === key(nickname));
+      if (!player) continue;
+      const text = section.blocks.filter(block => block.type === 'text').map(block => block.text).join('\n');
+      const list = text.split(/PRINCIPAIS T[ÍI]TULOS/i)[1] || '';
+      const titles = new Map((player.historicalTitles || []).map(title => [title.id, title]));
+      for (const match of list.matchAll(/🥇([^\n]+)/g)) {
+        const title = match[1].trim();
+        const year = Number(title.match(/20\d{2}/)?.[0]);
+        const name = year && normalizeTitle(title, year);
+        if (!name) continue;
+        const candidates = eventByName.get(name.key) || [];
+        const event = candidates.length === 1 ? candidates[0] : null;
+        // A title in the Hall of Fame can include a team member absent from the recorded lineup.
+        // If the lineup omits the player, require a matching season with the winning team.
+        if (event?.roster.length && !event.roster.includes(player.id)) {
+          const wasOnWinningTeam = player.teams.some(team =>
+            event.winners.includes(team.id) && team.years.includes(year));
+          if (!wasOnWinningTeam) continue;
+        }
+        const id = event?.id || 'hof:' + name.key;
+        titles.set(id, {id, title: event?.title || title, year, organizer: event?.organizer || name.organizer, source: page.slug});
+      }
+      player.historicalTitles = [...titles.values()];
+    }
+  }
+};
+
