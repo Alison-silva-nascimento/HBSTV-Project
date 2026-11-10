@@ -14071,6 +14071,13 @@ window.HBSTV_DATABASE = {
       "realNames": [],
       "teams": [
         {
+          "id": "vissionary",
+          "name": "Vissionary",
+          "years": [
+            2025
+          ]
+        },
+        {
           "id": "d2w",
           "name": "D2W",
           "years": [
@@ -14111,11 +14118,6 @@ window.HBSTV_DATABASE = {
           "years": [
             2017
           ]
-        },
-        {
-          "id": "vissionary",
-          "name": "Vissionary",
-          "years": []
         }
       ],
       "titles": [
@@ -14427,6 +14429,12 @@ window.HBSTV_DATABASE = {
         }
       ],
       "topFiveTeams": [
+        {
+          "teamId": "vissionary",
+          "name": "Vissionary",
+          "year": 2025,
+          "rank": 4
+        },
         {
           "teamId": "sdpinterlude",
           "name": "SDP Interlude",
@@ -26929,6 +26937,16 @@ window.HBSTV_DATABASE = {
           ]
         },
         {
+          "id": "shelzz",
+          "name": "ShelzZ",
+          "years": [
+            2025
+          ],
+          "sources": [
+            "Passagem pela VISS em 2025 confirmada pelo proprietário do site."
+          ]
+        },
+        {
           "id": "zdr",
           "name": "ZDR",
           "years": [
@@ -26996,14 +27014,6 @@ window.HBSTV_DATABASE = {
           ],
           "sources": [
             "events-2024"
-          ]
-        },
-        {
-          "id": "shelzz",
-          "name": "ShelzZ",
-          "years": [],
-          "sources": [
-            "Passagem confirmada pelo responsável pelo site. Temporada não informada."
           ]
         }
       ],

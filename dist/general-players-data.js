@@ -10354,6 +10354,13 @@ window.HBSTV_PLAYER_INDEX = {
       "realNames": [],
       "teams": [
         {
+          "id": "vissionary",
+          "name": "Vissionary",
+          "years": [
+            2025
+          ]
+        },
+        {
           "id": "d2w",
           "name": "D2W",
           "years": [
@@ -10394,11 +10401,6 @@ window.HBSTV_PLAYER_INDEX = {
           "years": [
             2017
           ]
-        },
-        {
-          "id": "vissionary",
-          "name": "Vissionary",
-          "years": []
         }
       ],
       "titles": [

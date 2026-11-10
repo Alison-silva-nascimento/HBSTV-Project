@@ -5275,6 +5275,16 @@ window.HBSTV_TEAMS = [
         ]
       },
       {
+        "id": "shelzz",
+        "name": "ShelzZ",
+        "years": [
+          2025
+        ],
+        "sources": [
+          "Passagem pela VISS em 2025 confirmada pelo proprietário do site."
+        ]
+      },
+      {
         "id": "zdr",
         "name": "ZDR",
         "years": [
@@ -5342,14 +5352,6 @@ window.HBSTV_TEAMS = [
         ],
         "sources": [
           "events-2024"
-        ]
-      },
-      {
-        "id": "shelzz",
-        "name": "ShelzZ",
-        "years": [],
-        "sources": [
-          "Passagem confirmada pelo responsável pelo site. Temporada não informada."
         ]
       }
     ],
