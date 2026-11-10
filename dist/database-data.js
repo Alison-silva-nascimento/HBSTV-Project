@@ -9956,7 +9956,15 @@ window.HBSTV_DATABASE = {
           "source": "owner-confirmed"
         }
       ],
-      "mvps": [],
+      "mvps": [
+        {
+          "id": "2017:tslmajorcup",
+          "title": "TSL | MAJOR CUP",
+          "year": 2017,
+          "major": false,
+          "source": "owner-confirmed"
+        }
+      ],
       "evps": [],
       "rankings": [
         {
@@ -19736,15 +19744,19 @@ window.HBSTV_DATABASE = {
         "sansey",
         "zenn"
       ],
-      "mvps": [],
+      "mvps": [
+        "over"
+      ],
       "evps": [],
       "sources": [
         "owner-confirmed"
       ],
       "notes": [
-        "A P4 foi a primeira equipe campeã da história do Block Strike, conforme confirmado pelo responsável pelo site."
+        "A P4 foi a primeira equipe campeã da história do Block Strike, conforme confirmado pelo responsável pelo site.",
+        "Premiações individuais confirmadas pelo responsável pelo site."
       ],
-      "images": []
+      "images": [],
+      "mvs": []
     }
   ],
   "teams": [
