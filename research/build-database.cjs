@@ -76,6 +76,22 @@ for (const p of index.players) for (const field of ['titles', 'mvps', 'evps', 'm
   p[field]?.sort((a,b) => b.year - a.year || a.title.localeCompare(b.title));
 }
 const list=[...events.values()].sort((a,b)=>b.year-a.year||a.title.localeCompare(b.title));for(const e of list)for(const id of [...e.roster,...e.mvps,...e.evps,...(e.mvs||[])])assert(index.players.some(p=>p.id===id),'Unresolved player '+id);
+const topFiveTeams = c.window.HBSTV_TEAMS.flatMap(team =>
+  team.rankings.filter(row => row.rank >= 1 && row.rank <= 5)
+    .map(row => ({team, year: row.year, rank: row.rank})));
+const playerRankings = {window:{}};
+vm.runInNewContext(fs.readFileSync('dist/player-rankings-data.js','utf8'), playerRankings);
+const taggedRankings = playerRankings.window.RANKS_PLAYER_RANKINGS;
+for (const player of index.players) {
+  player.topFiveTeams = topFiveTeams.filter(({team, year}) => {
+    if (player.teams.some(row => row.id === team.id && row.years.includes(year))) return true;
+    if (team.members.some(member => member.id === player.id && member.years.includes(year))) return true;
+    const tags = [team.name, ...team.aliases, ...team.searchAliases].map(norm);
+    return (taggedRankings[year] || []).some(row =>
+      row.team && key(row.name) === player.id && tags.includes(norm(row.team)));
+  }).map(({team, year, rank}) => ({teamId:team.id, name:team.name, year, rank}))
+    .sort((a,b) => b.year - a.year || a.rank - b.rank);
+}
 const data={schemaVersion:1,updated:'2026-11-03',players:index.players,aliases:index.aliases,events:list,teams:c.window.HBSTV_TEAMS.map(t=>({...t,aliases:[...new Set([...t.aliases,...t.searchAliases])]}))};
 assert.equal(new Set(data.players.map(p=>p.id)).size,data.players.length);assert.equal(new Set(list.map(e=>e.id)).size,list.length);
 fs.writeFileSync('dist/database-data.js','window.HBSTV_DATABASE = '+JSON.stringify(data,null,2)+';\n');console.log(JSON.stringify({canonicalPlayers:data.players.length,teams:data.teams.length,events:list.length}));

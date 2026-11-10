@@ -21,7 +21,8 @@ window.HBSTV_DATABASE = {
         }
       ],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "2good",
@@ -42,7 +43,8 @@ window.HBSTV_DATABASE = {
         }
       ],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "4i2o",
@@ -693,6 +695,62 @@ window.HBSTV_DATABASE = {
           "organizer": "BCN",
           "source": "hall-of-fame"
         }
+      ],
+      "topFiveTeams": [
+        {
+          "teamId": "exeteam",
+          "name": "EXE Team",
+          "year": 2025,
+          "rank": 2
+        },
+        {
+          "teamId": "vissionary",
+          "name": "Vissionary",
+          "year": 2025,
+          "rank": 4
+        },
+        {
+          "teamId": "miracle",
+          "name": "Miracle",
+          "year": 2024,
+          "rank": 1
+        },
+        {
+          "teamId": "vissionary",
+          "name": "Vissionary",
+          "year": 2024,
+          "rank": 4
+        },
+        {
+          "teamId": "controlz",
+          "name": "CONTROL Z",
+          "year": 2023,
+          "rank": 4
+        },
+        {
+          "teamId": "gt2021",
+          "name": "GT 2021",
+          "year": 2021,
+          "rank": 2
+        },
+        {
+          "teamId": "astralis",
+          "name": "ASTRALIS",
+          "year": 2020,
+          "rank": 3
+        },
+        {
+          "teamId": "razer",
+          "name": "RAZER",
+          "year": 2018,
+          "rank": 1
+        },
+        {
+          "teamId": "pir4tas",
+          "name": "PIR4TAS",
+          "year": 2017,
+          "rank": 2
+        }
       ]
     },
     {
@@ -856,6 +914,26 @@ window.HBSTV_DATABASE = {
           "organizer": "TSL",
           "source": "hall-of-fame-3"
         }
+      ],
+      "topFiveTeams": [
+        {
+          "teamId": "gt2021",
+          "name": "GT 2021",
+          "year": 2021,
+          "rank": 2
+        },
+        {
+          "teamId": "razer",
+          "name": "RAZER",
+          "year": 2018,
+          "rank": 1
+        },
+        {
+          "teamId": "pir4tas",
+          "name": "PIR4TAS",
+          "year": 2017,
+          "rank": 2
+        }
       ]
     },
     {
@@ -997,6 +1075,20 @@ window.HBSTV_DATABASE = {
           "organizer": "TSL",
           "source": "hall-of-fame"
         }
+      ],
+      "topFiveTeams": [
+        {
+          "teamId": "pentaesports",
+          "name": "PENTA eSports",
+          "year": 2020,
+          "rank": 1
+        },
+        {
+          "teamId": "gc2019",
+          "name": "Temp Stormy / GC 2019",
+          "year": 2019,
+          "rank": 1
+        }
       ]
     },
     {
@@ -1017,7 +1109,8 @@ window.HBSTV_DATABASE = {
           "country": "BR"
         }
       ],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "akashi",
@@ -1078,7 +1171,8 @@ window.HBSTV_DATABASE = {
         }
       ],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "alfa",
@@ -1138,7 +1232,15 @@ window.HBSTV_DATABASE = {
           "country": "BR"
         }
       ],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "gt2021",
+          "name": "GT 2021",
+          "year": 2021,
+          "rank": 2
+        }
+      ]
     },
     {
       "id": "almeida",
@@ -1204,7 +1306,15 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "iklegends",
+          "name": "IK",
+          "year": 2025,
+          "rank": 1
+        }
+      ]
     },
     {
       "id": "altair",
@@ -1259,7 +1369,21 @@ window.HBSTV_DATABASE = {
         }
       ],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "miracle",
+          "name": "Miracle",
+          "year": 2024,
+          "rank": 1
+        },
+        {
+          "teamId": "controlz",
+          "name": "CONTROL Z",
+          "year": 2023,
+          "rank": 4
+        }
+      ]
     },
     {
       "id": "alucard",
@@ -1299,7 +1423,8 @@ window.HBSTV_DATABASE = {
         }
       ],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "amber",
@@ -1385,7 +1510,21 @@ window.HBSTV_DATABASE = {
         }
       ],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "vissionary",
+          "name": "Vissionary",
+          "year": 2024,
+          "rank": 4
+        },
+        {
+          "teamId": "fenix",
+          "name": "FENIX",
+          "year": 2024,
+          "rank": 5
+        }
+      ]
     },
     {
       "id": "amz",
@@ -1593,6 +1732,26 @@ window.HBSTV_DATABASE = {
           "organizer": "XMS",
           "source": "hall-of-fame"
         }
+      ],
+      "topFiveTeams": [
+        {
+          "teamId": "gc2019",
+          "name": "Temp Stormy / GC 2019",
+          "year": 2019,
+          "rank": 1
+        },
+        {
+          "teamId": "gc2018",
+          "name": "GC 2018",
+          "year": 2018,
+          "rank": 3
+        },
+        {
+          "teamId": "shadowwarrior",
+          "name": "SHADOW WARRIOR",
+          "year": 2017,
+          "rank": 1
+        }
       ]
     },
     {
@@ -1625,7 +1784,15 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "fenix",
+          "name": "FENIX",
+          "year": 2024,
+          "rank": 5
+        }
+      ]
     },
     {
       "id": "ancelita",
@@ -1646,7 +1813,8 @@ window.HBSTV_DATABASE = {
         }
       ],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "andr3",
@@ -1666,7 +1834,8 @@ window.HBSTV_DATABASE = {
           "country": "BR"
         }
       ],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "anxiety",
@@ -1698,7 +1867,8 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "arthur14o",
@@ -1737,7 +1907,15 @@ window.HBSTV_DATABASE = {
           "country": "BR"
         }
       ],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "astralis",
+          "name": "ASTRALIS",
+          "year": 2020,
+          "rank": 3
+        }
+      ]
     },
     {
       "id": "aspen",
@@ -1776,7 +1954,8 @@ window.HBSTV_DATABASE = {
         }
       ],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "astro",
@@ -1826,7 +2005,21 @@ window.HBSTV_DATABASE = {
           "country": "BR"
         }
       ],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "stompatopteam",
+          "name": "STOMPA TOP TEAM",
+          "year": 2018,
+          "rank": 4
+        },
+        {
+          "teamId": "shadowwarrior",
+          "name": "SHADOW WARRIOR",
+          "year": 2017,
+          "rank": 1
+        }
+      ]
     },
     {
       "id": "atlair",
@@ -1858,7 +2051,8 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "balboa",
@@ -1890,7 +2084,15 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "astralis",
+          "name": "ASTRALIS",
+          "year": 2020,
+          "rank": 3
+        }
+      ]
     },
     {
       "id": "bale",
@@ -1918,7 +2120,15 @@ window.HBSTV_DATABASE = {
           "country": "BR"
         }
       ],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "vanx",
+          "name": "VANX",
+          "year": 2020,
+          "rank": 2
+        }
+      ]
     },
     {
       "id": "bee",
@@ -1951,7 +2161,15 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "chaos",
+          "name": "Chaos",
+          "year": 2023,
+          "rank": 1
+        }
+      ]
     },
     {
       "id": "benji",
@@ -2025,7 +2243,27 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "exeteam",
+          "name": "EXE Team",
+          "year": 2025,
+          "rank": 2
+        },
+        {
+          "teamId": "vissionary",
+          "name": "Vissionary",
+          "year": 2024,
+          "rank": 4
+        },
+        {
+          "teamId": "svicious",
+          "name": "Svicious",
+          "year": 2023,
+          "rank": 3
+        }
+      ]
     },
     {
       "id": "benz1n",
@@ -2053,7 +2291,8 @@ window.HBSTV_DATABASE = {
         }
       ],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "bezdarnost",
@@ -2130,7 +2369,15 @@ window.HBSTV_DATABASE = {
           "country": "KZ"
         }
       ],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "exeteam",
+          "name": "EXE Team",
+          "year": 2025,
+          "rank": 2
+        }
+      ]
     },
     {
       "id": "biondi",
@@ -2168,7 +2415,21 @@ window.HBSTV_DATABASE = {
           "country": "BR"
         }
       ],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "stompatopteam",
+          "name": "STOMPA TOP TEAM",
+          "year": 2018,
+          "rank": 4
+        },
+        {
+          "teamId": "shadowwarrior",
+          "name": "SHADOW WARRIOR",
+          "year": 2017,
+          "rank": 1
+        }
+      ]
     },
     {
       "id": "bleedingeye",
@@ -2189,7 +2450,8 @@ window.HBSTV_DATABASE = {
         }
       ],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "blondi",
@@ -2211,7 +2473,15 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "shadowwarrior",
+          "name": "SHADOW WARRIOR",
+          "year": 2017,
+          "rank": 1
+        }
+      ]
     },
     {
       "id": "bobstars",
@@ -2243,7 +2513,8 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "bondrewd",
@@ -2282,7 +2553,15 @@ window.HBSTV_DATABASE = {
         }
       ],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "svicious",
+          "name": "Svicious",
+          "year": 2023,
+          "rank": 3
+        }
+      ]
     },
     {
       "id": "bonjour",
@@ -2386,7 +2665,21 @@ window.HBSTV_DATABASE = {
         }
       ],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "miracle",
+          "name": "Miracle",
+          "year": 2024,
+          "rank": 1
+        },
+        {
+          "teamId": "controlz",
+          "name": "CONTROL Z",
+          "year": 2023,
+          "rank": 4
+        }
+      ]
     },
     {
       "id": "brizado",
@@ -2588,6 +2881,26 @@ window.HBSTV_DATABASE = {
           "organizer": "BCN",
           "source": "hall-of-fame-3"
         }
+      ],
+      "topFiveTeams": [
+        {
+          "teamId": "iklegends",
+          "name": "IK",
+          "year": 2025,
+          "rank": 1
+        },
+        {
+          "teamId": "gc2018",
+          "name": "GC 2018",
+          "year": 2018,
+          "rank": 3
+        },
+        {
+          "teamId": "shadowwarrior",
+          "name": "SHADOW WARRIOR",
+          "year": 2017,
+          "rank": 1
+        }
       ]
     },
     {
@@ -2610,7 +2923,8 @@ window.HBSTV_DATABASE = {
         }
       ],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "bronkz",
@@ -2649,7 +2963,21 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "aura",
+          "name": "AURA",
+          "year": 2024,
+          "rank": 3
+        },
+        {
+          "teamId": "chaos",
+          "name": "Chaos",
+          "year": 2023,
+          "rank": 1
+        }
+      ]
     },
     {
       "id": "conjure",
@@ -3063,6 +3391,38 @@ window.HBSTV_DATABASE = {
           "organizer": "LCS",
           "source": "hall-of-fame"
         }
+      ],
+      "topFiveTeams": [
+        {
+          "teamId": "iklegends",
+          "name": "IK",
+          "year": 2025,
+          "rank": 1
+        },
+        {
+          "teamId": "sdpinterlude",
+          "name": "SDP Interlude",
+          "year": 2025,
+          "rank": 3
+        },
+        {
+          "teamId": "sdpinterlude",
+          "name": "SDP Interlude",
+          "year": 2024,
+          "rank": 2
+        },
+        {
+          "teamId": "teaminfinity",
+          "name": "Team Infinity",
+          "year": 2021,
+          "rank": 1
+        },
+        {
+          "teamId": "pentaesports",
+          "name": "PENTA eSports",
+          "year": 2020,
+          "rank": 1
+        }
       ]
     },
     {
@@ -3095,7 +3455,15 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "razer",
+          "name": "RAZER",
+          "year": 2018,
+          "rank": 1
+        }
+      ]
     },
     {
       "id": "cauajr",
@@ -3117,7 +3485,15 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "chaos",
+          "name": "Chaos",
+          "year": 2023,
+          "rank": 1
+        }
+      ]
     },
     {
       "id": "chave",
@@ -3137,7 +3513,15 @@ window.HBSTV_DATABASE = {
           "country": "BR"
         }
       ],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "shadowwarrior",
+          "name": "SHADOW WARRIOR",
+          "year": 2017,
+          "rank": 1
+        }
+      ]
     },
     {
       "id": "cheaprain",
@@ -3259,7 +3643,27 @@ window.HBSTV_DATABASE = {
           "country": "BR"
         }
       ],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "iklegends",
+          "name": "IK",
+          "year": 2025,
+          "rank": 1
+        },
+        {
+          "teamId": "sdpinterlude",
+          "name": "SDP Interlude",
+          "year": 2025,
+          "rank": 3
+        },
+        {
+          "teamId": "fenix",
+          "name": "FENIX",
+          "year": 2024,
+          "rank": 5
+        }
+      ]
     },
     {
       "id": "cookie",
@@ -3290,7 +3694,8 @@ window.HBSTV_DATABASE = {
           "sourceImage": "assets/archive/98dbd927447979b7c66e.png",
           "source": "ak-de-ouro-awards"
         }
-      ]
+      ],
+      "topFiveTeams": []
     },
     {
       "id": "covisk",
@@ -3329,7 +3734,15 @@ window.HBSTV_DATABASE = {
         }
       ],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "fenix",
+          "name": "FENIX",
+          "year": 2024,
+          "rank": 5
+        }
+      ]
     },
     {
       "id": "crash",
@@ -3357,7 +3770,15 @@ window.HBSTV_DATABASE = {
           "country": "BR"
         }
       ],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "shadowwarrior",
+          "name": "SHADOW WARRIOR",
+          "year": 2017,
+          "rank": 1
+        }
+      ]
     },
     {
       "id": "darc",
@@ -3389,7 +3810,15 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "fenix",
+          "name": "FENIX",
+          "year": 2024,
+          "rank": 5
+        }
+      ]
     },
     {
       "id": "dark",
@@ -3411,7 +3840,15 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "chaos",
+          "name": "Chaos",
+          "year": 2023,
+          "rank": 1
+        }
+      ]
     },
     {
       "id": "dede",
@@ -3431,7 +3868,15 @@ window.HBSTV_DATABASE = {
           "country": "BR"
         }
       ],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "ae",
+          "name": "AE",
+          "year": 2017,
+          "rank": 4
+        }
+      ]
     },
     {
       "id": "demzo",
@@ -3472,7 +3917,8 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "doctor",
@@ -3495,7 +3941,8 @@ window.HBSTV_DATABASE = {
         }
       ],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "doge",
@@ -3516,7 +3963,8 @@ window.HBSTV_DATABASE = {
         }
       ],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "dollyn",
@@ -3572,7 +4020,21 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "vissionary",
+          "name": "Vissionary",
+          "year": 2025,
+          "rank": 4
+        },
+        {
+          "teamId": "miracle",
+          "name": "Miracle",
+          "year": 2024,
+          "rank": 1
+        }
+      ]
     },
     {
       "id": "dontletmebe",
@@ -3593,7 +4055,8 @@ window.HBSTV_DATABASE = {
         }
       ],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "dontletmebee",
@@ -3658,7 +4121,8 @@ window.HBSTV_DATABASE = {
         }
       ],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "doria",
@@ -3715,7 +4179,21 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "sdpinterlude",
+          "name": "SDP Interlude",
+          "year": 2024,
+          "rank": 2
+        },
+        {
+          "teamId": "gt2023",
+          "name": "GT 2023",
+          "year": 2023,
+          "rank": 2
+        }
+      ]
     },
     {
       "id": "downbad",
@@ -3744,7 +4222,8 @@ window.HBSTV_DATABASE = {
         }
       ],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "dripwave",
@@ -3765,7 +4244,8 @@ window.HBSTV_DATABASE = {
         }
       ],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "duckheadzz",
@@ -3795,7 +4275,8 @@ window.HBSTV_DATABASE = {
           "sourceImage": "assets/archive/127015a4498591f58c89.png",
           "source": "ak-de-ouro-awards"
         }
-      ]
+      ],
+      "topFiveTeams": []
     },
     {
       "id": "emorces",
@@ -3816,7 +4297,8 @@ window.HBSTV_DATABASE = {
         }
       ],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "enfer",
@@ -3864,7 +4346,15 @@ window.HBSTV_DATABASE = {
           "country": "BR"
         }
       ],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "astralis",
+          "name": "ASTRALIS",
+          "year": 2020,
+          "rank": 3
+        }
+      ]
     },
     {
       "id": "enqladee",
@@ -3896,7 +4386,8 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "exotic",
@@ -3944,7 +4435,15 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "controlz",
+          "name": "CONTROL Z",
+          "year": 2023,
+          "rank": 4
+        }
+      ]
     },
     {
       "id": "ez4raizee",
@@ -3967,7 +4466,8 @@ window.HBSTV_DATABASE = {
         }
       ],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "ezeq",
@@ -4101,6 +4601,20 @@ window.HBSTV_DATABASE = {
           "organizer": "WHL",
           "source": "hall-of-fame-3"
         }
+      ],
+      "topFiveTeams": [
+        {
+          "teamId": "gt2023",
+          "name": "GT 2023",
+          "year": 2023,
+          "rank": 2
+        },
+        {
+          "teamId": "gt2021",
+          "name": "GT 2021",
+          "year": 2021,
+          "rank": 2
+        }
       ]
     },
     {
@@ -4142,7 +4656,15 @@ window.HBSTV_DATABASE = {
           "country": "BR"
         }
       ],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "razer",
+          "name": "RAZER",
+          "year": 2018,
+          "rank": 1
+        }
+      ]
     },
     {
       "id": "feeh",
@@ -4181,7 +4703,15 @@ window.HBSTV_DATABASE = {
           "country": "BR"
         }
       ],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "gc2019",
+          "name": "Temp Stormy / GC 2019",
+          "year": 2019,
+          "rank": 1
+        }
+      ]
     },
     {
       "id": "felps",
@@ -4234,7 +4764,15 @@ window.HBSTV_DATABASE = {
           "country": "BR"
         }
       ],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "gc2018",
+          "name": "GC 2018",
+          "year": 2018,
+          "rank": 3
+        }
+      ]
     },
     {
       "id": "finland",
@@ -4254,7 +4792,8 @@ window.HBSTV_DATABASE = {
           "country": "BR"
         }
       ],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "flamez",
@@ -4286,7 +4825,15 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "miracle",
+          "name": "Miracle",
+          "year": 2024,
+          "rank": 1
+        }
+      ]
     },
     {
       "id": "fnx",
@@ -4463,6 +5010,20 @@ window.HBSTV_DATABASE = {
           "organizer": "BCN",
           "source": "hall-of-fame-3"
         }
+      ],
+      "topFiveTeams": [
+        {
+          "teamId": "aura",
+          "name": "AURA",
+          "year": 2024,
+          "rank": 3
+        },
+        {
+          "teamId": "chaos",
+          "name": "Chaos",
+          "year": 2023,
+          "rank": 1
+        }
       ]
     },
     {
@@ -4483,7 +5044,8 @@ window.HBSTV_DATABASE = {
           "country": "BR"
         }
       ],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "fooxy",
@@ -4518,7 +5080,8 @@ window.HBSTV_DATABASE = {
           "country": "BR"
         }
       ],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "force",
@@ -4570,7 +5133,15 @@ window.HBSTV_DATABASE = {
           "country": "BR"
         }
       ],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "vanx",
+          "name": "VANX",
+          "year": 2020,
+          "rank": 2
+        }
+      ]
     },
     {
       "id": "friday",
@@ -4591,7 +5162,8 @@ window.HBSTV_DATABASE = {
         }
       ],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "fugly",
@@ -4750,6 +5322,20 @@ window.HBSTV_DATABASE = {
           "organizer": "LCB",
           "source": "hall-of-fame"
         }
+      ],
+      "topFiveTeams": [
+        {
+          "teamId": "teaminfinity",
+          "name": "Team Infinity",
+          "year": 2021,
+          "rank": 1
+        },
+        {
+          "teamId": "pentaesports",
+          "name": "PENTA eSports",
+          "year": 2020,
+          "rank": 1
+        }
       ]
     },
     {
@@ -4771,7 +5357,8 @@ window.HBSTV_DATABASE = {
         }
       ],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "fway",
@@ -4865,6 +5452,20 @@ window.HBSTV_DATABASE = {
           "series": "RANK S Awards",
           "sourceImage": "assets/archive/6d32fa4313e54376ba8a.jpg",
           "source": "awards"
+        }
+      ],
+      "topFiveTeams": [
+        {
+          "teamId": "sdpinterlude",
+          "name": "SDP Interlude",
+          "year": 2024,
+          "rank": 2
+        },
+        {
+          "teamId": "aura",
+          "name": "AURA",
+          "year": 2024,
+          "rank": 3
         }
       ]
     },
@@ -5084,6 +5685,26 @@ window.HBSTV_DATABASE = {
           "organizer": "BCN",
           "source": "hall-of-fame-3"
         }
+      ],
+      "topFiveTeams": [
+        {
+          "teamId": "iklegends",
+          "name": "IK",
+          "year": 2025,
+          "rank": 1
+        },
+        {
+          "teamId": "sdpinterlude",
+          "name": "SDP Interlude",
+          "year": 2025,
+          "rank": 3
+        },
+        {
+          "teamId": "sdpinterlude",
+          "name": "SDP Interlude",
+          "year": 2024,
+          "rank": 2
+        }
       ]
     },
     {
@@ -5129,7 +5750,21 @@ window.HBSTV_DATABASE = {
           "country": "BR"
         }
       ],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "stompatopteam",
+          "name": "STOMPA TOP TEAM",
+          "year": 2018,
+          "rank": 4
+        },
+        {
+          "teamId": "shadowwarrior",
+          "name": "SHADOW WARRIOR",
+          "year": 2017,
+          "rank": 1
+        }
+      ]
     },
     {
       "id": "ghost",
@@ -5171,7 +5806,21 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "sdpinterlude",
+          "name": "SDP Interlude",
+          "year": 2025,
+          "rank": 3
+        },
+        {
+          "teamId": "sdpinterlude",
+          "name": "SDP Interlude",
+          "year": 2024,
+          "rank": 2
+        }
+      ]
     },
     {
       "id": "gooselp",
@@ -5193,7 +5842,15 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "shadowwarrior",
+          "name": "SHADOW WARRIOR",
+          "year": 2017,
+          "rank": 1
+        }
+      ]
     },
     {
       "id": "hope",
@@ -5297,7 +5954,21 @@ window.HBSTV_DATABASE = {
           "country": "BR"
         }
       ],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "vissionary",
+          "name": "Vissionary",
+          "year": 2025,
+          "rank": 4
+        },
+        {
+          "teamId": "vissionary",
+          "name": "Vissionary",
+          "year": 2024,
+          "rank": 4
+        }
+      ]
     },
     {
       "id": "h1o",
@@ -5371,7 +6042,15 @@ window.HBSTV_DATABASE = {
           "country": "BR"
         }
       ],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "fenix",
+          "name": "FENIX",
+          "year": 2024,
+          "rank": 5
+        }
+      ]
     },
     {
       "id": "hardzera",
@@ -5641,6 +6320,20 @@ window.HBSTV_DATABASE = {
           "organizer": "BCN",
           "source": "hall-of-fame"
         }
+      ],
+      "topFiveTeams": [
+        {
+          "teamId": "iklegends",
+          "name": "IK",
+          "year": 2025,
+          "rank": 1
+        },
+        {
+          "teamId": "stompatopteam",
+          "name": "STOMPA TOP TEAM",
+          "year": 2018,
+          "rank": 4
+        }
       ]
     },
     {
@@ -5895,6 +6588,26 @@ window.HBSTV_DATABASE = {
           "organizer": "XMS",
           "source": "hall-of-fame"
         }
+      ],
+      "topFiveTeams": [
+        {
+          "teamId": "iklegends",
+          "name": "IK",
+          "year": 2025,
+          "rank": 1
+        },
+        {
+          "teamId": "gt2023",
+          "name": "GT 2023",
+          "year": 2023,
+          "rank": 2
+        },
+        {
+          "teamId": "teaminfinity",
+          "name": "Team Infinity",
+          "year": 2021,
+          "rank": 1
+        }
       ]
     },
     {
@@ -5916,7 +6629,8 @@ window.HBSTV_DATABASE = {
         }
       ],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "hitlerzinho",
@@ -5939,7 +6653,8 @@ window.HBSTV_DATABASE = {
         }
       ],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "inovate",
@@ -6009,7 +6724,15 @@ window.HBSTV_DATABASE = {
           "country": "BR"
         }
       ],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "teaminfinity",
+          "name": "Team Infinity",
+          "year": 2021,
+          "rank": 1
+        }
+      ]
     },
     {
       "id": "insani",
@@ -6372,6 +7095,32 @@ window.HBSTV_DATABASE = {
           "organizer": "LCS",
           "source": "hall-of-fame"
         }
+      ],
+      "topFiveTeams": [
+        {
+          "teamId": "iklegends",
+          "name": "IK",
+          "year": 2025,
+          "rank": 1
+        },
+        {
+          "teamId": "sdpinterlude",
+          "name": "SDP Interlude",
+          "year": 2025,
+          "rank": 3
+        },
+        {
+          "teamId": "vissionary",
+          "name": "Vissionary",
+          "year": 2024,
+          "rank": 4
+        },
+        {
+          "teamId": "fenix",
+          "name": "FENIX",
+          "year": 2024,
+          "rank": 5
+        }
       ]
     },
     {
@@ -6526,6 +7275,32 @@ window.HBSTV_DATABASE = {
           "sourceImage": "assets/archive/26fba3f9ca3cc0c8c968.png",
           "source": "awards"
         }
+      ],
+      "topFiveTeams": [
+        {
+          "teamId": "iklegends",
+          "name": "IK",
+          "year": 2025,
+          "rank": 1
+        },
+        {
+          "teamId": "exeteam",
+          "name": "EXE Team",
+          "year": 2025,
+          "rank": 2
+        },
+        {
+          "teamId": "vissionary",
+          "name": "Vissionary",
+          "year": 2024,
+          "rank": 4
+        },
+        {
+          "teamId": "svicious",
+          "name": "Svicious",
+          "year": 2023,
+          "rank": 3
+        }
       ]
     },
     {
@@ -6547,7 +7322,8 @@ window.HBSTV_DATABASE = {
         }
       ],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "jeff",
@@ -6598,7 +7374,15 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "iklegends",
+          "name": "IK",
+          "year": 2025,
+          "rank": 1
+        }
+      ]
     },
     {
       "id": "jest",
@@ -6655,7 +7439,15 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "exeteam",
+          "name": "EXE Team",
+          "year": 2025,
+          "rank": 2
+        }
+      ]
     },
     {
       "id": "jhou",
@@ -6717,7 +7509,21 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "sdpinterlude",
+          "name": "SDP Interlude",
+          "year": 2025,
+          "rank": 3
+        },
+        {
+          "teamId": "sdpinterlude",
+          "name": "SDP Interlude",
+          "year": 2024,
+          "rank": 2
+        }
+      ]
     },
     {
       "id": "jhow",
@@ -6756,7 +7562,21 @@ window.HBSTV_DATABASE = {
           "country": "BR"
         }
       ],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "gc2019",
+          "name": "Temp Stormy / GC 2019",
+          "year": 2019,
+          "rank": 1
+        },
+        {
+          "teamId": "real",
+          "name": "REAL",
+          "year": 2017,
+          "rank": 3
+        }
+      ]
     },
     {
       "id": "jigsaw",
@@ -6830,7 +7650,21 @@ window.HBSTV_DATABASE = {
           "country": "BR"
         }
       ],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "vissionary",
+          "name": "Vissionary",
+          "year": 2025,
+          "rank": 4
+        },
+        {
+          "teamId": "vissionary",
+          "name": "Vissionary",
+          "year": 2024,
+          "rank": 4
+        }
+      ]
     },
     {
       "id": "jrg",
@@ -6850,7 +7684,15 @@ window.HBSTV_DATABASE = {
           "country": "BR"
         }
       ],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "pir4tas",
+          "name": "PIR4TAS",
+          "year": 2017,
+          "rank": 2
+        }
+      ]
     },
     {
       "id": "kento",
@@ -6882,7 +7724,8 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "kmblack",
@@ -6929,7 +7772,8 @@ window.HBSTV_DATABASE = {
           "sourceImage": "assets/archive/98dbd927447979b7c66e.png",
           "source": "ak-de-ouro-awards"
         }
-      ]
+      ],
+      "topFiveTeams": []
     },
     {
       "id": "kmx",
@@ -7016,6 +7860,20 @@ window.HBSTV_DATABASE = {
           "sourceImage": "assets/archive/e12f2df5e15de175cc64.jpeg",
           "source": "awards"
         }
+      ],
+      "topFiveTeams": [
+        {
+          "teamId": "aura",
+          "name": "AURA",
+          "year": 2024,
+          "rank": 3
+        },
+        {
+          "teamId": "chaos",
+          "name": "Chaos",
+          "year": 2023,
+          "rank": 1
+        }
       ]
     },
     {
@@ -7049,7 +7907,15 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "razer",
+          "name": "RAZER",
+          "year": 2018,
+          "rank": 1
+        }
+      ]
     },
     {
       "id": "krein",
@@ -7123,6 +7989,14 @@ window.HBSTV_DATABASE = {
           "sourceImage": null,
           "source": "awards"
         }
+      ],
+      "topFiveTeams": [
+        {
+          "teamId": "svicious",
+          "name": "Svicious",
+          "year": 2023,
+          "rank": 3
+        }
       ]
     },
     {
@@ -7155,7 +8029,8 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "kzr",
@@ -7176,7 +8051,8 @@ window.HBSTV_DATABASE = {
         }
       ],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "lako",
@@ -7217,7 +8093,15 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "gt2023",
+          "name": "GT 2023",
+          "year": 2023,
+          "rank": 2
+        }
+      ]
     },
     {
       "id": "ler1x",
@@ -7238,7 +8122,8 @@ window.HBSTV_DATABASE = {
         }
       ],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "link",
@@ -7261,7 +8146,8 @@ window.HBSTV_DATABASE = {
         }
       ],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "locas",
@@ -7293,7 +8179,15 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "svicious",
+          "name": "Svicious",
+          "year": 2023,
+          "rank": 3
+        }
+      ]
     },
     {
       "id": "london",
@@ -7340,7 +8234,8 @@ window.HBSTV_DATABASE = {
         }
       ],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "lordce",
@@ -7363,7 +8258,8 @@ window.HBSTV_DATABASE = {
         }
       ],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "lucky",
@@ -7510,7 +8406,39 @@ window.HBSTV_DATABASE = {
           "country": "BR"
         }
       ],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "iklegends",
+          "name": "IK",
+          "year": 2025,
+          "rank": 1
+        },
+        {
+          "teamId": "sdpinterlude",
+          "name": "SDP Interlude",
+          "year": 2025,
+          "rank": 3
+        },
+        {
+          "teamId": "vissionary",
+          "name": "Vissionary",
+          "year": 2025,
+          "rank": 4
+        },
+        {
+          "teamId": "sdpinterlude",
+          "name": "SDP Interlude",
+          "year": 2024,
+          "rank": 2
+        },
+        {
+          "teamId": "fenix",
+          "name": "FENIX",
+          "year": 2024,
+          "rank": 5
+        }
+      ]
     },
     {
       "id": "madara",
@@ -7531,7 +8459,8 @@ window.HBSTV_DATABASE = {
         }
       ],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "mainya",
@@ -7563,7 +8492,15 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "svicious",
+          "name": "Svicious",
+          "year": 2023,
+          "rank": 3
+        }
+      ]
     },
     {
       "id": "marvywn",
@@ -7723,6 +8660,20 @@ window.HBSTV_DATABASE = {
           "sourceImage": "assets/archive/aa51b4266238066c7bd8.png",
           "source": "awards"
         }
+      ],
+      "topFiveTeams": [
+        {
+          "teamId": "iklegends",
+          "name": "IK",
+          "year": 2025,
+          "rank": 1
+        },
+        {
+          "teamId": "vissionary",
+          "name": "Vissionary",
+          "year": 2025,
+          "rank": 4
+        }
       ]
     },
     {
@@ -7763,7 +8714,8 @@ window.HBSTV_DATABASE = {
           "sourceImage": "assets/archive/127015a4498591f58c89.png",
           "source": "ak-de-ouro-awards"
         }
-      ]
+      ],
+      "topFiveTeams": []
     },
     {
       "id": "metro",
@@ -7784,7 +8736,8 @@ window.HBSTV_DATABASE = {
         }
       ],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "michel",
@@ -7817,7 +8770,15 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "sdpinterlude",
+          "name": "SDP Interlude",
+          "year": 2024,
+          "rank": 2
+        }
+      ]
     },
     {
       "id": "michi",
@@ -7839,7 +8800,8 @@ window.HBSTV_DATABASE = {
         }
       ],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "micho",
@@ -7862,7 +8824,8 @@ window.HBSTV_DATABASE = {
       ],
       "evps": [],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "mirezz",
@@ -7934,7 +8897,8 @@ window.HBSTV_DATABASE = {
           "country": "UA"
         }
       ],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "mistery",
@@ -7983,7 +8947,8 @@ window.HBSTV_DATABASE = {
         }
       ],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "misuuta",
@@ -8286,6 +9251,32 @@ window.HBSTV_DATABASE = {
           "organizer": "BCN",
           "source": "hall-of-fame-3"
         }
+      ],
+      "topFiveTeams": [
+        {
+          "teamId": "iklegends",
+          "name": "IK",
+          "year": 2025,
+          "rank": 1
+        },
+        {
+          "teamId": "sdpinterlude",
+          "name": "SDP Interlude",
+          "year": 2025,
+          "rank": 3
+        },
+        {
+          "teamId": "sdpinterlude",
+          "name": "SDP Interlude",
+          "year": 2024,
+          "rank": 2
+        },
+        {
+          "teamId": "gt2023",
+          "name": "GT 2023",
+          "year": 2023,
+          "rank": 2
+        }
       ]
     },
     {
@@ -8318,7 +9309,8 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "monster",
@@ -8338,7 +9330,15 @@ window.HBSTV_DATABASE = {
           "country": "BR"
         }
       ],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "real",
+          "name": "REAL",
+          "year": 2017,
+          "rank": 3
+        }
+      ]
     },
     {
       "id": "movingon",
@@ -8408,7 +9408,8 @@ window.HBSTV_DATABASE = {
         }
       ],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "mts",
@@ -8465,7 +9466,8 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "muiakotuk",
@@ -8515,7 +9517,8 @@ window.HBSTV_DATABASE = {
         }
       ],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "mullla",
@@ -8547,7 +9550,8 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "nathan",
@@ -8567,7 +9571,15 @@ window.HBSTV_DATABASE = {
           "country": "BR"
         }
       ],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "pir4tas",
+          "name": "PIR4TAS",
+          "year": 2017,
+          "rank": 2
+        }
+      ]
     },
     {
       "id": "neguin",
@@ -8634,7 +9646,15 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "iklegends",
+          "name": "IK",
+          "year": 2025,
+          "rank": 1
+        }
+      ]
     },
     {
       "id": "nekiz",
@@ -8666,7 +9686,8 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "nescau",
@@ -8765,6 +9786,20 @@ window.HBSTV_DATABASE = {
           "year": 2020,
           "team": "PENTA eSports"
         }
+      ],
+      "topFiveTeams": [
+        {
+          "teamId": "teaminfinity",
+          "name": "Team Infinity",
+          "year": 2021,
+          "rank": 1
+        },
+        {
+          "teamId": "pentaesports",
+          "name": "PENTA eSports",
+          "year": 2020,
+          "rank": 1
+        }
       ]
     },
     {
@@ -8797,7 +9832,15 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "gc2019",
+          "name": "Temp Stormy / GC 2019",
+          "year": 2019,
+          "rank": 1
+        }
+      ]
     },
     {
       "id": "nezhno",
@@ -8818,7 +9861,8 @@ window.HBSTV_DATABASE = {
         }
       ],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "nifty",
@@ -8841,7 +9885,8 @@ window.HBSTV_DATABASE = {
         }
       ],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "niko",
@@ -9317,6 +10362,50 @@ window.HBSTV_DATABASE = {
           "organizer": "LCS",
           "source": "hall-of-fame"
         }
+      ],
+      "topFiveTeams": [
+        {
+          "teamId": "iklegends",
+          "name": "IK",
+          "year": 2025,
+          "rank": 1
+        },
+        {
+          "teamId": "sdpinterlude",
+          "name": "SDP Interlude",
+          "year": 2025,
+          "rank": 3
+        },
+        {
+          "teamId": "miracle",
+          "name": "Miracle",
+          "year": 2024,
+          "rank": 1
+        },
+        {
+          "teamId": "sdpinterlude",
+          "name": "SDP Interlude",
+          "year": 2024,
+          "rank": 2
+        },
+        {
+          "teamId": "gt2023",
+          "name": "GT 2023",
+          "year": 2023,
+          "rank": 2
+        },
+        {
+          "teamId": "controlz",
+          "name": "CONTROL Z",
+          "year": 2023,
+          "rank": 4
+        },
+        {
+          "teamId": "gt2021",
+          "name": "GT 2021",
+          "year": 2021,
+          "rank": 2
+        }
       ]
     },
     {
@@ -9340,7 +10429,8 @@ window.HBSTV_DATABASE = {
         }
       ],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "noneedsound",
@@ -9372,7 +10462,8 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "noon",
@@ -9422,7 +10513,15 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "chaos",
+          "name": "Chaos",
+          "year": 2023,
+          "rank": 1
+        }
+      ]
     },
     {
       "id": "noway",
@@ -9477,7 +10576,15 @@ window.HBSTV_DATABASE = {
         }
       ],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "chaos",
+          "name": "Chaos",
+          "year": 2023,
+          "rank": 1
+        }
+      ]
     },
     {
       "id": "noxis",
@@ -9509,7 +10616,15 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "fenix",
+          "name": "FENIX",
+          "year": 2024,
+          "rank": 5
+        }
+      ]
     },
     {
       "id": "oskar",
@@ -9910,6 +11025,26 @@ window.HBSTV_DATABASE = {
           "organizer": "BCN",
           "source": "hall-of-fame"
         }
+      ],
+      "topFiveTeams": [
+        {
+          "teamId": "aura",
+          "name": "AURA",
+          "year": 2024,
+          "rank": 3
+        },
+        {
+          "teamId": "chaos",
+          "name": "Chaos",
+          "year": 2023,
+          "rank": 1
+        },
+        {
+          "teamId": "vanx",
+          "name": "VANX",
+          "year": 2020,
+          "rank": 2
+        }
       ]
     },
     {
@@ -9994,6 +11129,20 @@ window.HBSTV_DATABASE = {
           "organizer": "TSL",
           "source": "hall-of-fame-3"
         }
+      ],
+      "topFiveTeams": [
+        {
+          "teamId": "stompatopteam",
+          "name": "STOMPA TOP TEAM",
+          "year": 2018,
+          "rank": 4
+        },
+        {
+          "teamId": "pir4tas",
+          "name": "PIR4TAS",
+          "year": 2017,
+          "rank": 2
+        }
       ]
     },
     {
@@ -10026,7 +11175,15 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "pir4tas",
+          "name": "PIR4TAS",
+          "year": 2017,
+          "rank": 2
+        }
+      ]
     },
     {
       "id": "pala4",
@@ -10058,7 +11215,8 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "paqueta",
@@ -10079,7 +11237,8 @@ window.HBSTV_DATABASE = {
         }
       ],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "pasha",
@@ -10135,7 +11294,15 @@ window.HBSTV_DATABASE = {
           "country": "BR"
         }
       ],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "razer",
+          "name": "RAZER",
+          "year": 2018,
+          "rank": 1
+        }
+      ]
     },
     {
       "id": "pedrin",
@@ -10233,7 +11400,27 @@ window.HBSTV_DATABASE = {
         }
       ],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "iklegends",
+          "name": "IK",
+          "year": 2025,
+          "rank": 1
+        },
+        {
+          "teamId": "vissionary",
+          "name": "Vissionary",
+          "year": 2025,
+          "rank": 4
+        },
+        {
+          "teamId": "fenix",
+          "name": "FENIX",
+          "year": 2024,
+          "rank": 5
+        }
+      ]
     },
     {
       "id": "pedrinn",
@@ -10253,7 +11440,8 @@ window.HBSTV_DATABASE = {
           "country": "BR"
         }
       ],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "pedro",
@@ -10276,7 +11464,8 @@ window.HBSTV_DATABASE = {
         }
       ],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "perfect",
@@ -10308,7 +11497,15 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "aura",
+          "name": "AURA",
+          "year": 2024,
+          "rank": 3
+        }
+      ]
     },
     {
       "id": "perfectt",
@@ -10329,7 +11526,8 @@ window.HBSTV_DATABASE = {
         }
       ],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "ping",
@@ -10349,7 +11547,15 @@ window.HBSTV_DATABASE = {
           "country": "BR"
         }
       ],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "real",
+          "name": "REAL",
+          "year": 2017,
+          "rank": 3
+        }
+      ]
     },
     {
       "id": "pokpi",
@@ -10398,7 +11604,8 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "power",
@@ -10430,7 +11637,15 @@ window.HBSTV_DATABASE = {
         }
       ],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "razer",
+          "name": "RAZER",
+          "year": 2018,
+          "rank": 1
+        }
+      ]
     },
     {
       "id": "pushechny",
@@ -10453,7 +11668,8 @@ window.HBSTV_DATABASE = {
         }
       ],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "pz579",
@@ -10504,7 +11720,15 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "iklegends",
+          "name": "IK",
+          "year": 2025,
+          "rank": 1
+        }
+      ]
     },
     {
       "id": "rainfall",
@@ -10546,7 +11770,15 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "exeteam",
+          "name": "EXE Team",
+          "year": 2025,
+          "rank": 2
+        }
+      ]
     },
     {
       "id": "ralent1r",
@@ -10578,7 +11810,8 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "ralzee",
@@ -10698,7 +11931,8 @@ window.HBSTV_DATABASE = {
           "country": "FR"
         }
       ],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "rapunzel",
@@ -10721,7 +11955,8 @@ window.HBSTV_DATABASE = {
         }
       ],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "rare",
@@ -10742,7 +11977,8 @@ window.HBSTV_DATABASE = {
         }
       ],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "raulbigode",
@@ -10856,7 +12092,27 @@ window.HBSTV_DATABASE = {
           "country": "BR"
         }
       ],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "sdpinterlude",
+          "name": "SDP Interlude",
+          "year": 2025,
+          "rank": 3
+        },
+        {
+          "teamId": "sdpinterlude",
+          "name": "SDP Interlude",
+          "year": 2024,
+          "rank": 2
+        },
+        {
+          "teamId": "fenix",
+          "name": "FENIX",
+          "year": 2024,
+          "rank": 5
+        }
+      ]
     },
     {
       "id": "rawrry",
@@ -10888,7 +12144,8 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "realnoob",
@@ -10910,7 +12167,8 @@ window.HBSTV_DATABASE = {
         }
       ],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "reidogame",
@@ -10932,7 +12190,8 @@ window.HBSTV_DATABASE = {
         }
       ],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "rn",
@@ -11284,6 +12543,38 @@ window.HBSTV_DATABASE = {
           "organizer": "BCN",
           "source": "hall-of-fame"
         }
+      ],
+      "topFiveTeams": [
+        {
+          "teamId": "sdpinterlude",
+          "name": "SDP Interlude",
+          "year": 2025,
+          "rank": 3
+        },
+        {
+          "teamId": "gt2023",
+          "name": "GT 2023",
+          "year": 2023,
+          "rank": 2
+        },
+        {
+          "teamId": "teaminfinity",
+          "name": "Team Infinity",
+          "year": 2021,
+          "rank": 1
+        },
+        {
+          "teamId": "pentaesports",
+          "name": "PENTA eSports",
+          "year": 2020,
+          "rank": 1
+        },
+        {
+          "teamId": "gc2019",
+          "name": "Temp Stormy / GC 2019",
+          "year": 2019,
+          "rank": 1
+        }
       ]
     },
     {
@@ -11304,7 +12595,8 @@ window.HBSTV_DATABASE = {
           "country": "PL"
         }
       ],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "roggers",
@@ -11359,7 +12651,15 @@ window.HBSTV_DATABASE = {
           "country": "BR"
         }
       ],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "gt2023",
+          "name": "GT 2023",
+          "year": 2023,
+          "rank": 2
+        }
+      ]
     },
     {
       "id": "ryota",
@@ -11550,6 +12850,26 @@ window.HBSTV_DATABASE = {
           "organizer": "LCB",
           "source": "hall-of-fame"
         }
+      ],
+      "topFiveTeams": [
+        {
+          "teamId": "teaminfinity",
+          "name": "Team Infinity",
+          "year": 2021,
+          "rank": 1
+        },
+        {
+          "teamId": "pentaesports",
+          "name": "PENTA eSports",
+          "year": 2020,
+          "rank": 1
+        },
+        {
+          "teamId": "gc2019",
+          "name": "Temp Stormy / GC 2019",
+          "year": 2019,
+          "rank": 1
+        }
       ]
     },
     {
@@ -11582,7 +12902,15 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "fenix",
+          "name": "FENIX",
+          "year": 2024,
+          "rank": 5
+        }
+      ]
     },
     {
       "id": "s1mple",
@@ -11626,7 +12954,15 @@ window.HBSTV_DATABASE = {
           "country": "BR"
         }
       ],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "pir4tas",
+          "name": "PIR4TAS",
+          "year": 2017,
+          "rank": 2
+        }
+      ]
     },
     {
       "id": "sacrilege",
@@ -11649,7 +12985,8 @@ window.HBSTV_DATABASE = {
         }
       ],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "salem",
@@ -11698,7 +13035,15 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "controlz",
+          "name": "CONTROL Z",
+          "year": 2023,
+          "rank": 4
+        }
+      ]
     },
     {
       "id": "salty",
@@ -11794,7 +13139,27 @@ window.HBSTV_DATABASE = {
           "country": "DE"
         }
       ],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "iklegends",
+          "name": "IK",
+          "year": 2025,
+          "rank": 1
+        },
+        {
+          "teamId": "exeteam",
+          "name": "EXE Team",
+          "year": 2025,
+          "rank": 2
+        },
+        {
+          "teamId": "svicious",
+          "name": "Svicious",
+          "year": 2023,
+          "rank": 3
+        }
+      ]
     },
     {
       "id": "sansey",
@@ -11863,6 +13228,20 @@ window.HBSTV_DATABASE = {
           "sourceImage": null,
           "source": "awards"
         }
+      ],
+      "topFiveTeams": [
+        {
+          "teamId": "gc2019",
+          "name": "Temp Stormy / GC 2019",
+          "year": 2019,
+          "rank": 1
+        },
+        {
+          "teamId": "pir4tas",
+          "name": "PIR4TAS",
+          "year": 2017,
+          "rank": 2
+        }
       ]
     },
     {
@@ -11895,7 +13274,8 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "sawpay",
@@ -11916,7 +13296,8 @@ window.HBSTV_DATABASE = {
         }
       ],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "sayorin",
@@ -11948,7 +13329,15 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "iklegends",
+          "name": "IK",
+          "year": 2025,
+          "rank": 1
+        }
+      ]
     },
     {
       "id": "scr1mx",
@@ -12090,7 +13479,21 @@ window.HBSTV_DATABASE = {
           "country": "BR"
         }
       ],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "aura",
+          "name": "AURA",
+          "year": 2024,
+          "rank": 3
+        },
+        {
+          "teamId": "chaos",
+          "name": "Chaos",
+          "year": 2023,
+          "rank": 1
+        }
+      ]
     },
     {
       "id": "scream",
@@ -12327,6 +13730,20 @@ window.HBSTV_DATABASE = {
           "organizer": "GAMEZONE",
           "source": "hall-of-fame"
         }
+      ],
+      "topFiveTeams": [
+        {
+          "teamId": "teaminfinity",
+          "name": "Team Infinity",
+          "year": 2021,
+          "rank": 1
+        },
+        {
+          "teamId": "pentaesports",
+          "name": "PENTA eSports",
+          "year": 2020,
+          "rank": 1
+        }
       ]
     },
     {
@@ -12389,7 +13806,21 @@ window.HBSTV_DATABASE = {
           "country": "BR"
         }
       ],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "vanx",
+          "name": "VANX",
+          "year": 2020,
+          "rank": 2
+        },
+        {
+          "teamId": "astralis",
+          "name": "ASTRALIS",
+          "year": 2020,
+          "rank": 3
+        }
+      ]
     },
     {
       "id": "seven",
@@ -12463,7 +13894,21 @@ window.HBSTV_DATABASE = {
         }
       ],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "sdpinterlude",
+          "name": "SDP Interlude",
+          "year": 2024,
+          "rank": 2
+        },
+        {
+          "teamId": "gt2023",
+          "name": "GT 2023",
+          "year": 2023,
+          "rank": 2
+        }
+      ]
     },
     {
       "id": "sharp",
@@ -12580,7 +14025,8 @@ window.HBSTV_DATABASE = {
           "organizer": "RISE LEADERS",
           "source": "hall-of-fame"
         }
-      ]
+      ],
+      "topFiveTeams": []
     },
     {
       "id": "sharp1",
@@ -12602,7 +14048,8 @@ window.HBSTV_DATABASE = {
         }
       ],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "shelzz",
@@ -12963,6 +14410,38 @@ window.HBSTV_DATABASE = {
           "organizer": "LLP",
           "source": "hall-of-fame"
         }
+      ],
+      "topFiveTeams": [
+        {
+          "teamId": "sdpinterlude",
+          "name": "SDP Interlude",
+          "year": 2024,
+          "rank": 2
+        },
+        {
+          "teamId": "teaminfinity",
+          "name": "Team Infinity",
+          "year": 2021,
+          "rank": 1
+        },
+        {
+          "teamId": "pentaesports",
+          "name": "PENTA eSports",
+          "year": 2020,
+          "rank": 1
+        },
+        {
+          "teamId": "razer",
+          "name": "RAZER",
+          "year": 2018,
+          "rank": 1
+        },
+        {
+          "teamId": "pir4tas",
+          "name": "PIR4TAS",
+          "year": 2017,
+          "rank": 2
+        }
       ]
     },
     {
@@ -13011,7 +14490,15 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "vissionary",
+          "name": "Vissionary",
+          "year": 2024,
+          "rank": 4
+        }
+      ]
     },
     {
       "id": "sick",
@@ -13051,7 +14538,8 @@ window.HBSTV_DATABASE = {
           "sourceImage": "assets/archive/9427c471a43e4f8317c6.png",
           "source": "ak-de-ouro-awards"
         }
-      ]
+      ],
+      "topFiveTeams": []
     },
     {
       "id": "sink",
@@ -13108,7 +14596,21 @@ window.HBSTV_DATABASE = {
           "country": "AR"
         }
       ],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "gc2018",
+          "name": "GC 2018",
+          "year": 2018,
+          "rank": 3
+        },
+        {
+          "teamId": "shadowwarrior",
+          "name": "SHADOW WARRIOR",
+          "year": 2017,
+          "rank": 1
+        }
+      ]
     },
     {
       "id": "skillzes",
@@ -13148,7 +14650,8 @@ window.HBSTV_DATABASE = {
         }
       ],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "solitude",
@@ -13180,7 +14683,8 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "spinard",
@@ -13218,6 +14722,14 @@ window.HBSTV_DATABASE = {
           "series": "AK de Ouro",
           "sourceImage": "assets/archive/127015a4498591f58c89.png",
           "source": "ak-de-ouro-awards"
+        }
+      ],
+      "topFiveTeams": [
+        {
+          "teamId": "vanx",
+          "name": "VANX",
+          "year": 2020,
+          "rank": 2
         }
       ]
     },
@@ -13323,6 +14835,14 @@ window.HBSTV_DATABASE = {
           "organizer": "TSL",
           "source": "hall-of-fame"
         }
+      ],
+      "topFiveTeams": [
+        {
+          "teamId": "razer",
+          "name": "RAZER",
+          "year": 2018,
+          "rank": 1
+        }
       ]
     },
     {
@@ -13346,7 +14866,8 @@ window.HBSTV_DATABASE = {
         }
       ],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "svg3",
@@ -13369,7 +14890,8 @@ window.HBSTV_DATABASE = {
           "sourceImage": "assets/archive/98dbd927447979b7c66e.png",
           "source": "ak-de-ouro-awards"
         }
-      ]
+      ],
+      "topFiveTeams": []
     },
     {
       "id": "svg4",
@@ -13392,7 +14914,8 @@ window.HBSTV_DATABASE = {
           "sourceImage": null,
           "source": "awards"
         }
-      ]
+      ],
+      "topFiveTeams": []
     },
     {
       "id": "syox",
@@ -13412,7 +14935,15 @@ window.HBSTV_DATABASE = {
           "country": "BR"
         }
       ],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "pir4tas",
+          "name": "PIR4TAS",
+          "year": 2017,
+          "rank": 2
+        }
+      ]
     },
     {
       "id": "t1o",
@@ -13599,7 +15130,33 @@ window.HBSTV_DATABASE = {
           "country": "BR"
         }
       ],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "exeteam",
+          "name": "EXE Team",
+          "year": 2025,
+          "rank": 2
+        },
+        {
+          "teamId": "miracle",
+          "name": "Miracle",
+          "year": 2024,
+          "rank": 1
+        },
+        {
+          "teamId": "gt2023",
+          "name": "GT 2023",
+          "year": 2023,
+          "rank": 2
+        },
+        {
+          "teamId": "controlz",
+          "name": "CONTROL Z",
+          "year": 2023,
+          "rank": 4
+        }
+      ]
     },
     {
       "id": "tabsenn",
@@ -14034,6 +15591,20 @@ window.HBSTV_DATABASE = {
           "organizer": "RED",
           "source": "hall-of-fame"
         }
+      ],
+      "topFiveTeams": [
+        {
+          "teamId": "iklegends",
+          "name": "IK",
+          "year": 2025,
+          "rank": 1
+        },
+        {
+          "teamId": "vissionary",
+          "name": "Vissionary",
+          "year": 2024,
+          "rank": 4
+        }
       ]
     },
     {
@@ -14063,7 +15634,15 @@ window.HBSTV_DATABASE = {
           "country": "BR"
         }
       ],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "shadowwarrior",
+          "name": "SHADOW WARRIOR",
+          "year": 2017,
+          "rank": 1
+        }
+      ]
     },
     {
       "id": "tamashi",
@@ -14508,6 +16087,32 @@ window.HBSTV_DATABASE = {
           "organizer": "BCN",
           "source": "hall-of-fame"
         }
+      ],
+      "topFiveTeams": [
+        {
+          "teamId": "iklegends",
+          "name": "IK",
+          "year": 2025,
+          "rank": 1
+        },
+        {
+          "teamId": "exeteam",
+          "name": "EXE Team",
+          "year": 2025,
+          "rank": 2
+        },
+        {
+          "teamId": "miracle",
+          "name": "Miracle",
+          "year": 2024,
+          "rank": 1
+        },
+        {
+          "teamId": "controlz",
+          "name": "CONTROL Z",
+          "year": 2023,
+          "rank": 4
+        }
       ]
     },
     {
@@ -14540,7 +16145,8 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "tenz",
@@ -14579,7 +16185,8 @@ window.HBSTV_DATABASE = {
           "country": "FR"
         }
       ],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "terror",
@@ -14629,7 +16236,21 @@ window.HBSTV_DATABASE = {
           "country": "BR"
         }
       ],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "stompatopteam",
+          "name": "STOMPA TOP TEAM",
+          "year": 2018,
+          "rank": 4
+        },
+        {
+          "teamId": "shadowwarrior",
+          "name": "SHADOW WARRIOR",
+          "year": 2017,
+          "rank": 1
+        }
+      ]
     },
     {
       "id": "theuzz",
@@ -14662,7 +16283,15 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "razer",
+          "name": "RAZER",
+          "year": 2018,
+          "rank": 1
+        }
+      ]
     },
     {
       "id": "trapazoid",
@@ -14683,7 +16312,8 @@ window.HBSTV_DATABASE = {
         }
       ],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "trapazoide",
@@ -14704,7 +16334,8 @@ window.HBSTV_DATABASE = {
         }
       ],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "trask",
@@ -14725,7 +16356,8 @@ window.HBSTV_DATABASE = {
         }
       ],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "trex999",
@@ -14747,7 +16379,8 @@ window.HBSTV_DATABASE = {
         }
       ],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "trxy",
@@ -14779,7 +16412,15 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "chaos",
+          "name": "Chaos",
+          "year": 2023,
+          "rank": 1
+        }
+      ]
     },
     {
       "id": "uch",
@@ -14837,7 +16478,21 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "aura",
+          "name": "AURA",
+          "year": 2024,
+          "rank": 3
+        },
+        {
+          "teamId": "chaos",
+          "name": "Chaos",
+          "year": 2023,
+          "rank": 1
+        }
+      ]
     },
     {
       "id": "valknut",
@@ -15062,6 +16717,26 @@ window.HBSTV_DATABASE = {
           "organizer": "BCN",
           "source": "hall-of-fame-3"
         }
+      ],
+      "topFiveTeams": [
+        {
+          "teamId": "aura",
+          "name": "AURA",
+          "year": 2024,
+          "rank": 3
+        },
+        {
+          "teamId": "chaos",
+          "name": "Chaos",
+          "year": 2023,
+          "rank": 1
+        },
+        {
+          "teamId": "gt2021",
+          "name": "GT 2021",
+          "year": 2021,
+          "rank": 2
+        }
       ]
     },
     {
@@ -15112,7 +16787,21 @@ window.HBSTV_DATABASE = {
         }
       ],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "gc2019",
+          "name": "Temp Stormy / GC 2019",
+          "year": 2019,
+          "rank": 1
+        },
+        {
+          "teamId": "gc2018",
+          "name": "GC 2018",
+          "year": 2018,
+          "rank": 3
+        }
+      ]
     },
     {
       "id": "vat",
@@ -15167,7 +16856,15 @@ window.HBSTV_DATABASE = {
           "country": "PT"
         }
       ],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "exeteam",
+          "name": "EXE Team",
+          "year": 2025,
+          "rank": 2
+        }
+      ]
     },
     {
       "id": "vncx",
@@ -15254,7 +16951,21 @@ window.HBSTV_DATABASE = {
         }
       ],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "miracle",
+          "name": "Miracle",
+          "year": 2024,
+          "rank": 1
+        },
+        {
+          "teamId": "controlz",
+          "name": "CONTROL Z",
+          "year": 2023,
+          "rank": 4
+        }
+      ]
     },
     {
       "id": "vueko",
@@ -15275,7 +16986,8 @@ window.HBSTV_DATABASE = {
         }
       ],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "warthog",
@@ -15298,7 +17010,8 @@ window.HBSTV_DATABASE = {
         }
       ],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "wentyl",
@@ -15346,7 +17059,15 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "miracle",
+          "name": "Miracle",
+          "year": 2024,
+          "rank": 1
+        }
+      ]
     },
     {
       "id": "whartog",
@@ -15371,7 +17092,8 @@ window.HBSTV_DATABASE = {
           "country": "BR"
         }
       ],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "whezz",
@@ -15461,6 +17183,14 @@ window.HBSTV_DATABASE = {
           "organizer": "GSE",
           "source": "hall-of-fame-3"
         }
+      ],
+      "topFiveTeams": [
+        {
+          "teamId": "gc2019",
+          "name": "Temp Stormy / GC 2019",
+          "year": 2019,
+          "rank": 1
+        }
       ]
     },
     {
@@ -15482,7 +17212,8 @@ window.HBSTV_DATABASE = {
         }
       ],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "whiteday",
@@ -15514,7 +17245,8 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "wiem",
@@ -15546,7 +17278,8 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "wukang",
@@ -15569,7 +17302,8 @@ window.HBSTV_DATABASE = {
         }
       ],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "xacau",
@@ -15608,7 +17342,15 @@ window.HBSTV_DATABASE = {
           "country": "BR"
         }
       ],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "gc2019",
+          "name": "Temp Stormy / GC 2019",
+          "year": 2019,
+          "rank": 1
+        }
+      ]
     },
     {
       "id": "xdroid",
@@ -15638,7 +17380,8 @@ window.HBSTV_DATABASE = {
           "country": "BR"
         }
       ],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     },
     {
       "id": "xzr",
@@ -15670,7 +17413,15 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "svicious",
+          "name": "Svicious",
+          "year": 2023,
+          "rank": 3
+        }
+      ]
     },
     {
       "id": "yoda",
@@ -15693,7 +17444,8 @@ window.HBSTV_DATABASE = {
           "sourceImage": "assets/archive/9427c471a43e4f8317c6.png",
           "source": "ak-de-ouro-awards"
         }
-      ]
+      ],
+      "topFiveTeams": []
     },
     {
       "id": "yonk",
@@ -15725,7 +17477,15 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "razer",
+          "name": "RAZER",
+          "year": 2018,
+          "rank": 1
+        }
+      ]
     },
     {
       "id": "zdr",
@@ -16040,6 +17800,32 @@ window.HBSTV_DATABASE = {
           "organizer": "RANK S",
           "source": "hall-of-fame"
         }
+      ],
+      "topFiveTeams": [
+        {
+          "teamId": "iklegends",
+          "name": "IK",
+          "year": 2025,
+          "rank": 1
+        },
+        {
+          "teamId": "vissionary",
+          "name": "Vissionary",
+          "year": 2025,
+          "rank": 4
+        },
+        {
+          "teamId": "aura",
+          "name": "AURA",
+          "year": 2024,
+          "rank": 3
+        },
+        {
+          "teamId": "chaos",
+          "name": "Chaos",
+          "year": 2023,
+          "rank": 1
+        }
       ]
     },
     {
@@ -16072,7 +17858,15 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "astralis",
+          "name": "ASTRALIS",
+          "year": 2020,
+          "rank": 3
+        }
+      ]
     },
     {
       "id": "zenn",
@@ -16330,6 +18124,32 @@ window.HBSTV_DATABASE = {
           "organizer": "LCB",
           "source": "hall-of-fame"
         }
+      ],
+      "topFiveTeams": [
+        {
+          "teamId": "teaminfinity",
+          "name": "Team Infinity",
+          "year": 2021,
+          "rank": 1
+        },
+        {
+          "teamId": "gt2021",
+          "name": "GT 2021",
+          "year": 2021,
+          "rank": 2
+        },
+        {
+          "teamId": "pentaesports",
+          "name": "PENTA eSports",
+          "year": 2020,
+          "rank": 1
+        },
+        {
+          "teamId": "pir4tas",
+          "name": "PIR4TAS",
+          "year": 2017,
+          "rank": 2
+        }
       ]
     },
     {
@@ -16359,7 +18179,15 @@ window.HBSTV_DATABASE = {
         }
       ],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "vanx",
+          "name": "VANX",
+          "year": 2020,
+          "rank": 2
+        }
+      ]
     },
     {
       "id": "zori",
@@ -16391,7 +18219,15 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [],
       "rankings": [],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "gc2018",
+          "name": "GC 2018",
+          "year": 2018,
+          "rank": 3
+        }
+      ]
     },
     {
       "id": "zunhn",
@@ -16411,7 +18247,8 @@ window.HBSTV_DATABASE = {
           "country": "BR"
         }
       ],
-      "awards": []
+      "awards": [],
+      "topFiveTeams": []
     }
   ],
   "aliases": {
