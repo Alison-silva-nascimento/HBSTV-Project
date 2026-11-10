@@ -38,7 +38,7 @@ window.renderDocumentedPlayerAwards = player => {
 };
 function seasonTitles(player) {
   if (!player.seasonTitles?.length) return '';
-  return `<section class="gp-section"><div class="gp-section-head"><h3>Conquistas da PENTA · 2020</h3><span>${player.seasonTitles.length} TÍTULOS DA EQUIPE</span></div><p class="gp-trophy-help">Nescau consta no elenco anual da PENTA. As escalações de cada torneio dessa lista ainda não estão documentadas.</p>${events(player.seasonTitles,'EQUIPE')}</section>`;
+  return `<section class="gp-section"><div class="gp-section-head"><h3>Conquistas da PENTA · 2020</h3><span>${player.seasonTitles.length} TÍTULOS DA EQUIPE</span></div>${events(player.seasonTitles,'EQUIPE')}</section>`;
 }
 window.showRegisteredPlayerProfile=id=>{
 const p=records.get(key(id));if(!p)return false;
