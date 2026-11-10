@@ -69,7 +69,7 @@ require('./reconcile-historical-titles.cjs')({ archive: c.window.RANKS_ARCHIVE, 
 const nescau = index.players.find(player => player.id === 'nescau');
 nescau.hallOfFame = true;
 nescau.seasonTitles = [...events.values()]
-  .filter(e => e.year === 2020 && e.winners.includes('pentaesports') && e.rosterReference?.players.includes(nescau.id))
+  .filter(e => e.year === 2020 && e.sources.includes('top-1-teams-of-years') && e.winners.includes('pentaesports') && e.rosterReference?.players.includes(nescau.id))
   .map(e => ({id: e.id, title: e.title, year: e.year, team: 'Penta E-sports'}));
 for (const p of index.players) for (const field of ['titles', 'mvps', 'evps', 'mvs']) {
   for (const r of p[field] || []) r.title = events.get(r.id)?.title || r.title;
