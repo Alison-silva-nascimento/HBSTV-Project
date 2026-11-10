@@ -10394,6 +10394,11 @@ window.HBSTV_PLAYER_INDEX = {
           "years": [
             2017
           ]
+        },
+        {
+          "id": "vissionary",
+          "name": "Vissionary",
+          "years": []
         }
       ],
       "titles": [

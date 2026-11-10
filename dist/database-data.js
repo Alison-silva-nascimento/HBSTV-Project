@@ -14111,6 +14111,11 @@ window.HBSTV_DATABASE = {
           "years": [
             2017
           ]
+        },
+        {
+          "id": "vissionary",
+          "name": "Vissionary",
+          "years": []
         }
       ],
       "titles": [
@@ -26991,6 +26996,14 @@ window.HBSTV_DATABASE = {
           ],
           "sources": [
             "events-2024"
+          ]
+        },
+        {
+          "id": "shelzz",
+          "name": "ShelzZ",
+          "years": [],
+          "sources": [
+            "Passagem confirmada pelo responsável pelo site. Temporada não informada."
           ]
         }
       ],

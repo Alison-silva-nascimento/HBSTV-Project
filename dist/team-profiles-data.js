@@ -5343,6 +5343,14 @@ window.HBSTV_TEAMS = [
         "sources": [
           "events-2024"
         ]
+      },
+      {
+        "id": "shelzz",
+        "name": "ShelzZ",
+        "years": [],
+        "sources": [
+          "Passagem confirmada pelo responsável pelo site. Temporada não informada."
+        ]
       }
     ],
     "rankings": [
