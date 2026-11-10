@@ -16270,7 +16270,7 @@ window.HBSTV_DATABASE = {
     },
     {
       "id": "2018:tslmajorcup",
-      "title": "TSL | Major Cup 2018",
+      "title": "TSL | MAJOR CUP",
       "year": 2018,
       "organizer": "TSL",
       "major": false,
@@ -20040,7 +20040,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2018:tslmajorcup",
-          "title": "TSL Major Cup 2018",
+          "title": "TSL | MAJOR CUP",
           "year": 2018,
           "source": "top-1-teams-of-years",
           "major": false,
