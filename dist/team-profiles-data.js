@@ -4419,6 +4419,14 @@ window.HBSTV_TEAMS = [
         "sources": [
           "events-2024"
         ]
+      },
+      {
+        "id": "almeida",
+        "name": "Almeida",
+        "years": [],
+        "sources": [
+          "Passagem confirmada pelo responsável pelo site. Temporada não informada."
+        ]
       }
     ],
     "rankings": [
@@ -6394,6 +6402,14 @@ window.HBSTV_TEAMS = [
         ],
         "sources": [
           "events-2024"
+        ]
+      },
+      {
+        "id": "almeida",
+        "name": "Almeida",
+        "years": [],
+        "sources": [
+          "Passagem confirmada pelo responsável pelo site. Temporada não informada."
         ]
       }
     ],

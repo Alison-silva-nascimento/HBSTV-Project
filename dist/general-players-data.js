@@ -809,6 +809,16 @@ window.HBSTV_PLAYER_INDEX = {
           "years": [
             2025
           ]
+        },
+        {
+          "id": "fenix",
+          "name": "FENIX",
+          "years": []
+        },
+        {
+          "id": "sdpinterlude",
+          "name": "SDP Interlude",
+          "years": []
         }
       ],
       "titles": [

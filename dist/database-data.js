@@ -1263,6 +1263,16 @@ window.HBSTV_DATABASE = {
           "years": [
             2025
           ]
+        },
+        {
+          "id": "fenix",
+          "name": "FENIX",
+          "years": []
+        },
+        {
+          "id": "sdpinterlude",
+          "name": "SDP Interlude",
+          "years": []
         }
       ],
       "titles": [
@@ -26053,6 +26063,14 @@ window.HBSTV_DATABASE = {
           "sources": [
             "events-2024"
           ]
+        },
+        {
+          "id": "almeida",
+          "name": "Almeida",
+          "years": [],
+          "sources": [
+            "Passagem confirmada pelo responsável pelo site. Temporada não informada."
+          ]
         }
       ],
       "rankings": [
@@ -28035,6 +28053,14 @@ window.HBSTV_DATABASE = {
           ],
           "sources": [
             "events-2024"
+          ]
+        },
+        {
+          "id": "almeida",
+          "name": "Almeida",
+          "years": [],
+          "sources": [
+            "Passagem confirmada pelo responsável pelo site. Temporada não informada."
           ]
         }
       ],
