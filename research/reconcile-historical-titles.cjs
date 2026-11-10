@@ -2,7 +2,7 @@ const organizers = {
   gz: 'GAMEZONE', gamezone: 'GAMEZONE', pns: 'PNL', pnl: 'PNL', bsg: 'BSG'
 };
 
-function normalizeTitle(title, year) {
+function normalizeTitle(title, year, reviewed = true) {
   const text = title.replace(/[Ⓜ🅼]\uFE0F?/gu, '').normalize('NFKC')
     .normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
   const match = text.trim().match(/^(.+?)\s*(?:\||\s+i\s+)\s*(.+)$/);
@@ -23,7 +23,24 @@ function normalizeTitle(title, year) {
     '2021:SUVOH': {majorcup: 'major'},
     '2021:TSL': {majorcup: 'major', smack: 'smackcup'}
   };
+  const reviewedVariants = {
+    '2023:TSL': {blastleague: 'blaststrikeleague'},
+    '2023:RANK S': {invitional: 'invitationalleague', invitational: 'invitationalleague',
+      dreamhack: 'dreamhackbrazil', majorleague: 'major'},
+    '2024:LLP': {strikeone: 'strikeoneseason4', strikeone40: 'strikeoneseason4'},
+    '2024:BCN': {challengersbrasil: 'challengersbrazil', challengersbr: 'challengersbrazil'},
+    '2024:GAMEZONE': {pslseason1: 'proseriesleague', psls1: 'proseriesleague',
+      pslseason2: 'proseriesleagueseason2', psls2: 'proseriesleagueseason2',
+      pslseason3: 'proseriesleagueseason3', psls3: 'proseriesleagueseason3'},
+    '2024:PREMIER': {premierseriea: 'premierleaguea', premierleagueseriea: 'premierleaguea'},
+    '2024:WHL': {worldrankingseason2: 'worldrankings2'},
+    '2025:BCN': {finals25: 'finals', yallacampass: 'yallacompass'},
+    '2025:LCS': {leagueseason1: 'leagues1', leagueseason2: 'leagues2', lcsleagues2: 'leagues2'},
+    '2025:WHL': {leagueseason2: 'leagues2'},
+    '2025:XMS': {mastersleague: 'masterleague'}
+  };
   name = variants[year + ':' + organizer]?.[name] || name;
+  if (reviewed) name = reviewedVariants[year + ':' + organizer]?.[name] || name;
   return { organizer, key: year + ':' + organizer + ':' + name };
 }
 
@@ -52,13 +69,18 @@ module.exports = ({ archive, players, events, key }) => {
         const name = year && normalizeTitle(title, year);
         if (!name) continue;
         const candidates = eventByName.get(name.key) || [];
-        const event = candidates.length === 1 ? candidates[0] : null;
+        let event = candidates.length === 1 ? candidates[0] : null;
         // A title in the Hall of Fame can include a team member absent from the recorded lineup.
         // If the lineup omits the player, require a matching season with the winning team.
         if (event?.roster.length && !event.roster.includes(player.id)) {
           const wasOnWinningTeam = player.teams.some(team =>
             event.winners.includes(team.id) && team.years.includes(year));
-          if (!wasOnWinningTeam) continue;
+          if (!wasOnWinningTeam) {
+            const previousMatch = normalizeTitle(title, year, false)?.key ===
+              normalizeTitle(event.title, year, false)?.key;
+            if (previousMatch) continue;
+            event = null;
+          }
         }
         const id = event?.id || 'hof:' + name.key;
         titles.set(id, {id, title: event?.title || title, year, organizer: event?.organizer || name.organizer, source: page.slug});
@@ -68,3 +90,5 @@ module.exports = ({ archive, players, events, key }) => {
   }
 };
 
+
+module.exports.normalizeTitle = normalizeTitle;

@@ -25,7 +25,9 @@ window.renderPlayerTitleCards = (player, fallback = []) => {
   const rows = player
     ? [...new Map([...(player.historicalTitles || []), ...player.titles].map(record => [record.id, record])).values()]
     : fallback.map(title => ({ title, year: Number(title.match(/20\d{2}/)?.[0]) }));
-  if (!rows.length && player?.seasonTitles?.length) rows.push(...player.seasonTitles);
+  for (const record of player?.seasonTitles || []) {
+    if (!rows.some(title => title.id === record.id)) rows.push(record);
+  }
   rows.sort((a,b) => b.year - a.year);
   return `<section class="gp-section"><div class="gp-section-head"><h3>Títulos conquistados</h3><span>${rows.length} REGISTROS</span></div>${events(rows,'TÍTULO')}</section>`;
 };

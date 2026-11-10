@@ -3,3 +3,28 @@ assert(d.players.length>=230);assert.equal(new Set(d.players.map(p=>p.id)).size,
 if(process.argv[2]){const exportData=JSON.parse(fs.readFileSync(process.argv[2],'utf8'));assert.equal(exportData.schemaVersion,1);assert(exportData.events.every(e=>e.roster.every(id=>ids.has(id))));}console.log('Registry identities, 88 linked events, 8 Majors and 160 annual positions verified.');
 
 assert(!d.players.some(p=>p.id==='misutaa'));assert(d.aliases.misutaa==='misuuta');assert(d.players.find(p=>p.id==='misuuta').aliases.some(a=>a.toLowerCase()==='misutaa'));
+
+const masters = d.events.find(event => event.id === '2021:gsemasters');
+const mastersRoster = [...masters.roster, ...(masters.rosterReference?.players || [])];
+for (const id of ['rn', 'inovate']) assert(!mastersRoster.includes(id));
+for (const id of ['nescau', 'zenn']) {
+  assert(mastersRoster.includes(id));
+  assert(d.players.find(player => player.id === id).titles.some(title => title.id === masters.id));
+}
+const shelzz = d.players.find(player => player.id === 'shelzz');
+const llpTitles = [...shelzz.titles, ...(shelzz.historicalTitles || [])]
+  .filter(title => title.year === 2024 && /^LLP\s*\|/.test(title.title));
+assert.deepEqual([...new Set(llpTitles.map(title => title.id))], ['2024:llpstrikeones4']);
+const normalizeTitle = require('./research/reconcile-historical-titles.cjs').normalizeTitle;
+for (const player of d.players) for (const field of ['mvps', 'evps']) {
+  const eventIds = new Set();
+  const editions = new Set();
+  for (const record of player[field]) {
+    const event = d.events.find(event => event.id === record.id);
+    assert(event?.[field].includes(player.id), player.id + ' ' + field + ' ' + record.id);
+    const edition = normalizeTitle(event.title, event.year)?.key || event.id;
+    assert(!eventIds.has(record.id) && !editions.has(edition), player.id + ' ' + field + ' ' + edition);
+    eventIds.add(record.id);
+    editions.add(edition);
+  }
+}

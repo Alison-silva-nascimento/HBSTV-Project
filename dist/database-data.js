@@ -608,8 +608,8 @@ window.HBSTV_DATABASE = {
           "source": "hall-of-fame"
         },
         {
-          "id": "hof:2024:GAMEZONE:pslseason1",
-          "title": "GZ | PSL Season  1 2024",
+          "id": "2024:gzproseriesleague",
+          "title": "GAMEZONE | PRO SERIES LEAGUE",
           "year": 2024,
           "organizer": "GAMEZONE",
           "source": "hall-of-fame"
@@ -643,8 +643,8 @@ window.HBSTV_DATABASE = {
           "source": "hall-of-fame"
         },
         {
-          "id": "hof:2024:GAMEZONE:pslseason3",
-          "title": "GZ | PSL SEASON 3 2024",
+          "id": "2024:gzproseriesleagues3",
+          "title": "GAMEZONE | PRO SERIES LEAGUE SEASON 3",
           "year": 2024,
           "organizer": "GAMEZONE",
           "source": "hall-of-fame"
@@ -664,8 +664,8 @@ window.HBSTV_DATABASE = {
           "source": "hall-of-fame"
         },
         {
-          "id": "hof:2025:WHL:leagueseason2",
-          "title": "WHL | LEAGUE SEASON 2 2025",
+          "id": "2025:whlleagues2",
+          "title": "WHL | LEAGUE S2",
           "year": 2025,
           "organizer": "WHL",
           "source": "hall-of-fame"
@@ -2542,8 +2542,8 @@ window.HBSTV_DATABASE = {
           "source": "hall-of-fame-3"
         },
         {
-          "id": "hof:2025:LCS:leagueseason1",
-          "title": "LCS | LEAGUE SEASON 1 2025",
+          "id": "2025:lcsleagues1",
+          "title": "LCS | LEAGUE S1",
           "year": 2025,
           "organizer": "LCS",
           "source": "hall-of-fame-3"
@@ -2968,15 +2968,15 @@ window.HBSTV_DATABASE = {
           "source": "hall-of-fame"
         },
         {
-          "id": "hof:2024:LLP:strikeone",
-          "title": "LLP | STRIKE ONE 2024",
+          "id": "2024:llpstrikeones4",
+          "title": "LLP | STRIKE ONE SEASON 4",
           "year": 2024,
           "organizer": "LLP",
           "source": "hall-of-fame"
         },
         {
-          "id": "hof:2024:BCN:challengersbrasil",
-          "title": "BCN | CHALLENGERS BRASIL 2024",
+          "id": "2024:bcnchallengers",
+          "title": "BCN | CHALLENGERS BRAZIL",
           "year": 2024,
           "organizer": "BCN",
           "source": "hall-of-fame"
@@ -3003,8 +3003,8 @@ window.HBSTV_DATABASE = {
           "source": "hall-of-fame"
         },
         {
-          "id": "hof:2025:BCN:finals",
-          "title": "BCN | FINALS 2025",
+          "id": "2025:bcnfinals",
+          "title": "BCN | FINALS 25",
           "year": 2025,
           "organizer": "BCN",
           "source": "hall-of-fame"
@@ -3017,15 +3017,15 @@ window.HBSTV_DATABASE = {
           "source": "hall-of-fame"
         },
         {
-          "id": "hof:2025:LCS:leagueseason1",
-          "title": "LCS | LEAGUE SEASON 1 2025",
+          "id": "2025:lcsleagues1",
+          "title": "LCS | LEAGUE S1",
           "year": 2025,
           "organizer": "LCS",
           "source": "hall-of-fame"
         },
         {
-          "id": "hof:2025:LCS:leagueseason2",
-          "title": "LCS | LEAGUE SEASON 2 2025",
+          "id": "2025:lcsleagues2",
+          "title": "LCS | LCS League S2",
           "year": 2025,
           "organizer": "LCS",
           "source": "hall-of-fame"
@@ -4396,15 +4396,15 @@ window.HBSTV_DATABASE = {
           "source": "hall-of-fame-3"
         },
         {
-          "id": "hof:2023:RANK S:invitional",
-          "title": "RANK S | INVITIONAL 2023",
+          "id": "2023:ranksinvitational",
+          "title": "RANK S | INVITATIONAL LEAGUE 2023",
           "year": 2023,
           "organizer": "RANK S",
           "source": "hall-of-fame-3"
         },
         {
-          "id": "hof:2023:RANK S:dreamhack",
-          "title": "RANK S | DREAM HACK 2023",
+          "id": "2023:ranksdreamhack",
+          "title": "RANK S | DREAM HACK BRAZIL",
           "year": 2023,
           "organizer": "RANK S",
           "source": "hall-of-fame-3"
@@ -5010,8 +5010,8 @@ window.HBSTV_DATABASE = {
           "source": "hall-of-fame-3"
         },
         {
-          "id": "hof:2024:PREMIER:premierseriea",
-          "title": "PREMIER | PREMIER SERIE A 2024",
+          "id": "2024:premierpremierleaguea",
+          "title": "PREMIER | PREMIER LEAGUE A",
           "year": 2024,
           "organizer": "PREMIER",
           "source": "hall-of-fame-3"
@@ -5024,8 +5024,8 @@ window.HBSTV_DATABASE = {
           "source": "hall-of-fame-3"
         },
         {
-          "id": "hof:2024:BCN:challengersbr",
-          "title": "BCN | CHALLENGERS BR 2024",
+          "id": "2024:bcnchallengers",
+          "title": "BCN | CHALLENGERS BRAZIL",
           "year": 2024,
           "organizer": "BCN",
           "source": "hall-of-fame-3"
@@ -5581,15 +5581,15 @@ window.HBSTV_DATABASE = {
           "source": "hall-of-fame"
         },
         {
-          "id": "hof:2025:BCN:finals",
-          "title": "BCN I FINALS 2025",
+          "id": "2025:bcnfinals",
+          "title": "BCN | FINALS 25",
           "year": 2025,
           "organizer": "BCN",
           "source": "hall-of-fame"
         },
         {
-          "id": "hof:2025:LCS:leagueseason2",
-          "title": "LCS | LEAGUE SEASON 2 2025",
+          "id": "2025:lcsleagues2",
+          "title": "LCS | LCS League S2",
           "year": 2025,
           "organizer": "LCS",
           "source": "hall-of-fame"
@@ -5602,8 +5602,8 @@ window.HBSTV_DATABASE = {
           "source": "hall-of-fame"
         },
         {
-          "id": "hof:2025:BCN:yallacampass",
-          "title": "BCN I YALLA CAMPASS 2025",
+          "id": "2025:bcnyallacompass",
+          "title": "BCN | YALLA COMPASS 2025",
           "year": 2025,
           "organizer": "BCN",
           "source": "hall-of-fame"
@@ -5849,15 +5849,15 @@ window.HBSTV_DATABASE = {
           "source": "hall-of-fame"
         },
         {
-          "id": "hof:2025:LCS:leagueseason1",
-          "title": "LCS | LEAGUE SEASON 1 2025",
+          "id": "2025:lcsleagues1",
+          "title": "LCS | LEAGUE S1",
           "year": 2025,
           "organizer": "LCS",
           "source": "hall-of-fame"
         },
         {
-          "id": "hof:2025:XMS:mastersleague",
-          "title": "XMS | MASTERS LEAGUE 2025",
+          "id": "2025:xmsmasterleague",
+          "title": "XMS | MASTER LEAGUE",
           "year": 2025,
           "organizer": "XMS",
           "source": "hall-of-fame"
@@ -6256,8 +6256,8 @@ window.HBSTV_DATABASE = {
           "source": "hall-of-fame"
         },
         {
-          "id": "hof:2024:GAMEZONE:psls2",
-          "title": "GZ |  PSL S2 2024",
+          "id": "2024:gzproseriesleagues2",
+          "title": "GAMEZONE | PRO SERIES LEAGUE SEASON 2",
           "year": 2024,
           "organizer": "GAMEZONE",
           "source": "hall-of-fame"
@@ -6270,8 +6270,8 @@ window.HBSTV_DATABASE = {
           "source": "hall-of-fame"
         },
         {
-          "id": "hof:2024:GAMEZONE:psls3",
-          "title": "GZ | PSL S3 2024",
+          "id": "2024:gzproseriesleagues3",
+          "title": "GAMEZONE | PRO SERIES LEAGUE SEASON 3",
           "year": 2024,
           "organizer": "GAMEZONE",
           "source": "hall-of-fame"
@@ -6305,8 +6305,8 @@ window.HBSTV_DATABASE = {
           "source": "hall-of-fame"
         },
         {
-          "id": "hof:2025:BCN:finals",
-          "title": "BCN I FINALS 2025",
+          "id": "2025:bcnfinals",
+          "title": "BCN | FINALS 25",
           "year": 2025,
           "organizer": "BCN",
           "source": "hall-of-fame"
@@ -6326,15 +6326,15 @@ window.HBSTV_DATABASE = {
           "source": "hall-of-fame"
         },
         {
-          "id": "hof:2025:LCS:leagueseason1",
-          "title": "LCS | LEAGUE SEASON 1 2025",
+          "id": "2025:lcsleagues1",
+          "title": "LCS | LEAGUE S1",
           "year": 2025,
           "organizer": "LCS",
           "source": "hall-of-fame"
         },
         {
-          "id": "hof:2025:LCS:leagueseason2",
-          "title": "LCS | LEAGUE SEASON 2 2025",
+          "id": "2025:lcsleagues2",
+          "title": "LCS | LCS League S2",
           "year": 2025,
           "organizer": "LCS",
           "source": "hall-of-fame"
@@ -8170,8 +8170,8 @@ window.HBSTV_DATABASE = {
           "source": "hall-of-fame-3"
         },
         {
-          "id": "hof:2023:TSL:blastleague",
-          "title": "TSL | BLAST LEAGUE 2023",
+          "id": "2023:tslblaststrikeleague",
+          "title": "TSL | BLAST STRIKE LEAGUE",
           "year": 2023,
           "organizer": "TSL",
           "source": "hall-of-fame-3"
@@ -8191,22 +8191,22 @@ window.HBSTV_DATABASE = {
           "source": "hall-of-fame-3"
         },
         {
-          "id": "hof:2024:BCN:challengersbr",
-          "title": "BCN | CHALLENGERS BR 2024",
+          "id": "2024:bcnchallengers",
+          "title": "BCN | CHALLENGERS BRAZIL",
           "year": 2024,
           "organizer": "BCN",
           "source": "hall-of-fame-3"
         },
         {
-          "id": "hof:2024:LLP:strikeone40",
-          "title": "LLP | STRIKE ONE 4.0 2024",
+          "id": "2024:llpstrikeones4",
+          "title": "LLP | STRIKE ONE SEASON 4",
           "year": 2024,
           "organizer": "LLP",
           "source": "hall-of-fame-3"
         },
         {
-          "id": "hof:2024:PREMIER:premierleagueseriea",
-          "title": "Premier | Premier League Série A 2024",
+          "id": "2024:premierpremierleaguea",
+          "title": "PREMIER | PREMIER LEAGUE A",
           "year": 2024,
           "organizer": "PREMIER",
           "source": "hall-of-fame-3"
@@ -8652,9 +8652,26 @@ window.HBSTV_DATABASE = {
           "years": [
             2020
           ]
+        },
+        {
+          "id": "teaminfinity",
+          "name": "Team Infinity",
+          "years": [
+            2021
+          ]
         }
       ],
-      "titles": [],
+      "titles": [
+        {
+          "id": "2021:gsemasters",
+          "title": "GSE | Masters Inverno",
+          "year": 2021,
+          "teamId": "teaminfinity",
+          "team": "Team Infinity",
+          "major": false,
+          "source": "owner-confirmed"
+        }
+      ],
       "mvps": [],
       "evps": [],
       "rankings": [
@@ -9205,8 +9222,8 @@ window.HBSTV_DATABASE = {
           "source": "hall-of-fame"
         },
         {
-          "id": "hof:2024:WHL:worldrankingseason2",
-          "title": "WHL | WORLD RANKING SEASON 2 2024",
+          "id": "2024:whlworldrankings2",
+          "title": "WHL | WORLD RANKING S2",
           "year": 2024,
           "organizer": "WHL",
           "source": "hall-of-fame"
@@ -9219,8 +9236,8 @@ window.HBSTV_DATABASE = {
           "source": "hall-of-fame"
         },
         {
-          "id": "hof:2024:GAMEZONE:pslseason1",
-          "title": "GZ | PSL SEASON 1 2024",
+          "id": "2024:gzproseriesleague",
+          "title": "GAMEZONE | PRO SERIES LEAGUE",
           "year": 2024,
           "organizer": "GAMEZONE",
           "source": "hall-of-fame"
@@ -9240,8 +9257,8 @@ window.HBSTV_DATABASE = {
           "source": "hall-of-fame"
         },
         {
-          "id": "hof:2024:GAMEZONE:pslseason2",
-          "title": "GZ | PSL SEASON 2 2024",
+          "id": "2024:gzproseriesleagues2",
+          "title": "GAMEZONE | PRO SERIES LEAGUE SEASON 2",
           "year": 2024,
           "organizer": "GAMEZONE",
           "source": "hall-of-fame"
@@ -9261,8 +9278,8 @@ window.HBSTV_DATABASE = {
           "source": "hall-of-fame"
         },
         {
-          "id": "hof:2025:LCS:leagueseason1",
-          "title": "LCS | LEAGUE SEASON 1 2025",
+          "id": "2025:lcsleagues1",
+          "title": "LCS | LEAGUE S1",
           "year": 2025,
           "organizer": "LCS",
           "source": "hall-of-fame"
@@ -9826,8 +9843,8 @@ window.HBSTV_DATABASE = {
           "source": "hall-of-fame"
         },
         {
-          "id": "hof:2023:RANK S:dreamhack",
-          "title": "RanK S | DreamHacK 2023",
+          "id": "2023:ranksdreamhack",
+          "title": "RANK S | DREAM HACK BRAZIL",
           "year": 2023,
           "organizer": "RANK S",
           "source": "hall-of-fame"
@@ -12801,8 +12818,8 @@ window.HBSTV_DATABASE = {
           "source": "hall-of-fame"
         },
         {
-          "id": "hof:2024:LLP:strikeone",
-          "title": "LLP | STRIKE ONE 2024",
+          "id": "2024:llpstrikeones4",
+          "title": "LLP | STRIKE ONE SEASON 4",
           "year": 2024,
           "organizer": "LLP",
           "source": "hall-of-fame"
@@ -13809,8 +13826,8 @@ window.HBSTV_DATABASE = {
           "source": "hall-of-fame"
         },
         {
-          "id": "hof:2024:GAMEZONE:pslseason3",
-          "title": "GZ | PSL SEASON 3 2024",
+          "id": "2024:gzproseriesleagues3",
+          "title": "GAMEZONE | PRO SERIES LEAGUE SEASON 3",
           "year": 2024,
           "organizer": "GAMEZONE",
           "source": "hall-of-fame"
@@ -13858,15 +13875,15 @@ window.HBSTV_DATABASE = {
           "source": "hall-of-fame"
         },
         {
-          "id": "hof:2025:LCS:leagueseason1",
-          "title": "LCS | LEAGUE SEASON 1 2025",
+          "id": "2025:lcsleagues1",
+          "title": "LCS | LEAGUE S1",
           "year": 2025,
           "organizer": "LCS",
           "source": "hall-of-fame"
         },
         {
-          "id": "hof:2025:LCS:leagueseason2",
-          "title": "LCS | LEAGUE SEASON 2 2025",
+          "id": "2025:lcsleagues2",
+          "title": "LCS | LCS League S2",
           "year": 2025,
           "organizer": "LCS",
           "source": "hall-of-fame"
@@ -14283,8 +14300,8 @@ window.HBSTV_DATABASE = {
           "source": "hall-of-fame"
         },
         {
-          "id": "hof:2024:WHL:worldrankingseason2",
-          "title": "WHL | WORLD RANKING SEASON 2 2024",
+          "id": "2024:whlworldrankings2",
+          "title": "WHL | WORLD RANKING S2",
           "year": 2024,
           "organizer": "WHL",
           "source": "hall-of-fame"
@@ -14297,8 +14314,8 @@ window.HBSTV_DATABASE = {
           "source": "hall-of-fame"
         },
         {
-          "id": "hof:2024:GAMEZONE:pslseason1",
-          "title": "GZ | PSL SEASON 1 2024",
+          "id": "2024:gzproseriesleague",
+          "title": "GAMEZONE | PRO SERIES LEAGUE",
           "year": 2024,
           "organizer": "GAMEZONE",
           "source": "hall-of-fame"
@@ -14318,8 +14335,8 @@ window.HBSTV_DATABASE = {
           "source": "hall-of-fame"
         },
         {
-          "id": "hof:2024:GAMEZONE:pslseason2",
-          "title": "GZ | PSL SEASON 2 2024",
+          "id": "2024:gzproseriesleagues2",
+          "title": "GAMEZONE | PRO SERIES LEAGUE SEASON 2",
           "year": 2024,
           "organizer": "GAMEZONE",
           "source": "hall-of-fame"
@@ -14346,8 +14363,8 @@ window.HBSTV_DATABASE = {
           "source": "hall-of-fame"
         },
         {
-          "id": "hof:2025:BCN:finals",
-          "title": "BCN | FINALS 2025",
+          "id": "2025:bcnfinals",
+          "title": "BCN | FINALS 25",
           "year": 2025,
           "organizer": "BCN",
           "source": "hall-of-fame"
@@ -14872,15 +14889,15 @@ window.HBSTV_DATABASE = {
           "source": "hall-of-fame-3"
         },
         {
-          "id": "hof:2023:RANK S:invitational",
-          "title": "RANK S | INVITATIONAL 2023",
+          "id": "2023:ranksinvitational",
+          "title": "RANK S | INVITATIONAL LEAGUE 2023",
           "year": 2023,
           "organizer": "RANK S",
           "source": "hall-of-fame-3"
         },
         {
-          "id": "hof:2023:RANK S:dreamhack",
-          "title": "RANK S | DREAM HACK 2023",
+          "id": "2023:ranksdreamhack",
+          "title": "RANK S | DREAM HACK BRAZIL",
           "year": 2023,
           "organizer": "RANK S",
           "source": "hall-of-fame-3"
@@ -15808,8 +15825,8 @@ window.HBSTV_DATABASE = {
       "awards": [],
       "historicalTitles": [
         {
-          "id": "hof:2025:BCN:finals",
-          "title": "BCN | FINALS 2025",
+          "id": "2025:bcnfinals",
+          "title": "BCN | FINALS 25",
           "year": 2025,
           "organizer": "BCN",
           "source": "hall-of-fame"
@@ -15878,8 +15895,8 @@ window.HBSTV_DATABASE = {
           "source": "hall-of-fame"
         },
         {
-          "id": "hof:2023:RANK S:majorleague",
-          "title": "RANK S | MajoR LEAGUE 2023Ⓜ️",
+          "id": "major:67b535053e8ba3d242da",
+          "title": "RANK S | Major",
           "year": 2023,
           "organizer": "RANK S",
           "source": "hall-of-fame"
@@ -15966,6 +15983,15 @@ window.HBSTV_DATABASE = {
           "team": "CONTROL Z",
           "major": false,
           "source": "events-2024"
+        },
+        {
+          "id": "2021:gsemasters",
+          "title": "GSE | Masters Inverno",
+          "year": 2021,
+          "teamId": "teaminfinity",
+          "team": "Team Infinity",
+          "major": false,
+          "source": "owner-confirmed"
         },
         {
           "id": "major:86ed67893904be137a59",
@@ -18266,10 +18292,10 @@ window.HBSTV_DATABASE = {
           "shelzz",
           "ryota",
           "scream",
-          "rn",
           "conjure",
           "fugly",
-          "inovate"
+          "nescau",
+          "zenn"
         ],
         "year": 2021,
         "source": "Elenco anual da equipe em 2021",
@@ -22559,7 +22585,18 @@ window.HBSTV_DATABASE = {
             2021
           ],
           "sources": [
-            "top-1-teams-of-years"
+            "top-1-teams-of-years",
+            "owner-confirmed"
+          ]
+        },
+        {
+          "id": "nescau",
+          "name": "Nescau",
+          "years": [
+            2021
+          ],
+          "sources": [
+            "owner-confirmed"
           ]
         }
       ],
