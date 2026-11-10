@@ -2925,9 +2925,9 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [
         {
-          "id": "2020:pnlpeninsulacup",
+          "id": "2021:pnlpeninsulacup",
           "title": "PNL | Peninsula Cup",
-          "year": 2020,
+          "year": 2021,
           "major": false,
           "source": "owner-confirmed"
         }
@@ -3193,19 +3193,19 @@ window.HBSTV_DATABASE = {
           "source": "owner-confirmed"
         },
         {
+          "id": "2021:pnlpeninsulacup",
+          "title": "PNL | Peninsula Cup",
+          "year": 2021,
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
           "id": "major:4ed7f41456f8697e77c6",
           "title": "GSE | MAJOR Adrenaline",
           "year": 2020,
           "source": "major-history",
           "sourceImage": "assets/archive/4ed7f41456f8697e77c6.jpg",
           "major": true
-        },
-        {
-          "id": "2020:pnlpeninsulacup",
-          "title": "PNL | Peninsula Cup",
-          "year": 2020,
-          "major": false,
-          "source": "owner-confirmed"
         }
       ],
       "rankings": [
@@ -3260,9 +3260,9 @@ window.HBSTV_DATABASE = {
           "source": "owner-confirmed"
         },
         {
-          "id": "2020:pnlpeninsulacup",
+          "id": "2021:pnlpeninsulacup",
           "title": "PNL | Peninsula Cup",
-          "year": 2020,
+          "year": 2021,
           "major": false,
           "source": "owner-confirmed"
         }
@@ -7646,9 +7646,9 @@ window.HBSTV_DATABASE = {
       ],
       "evps": [
         {
-          "id": "2020:pnlpeninsulacup",
+          "id": "2021:pnlpeninsulacup",
           "title": "PNL | Peninsula Cup",
-          "year": 2020,
+          "year": 2021,
           "major": false,
           "source": "owner-confirmed"
         }
@@ -12717,9 +12717,9 @@ window.HBSTV_DATABASE = {
       ],
       "mvps": [
         {
-          "id": "2020:pnlpeninsulacup",
+          "id": "2021:pnlpeninsulacup",
           "title": "PNL | Peninsula Cup",
-          "year": 2020,
+          "year": 2021,
           "major": false,
           "source": "owner-confirmed"
         }
@@ -14193,6 +14193,13 @@ window.HBSTV_DATABASE = {
           "source": "owner-confirmed"
         },
         {
+          "id": "2021:pnlpeninsulacup",
+          "title": "PNL | Peninsula Cup",
+          "year": 2021,
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
           "id": "2020:acecup",
           "title": "ACE | Cup Season 1",
           "year": 2020,
@@ -14202,13 +14209,6 @@ window.HBSTV_DATABASE = {
         {
           "id": "2020:lcbproleague",
           "title": "LCB | Pro League",
-          "year": 2020,
-          "major": false,
-          "source": "owner-confirmed"
-        },
-        {
-          "id": "2020:pnlpeninsulacup",
-          "title": "PNL | Peninsula Cup",
           "year": 2020,
           "major": false,
           "source": "owner-confirmed"
@@ -18029,15 +18029,15 @@ window.HBSTV_DATABASE = {
           "source": "events-2023"
         },
         {
-          "id": "2020:lcbproleague",
-          "title": "LCB | Pro League",
-          "year": 2020,
+          "id": "2021:pnlpeninsulacup",
+          "title": "PNL | Peninsula Cup",
+          "year": 2021,
           "major": false,
           "source": "owner-confirmed"
         },
         {
-          "id": "2020:pnlpeninsulacup",
-          "title": "PNL | Peninsula Cup",
+          "id": "2020:lcbproleague",
+          "title": "LCB | Pro League",
           "year": 2020,
           "major": false,
           "source": "owner-confirmed"
@@ -20404,13 +20404,27 @@ window.HBSTV_DATABASE = {
         "teaminfinity"
       ],
       "roster": [],
-      "mvps": [],
-      "evps": [],
-      "sources": [
-        "top-1-teams-of-years"
+      "mvps": [
+        "ryota"
       ],
-      "notes": [],
+      "evps": [
+        "broky",
+        "zenn",
+        "jigsaw",
+        "conjure",
+        "shelzz"
+      ],
+      "sources": [
+        "top-1-teams-of-years",
+        "owner-confirmed"
+      ],
+      "notes": [
+        "Premiações individuais confirmadas pelo responsável pelo site."
+      ],
       "images": [],
+      "mvs": [
+        "conjure"
+      ],
       "rosterReference": {
         "players": [
           "shelzz",
@@ -20826,54 +20840,6 @@ window.HBSTV_DATABASE = {
       ],
       "notes": [],
       "images": [],
-      "rosterReference": {
-        "players": [
-          "shelzz",
-          "ryota",
-          "scream",
-          "nescau",
-          "zenn",
-          "rn",
-          "adren",
-          "conjure",
-          "fugly"
-        ],
-        "year": 2020,
-        "source": "Elenco anual da equipe em 2020",
-        "kind": "annual-team"
-      }
-    },
-    {
-      "id": "2020:pnlpeninsulacup",
-      "title": "PNL | Peninsula Cup",
-      "year": 2020,
-      "organizer": "PNL",
-      "major": false,
-      "winners": [
-        "pentaesports"
-      ],
-      "roster": [],
-      "mvps": [
-        "ryota"
-      ],
-      "evps": [
-        "broky",
-        "zenn",
-        "jigsaw",
-        "conjure",
-        "shelzz"
-      ],
-      "sources": [
-        "owner-confirmed"
-      ],
-      "notes": [
-        "Campeã confirmada pelo responsável pelo site.",
-        "Premiações individuais confirmadas pelo responsável pelo site."
-      ],
-      "images": [],
-      "mvs": [
-        "conjure"
-      ],
       "rosterReference": {
         "players": [
           "shelzz",
@@ -21922,213 +21888,6 @@ window.HBSTV_DATABASE = {
       ]
     },
     {
-      "id": "pentaesports",
-      "name": "PENTA eSports",
-      "aliases": [
-        "PENTA",
-        "Penta E-sports",
-        "penta",
-        "pentaesports",
-        "pnt"
-      ],
-      "titles": [
-        {
-          "id": "2020:acecup",
-          "title": "ACE | Cup Season 1",
-          "year": 2020,
-          "source": "top-1-teams-of-years",
-          "major": false,
-          "roster": [],
-          "summary": true
-        },
-        {
-          "id": "2020:gseproleague",
-          "title": "GSE Pro League",
-          "year": 2020,
-          "source": "top-1-teams-of-years",
-          "major": false,
-          "roster": [],
-          "summary": true
-        },
-        {
-          "id": "2020:gsetour",
-          "title": "GSE Tour",
-          "year": 2020,
-          "source": "top-1-teams-of-years",
-          "major": false,
-          "roster": [],
-          "summary": true
-        },
-        {
-          "id": "2020:lcbproleague",
-          "title": "LCB | Pro League",
-          "year": 2020,
-          "source": "top-1-teams-of-years",
-          "major": false,
-          "roster": [],
-          "summary": true
-        },
-        {
-          "id": "2020:mawares",
-          "title": "MAWARE Season",
-          "year": 2020,
-          "source": "top-1-teams-of-years",
-          "major": false,
-          "roster": [],
-          "summary": true
-        },
-        {
-          "id": "2020:pnlpeninsulacup",
-          "title": "PNL | Peninsula Cup",
-          "year": 2020,
-          "source": "owner-confirmed",
-          "sourceNote": "Campeã confirmada pelo responsável pelo site.",
-          "manual": true,
-          "major": false,
-          "roster": []
-        },
-        {
-          "id": "2020:tslmjonircup",
-          "title": "TSL Mjonir Cup",
-          "year": 2020,
-          "source": "top-1-teams-of-years",
-          "major": false,
-          "roster": [],
-          "summary": true
-        },
-        {
-          "id": "2020:tslnodus",
-          "title": "TSL Nodus",
-          "year": 2020,
-          "source": "top-1-teams-of-years",
-          "major": false,
-          "roster": [],
-          "summary": true
-        },
-        {
-          "id": "2020:tslrenovatedgameleague",
-          "title": "TSL Renovated Game League",
-          "year": 2020,
-          "source": "top-1-teams-of-years",
-          "major": false,
-          "roster": [],
-          "summary": true
-        }
-      ],
-      "members": [
-        {
-          "id": "adren",
-          "name": "AdreN",
-          "years": [
-            2020
-          ],
-          "sources": [
-            "top-1-teams-of-years"
-          ]
-        },
-        {
-          "id": "conjure",
-          "name": "c0njure",
-          "years": [
-            2020
-          ],
-          "sources": [
-            "top-1-teams-of-years"
-          ]
-        },
-        {
-          "id": "fugly",
-          "name": "FugLY",
-          "years": [
-            2020
-          ],
-          "sources": [
-            "top-1-teams-of-years"
-          ]
-        },
-        {
-          "id": "nescau",
-          "name": "Nescau",
-          "years": [
-            2020
-          ],
-          "sources": [
-            "top-1-teams-of-years"
-          ]
-        },
-        {
-          "id": "rn",
-          "name": "RN",
-          "years": [
-            2020
-          ],
-          "sources": [
-            "top-1-teams-of-years"
-          ]
-        },
-        {
-          "id": "ryota",
-          "name": "ry0ta",
-          "years": [
-            2020
-          ],
-          "sources": [
-            "top-1-teams-of-years"
-          ]
-        },
-        {
-          "id": "scream",
-          "name": "ScreaM",
-          "years": [
-            2020
-          ],
-          "sources": [
-            "top-1-teams-of-years"
-          ]
-        },
-        {
-          "id": "shelzz",
-          "name": "ShelzZ",
-          "years": [
-            2020
-          ],
-          "sources": [
-            "top-1-teams-of-years"
-          ]
-        },
-        {
-          "id": "zenn",
-          "name": "zenn",
-          "years": [
-            2020
-          ],
-          "sources": [
-            "top-1-teams-of-years"
-          ]
-        }
-      ],
-      "rankings": [
-        {
-          "year": 2020,
-          "rank": 1
-        }
-      ],
-      "logo": {
-        "src": "assets/archive/dfd80ec13b6069c38926.jpg",
-        "crop": {
-          "x": 0.02403846153846154,
-          "y": 0.029787234042553193,
-          "w": 0.1794871794871795,
-          "h": 0.15886524822695036
-        }
-      },
-      "searchAliases": [
-        "penta",
-        "pentaesports",
-        "pnt"
-      ]
-    },
-    {
       "id": "chaos",
       "name": "Chaos",
       "aliases": [
@@ -22817,6 +22576,203 @@ window.HBSTV_DATABASE = {
         "chaos",
         "chaossportsclub",
         "chs"
+      ]
+    },
+    {
+      "id": "pentaesports",
+      "name": "PENTA eSports",
+      "aliases": [
+        "PENTA",
+        "Penta E-sports",
+        "penta",
+        "pentaesports",
+        "pnt"
+      ],
+      "titles": [
+        {
+          "id": "2020:acecup",
+          "title": "ACE | Cup Season 1",
+          "year": 2020,
+          "source": "top-1-teams-of-years",
+          "major": false,
+          "roster": [],
+          "summary": true
+        },
+        {
+          "id": "2020:gseproleague",
+          "title": "GSE Pro League",
+          "year": 2020,
+          "source": "top-1-teams-of-years",
+          "major": false,
+          "roster": [],
+          "summary": true
+        },
+        {
+          "id": "2020:gsetour",
+          "title": "GSE Tour",
+          "year": 2020,
+          "source": "top-1-teams-of-years",
+          "major": false,
+          "roster": [],
+          "summary": true
+        },
+        {
+          "id": "2020:lcbproleague",
+          "title": "LCB | Pro League",
+          "year": 2020,
+          "source": "top-1-teams-of-years",
+          "major": false,
+          "roster": [],
+          "summary": true
+        },
+        {
+          "id": "2020:mawares",
+          "title": "MAWARE Season",
+          "year": 2020,
+          "source": "top-1-teams-of-years",
+          "major": false,
+          "roster": [],
+          "summary": true
+        },
+        {
+          "id": "2020:tslmjonircup",
+          "title": "TSL Mjonir Cup",
+          "year": 2020,
+          "source": "top-1-teams-of-years",
+          "major": false,
+          "roster": [],
+          "summary": true
+        },
+        {
+          "id": "2020:tslnodus",
+          "title": "TSL Nodus",
+          "year": 2020,
+          "source": "top-1-teams-of-years",
+          "major": false,
+          "roster": [],
+          "summary": true
+        },
+        {
+          "id": "2020:tslrenovatedgameleague",
+          "title": "TSL Renovated Game League",
+          "year": 2020,
+          "source": "top-1-teams-of-years",
+          "major": false,
+          "roster": [],
+          "summary": true
+        }
+      ],
+      "members": [
+        {
+          "id": "adren",
+          "name": "AdreN",
+          "years": [
+            2020
+          ],
+          "sources": [
+            "top-1-teams-of-years"
+          ]
+        },
+        {
+          "id": "conjure",
+          "name": "c0njure",
+          "years": [
+            2020
+          ],
+          "sources": [
+            "top-1-teams-of-years"
+          ]
+        },
+        {
+          "id": "fugly",
+          "name": "FugLY",
+          "years": [
+            2020
+          ],
+          "sources": [
+            "top-1-teams-of-years"
+          ]
+        },
+        {
+          "id": "nescau",
+          "name": "Nescau",
+          "years": [
+            2020
+          ],
+          "sources": [
+            "top-1-teams-of-years"
+          ]
+        },
+        {
+          "id": "rn",
+          "name": "RN",
+          "years": [
+            2020
+          ],
+          "sources": [
+            "top-1-teams-of-years"
+          ]
+        },
+        {
+          "id": "ryota",
+          "name": "ry0ta",
+          "years": [
+            2020
+          ],
+          "sources": [
+            "top-1-teams-of-years"
+          ]
+        },
+        {
+          "id": "scream",
+          "name": "ScreaM",
+          "years": [
+            2020
+          ],
+          "sources": [
+            "top-1-teams-of-years"
+          ]
+        },
+        {
+          "id": "shelzz",
+          "name": "ShelzZ",
+          "years": [
+            2020
+          ],
+          "sources": [
+            "top-1-teams-of-years"
+          ]
+        },
+        {
+          "id": "zenn",
+          "name": "zenn",
+          "years": [
+            2020
+          ],
+          "sources": [
+            "top-1-teams-of-years"
+          ]
+        }
+      ],
+      "rankings": [
+        {
+          "year": 2020,
+          "rank": 1
+        }
+      ],
+      "logo": {
+        "src": "assets/archive/dfd80ec13b6069c38926.jpg",
+        "crop": {
+          "x": 0.02403846153846154,
+          "y": 0.029787234042553193,
+          "w": 0.1794871794871795,
+          "h": 0.15886524822695036
+        }
+      },
+      "searchAliases": [
+        "penta",
+        "pentaesports",
+        "pnt"
       ]
     },
     {
@@ -24521,7 +24477,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2021:pnlpeninsulacup",
-          "title": "PNL Peninsula Cup",
+          "title": "PNL | Peninsula Cup",
           "year": 2021,
           "source": "top-1-teams-of-years",
           "major": false,
