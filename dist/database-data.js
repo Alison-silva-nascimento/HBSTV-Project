@@ -14092,6 +14092,13 @@ window.HBSTV_DATABASE = {
           ]
         },
         {
+          "id": "vissionary",
+          "name": "Vissionary",
+          "years": [
+            2024
+          ]
+        },
+        {
           "id": "teaminfinity",
           "name": "Team Infinity",
           "years": [
@@ -14440,6 +14447,12 @@ window.HBSTV_DATABASE = {
           "name": "SDP Interlude",
           "year": 2024,
           "rank": 2
+        },
+        {
+          "teamId": "vissionary",
+          "name": "Vissionary",
+          "year": 2024,
+          "rank": 4
         },
         {
           "teamId": "teaminfinity",
@@ -26994,6 +27007,16 @@ window.HBSTV_DATABASE = {
           ],
           "sources": [
             "events-2024"
+          ]
+        },
+        {
+          "id": "shelzz",
+          "name": "ShelzZ",
+          "years": [
+            2024
+          ],
+          "sources": [
+            "Passagem pela VISS em 2024 confirmada pelo proprietário do site."
           ]
         },
         {

@@ -10375,6 +10375,13 @@ window.HBSTV_PLAYER_INDEX = {
           ]
         },
         {
+          "id": "vissionary",
+          "name": "Vissionary",
+          "years": [
+            2024
+          ]
+        },
+        {
           "id": "teaminfinity",
           "name": "Team Infinity",
           "years": [

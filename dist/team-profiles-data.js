@@ -5335,6 +5335,16 @@ window.HBSTV_TEAMS = [
         ]
       },
       {
+        "id": "shelzz",
+        "name": "ShelzZ",
+        "years": [
+          2024
+        ],
+        "sources": [
+          "Passagem pela VISS em 2024 confirmada pelo proprietário do site."
+        ]
+      },
+      {
         "id": "shiver",
         "name": "Shiver",
         "years": [
