@@ -29149,7 +29149,8 @@ window.HBSTV_DATABASE = {
       "id": "shadowwarrior",
       "name": "SHADOW WARRIOR",
       "aliases": [
-        "SHADOW WARRIOR"
+        "SHADOW WARRIOR",
+        "sw"
       ],
       "titles": [],
       "members": [
@@ -29269,7 +29270,9 @@ window.HBSTV_DATABASE = {
           "h": 0.15300546448087432
         }
       },
-      "searchAliases": []
+      "searchAliases": [
+        "sw"
+      ]
     },
     {
       "id": "thunderzgaming",
