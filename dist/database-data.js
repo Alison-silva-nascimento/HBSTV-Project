@@ -12181,35 +12181,13 @@ window.HBSTV_DATABASE = {
       "topFiveTeams": []
     },
     {
-      "id": "reidogame",
-      "name": "ReiDoGame",
-      "aliases": [
-        "ReiDoGame"
-      ],
-      "realNames": [],
-      "teams": [],
-      "titles": [],
-      "mvps": [],
-      "evps": [
-        {
-          "id": "2020:acecup",
-          "title": "ACE | Cup Season 1",
-          "year": 2020,
-          "major": false,
-          "source": "owner-confirmed"
-        }
-      ],
-      "rankings": [],
-      "awards": [],
-      "topFiveTeams": []
-    },
-    {
       "id": "rn",
       "name": "RN",
       "aliases": [
         "rN",
         "RN",
-        "Rn"
+        "Rn",
+        "ReiDoGame"
       ],
       "realNames": [],
       "teams": [
@@ -12350,6 +12328,13 @@ window.HBSTV_DATABASE = {
           "source": "major-history",
           "sourceImage": "assets/archive/007759b02a7d7543b0a1.jpeg",
           "major": true
+        },
+        {
+          "id": "2020:acecup",
+          "title": "ACE | Cup Season 1",
+          "year": 2020,
+          "major": false,
+          "source": "owner-confirmed"
         }
       ],
       "rankings": [
@@ -18327,7 +18312,8 @@ window.HBSTV_DATABASE = {
     "misutaa": "misuuta",
     "benzin": "BENZ1N",
     "kauan": "Nescau",
-    "kscerato": "ScreaM"
+    "kscerato": "ScreaM",
+    "reidogame": "RN"
   },
   "events": [
     {
@@ -20569,7 +20555,7 @@ window.HBSTV_DATABASE = {
         "zenn"
       ],
       "evps": [
-        "reidogame",
+        "rn",
         "scream",
         "sharp1",
         "force",

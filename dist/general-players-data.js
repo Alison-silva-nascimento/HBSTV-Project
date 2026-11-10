@@ -39,7 +39,8 @@ window.HBSTV_PLAYER_INDEX = {
     "misutaa": "misuuta",
     "benzin": "BENZ1N",
     "kauan": "Nescau",
-    "kscerato": "ScreaM"
+    "kscerato": "ScreaM",
+    "reidogame": "RN"
   },
   "players": [
     {
@@ -9183,26 +9184,13 @@ window.HBSTV_PLAYER_INDEX = {
       "awards": []
     },
     {
-      "id": "reidogame",
-      "name": "ReiDoGame",
-      "aliases": [
-        "ReiDoGame"
-      ],
-      "realNames": [],
-      "teams": [],
-      "titles": [],
-      "mvps": [],
-      "evps": [],
-      "rankings": [],
-      "awards": []
-    },
-    {
       "id": "rn",
       "name": "rN",
       "aliases": [
         "rN",
         "RN",
-        "Rn"
+        "Rn",
+        "ReiDoGame"
       ],
       "realNames": [],
       "teams": [
