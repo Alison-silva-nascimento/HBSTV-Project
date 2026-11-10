@@ -28628,7 +28628,8 @@ window.HBSTV_DATABASE = {
       "id": "estadoislamico",
       "name": "ESTADO ISLÂMICO",
       "aliases": [
-        "ESTADO ISLÂMICO"
+        "ESTADO ISLÂMICO",
+        "ei"
       ],
       "titles": [],
       "members": [],
@@ -28647,7 +28648,9 @@ window.HBSTV_DATABASE = {
           "h": 0.15300546448087432
         }
       },
-      "searchAliases": []
+      "searchAliases": [
+        "ei"
+      ]
     },
     {
       "id": "firstlegion",
@@ -28703,7 +28706,8 @@ window.HBSTV_DATABASE = {
       "id": "pir4tas",
       "name": "PIR4TAS",
       "aliases": [
-        "PIR4TAS"
+        "PIR4TAS",
+        "p4"
       ],
       "titles": [],
       "members": [],
@@ -28722,7 +28726,9 @@ window.HBSTV_DATABASE = {
           "h": 0.15300546448087432
         }
       },
-      "searchAliases": []
+      "searchAliases": [
+        "p4"
+      ]
     },
     {
       "id": "primeirocomando",

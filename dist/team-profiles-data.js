@@ -9016,7 +9016,9 @@ window.HBSTV_TEAMS = [
         "h": 0.15300546448087432
       }
     },
-    "searchAliases": []
+    "searchAliases": [
+      "ei"
+    ]
   },
   {
     "id": "firstlegion",
@@ -9091,7 +9093,9 @@ window.HBSTV_TEAMS = [
         "h": 0.15300546448087432
       }
     },
-    "searchAliases": []
+    "searchAliases": [
+      "p4"
+    ]
   },
   {
     "id": "primeirocomando",
