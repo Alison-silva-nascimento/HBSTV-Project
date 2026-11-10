@@ -121,6 +121,13 @@ window.HBSTV_DATABASE = {
           "years": [
             2018
           ]
+        },
+        {
+          "id": "pir4tas",
+          "name": "PIR4TAS",
+          "years": [
+            2017
+          ]
         }
       ],
       "titles": [
@@ -258,6 +265,15 @@ window.HBSTV_DATABASE = {
           "team": "RAZER",
           "major": true,
           "source": "major-history"
+        },
+        {
+          "id": "2017:tslmajorcup",
+          "title": "TSL | MAJOR CUP",
+          "year": 2017,
+          "teamId": "pir4tas",
+          "team": "PIR4TAS",
+          "major": false,
+          "source": "owner-confirmed"
         }
       ],
       "mvps": [
@@ -684,6 +700,7 @@ window.HBSTV_DATABASE = {
       "name": "4kkp",
       "aliases": [
         "4kkp",
+        "4KKp",
         "4Kpp"
       ],
       "realNames": [],
@@ -701,6 +718,13 @@ window.HBSTV_DATABASE = {
           "years": [
             2018
           ]
+        },
+        {
+          "id": "pir4tas",
+          "name": "PIR4TAS",
+          "years": [
+            2017
+          ]
         }
       ],
       "titles": [
@@ -712,6 +736,15 @@ window.HBSTV_DATABASE = {
           "team": "RAZER",
           "major": true,
           "source": "major-history"
+        },
+        {
+          "id": "2017:tslmajorcup",
+          "title": "TSL | MAJOR CUP",
+          "year": 2017,
+          "teamId": "pir4tas",
+          "team": "PIR4TAS",
+          "major": false,
+          "source": "owner-confirmed"
         }
       ],
       "mvps": [],
@@ -9883,8 +9916,8 @@ window.HBSTV_DATABASE = {
       "id": "over",
       "name": "OveR",
       "aliases": [
-        "Over",
-        "OveR"
+        "OveR",
+        "Over"
       ],
       "realNames": [],
       "teams": [
@@ -9893,6 +9926,13 @@ window.HBSTV_DATABASE = {
           "name": "STOMPA TOP TEAM",
           "years": [
             2018
+          ]
+        },
+        {
+          "id": "pir4tas",
+          "name": "PIR4TAS",
+          "years": [
+            2017
           ]
         }
       ],
@@ -9903,6 +9943,15 @@ window.HBSTV_DATABASE = {
           "year": 2018,
           "teamId": "stompatopteam",
           "team": "STOMPA TOP TEAM",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2017:tslmajorcup",
+          "title": "TSL | MAJOR CUP",
+          "year": 2017,
+          "teamId": "pir4tas",
+          "team": "PIR4TAS",
           "major": false,
           "source": "owner-confirmed"
         }
@@ -9938,6 +9987,38 @@ window.HBSTV_DATABASE = {
           "source": "hall-of-fame-3"
         }
       ]
+    },
+    {
+      "id": "page",
+      "name": "Page",
+      "aliases": [
+        "Page"
+      ],
+      "realNames": [],
+      "teams": [
+        {
+          "id": "pir4tas",
+          "name": "PIR4TAS",
+          "years": [
+            2017
+          ]
+        }
+      ],
+      "titles": [
+        {
+          "id": "2017:tslmajorcup",
+          "title": "TSL | MAJOR CUP",
+          "year": 2017,
+          "teamId": "pir4tas",
+          "team": "PIR4TAS",
+          "major": false,
+          "source": "owner-confirmed"
+        }
+      ],
+      "mvps": [],
+      "evps": [],
+      "rankings": [],
+      "awards": []
     },
     {
       "id": "pala4",
@@ -11497,14 +11578,32 @@ window.HBSTV_DATABASE = {
     },
     {
       "id": "s1mple",
-      "name": "S1mple",
+      "name": "s1mple",
       "aliases": [
-        "S1mple",
-        "s1mple"
+        "s1mple",
+        "S1mple"
       ],
       "realNames": [],
-      "teams": [],
-      "titles": [],
+      "teams": [
+        {
+          "id": "pir4tas",
+          "name": "PIR4TAS",
+          "years": [
+            2017
+          ]
+        }
+      ],
+      "titles": [
+        {
+          "id": "2017:tslmajorcup",
+          "title": "TSL | MAJOR CUP",
+          "year": 2017,
+          "teamId": "pir4tas",
+          "team": "PIR4TAS",
+          "major": false,
+          "source": "owner-confirmed"
+        }
+      ],
       "mvps": [],
       "evps": [],
       "rankings": [
@@ -11704,6 +11803,13 @@ window.HBSTV_DATABASE = {
           "years": [
             2019
           ]
+        },
+        {
+          "id": "pir4tas",
+          "name": "PIR4TAS",
+          "years": [
+            2017
+          ]
         }
       ],
       "titles": [
@@ -11715,6 +11821,15 @@ window.HBSTV_DATABASE = {
           "team": "Temp Stormy / GC 2019",
           "major": true,
           "source": "major-history"
+        },
+        {
+          "id": "2017:tslmajorcup",
+          "title": "TSL | MAJOR CUP",
+          "year": 2017,
+          "teamId": "pir4tas",
+          "team": "PIR4TAS",
+          "major": false,
+          "source": "owner-confirmed"
         }
       ],
       "mvps": [],
@@ -12524,6 +12639,13 @@ window.HBSTV_DATABASE = {
           "years": [
             2018
           ]
+        },
+        {
+          "id": "pir4tas",
+          "name": "PIR4TAS",
+          "years": [
+            2017
+          ]
         }
       ],
       "titles": [
@@ -12571,6 +12693,15 @@ window.HBSTV_DATABASE = {
           "team": "RAZER",
           "major": true,
           "source": "major-history"
+        },
+        {
+          "id": "2017:tslmajorcup",
+          "title": "TSL | MAJOR CUP",
+          "year": 2017,
+          "teamId": "pir4tas",
+          "team": "PIR4TAS",
+          "major": false,
+          "source": "owner-confirmed"
         }
       ],
       "mvps": [],
@@ -15972,6 +16103,13 @@ window.HBSTV_DATABASE = {
           "years": [
             2020
           ]
+        },
+        {
+          "id": "pir4tas",
+          "name": "PIR4TAS",
+          "years": [
+            2017
+          ]
         }
       ],
       "titles": [
@@ -16001,6 +16139,15 @@ window.HBSTV_DATABASE = {
           "team": "GT 2021",
           "major": true,
           "source": "major-history"
+        },
+        {
+          "id": "2017:tslmajorcup",
+          "title": "TSL | MAJOR CUP",
+          "year": 2017,
+          "teamId": "pir4tas",
+          "team": "PIR4TAS",
+          "major": false,
+          "source": "owner-confirmed"
         }
       ],
       "mvps": [
@@ -19579,7 +19726,16 @@ window.HBSTV_DATABASE = {
       "winners": [
         "pir4tas"
       ],
-      "roster": [],
+      "roster": [
+        "4i2o",
+        "shelzz",
+        "4kkp",
+        "over",
+        "s1mple",
+        "page",
+        "sansey",
+        "zenn"
+      ],
       "mvps": [],
       "evps": [],
       "sources": [
@@ -27931,10 +28087,100 @@ window.HBSTV_DATABASE = {
           "sourceNote": "A P4 foi a primeira equipe campeã da história do Block Strike, conforme confirmado pelo responsável pelo site.",
           "manual": true,
           "major": false,
-          "roster": []
+          "roster": [
+            "4i20",
+            "ShelzZ",
+            "4KKp",
+            "OveR",
+            "s1mple",
+            "Page",
+            "SanSey",
+            "zenn"
+          ]
         }
       ],
-      "members": [],
+      "members": [
+        {
+          "id": "4i2o",
+          "name": "4i20",
+          "years": [
+            2017
+          ],
+          "sources": [
+            "A P4 foi a primeira equipe campeã da história do Block Strike, conforme confirmado pelo responsável pelo site."
+          ]
+        },
+        {
+          "id": "4kkp",
+          "name": "4KKp",
+          "years": [
+            2017
+          ],
+          "sources": [
+            "A P4 foi a primeira equipe campeã da história do Block Strike, conforme confirmado pelo responsável pelo site."
+          ]
+        },
+        {
+          "id": "over",
+          "name": "OveR",
+          "years": [
+            2017
+          ],
+          "sources": [
+            "A P4 foi a primeira equipe campeã da história do Block Strike, conforme confirmado pelo responsável pelo site."
+          ]
+        },
+        {
+          "id": "page",
+          "name": "Page",
+          "years": [
+            2017
+          ],
+          "sources": [
+            "A P4 foi a primeira equipe campeã da história do Block Strike, conforme confirmado pelo responsável pelo site."
+          ]
+        },
+        {
+          "id": "s1mple",
+          "name": "s1mple",
+          "years": [
+            2017
+          ],
+          "sources": [
+            "A P4 foi a primeira equipe campeã da história do Block Strike, conforme confirmado pelo responsável pelo site."
+          ]
+        },
+        {
+          "id": "sansey",
+          "name": "SanSey",
+          "years": [
+            2017
+          ],
+          "sources": [
+            "A P4 foi a primeira equipe campeã da história do Block Strike, conforme confirmado pelo responsável pelo site."
+          ]
+        },
+        {
+          "id": "shelzz",
+          "name": "ShelzZ",
+          "years": [
+            2017
+          ],
+          "sources": [
+            "A P4 foi a primeira equipe campeã da história do Block Strike, conforme confirmado pelo responsável pelo site."
+          ]
+        },
+        {
+          "id": "zenn",
+          "name": "zenn",
+          "years": [
+            2017
+          ],
+          "sources": [
+            "A P4 foi a primeira equipe campeã da história do Block Strike, conforme confirmado pelo responsável pelo site."
+          ]
+        }
+      ],
       "rankings": [
         {
           "year": 2017,

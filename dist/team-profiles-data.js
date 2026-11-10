@@ -8280,10 +8280,100 @@ window.HBSTV_TEAMS = [
         "sourceNote": "A P4 foi a primeira equipe campeã da história do Block Strike, conforme confirmado pelo responsável pelo site.",
         "manual": true,
         "major": false,
-        "roster": []
+        "roster": [
+          "4i20",
+          "ShelzZ",
+          "4KKp",
+          "OveR",
+          "s1mple",
+          "Page",
+          "SanSey",
+          "zenn"
+        ]
       }
     ],
-    "members": [],
+    "members": [
+      {
+        "id": "4i2o",
+        "name": "4i20",
+        "years": [
+          2017
+        ],
+        "sources": [
+          "A P4 foi a primeira equipe campeã da história do Block Strike, conforme confirmado pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "4kkp",
+        "name": "4KKp",
+        "years": [
+          2017
+        ],
+        "sources": [
+          "A P4 foi a primeira equipe campeã da história do Block Strike, conforme confirmado pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "over",
+        "name": "OveR",
+        "years": [
+          2017
+        ],
+        "sources": [
+          "A P4 foi a primeira equipe campeã da história do Block Strike, conforme confirmado pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "page",
+        "name": "Page",
+        "years": [
+          2017
+        ],
+        "sources": [
+          "A P4 foi a primeira equipe campeã da história do Block Strike, conforme confirmado pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "s1mple",
+        "name": "s1mple",
+        "years": [
+          2017
+        ],
+        "sources": [
+          "A P4 foi a primeira equipe campeã da história do Block Strike, conforme confirmado pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "sansey",
+        "name": "SanSey",
+        "years": [
+          2017
+        ],
+        "sources": [
+          "A P4 foi a primeira equipe campeã da história do Block Strike, conforme confirmado pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "shelzz",
+        "name": "ShelzZ",
+        "years": [
+          2017
+        ],
+        "sources": [
+          "A P4 foi a primeira equipe campeã da história do Block Strike, conforme confirmado pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "zenn",
+        "name": "zenn",
+        "years": [
+          2017
+        ],
+        "sources": [
+          "A P4 foi a primeira equipe campeã da história do Block Strike, conforme confirmado pelo responsável pelo site."
+        ]
+      }
+    ],
     "rankings": [
       {
         "year": 2017,

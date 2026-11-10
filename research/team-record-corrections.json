@@ -72,8 +72,17 @@
     "titles": [
       "TSL | MAJOR CUP"
     ],
-    "players": [],
-    "rosterConfirmed": false,
+    "players": [
+      "4i20",
+      "ShelzZ",
+      "4KKp",
+      "OveR",
+      "s1mple",
+      "Page",
+      "SanSey",
+      "zenn"
+    ],
+    "rosterConfirmed": true,
     "source": "A P4 foi a primeira equipe campeã da história do Block Strike, conforme confirmado pelo responsável pelo site."
   }
 ]

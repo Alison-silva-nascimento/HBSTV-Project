@@ -161,6 +161,13 @@ window.HBSTV_PLAYER_INDEX = {
           "years": [
             2018
           ]
+        },
+        {
+          "id": "pir4tas",
+          "name": "PIR4TAS",
+          "years": [
+            2017
+          ]
         }
       ],
       "titles": [
@@ -298,6 +305,15 @@ window.HBSTV_PLAYER_INDEX = {
           "team": "RAZER",
           "major": true,
           "source": "major-history"
+        },
+        {
+          "id": "2017:tslmajorcup",
+          "title": "TSL | MAJOR CUP",
+          "year": 2017,
+          "teamId": "pir4tas",
+          "team": "PIR4TAS",
+          "major": false,
+          "source": "owner-confirmed"
         }
       ],
       "mvps": [
@@ -533,6 +549,7 @@ window.HBSTV_PLAYER_INDEX = {
       "name": "4kkp",
       "aliases": [
         "4kkp",
+        "4KKp",
         "4Kpp"
       ],
       "realNames": [],
@@ -550,6 +567,13 @@ window.HBSTV_PLAYER_INDEX = {
           "years": [
             2018
           ]
+        },
+        {
+          "id": "pir4tas",
+          "name": "PIR4TAS",
+          "years": [
+            2017
+          ]
         }
       ],
       "titles": [
@@ -561,6 +585,15 @@ window.HBSTV_PLAYER_INDEX = {
           "team": "RAZER",
           "major": true,
           "source": "major-history"
+        },
+        {
+          "id": "2017:tslmajorcup",
+          "title": "TSL | MAJOR CUP",
+          "year": 2017,
+          "teamId": "pir4tas",
+          "team": "PIR4TAS",
+          "major": false,
+          "source": "owner-confirmed"
         }
       ],
       "mvps": [],
@@ -8173,10 +8206,10 @@ window.HBSTV_PLAYER_INDEX = {
     },
     {
       "id": "over",
-      "name": "Over",
+      "name": "OveR",
       "aliases": [
-        "Over",
-        "OveR"
+        "OveR",
+        "Over"
       ],
       "realNames": [],
       "teams": [
@@ -8185,6 +8218,13 @@ window.HBSTV_PLAYER_INDEX = {
           "name": "STOMPA TOP TEAM",
           "years": [
             2018
+          ]
+        },
+        {
+          "id": "pir4tas",
+          "name": "PIR4TAS",
+          "years": [
+            2017
           ]
         }
       ],
@@ -8195,6 +8235,15 @@ window.HBSTV_PLAYER_INDEX = {
           "year": 2018,
           "teamId": "stompatopteam",
           "team": "STOMPA TOP TEAM",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2017:tslmajorcup",
+          "title": "TSL | MAJOR CUP",
+          "year": 2017,
+          "teamId": "pir4tas",
+          "team": "PIR4TAS",
           "major": false,
           "source": "owner-confirmed"
         }
@@ -8213,6 +8262,38 @@ window.HBSTV_PLAYER_INDEX = {
           "country": "BR"
         }
       ],
+      "awards": []
+    },
+    {
+      "id": "page",
+      "name": "Page",
+      "aliases": [
+        "Page"
+      ],
+      "realNames": [],
+      "teams": [
+        {
+          "id": "pir4tas",
+          "name": "PIR4TAS",
+          "years": [
+            2017
+          ]
+        }
+      ],
+      "titles": [
+        {
+          "id": "2017:tslmajorcup",
+          "title": "TSL | MAJOR CUP",
+          "year": 2017,
+          "teamId": "pir4tas",
+          "team": "PIR4TAS",
+          "major": false,
+          "source": "owner-confirmed"
+        }
+      ],
+      "mvps": [],
+      "evps": [],
+      "rankings": [],
       "awards": []
     },
     {
@@ -9479,14 +9560,32 @@ window.HBSTV_PLAYER_INDEX = {
     },
     {
       "id": "s1mple",
-      "name": "S1mple",
+      "name": "s1mple",
       "aliases": [
-        "S1mple",
-        "s1mple"
+        "s1mple",
+        "S1mple"
       ],
       "realNames": [],
-      "teams": [],
-      "titles": [],
+      "teams": [
+        {
+          "id": "pir4tas",
+          "name": "PIR4TAS",
+          "years": [
+            2017
+          ]
+        }
+      ],
+      "titles": [
+        {
+          "id": "2017:tslmajorcup",
+          "title": "TSL | MAJOR CUP",
+          "year": 2017,
+          "teamId": "pir4tas",
+          "team": "PIR4TAS",
+          "major": false,
+          "source": "owner-confirmed"
+        }
+      ],
       "mvps": [],
       "evps": [],
       "rankings": [
@@ -9686,6 +9785,13 @@ window.HBSTV_PLAYER_INDEX = {
           "years": [
             2019
           ]
+        },
+        {
+          "id": "pir4tas",
+          "name": "PIR4TAS",
+          "years": [
+            2017
+          ]
         }
       ],
       "titles": [
@@ -9697,6 +9803,15 @@ window.HBSTV_PLAYER_INDEX = {
           "team": "Temp Stormy / GC 2019",
           "major": true,
           "source": "major-history"
+        },
+        {
+          "id": "2017:tslmajorcup",
+          "title": "TSL | MAJOR CUP",
+          "year": 2017,
+          "teamId": "pir4tas",
+          "team": "PIR4TAS",
+          "major": false,
+          "source": "owner-confirmed"
         }
       ],
       "mvps": [],
@@ -10262,6 +10377,13 @@ window.HBSTV_PLAYER_INDEX = {
           "years": [
             2018
           ]
+        },
+        {
+          "id": "pir4tas",
+          "name": "PIR4TAS",
+          "years": [
+            2017
+          ]
         }
       ],
       "titles": [
@@ -10309,6 +10431,15 @@ window.HBSTV_PLAYER_INDEX = {
           "team": "RAZER",
           "major": true,
           "source": "major-history"
+        },
+        {
+          "id": "2017:tslmajorcup",
+          "title": "TSL | MAJOR CUP",
+          "year": 2017,
+          "teamId": "pir4tas",
+          "team": "PIR4TAS",
+          "major": false,
+          "source": "owner-confirmed"
         }
       ],
       "mvps": [],
@@ -13064,6 +13195,13 @@ window.HBSTV_PLAYER_INDEX = {
           "years": [
             2020
           ]
+        },
+        {
+          "id": "pir4tas",
+          "name": "PIR4TAS",
+          "years": [
+            2017
+          ]
         }
       ],
       "titles": [
@@ -13084,6 +13222,15 @@ window.HBSTV_PLAYER_INDEX = {
           "team": "GT 2021",
           "major": true,
           "source": "major-history"
+        },
+        {
+          "id": "2017:tslmajorcup",
+          "title": "TSL | MAJOR CUP",
+          "year": 2017,
+          "teamId": "pir4tas",
+          "team": "PIR4TAS",
+          "major": false,
+          "source": "owner-confirmed"
         }
       ],
       "mvps": [],
