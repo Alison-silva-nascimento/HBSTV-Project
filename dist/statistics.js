@@ -5,17 +5,17 @@ const fields={titles:{label:'Títulos',icon:'♜',description:'Conquistas identi
 function titleRecords(player) {
   return [...new Map([...(player.historicalTitles || []), ...player.titles].map(r => [r.id, r])).values()];
 }
-function recordCount(text = '') {
+function playerRecords(text = '') {
   const lines = text.normalize('NFKC').split(/\r?\n/);
   const start = lines.findIndex(line => norm(line) === 'recordes');
-  if (start < 0) return 0;
-  const records = new Set();
+  if (start < 0) return [];
+  const records = new Map();
   for (const line of lines.slice(start + 1)) {
     if (/^(premiacoes|teams|equipes|principaistitulos)/.test(norm(line))) break;
     const entry = line.match(/^\s*[-–—•]\s*(.+)/)?.[1];
-    if (entry && norm(entry)) records.add(norm(entry));
+    if (entry && norm(entry) && !records.has(norm(entry))) records.set(norm(entry), entry.trim());
   }
-  return records.size;
+  return [...records.values()];
 }
 function unavailableInScope(field) {
   return (field === 'records' && Boolean(scopeYear || scopeOrg)) ||
@@ -24,15 +24,16 @@ function unavailableInScope(field) {
 const roster=new Map(index.players.map(p=>[p.id,{...p,hof:players.find(h=>key(h.name)===p.id)}]));for(const h of players)if(!roster.has(key(h.name)))roster.set(key(h.name),{id:key(h.name),name:h.name,hof:h,titles:[],mvps:[],evps:[],rankings:[],teams:[]});
 const rows=[...roster.values()].map(p=>{
 const h = p.hof;
+const records = playerRecords(h?.text);
 const topFiveTeams = p.topFiveTeams || [];
 const titles = titleRecords(p);
 return {
-  id: p.id, name: p.name, hof: h, topFiveTeams,
+  id: p.id, name: p.name, hof: h, topFiveTeams, records,
   search: [p.name, ...(p.aliases || []), ...(p.realNames || []), h?.full || ''].join(' '),
   values: {
     titles: titles.length, mvps: Math.max(Number(h?.mvps) || 0, p.mvps.length),
     evps: new Set(p.evps.map(r => r.id)).size,
-    top20: new Set(p.rankings.map(r => r.year)).size, teams: topFiveTeams.length, records: recordCount(h?.text)
+    top20: new Set(p.rankings.map(r => r.year)).size, teams: topFiveTeams.length, records: records.length
   },
   source: h ? 'Hall of Fame e fichas de torneios' : 'Registros dos torneios'
 };
@@ -59,7 +60,20 @@ function scopedRows() {
 }
 const scopes=()=>`<div class="stats-scope"><label>Temporada<select id="stats-year"><option value="">Toda a carreira</option>${[...new Set([...index.rankingYears,...window.HBSTV.db.events.map(e=>e.year),...index.players.flatMap(p=>(p.historicalTitles||[]).map(t=>t.year))])].sort((a,b)=>b-a).map(y=>`<option ${scopeYear===String(y)?'selected':''}>${y}</option>`).join('')}</select></label><label>Organizadora<select id="stats-org"><option value="">Todas</option>${[...new Set([...window.HBSTV.db.events.map(e=>e.organizer),...index.players.flatMap(p=>(p.historicalTitles||[]).map(t=>t.organizer))])].sort().map(o=>`<option ${scopeOrg===o?'selected':''}>${esc(o)}</option>`).join('')}</select></label></div><p class="stats-scope-info">${scopeYear||scopeOrg?'Filtro ativo: títulos e premiações identificados por edição. Totais gerais de MVP do Hall of Fame só aparecem na visão de carreira.':'Visão histórica: títulos e torneios identificados por edição. Os MVPs incluem o total histórico quando ele é maior que o número de fichas.'}${scopeOrg?' Os rankings anuais são consultados sem filtro por organizadora.':''}</p>`;
 function ordered(){let previous=null,rank=0;return [...scopedRows()].filter(p=>p.values[metric]>0).sort((a,b)=>b.values[metric]-a.values[metric]||a.name.localeCompare(b.name,'pt-BR')).map((p,i)=>{if(p.values[metric]!==previous)rank=i+1;previous=p.values[metric];return {...p,rank};});}
-const action=p=>p.hof?`data-player="${players.indexOf(p.hof)}"`:`data-entity-player="${p.id}"`;
+const action=p=>metric==='records'?`data-stats-record-player="${esc(p.id)}" aria-haspopup="dialog"`:p.hof?`data-player="${players.indexOf(p.hof)}"`:`data-entity-player="${p.id}"`;
+function showPlayerRecords(id) {
+  const player = rows.find(row => row.id === id);
+  if (!player?.records.length) return;
+  const entries = player.records.map(record => `<li>${esc(record)}</li>`).join('');
+  document.querySelector('#detail').classList.remove('profile-dialog', 'registered-player-dialog', 'image-dialog');
+  showDetail(`<section class="stats-record-dialog">
+    <span class="eyebrow">HALL OF FAME · RECORDES E FEITOS</span>
+    <h2>${esc(player.name)}</h2>
+    <p>${player.records.length} ${player.records.length === 1 ? 'feito registrado' : 'feitos registrados'}</p>
+    <ol>${entries}</ol>
+    <a class="hub-button" href="${window.HBSTV.playerHref(player.id)}" data-entity-close>Ver perfil completo ↗</a>
+  </section>`);
+}
 const value=p=>p.values[metric];
 function results(){const all=ordered(),list=all.filter(p=>norm(p.search).includes(norm(query))),visible=list.slice(0,limit===0?list.length:limit),top=list.slice(0,5),max=top[0]?.values[metric]||1;document.querySelector('#stats-ranking-title').textContent=fields[metric].label;document.querySelector('#stats-description').textContent=fields[metric].description;document.querySelector('#stats-count').textContent=list.length+' JOGADORES';document.querySelectorAll('[data-stats-metric]').forEach(b=>{const active=b.dataset.statsMetric===metric;b.classList.toggle('active',active);b.setAttribute('aria-pressed',String(active));});
 document.querySelector('#stats-chart').innerHTML=top.length?`<h3>Os líderes</h3>${top.map(p=>`<button class="stats-bar-row" ${action(p)} aria-label="${esc(p.name)}, ${esc(value(p))} ${esc(fields[metric].label)}"><span>${esc(p.name)}</span><b>${esc(value(p))}</b><i><em style="width:${p.values[metric]/max*100}%"></em></i></button>`).join('')}`:'<p class="entity-empty">Nenhum jogador corresponde à busca.</p>';
@@ -70,5 +84,5 @@ function render(){const scoped = scopedRows();const leaders=Object.entries(field
   const label = leaders.map(row => row.name).sort((a,b) => a.localeCompare(b,'pt-BR')).join(' · ');return `<button data-stats-metric="${m}" class="stats-metric-card" aria-pressed="${m===metric}" ${unavailableInScope(m)?'disabled':''}><span class="stats-card-label"><i aria-hidden="true">${info.icon}</i>${info.label}</span><b>${unavailableInScope(m)?'—':highest||'—'}</b><strong>${unavailableInScope(m)?(m==='records'?'Disponível em toda a carreira':'Retire o filtro de organizadora'):highest===0?'Sem registro neste filtro':esc(label)}</strong><small>${leaders.length>1?'LIDERANÇA COMPARTILHADA':scopeYear||scopeOrg?'LÍDER DA SELEÇÃO':'LÍDER HISTÓRICO'}</small></button>`;}).join('');screen.innerHTML=`<header class="stats-header"><span class="eyebrow">HBSTV · HISTÓRICO COMPETITIVO</span><h2>Estatísticas<span>.</span></h2><p>Os números de quem construiu o competitivo.</p><div><b>${rows.length}</b> jogadores na base <span>·</span> <b>${window.HBSTV_TEAMS.length}</b> equipes registradas</div></header>${scopes()}<div class="stats-overview" aria-label="Selecionar ranking">${leaders}</div><div class="stats-ranking-head"><div><span class="eyebrow">RANKING HISTÓRICO</span><h3 id="stats-ranking-title"></h3></div><span id="stats-count"></span></div><p id="stats-description" class="stats-description"></p><div class="stats-controls"><label>Buscar jogador<input id="stats-search" class="entity-field" type="search" placeholder="Nome ou nick…" value="${esc(query)}"></label><label>Mostrar<select id="stats-limit"><option value="10" ${limit===10?'selected':''}>Top 10</option><option value="20" ${limit===20?'selected':''}>Top 20</option><option value="50" ${limit===50?'selected':''}>Top 50</option><option value="0" ${limit===0?'selected':''}>Todos</option></select></label></div><div class="stats-board"><aside id="stats-chart" class="stats-chart"></aside><div id="stats-ranking" class="stats-ranking"></div></div><p class="stats-footnote">Dados históricos disponíveis no site. As estatísticas não representam necessariamente toda a carreira. Recordes e feitos reproduzem as listas históricas do Hall of Fame. Empates compartilham a posição. Clique em um jogador para conferir o perfil e os registros.</p>`;results();}
 window.renderStatisticsRoute=()=>{screen.hidden=true;if(location.hash!=='#estatisticas')return false;render();screen.hidden=false;document.title='Estatísticas — HBSTV.ORG';return true;};
 document.querySelector('.side-nav').insertAdjacentHTML('beforeend','<a href="#estatisticas">▥ <span>Estatísticas</span><b>00</b></a>');
-document.addEventListener('click',e=>{const b=e.target.closest('[data-stats-metric]');if(b){metric=b.dataset.statsMetric;results();}});document.addEventListener('input',e=>{if(e.target.id==='stats-search'){query=e.target.value;results();}});document.addEventListener('change',e=>{if(e.target.id==='stats-year'){scopeYear=e.target.value;if(unavailableInScope(metric))metric='titles';render();}if(e.target.id==='stats-org'){scopeOrg=e.target.value;if(unavailableInScope(metric))metric='titles';render();}if(e.target.id==='stats-limit'){limit=Number(e.target.value);results();}});
+document.addEventListener('click',e=>{const player=e.target.closest('[data-stats-record-player]');if(player){showPlayerRecords(player.dataset.statsRecordPlayer);return;}const b=e.target.closest('[data-stats-metric]');if(b){metric=b.dataset.statsMetric;results();}});document.addEventListener('input',e=>{if(e.target.id==='stats-search'){query=e.target.value;results();}});document.addEventListener('change',e=>{if(e.target.id==='stats-year'){scopeYear=e.target.value;if(unavailableInScope(metric))metric='titles';render();}if(e.target.id==='stats-org'){scopeOrg=e.target.value;if(unavailableInScope(metric))metric='titles';render();}if(e.target.id==='stats-limit'){limit=Number(e.target.value);results();}});
 })();
