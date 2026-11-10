@@ -489,8 +489,8 @@ window.HBSTV_DATABASE = {
       ],
       "historicalTitles": [
         {
-          "id": "hof:2017:TSL:majorcup",
-          "title": "TSL | MAJOR CUP 2017",
+          "id": "2017:tslmajorcup",
+          "title": "TSL | MAJOR CUP",
           "year": 2017,
           "organizer": "TSL",
           "source": "hall-of-fame"
@@ -726,8 +726,8 @@ window.HBSTV_DATABASE = {
       "awards": [],
       "historicalTitles": [
         {
-          "id": "hof:2017:TSL:majorcup",
-          "title": "TSL | MAJOR CUP 2017",
+          "id": "2017:tslmajorcup",
+          "title": "TSL | MAJOR CUP",
           "year": 2017,
           "organizer": "TSL",
           "source": "hall-of-fame-3"
@@ -9924,8 +9924,8 @@ window.HBSTV_DATABASE = {
       "awards": [],
       "historicalTitles": [
         {
-          "id": "hof:2017:TSL:majorcup",
-          "title": "TSL | MAJOR CUP 2017",
+          "id": "2017:tslmajorcup",
+          "title": "TSL | MAJOR CUP",
           "year": 2017,
           "organizer": "TSL",
           "source": "hall-of-fame-3"
@@ -12657,8 +12657,8 @@ window.HBSTV_DATABASE = {
       ],
       "historicalTitles": [
         {
-          "id": "hof:2017:TSL:majorcup",
-          "title": "TSL | MAJOR CUP 2017",
+          "id": "2017:tslmajorcup",
+          "title": "TSL | MAJOR CUP",
           "year": 2017,
           "organizer": "TSL",
           "source": "hall-of-fame"
@@ -16078,8 +16078,8 @@ window.HBSTV_DATABASE = {
       "awards": [],
       "historicalTitles": [
         {
-          "id": "hof:2017:TSL:majorcup",
-          "title": "TSL | MAJOR CUP 2017",
+          "id": "2017:tslmajorcup",
+          "title": "TSL | MAJOR CUP",
           "year": 2017,
           "organizer": "TSL",
           "source": "hall-of-fame"
@@ -19569,6 +19569,26 @@ window.HBSTV_DATABASE = {
       "images": [
         "assets/archive/188f48896736e07cbe4d.jpeg"
       ]
+    },
+    {
+      "id": "2017:tslmajorcup",
+      "title": "TSL | MAJOR CUP",
+      "year": 2017,
+      "organizer": "TSL",
+      "major": false,
+      "winners": [
+        "pir4tas"
+      ],
+      "roster": [],
+      "mvps": [],
+      "evps": [],
+      "sources": [
+        "owner-confirmed"
+      ],
+      "notes": [
+        "A P4 foi a primeira equipe campeã da história do Block Strike, conforme confirmado pelo responsável pelo site."
+      ],
+      "images": []
     }
   ],
   "teams": [
@@ -27895,6 +27915,46 @@ window.HBSTV_DATABASE = {
       "searchAliases": []
     },
     {
+      "id": "pir4tas",
+      "name": "PIR4TAS",
+      "aliases": [
+        "PIR4TAS",
+        "P4",
+        "p4"
+      ],
+      "titles": [
+        {
+          "id": "2017:tslmajorcup",
+          "title": "TSL | MAJOR CUP",
+          "year": 2017,
+          "source": "owner-confirmed",
+          "sourceNote": "A P4 foi a primeira equipe campeã da história do Block Strike, conforme confirmado pelo responsável pelo site.",
+          "manual": true,
+          "major": false,
+          "roster": []
+        }
+      ],
+      "members": [],
+      "rankings": [
+        {
+          "year": 2017,
+          "rank": 2
+        }
+      ],
+      "logo": {
+        "src": "assets/archive/50ee355071a4d59f3ab0.jpg",
+        "crop": {
+          "x": 0.1700787401574803,
+          "y": 0.23497267759562843,
+          "w": 0.1763779527559055,
+          "h": 0.15300546448087432
+        }
+      },
+      "searchAliases": [
+        "p4"
+      ]
+    },
+    {
       "id": "rs4",
       "name": "RS4",
       "aliases": [
@@ -28701,34 +28761,6 @@ window.HBSTV_DATABASE = {
         }
       },
       "searchAliases": []
-    },
-    {
-      "id": "pir4tas",
-      "name": "PIR4TAS",
-      "aliases": [
-        "PIR4TAS",
-        "p4"
-      ],
-      "titles": [],
-      "members": [],
-      "rankings": [
-        {
-          "year": 2017,
-          "rank": 2
-        }
-      ],
-      "logo": {
-        "src": "assets/archive/50ee355071a4d59f3ab0.jpg",
-        "crop": {
-          "x": 0.1700787401574803,
-          "y": 0.23497267759562843,
-          "w": 0.1763779527559055,
-          "h": 0.15300546448087432
-        }
-      },
-      "searchAliases": [
-        "p4"
-      ]
     },
     {
       "id": "primeirocomando",
