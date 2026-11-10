@@ -868,7 +868,7 @@ window.HBSTV_DATABASE = {
       "teams": [
         {
           "id": "pentaesports",
-          "name": "Penta E-sports",
+          "name": "PENTA eSports",
           "years": [
             2020
           ]
@@ -2695,7 +2695,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "pentaesports",
-          "name": "Penta E-sports",
+          "name": "PENTA eSports",
           "years": [
             2020
           ]
@@ -4614,7 +4614,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "pentaesports",
-          "name": "Penta E-sports",
+          "name": "PENTA eSports",
           "years": [
             2020
           ]
@@ -8681,7 +8681,7 @@ window.HBSTV_DATABASE = {
       "teams": [
         {
           "id": "pentaesports",
-          "name": "Penta E-sports",
+          "name": "PENTA eSports",
           "years": [
             2020
           ]
@@ -8721,49 +8721,49 @@ window.HBSTV_DATABASE = {
           "id": "2020:acecup",
           "title": "ACE | Cup Season 1",
           "year": 2020,
-          "team": "Penta E-sports"
+          "team": "PENTA eSports"
         },
         {
           "id": "2020:gseproleague",
           "title": "GSE | Pro League",
           "year": 2020,
-          "team": "Penta E-sports"
+          "team": "PENTA eSports"
         },
         {
           "id": "2020:gsetour",
           "title": "GSE | Tour",
           "year": 2020,
-          "team": "Penta E-sports"
+          "team": "PENTA eSports"
         },
         {
           "id": "2020:lcbproleague",
           "title": "LCB | Pro League",
           "year": 2020,
-          "team": "Penta E-sports"
+          "team": "PENTA eSports"
         },
         {
           "id": "2020:mawares",
           "title": "MAWARE | Season",
           "year": 2020,
-          "team": "Penta E-sports"
+          "team": "PENTA eSports"
         },
         {
           "id": "2020:tslmjonircup",
           "title": "TSL | Mjonir Cup",
           "year": 2020,
-          "team": "Penta E-sports"
+          "team": "PENTA eSports"
         },
         {
           "id": "2020:tslnodus",
           "title": "TSL | Nodus",
           "year": 2020,
-          "team": "Penta E-sports"
+          "team": "PENTA eSports"
         },
         {
           "id": "2020:tslrenovatedgameleague",
           "title": "TSL | Renovated Game League",
           "year": 2020,
-          "team": "Penta E-sports"
+          "team": "PENTA eSports"
         }
       ]
     },
@@ -10967,7 +10967,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "pentaesports",
-          "name": "Penta E-sports",
+          "name": "PENTA eSports",
           "years": [
             2020
           ]
@@ -11381,7 +11381,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "pentaesports",
-          "name": "Penta E-sports",
+          "name": "PENTA eSports",
           "years": [
             2020
           ]
@@ -12111,7 +12111,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "pentaesports",
-          "name": "Penta E-sports",
+          "name": "PENTA eSports",
           "years": [
             2020
           ]
@@ -12636,7 +12636,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "pentaesports",
-          "name": "Penta E-sports",
+          "name": "PENTA eSports",
           "years": [
             2020
           ]
@@ -16107,7 +16107,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "pentaesports",
-          "name": "Penta E-sports",
+          "name": "PENTA eSports",
           "years": [
             2020
           ]
@@ -20050,7 +20050,7 @@ window.HBSTV_DATABASE = {
     },
     {
       "id": "pentaesports",
-      "name": "Penta E-sports",
+      "name": "PENTA eSports",
       "aliases": [
         "PENTA",
         "Penta E-sports",
@@ -28694,7 +28694,16 @@ window.HBSTV_DATABASE = {
         }
       ],
       "rankings": [],
-      "searchAliases": []
+      "searchAliases": [],
+      "logo": {
+        "src": "assets/sx-logo.png",
+        "crop": {
+          "x": 0,
+          "y": 0,
+          "w": 1,
+          "h": 1
+        }
+      }
     },
     {
       "id": "v13",

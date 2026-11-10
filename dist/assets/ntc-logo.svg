@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 400" role="img" aria-labelledby="title">
+  <title id="title">NTC — Não Tem Como</title>
+  <defs>
+    <pattern id="facets" width="90" height="72" patternUnits="userSpaceOnUse">
+      <path fill="#131313" d="M0 0h45L22 36Zm45 0h45L68 36ZM22 36h46L45 72Z"/>
+      <path fill="#1b1b1b" d="M22 36 45 0l23 36ZM0 72l22-36 23 36Z"/>
+    </pattern>
+  </defs>
+  <path fill="#090909" d="M0 0h540v400H0z"/>
+  <path fill="url(#facets)" d="M0 0h540v400H0z"/>
+  <g fill="#fff">
+    <path d="M180 67c18 14 31 17 45 21-8 13-11 25-2 39 5 8 14 6 15-1-7-1-7-11 0-13 8-3 12 7 8 14h13c2-27-10-45-24-57 15-4 24-13 35-23 11 10 20 19 35 23-14 12-26 30-24 57h13c-4-7 0-17 8-14 7 2 7 12 0 13 1 7 10 9 15 1 9-14 6-26-2-39 14-4 27-7 45-21l-46 82h-88z"/>
+    <path d="M40 168h43l68 74v-74h38v128h-43l-69-75v75H40Zm160 0h134v30h-48v98h-39v-98h-47Zm180 0h90c16 0 26 11 26 26v19h-38v-15h-77v68h77v-16h38v20c0 16-10 26-26 26h-90c-23 0-37-11-37-32v-64c0-21 14-32 37-32Z"/>
+    <text x="270" y="355" text-anchor="middle" textLength="455" lengthAdjust="spacing" font-family="Arial,sans-serif" font-size="38" font-weight="900">NÃO TEM COMO</text>
+  </g>
+</svg>

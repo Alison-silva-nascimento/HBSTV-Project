@@ -617,7 +617,7 @@ window.HBSTV_PLAYER_INDEX = {
       "teams": [
         {
           "id": "pentaesports",
-          "name": "Penta E-sports",
+          "name": "PENTA eSports",
           "years": [
             2020
           ]
@@ -2197,7 +2197,7 @@ window.HBSTV_PLAYER_INDEX = {
         },
         {
           "id": "pentaesports",
-          "name": "Penta E-sports",
+          "name": "PENTA eSports",
           "years": [
             2020
           ]
@@ -3820,7 +3820,7 @@ window.HBSTV_PLAYER_INDEX = {
         },
         {
           "id": "pentaesports",
-          "name": "Penta E-sports",
+          "name": "PENTA eSports",
           "years": [
             2020
           ]
@@ -7311,7 +7311,7 @@ window.HBSTV_PLAYER_INDEX = {
       "teams": [
         {
           "id": "pentaesports",
-          "name": "Penta E-sports",
+          "name": "PENTA eSports",
           "years": [
             2020
           ]
@@ -9219,7 +9219,7 @@ window.HBSTV_PLAYER_INDEX = {
         },
         {
           "id": "pentaesports",
-          "name": "Penta E-sports",
+          "name": "PENTA eSports",
           "years": [
             2020
           ]
@@ -9463,7 +9463,7 @@ window.HBSTV_PLAYER_INDEX = {
         },
         {
           "id": "pentaesports",
-          "name": "Penta E-sports",
+          "name": "PENTA eSports",
           "years": [
             2020
           ]
@@ -10085,7 +10085,7 @@ window.HBSTV_PLAYER_INDEX = {
         },
         {
           "id": "pentaesports",
-          "name": "Penta E-sports",
+          "name": "PENTA eSports",
           "years": [
             2020
           ]
@@ -10366,7 +10366,7 @@ window.HBSTV_PLAYER_INDEX = {
         },
         {
           "id": "pentaesports",
-          "name": "Penta E-sports",
+          "name": "PENTA eSports",
           "years": [
             2020
           ]
@@ -13191,7 +13191,7 @@ window.HBSTV_PLAYER_INDEX = {
         },
         {
           "id": "pentaesports",
-          "name": "Penta E-sports",
+          "name": "PENTA eSports",
           "years": [
             2020
           ]

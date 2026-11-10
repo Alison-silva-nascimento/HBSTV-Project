@@ -31,12 +31,13 @@ window.renderPlayerTitleCards = (player, fallback = []) => {
   rows.sort((a,b) => b.year - a.year);
   return `<section class="gp-section"><div class="gp-section-head"><h3>Títulos conquistados</h3><span>${rows.length} REGISTROS</span></div>${events(rows,'TÍTULO')}</section>`;
 };
-function teamEmblem(id){const t=window.HBSTV_TEAMS.find(t=>t.id===id),l=t?.logo;if(!l)return `<span class="gp-team-initials" aria-hidden="true">${esc((t?.name||id).slice(0,2))}</span>`;const c=l.crop;return `<span class="gp-team-emblem"><img src="${esc(l.src)}" alt="" loading="lazy" style="width:${100/c.w}%;height:${100/c.h}%;left:${-100*c.x/c.w}%;top:${-100*c.y/c.h}%"></span>`;}
+function teamEmblem(id){const t=[...window.HBSTV_TEAMS,...(window.HBSTV_TEAM_TAGS||[])].find(t=>t.id===id),l=t?.logo;if(!l)return `<span class="gp-team-initials" aria-hidden="true">${esc((t?.name||id).slice(0,2))}</span>`;const c=l.crop;return `<span class="gp-team-emblem"><img src="${esc(l.src)}" alt="" loading="lazy" style="width:${100/c.w}%;height:${100/c.h}%;left:${-100*c.x/c.w}%;top:${-100*c.y/c.h}%"></span>`;}
 window.renderPlayerTeamCards = (player, legacyTags = []) => {
-  const teams = window.HBSTV_TEAMS;
+  const teams = [...window.HBSTV_TEAMS, ...(window.HBSTV_TEAM_TAGS || []).filter(team => team.members.some(member => member.id === player?.id))];
   const memberships = new Map((player?.teams || []).map(team => [team.id, team]));
   for (const tag of legacyTags) {
     const normalized = norm(tag);
+    if (normalized === 'ntc' && ['rn','inovate'].includes(player?.id)) continue;
     const candidates = teams.filter(team =>
       [team.id, team.name, ...(team.aliases || []), ...(team.searchAliases || [])]
         .some(label => norm(label) === normalized));

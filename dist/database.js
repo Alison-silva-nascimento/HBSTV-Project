@@ -8,5 +8,12 @@ if (typeof players !== 'undefined') for (const p of db.players.filter(p => p.hal
     registeredOnly:true, blocks:[{type:'heading',level:4,text:full}]});
 }
 window.HBSTV_PLAYER_INDEX.players=db.players;window.HBSTV_PLAYER_INDEX.aliases=db.aliases;window.HBSTV_TEAMS=db.teams;
+const infinity = db.teams.find(team => team.id === 'teaminfinity');
+window.HBSTV_TEAM_TAGS = infinity ? [{
+  ...infinity, id: 'ntc', name: 'NTC', aliases: ['NTC', 'Não Tem Como'], searchAliases: [],
+  logo: {src: 'assets/ntc-logo.svg', crop: {x:0,y:0,w:1,h:1}},
+  members: infinity.members.filter(player => !['inovate','rn'].includes(player.id)),
+  relatedTeam: infinity.id
+}] : [];
 window.renderPlayerAnnualFacts=rows=>rows.length?`<div class="player-annual-facts"><dt>Top 20 por ano</dt><dd><span class="player-annual-count">${rows.length} ${rows.length===1?'edição':'edições'}</span><span class="player-annual-results">${[...rows].sort((a,b)=>b.year-a.year).map(r=>`<span class="player-annual-result" aria-label="Posição ${r.rank} em ${r.year}"><b>#${r.rank}</b> <small>${r.year}</small></span>`).join('')}</span></dd></div>`:'';
 })();

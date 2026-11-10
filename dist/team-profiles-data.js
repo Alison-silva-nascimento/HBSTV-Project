@@ -283,7 +283,7 @@ window.HBSTV_TEAMS = [
   },
   {
     "id": "pentaesports",
-    "name": "Penta E-sports",
+    "name": "PENTA eSports",
     "aliases": [
       "PENTA",
       "Penta E-sports"
@@ -8874,7 +8874,16 @@ window.HBSTV_TEAMS = [
       }
     ],
     "rankings": [],
-    "searchAliases": []
+    "searchAliases": [],
+    "logo": {
+      "src": "assets/sx-logo.png",
+      "crop": {
+        "x": 0,
+        "y": 0,
+        "w": 1,
+        "h": 1
+      }
+    }
   },
   {
     "id": "v13",
