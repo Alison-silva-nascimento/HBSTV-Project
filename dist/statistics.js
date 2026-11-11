@@ -79,11 +79,34 @@ function matches(record, useOrganizer = true) {
     (!useOrganizer || !organizer || (record.organizer || H.event(record.id)?.organizer) === organizer);
 }
 
+function playerTitleRecords(player) {
+  return player.allTitles.filter(record => matches(record) &&
+    (metric !== 'majors' || record.major || H.event(record.id)?.major || /[Ⓜ🅼]/u.test(record.title)));
+}
+
+function showPlayerTrophies(id) {
+  const player = playerRows.find(row => row.id === id);
+  if (!player) return;
+  const titles = playerTitleRecords(player);
+  const scope = [organizer || 'Todas as organizadoras', year || 'Todas as temporadas'].join(' · ');
+  const entries = titles.map(record => {
+    const event = H.event(record.id);
+    const label = esc(record.title) + ' · ' + record.year;
+    return `<li>${event ? `<a href="${H.eventHref(event.id)}" data-entity-close>${label} ↗</a>` : label}</li>`;
+  }).join('');
+  document.querySelector('#detail').classList.remove('profile-dialog', 'registered-player-dialog', 'image-dialog');
+  showDetail(`<section class="stats-record-dialog">
+    <h2>${esc(player.name)}</h2>
+    <p>${esc(scope)} · ${titles.length} ${titles.length === 1 ? "título" : "títulos"}</p>
+    <ol>${entries}</ol>
+    <a class="hub-button" href="${H.playerHref(player.id)}" data-entity-close>Ver perfil completo ↗</a>
+  </section>`);
+}
+
 function playerValue(player) {
   switch (metric) {
-    case 'titles': return player.allTitles.filter(record => matches(record)).length;
-    case 'majors': return player.allTitles.filter(record =>
-      (record.major || H.event(record.id)?.major || /[Ⓜ🅼]/u.test(record.title)) && matches(record)).length;
+    case 'titles':
+    case 'majors': return playerTitleRecords(player).length;
     case 'mvps': {
       const count = distinct(player.mvps).filter(record => matches(record)).length;
       return year || organizer ? count : Math.max(count, Number(player.hall?.mvps) || 0);
@@ -142,6 +165,9 @@ function rowHtml({row, value, rank, years}) {
     : '<span class="stats-player-avatar" aria-hidden="true"></span>';
   const contents = `<span class="stats-position">${rank}</span>${icon}<span class="stats-player-name"><strong>${esc(row.name)}</strong><small>${esc(rowDetail(row, years))}</small></span><b>${value}</b>`;
   if (metric === 'records') return `<button class="stats-rank-row" data-stats-record-player="${esc(row.id)}" aria-haspopup="dialog">${contents}</button>`;
+  if (category === 'players' && (metric === 'titles' || metric === 'majors')) {
+    return `<button class="stats-rank-row" data-stats-trophy-player="${esc(row.id)}" aria-haspopup="dialog">${contents}</button>`;
+  }
   const href = category === 'players' ? H.playerHref(row.id) : '#time/' + encodeURIComponent(row.id);
   return `<a class="stats-rank-row" href="${href}">${contents}</a>`;
 }
@@ -203,6 +229,8 @@ window.renderStatisticsRoute = () => {
 };
 document.querySelector('.side-nav').insertAdjacentHTML('beforeend','<a href="#estatisticas">▥ <span>Estatísticas</span><b>00</b></a>');
 screen.addEventListener('click', event => {
+  const trophy = event.target.closest('[data-stats-trophy-player]');
+  if (trophy) return showPlayerTrophies(trophy.dataset.statsTrophyPlayer);
   const record = event.target.closest('[data-stats-record-player]');
   if (record) return showPlayerRecords(record.dataset.statsRecordPlayer);
   const tab = event.target.closest('[data-stats-category]');
