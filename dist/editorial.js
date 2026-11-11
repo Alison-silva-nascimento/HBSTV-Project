@@ -8,7 +8,7 @@ window.render4i20Article=()=>`<header class="hub-header"><span class="eyebrow">H
 window.HBSTV_EDITORIAL_FEATURES = [
   {
     id: 'pir4tas-primeiro-titulo-2017', category: 'História', season: 2017,
-    title: 'PIR4TAS e o primeiro título do competitivo', mark: 'P4', teamId: 'pir4tas',
+    title: 'P4 a primeira campeã da história do Block Strike', mark: 'P4', teamId: 'pir4tas',
     text: 'A campanha da P4 na TSL Major Cup e o MVP de OveR em 2017.',
     stats: [['Campeã', 'PIR4TAS'], ['MVP', 'OveR']],
     sections: [
