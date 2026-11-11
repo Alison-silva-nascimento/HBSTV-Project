@@ -11,8 +11,14 @@ const second=document.createElement('a');second.className='editorial-banner ik-b
 const slides=[first,second,...window.HBSTV_EDITORIAL_FEATURES.map(feature=>{
   const slide=document.createElement('a');
   slide.className='editorial-banner';
+  const featureTeam=H.db.teams.find(t=>t.id===feature.teamId);
+  let art=`<b>${esc(feature.mark)}</b>`;
+  if(featureTeam?.logo){
+    const {src,crop}=featureTeam.logo;
+    art=`<span class="ik-cropped-logo"><img src="${esc(src)}" alt="" style="width:${100/crop.w}%;height:${100/crop.h}%;left:${-100*crop.x/crop.w}%;top:${-100*crop.y/crop.h}%"></span>`;
+  }
   slide.href='#noticia/'+feature.id;
-  slide.innerHTML=`<div class="editorial-copy"><span class="eyebrow">${esc(feature.category)} · ${feature.season}</span><h2>${esc(feature.title)}</h2><p>${esc(feature.text)}</p><strong>Ler a matéria ↗</strong></div><div class="editorial-art" aria-hidden="true"><b>${esc(feature.mark)}</b></div><div class="editorial-years">${feature.stats.map(([label,value])=>`<span><small>${esc(label)}</small><b>${esc(value)}</b></span>`).join('')}</div>`;
+  slide.innerHTML=`<div class="editorial-copy"><span class="eyebrow">${esc(feature.category)} · ${feature.season}</span><h2>${esc(feature.title)}</h2><p>${esc(feature.text)}</p><strong>Ler a matéria ↗</strong></div><div class="editorial-art ${featureTeam?.logo ? 'ik-art' : ''}" aria-hidden="true">${art}</div><div class="editorial-years">${feature.stats.map(([label,value])=>`<span><small>${esc(label)}</small><b>${esc(value)}</b></span>`).join('')}</div>`;
   track.append(slide);
   return slide;
 })];

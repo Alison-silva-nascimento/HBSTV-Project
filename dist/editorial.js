@@ -8,12 +8,12 @@ window.render4i20Article=()=>`<header class="hub-header"><span class="eyebrow">H
 window.HBSTV_EDITORIAL_FEATURES = [
   {
     id: 'pir4tas-primeiro-titulo-2017', category: 'História', season: 2017,
-    title: 'PIR4TAS e o primeiro título do competitivo', mark: 'P4',
+    title: 'PIR4TAS e o primeiro título do competitivo', mark: 'P4', teamId: 'pir4tas',
     text: 'A campanha da P4 na TSL Major Cup e o MVP de OveR em 2017.',
     stats: [['Campeã', 'PIR4TAS'], ['MVP', 'OveR']],
     sections: [
-      ['A primeira campeã', 'A PIR4TAS, também conhecida pela tag P4, venceu a TSL Major Cup de 2017. O acervo do HBSTV registra a equipe como a primeira campeã da história do competitivo de Block Strike. Ryan “OveR” ficou com o MVP da edição.'],
-      ['O elenco campeão', 'A ficha reúne oito jogadores: 4i20, ShelzZ, 4KKp, OveR, s1mple, Page, SanSey e zenn. Quatro deles também aparecem com a tag P4 no Top 20 da TSL daquele ano.'],
+      ['A primeira campeã', 'A P4 venceu a TSL | MAJOR CUP 2017, o primeiro torneio da história do competitivo, em uma atuação histórica na final contra a ES. Ryan “OveR” foi coroado como o MVP do torneio.'],
+      ['O elenco campeão', 'Os oito jogadores — 4i20, ShelzZ, 4KKp, OveR, s1mple, Page, SanSey e zenn — fizeram história e conquistaram o primeiro torneio oficial da TSL e do Block Strike competitivo em 2017.'],
       ['Do torneio ao ranking', 'SanSey liderou a classificação anual, com 4i20 em segundo lugar. zenn ficou em sétimo e OveR em nono. A P4 também aparece em segundo lugar no ranking anual de equipes de 2017.']
     ],
     links: [[H.eventHref('2017:tslmajorcup'), 'Ver a ficha do torneio'], ['#time/pir4tas', 'Explorar a PIR4TAS'], ['#acervo/top-20-players', 'Consultar o Top 20']]
