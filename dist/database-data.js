@@ -527,6 +527,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL | MAJOR CUP",
           "year": 2017,
           "organizer": "TSL",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -534,6 +535,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL | Hardness Pro League",
           "year": 2018,
           "organizer": "TSL",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -541,6 +543,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL | Brasil extreme Masters",
           "year": 2018,
           "organizer": "TSL",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -548,6 +551,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL | MAJOR CUP",
           "year": 2018,
           "organizer": "TSL",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -555,6 +559,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL | MAJOR PREMIERE",
           "year": 2018,
           "organizer": "TSL",
+          "major": true,
           "source": "hall-of-fame"
         },
         {
@@ -562,6 +567,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL I MUNDIAL 2018",
           "year": 2018,
           "organizer": "TSL",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -569,6 +575,7 @@ window.HBSTV_DATABASE = {
           "title": "GSE | MAJOR Adrenaline",
           "year": 2020,
           "organizer": "GSE",
+          "major": true,
           "source": "hall-of-fame"
         },
         {
@@ -576,6 +583,7 @@ window.HBSTV_DATABASE = {
           "title": "GSE | MASTERS VERÃO 2021",
           "year": 2021,
           "organizer": "GSE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -583,6 +591,7 @@ window.HBSTV_DATABASE = {
           "title": "LCB | BLOCK STRIKE LEAGUE 2021",
           "year": 2021,
           "organizer": "LCB",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -590,6 +599,7 @@ window.HBSTV_DATABASE = {
           "title": "LCB | Masters",
           "year": 2021,
           "organizer": "LCB",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -597,6 +607,7 @@ window.HBSTV_DATABASE = {
           "title": "SUVOH | LOFTUS CUP",
           "year": 2021,
           "organizer": "SUVOH",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -604,6 +615,7 @@ window.HBSTV_DATABASE = {
           "title": "GLBS | GAME LEAGUE",
           "year": 2021,
           "organizer": "GLBS",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -611,6 +623,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL | SUZUKA 2021",
           "year": 2021,
           "organizer": "TSL",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -618,6 +631,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL | SEASON ONE",
           "year": 2021,
           "organizer": "TSL",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -625,6 +639,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL | MAJOR",
           "year": 2021,
           "organizer": "TSL",
+          "major": true,
           "source": "hall-of-fame"
         },
         {
@@ -632,6 +647,7 @@ window.HBSTV_DATABASE = {
           "title": "WHL | World Ranking",
           "year": 2024,
           "organizer": "WHL",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -639,6 +655,7 @@ window.HBSTV_DATABASE = {
           "title": "GAMEZONE | BRASIL GAMING ELITE",
           "year": 2024,
           "organizer": "GAMEZONE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -646,6 +663,7 @@ window.HBSTV_DATABASE = {
           "title": "GAMEZONE | PRO SERIES LEAGUE",
           "year": 2024,
           "organizer": "GAMEZONE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -653,6 +671,7 @@ window.HBSTV_DATABASE = {
           "title": "BSTV | INSANITY SEASON 1",
           "year": 2024,
           "organizer": "BSTV",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -660,6 +679,7 @@ window.HBSTV_DATABASE = {
           "title": "FX |  COPA FX 2024",
           "year": 2024,
           "organizer": "FX",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -667,6 +687,7 @@ window.HBSTV_DATABASE = {
           "title": "BS:G | CHALLENGERS PRO TOUR",
           "year": 2024,
           "organizer": "BSG",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -674,6 +695,7 @@ window.HBSTV_DATABASE = {
           "title": "XMS | DREAM MASTERS STAR 2024",
           "year": 2024,
           "organizer": "XMS",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -681,6 +703,7 @@ window.HBSTV_DATABASE = {
           "title": "GAMEZONE | PRO SERIES LEAGUE SEASON 3",
           "year": 2024,
           "organizer": "GAMEZONE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -688,6 +711,7 @@ window.HBSTV_DATABASE = {
           "title": "BPL | BRAZIL PRO LEAGUE 2025",
           "year": 2025,
           "organizer": "BPL",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -695,6 +719,7 @@ window.HBSTV_DATABASE = {
           "title": "BCN | EMULABILE CUP",
           "year": 2025,
           "organizer": "BCN",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -702,6 +727,7 @@ window.HBSTV_DATABASE = {
           "title": "WHL | LEAGUE S2",
           "year": 2025,
           "organizer": "WHL",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -709,6 +735,7 @@ window.HBSTV_DATABASE = {
           "title": "BCN | STRIKE CUP 2.0",
           "year": 2025,
           "organizer": "BCN",
+          "major": false,
           "source": "hall-of-fame"
         }
       ],
@@ -874,6 +901,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL | MAJOR CUP",
           "year": 2017,
           "organizer": "TSL",
+          "major": false,
           "source": "hall-of-fame-3"
         },
         {
@@ -881,6 +909,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL | CBBS 1.0 2018",
           "year": 2018,
           "organizer": "TSL",
+          "major": false,
           "source": "hall-of-fame-3"
         },
         {
@@ -888,6 +917,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL | MAJOR CUP",
           "year": 2018,
           "organizer": "TSL",
+          "major": false,
           "source": "hall-of-fame-3"
         },
         {
@@ -895,6 +925,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL | MAJOR PREMIERE",
           "year": 2018,
           "organizer": "TSL",
+          "major": true,
           "source": "hall-of-fame-3"
         },
         {
@@ -902,6 +933,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL  | WORLD PRO LEAGUE 2020",
           "year": 2020,
           "organizer": "TSL",
+          "major": false,
           "source": "hall-of-fame-3"
         },
         {
@@ -909,6 +941,7 @@ window.HBSTV_DATABASE = {
           "title": "LCB | BLOCK STRIKE LEAGUE 2021",
           "year": 2021,
           "organizer": "LCB",
+          "major": false,
           "source": "hall-of-fame-3"
         },
         {
@@ -916,6 +949,7 @@ window.HBSTV_DATABASE = {
           "title": "LCB | Masters",
           "year": 2021,
           "organizer": "LCB",
+          "major": false,
           "source": "hall-of-fame-3"
         },
         {
@@ -923,6 +957,7 @@ window.HBSTV_DATABASE = {
           "title": "SUVOH | LOFTUS CUP",
           "year": 2021,
           "organizer": "SUVOH",
+          "major": false,
           "source": "hall-of-fame-3"
         },
         {
@@ -930,6 +965,7 @@ window.HBSTV_DATABASE = {
           "title": "GLBS | GAME LEAGUE",
           "year": 2021,
           "organizer": "GLBS",
+          "major": false,
           "source": "hall-of-fame-3"
         },
         {
@@ -937,6 +973,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL | SMACK",
           "year": 2021,
           "organizer": "TSL",
+          "major": false,
           "source": "hall-of-fame-3"
         },
         {
@@ -944,6 +981,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL | SEASON ONE",
           "year": 2021,
           "organizer": "TSL",
+          "major": false,
           "source": "hall-of-fame-3"
         },
         {
@@ -951,6 +989,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL | MAJOR",
           "year": 2021,
           "organizer": "TSL",
+          "major": true,
           "source": "hall-of-fame-3"
         }
       ],
@@ -1042,6 +1081,7 @@ window.HBSTV_DATABASE = {
           "title": "GSE | Brasil Extreme Masters MAJOR",
           "year": 2019,
           "organizer": "GSE",
+          "major": true,
           "source": "hall-of-fame"
         },
         {
@@ -1049,6 +1089,7 @@ window.HBSTV_DATABASE = {
           "title": "GSE | HPL Season 3",
           "year": 2019,
           "organizer": "GSE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -1056,6 +1097,7 @@ window.HBSTV_DATABASE = {
           "title": "GSE | Tour II 2019",
           "year": 2019,
           "organizer": "GSE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -1063,6 +1105,7 @@ window.HBSTV_DATABASE = {
           "title": "GSE | Pro League 2019",
           "year": 2019,
           "organizer": "GSE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -1070,6 +1113,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL | Nodus",
           "year": 2020,
           "organizer": "TSL",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -1077,6 +1121,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL | Renovated Game League",
           "year": 2020,
           "organizer": "TSL",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -1084,6 +1129,7 @@ window.HBSTV_DATABASE = {
           "title": "MAWARE | Season",
           "year": 2020,
           "organizer": "MAWARE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -1091,6 +1137,7 @@ window.HBSTV_DATABASE = {
           "title": "GSE | Pro League",
           "year": 2020,
           "organizer": "GSE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -1098,6 +1145,7 @@ window.HBSTV_DATABASE = {
           "title": "ACE | Cup Season 1",
           "year": 2020,
           "organizer": "ACE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -1105,6 +1153,7 @@ window.HBSTV_DATABASE = {
           "title": "LCB | Pro League",
           "year": 2020,
           "organizer": "LCB",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -1112,6 +1161,7 @@ window.HBSTV_DATABASE = {
           "title": "GSE | Tour",
           "year": 2020,
           "organizer": "GSE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -1119,6 +1169,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL | Mjonir Cup",
           "year": 2020,
           "organizer": "TSL",
+          "major": false,
           "source": "hall-of-fame"
         }
       ],
@@ -1745,6 +1796,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL | BRASIL EXTREME MASTERS II 2018",
           "year": 2018,
           "organizer": "TSL",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -1752,6 +1804,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL | MAJOR PREMIERE 2.0",
           "year": 2018,
           "organizer": "TSL",
+          "major": true,
           "source": "hall-of-fame"
         },
         {
@@ -1759,6 +1812,7 @@ window.HBSTV_DATABASE = {
           "title": "GSE | TUES Season One 2019",
           "year": 2019,
           "organizer": "GSE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -1766,6 +1820,7 @@ window.HBSTV_DATABASE = {
           "title": "GSE | TOC 2019",
           "year": 2019,
           "organizer": "GSE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -1773,6 +1828,7 @@ window.HBSTV_DATABASE = {
           "title": "GSE | Brasil Extreme Masters MAJOR",
           "year": 2019,
           "organizer": "GSE",
+          "major": true,
           "source": "hall-of-fame"
         },
         {
@@ -1780,6 +1836,7 @@ window.HBSTV_DATABASE = {
           "title": "GSE | HPL Season 3",
           "year": 2019,
           "organizer": "GSE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -1787,6 +1844,7 @@ window.HBSTV_DATABASE = {
           "title": "GSE | Tour II 2019",
           "year": 2019,
           "organizer": "GSE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -1794,6 +1852,7 @@ window.HBSTV_DATABASE = {
           "title": "GSE | Pro League 2019",
           "year": 2019,
           "organizer": "GSE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -1801,6 +1860,7 @@ window.HBSTV_DATABASE = {
           "title": "XMS | ZONA PRO TOURNOMENT",
           "year": 2025,
           "organizer": "XMS",
+          "major": false,
           "source": "hall-of-fame"
         }
       ],
@@ -2933,6 +2993,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL | MAJOR PREMIERE 2.0",
           "year": 2018,
           "organizer": "TSL",
+          "major": true,
           "source": "hall-of-fame-3"
         },
         {
@@ -2940,6 +3001,7 @@ window.HBSTV_DATABASE = {
           "title": "GSE | Tour II 2019",
           "year": 2019,
           "organizer": "GSE",
+          "major": false,
           "source": "hall-of-fame-3"
         },
         {
@@ -2947,6 +3009,7 @@ window.HBSTV_DATABASE = {
           "title": "GSE | HPL Season 3",
           "year": 2019,
           "organizer": "GSE",
+          "major": false,
           "source": "hall-of-fame-3"
         },
         {
@@ -2954,6 +3017,7 @@ window.HBSTV_DATABASE = {
           "title": "GSE | Pro League 2019",
           "year": 2019,
           "organizer": "GSE",
+          "major": false,
           "source": "hall-of-fame-3"
         },
         {
@@ -2961,6 +3025,7 @@ window.HBSTV_DATABASE = {
           "title": "GSE | TUES 2019",
           "year": 2019,
           "organizer": "GSE",
+          "major": false,
           "source": "hall-of-fame-3"
         },
         {
@@ -2968,6 +3033,7 @@ window.HBSTV_DATABASE = {
           "title": "GSE | GPL Season 2",
           "year": 2019,
           "organizer": "GSE",
+          "major": false,
           "source": "hall-of-fame-3"
         },
         {
@@ -2975,6 +3041,7 @@ window.HBSTV_DATABASE = {
           "title": "GSE | TOC 2.0 2019",
           "year": 2019,
           "organizer": "GSE",
+          "major": false,
           "source": "hall-of-fame-3"
         },
         {
@@ -2982,6 +3049,7 @@ window.HBSTV_DATABASE = {
           "title": "BSC | BRAZILIAN STORM CUP 2023",
           "year": 2023,
           "organizer": "BSC",
+          "major": false,
           "source": "hall-of-fame-3"
         },
         {
@@ -2989,6 +3057,7 @@ window.HBSTV_DATABASE = {
           "title": "LCS | LEAGUE S1",
           "year": 2025,
           "organizer": "LCS",
+          "major": false,
           "source": "hall-of-fame-3"
         },
         {
@@ -2996,6 +3065,7 @@ window.HBSTV_DATABASE = {
           "title": "BCN | CHAMPIONSHIP 2.0",
           "year": 2025,
           "organizer": "BCN",
+          "major": false,
           "source": "hall-of-fame-3"
         }
       ],
@@ -3419,6 +3489,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL | Mjonir Cup",
           "year": 2020,
           "organizer": "TSL",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -3426,6 +3497,7 @@ window.HBSTV_DATABASE = {
           "title": "GSE | Masters Inverno",
           "year": 2021,
           "organizer": "GSE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -3433,6 +3505,7 @@ window.HBSTV_DATABASE = {
           "title": "PNL | Peninsula Cup",
           "year": 2021,
           "organizer": "PNL",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -3440,6 +3513,7 @@ window.HBSTV_DATABASE = {
           "title": "LCB | Pro League",
           "year": 2021,
           "organizer": "LCB",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -3447,6 +3521,7 @@ window.HBSTV_DATABASE = {
           "title": "LCB | MASTERS 2.0 2021",
           "year": 2021,
           "organizer": "LCB",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -3454,6 +3529,7 @@ window.HBSTV_DATABASE = {
           "title": "SUVOH | MAJOR",
           "year": 2021,
           "organizer": "SUVOH",
+          "major": true,
           "source": "hall-of-fame"
         },
         {
@@ -3461,6 +3537,7 @@ window.HBSTV_DATABASE = {
           "title": "LCB | Summer Champioship 2023",
           "year": 2023,
           "organizer": "LCB",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -3468,6 +3545,7 @@ window.HBSTV_DATABASE = {
           "title": "XMS | LEAGUE CUP 2023",
           "year": 2023,
           "organizer": "XMS",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -3475,6 +3553,7 @@ window.HBSTV_DATABASE = {
           "title": "GZ | ALPHA CUP",
           "year": 2024,
           "organizer": "GAMEZONE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -3482,6 +3561,7 @@ window.HBSTV_DATABASE = {
           "title": "GS | COPA DOS CAMPÕES 2024",
           "year": 2024,
           "organizer": "GS",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -3489,6 +3569,7 @@ window.HBSTV_DATABASE = {
           "title": "LLP | STRIKE ONE SEASON 4",
           "year": 2024,
           "organizer": "LLP",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -3496,6 +3577,7 @@ window.HBSTV_DATABASE = {
           "title": "BCN | CHALLENGERS BRAZIL",
           "year": 2024,
           "organizer": "BCN",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -3503,6 +3585,7 @@ window.HBSTV_DATABASE = {
           "title": "PREMIER | PREMIER LEAGUE A",
           "year": 2024,
           "organizer": "PREMIER",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -3510,6 +3593,7 @@ window.HBSTV_DATABASE = {
           "title": "BCN | CHALLENGERS CHAMPIONSHIP",
           "year": 2025,
           "organizer": "BCN",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -3517,6 +3601,7 @@ window.HBSTV_DATABASE = {
           "title": "BCN | STRIKE CUP",
           "year": 2025,
           "organizer": "BCN",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -3524,6 +3609,7 @@ window.HBSTV_DATABASE = {
           "title": "BCN | FINALS 25",
           "year": 2025,
           "organizer": "BCN",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -3531,6 +3617,7 @@ window.HBSTV_DATABASE = {
           "title": "BCN | CHAMPIONSHIP 2.0",
           "year": 2025,
           "organizer": "BCN",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -3538,6 +3625,7 @@ window.HBSTV_DATABASE = {
           "title": "LCS | LEAGUE S1",
           "year": 2025,
           "organizer": "LCS",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -3545,6 +3633,7 @@ window.HBSTV_DATABASE = {
           "title": "LCS | LCS League S2",
           "year": 2025,
           "organizer": "LCS",
+          "major": false,
           "source": "hall-of-fame"
         }
       ],
@@ -4706,6 +4795,7 @@ window.HBSTV_DATABASE = {
           "title": "ACE | LEAGUE CUP 2021",
           "year": 2021,
           "organizer": "ACE",
+          "major": false,
           "source": "hall-of-fame-3"
         },
         {
@@ -4713,6 +4803,7 @@ window.HBSTV_DATABASE = {
           "title": "SUVOH | LOFTUS CUP S2 2021",
           "year": 2021,
           "organizer": "SUVOH",
+          "major": false,
           "source": "hall-of-fame-3"
         },
         {
@@ -4720,6 +4811,7 @@ window.HBSTV_DATABASE = {
           "title": "LCB | BLOCK STRIKE LEAGUE 2021",
           "year": 2021,
           "organizer": "LCB",
+          "major": false,
           "source": "hall-of-fame-3"
         },
         {
@@ -4727,6 +4819,7 @@ window.HBSTV_DATABASE = {
           "title": "LCB | MASTER CUP 2021",
           "year": 2021,
           "organizer": "LCB",
+          "major": false,
           "source": "hall-of-fame-3"
         },
         {
@@ -4734,6 +4827,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL | SMACK",
           "year": 2021,
           "organizer": "TSL",
+          "major": false,
           "source": "hall-of-fame-3"
         },
         {
@@ -4741,6 +4835,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL | MAJOR",
           "year": 2021,
           "organizer": "TSL",
+          "major": true,
           "source": "hall-of-fame-3"
         },
         {
@@ -4748,6 +4843,7 @@ window.HBSTV_DATABASE = {
           "title": "SEL | TOURNAMENT 2022",
           "year": 2022,
           "organizer": "SEL",
+          "major": false,
           "source": "hall-of-fame-3"
         },
         {
@@ -4755,6 +4851,7 @@ window.HBSTV_DATABASE = {
           "title": "WHL | Major",
           "year": 2023,
           "organizer": "WHL",
+          "major": true,
           "source": "hall-of-fame-3"
         }
       ],
@@ -5115,6 +5212,7 @@ window.HBSTV_DATABASE = {
           "title": "GTR | SANITY CUP 2023",
           "year": 2023,
           "organizer": "GTR",
+          "major": false,
           "source": "hall-of-fame-3"
         },
         {
@@ -5122,6 +5220,7 @@ window.HBSTV_DATABASE = {
           "title": "GBL | CUP  2023",
           "year": 2023,
           "organizer": "GBL",
+          "major": false,
           "source": "hall-of-fame-3"
         },
         {
@@ -5129,6 +5228,7 @@ window.HBSTV_DATABASE = {
           "title": "GTR | LIBERATORS 2023",
           "year": 2023,
           "organizer": "GTR",
+          "major": false,
           "source": "hall-of-fame-3"
         },
         {
@@ -5136,6 +5236,7 @@ window.HBSTV_DATABASE = {
           "title": "RANK S | INVITATIONAL LEAGUE 2023",
           "year": 2023,
           "organizer": "RANK S",
+          "major": false,
           "source": "hall-of-fame-3"
         },
         {
@@ -5143,6 +5244,7 @@ window.HBSTV_DATABASE = {
           "title": "RANK S | DREAM HACK BRAZIL",
           "year": 2023,
           "organizer": "RANK S",
+          "major": false,
           "source": "hall-of-fame-3"
         },
         {
@@ -5150,6 +5252,7 @@ window.HBSTV_DATABASE = {
           "title": "RANK S | Major",
           "year": 2023,
           "organizer": "RANK S",
+          "major": true,
           "source": "hall-of-fame-3"
         },
         {
@@ -5157,6 +5260,7 @@ window.HBSTV_DATABASE = {
           "title": "GAMEZONE | NEW AGE",
           "year": 2024,
           "organizer": "GAMEZONE",
+          "major": false,
           "source": "hall-of-fame-3"
         },
         {
@@ -5164,6 +5268,7 @@ window.HBSTV_DATABASE = {
           "title": "BCN | YALLA COMPASS 2024",
           "year": 2024,
           "organizer": "BCN",
+          "major": false,
           "source": "hall-of-fame-3"
         }
       ],
@@ -5471,6 +5576,7 @@ window.HBSTV_DATABASE = {
           "title": "GSE | Evolution Championship 2019",
           "year": 2019,
           "organizer": "GSE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -5478,6 +5584,7 @@ window.HBSTV_DATABASE = {
           "title": "GSE | TOC 2019",
           "year": 2019,
           "organizer": "GSE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -5485,6 +5592,7 @@ window.HBSTV_DATABASE = {
           "title": "GSE | TUES SEASON 2 2019",
           "year": 2019,
           "organizer": "GSE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -5492,6 +5600,7 @@ window.HBSTV_DATABASE = {
           "title": "GSE | LOC STARS LEAGUE 2020",
           "year": 2020,
           "organizer": "GSE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -5499,6 +5608,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL | Mjonir Cup",
           "year": 2020,
           "organizer": "TSL",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -5506,6 +5616,7 @@ window.HBSTV_DATABASE = {
           "title": "GSE | Masters Inverno",
           "year": 2021,
           "organizer": "GSE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -5513,6 +5624,7 @@ window.HBSTV_DATABASE = {
           "title": "PNL | Peninsula Cup",
           "year": 2021,
           "organizer": "PNL",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -5520,6 +5632,7 @@ window.HBSTV_DATABASE = {
           "title": "LCB | Pro League",
           "year": 2021,
           "organizer": "LCB",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -5527,6 +5640,7 @@ window.HBSTV_DATABASE = {
           "title": "LCB | MASTERS 2.0 2021",
           "year": 2021,
           "organizer": "LCB",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -5534,6 +5648,7 @@ window.HBSTV_DATABASE = {
           "title": "SUVOH | MAJOR",
           "year": 2021,
           "organizer": "SUVOH",
+          "major": true,
           "source": "hall-of-fame"
         },
         {
@@ -5541,6 +5656,7 @@ window.HBSTV_DATABASE = {
           "title": "LCB | Summer Champioship 2023",
           "year": 2023,
           "organizer": "LCB",
+          "major": false,
           "source": "hall-of-fame"
         }
       ],
@@ -5835,6 +5951,7 @@ window.HBSTV_DATABASE = {
           "title": "SUVOH | LOFTUS CUP 2.0 2021",
           "year": 2021,
           "organizer": "SUVOH",
+          "major": false,
           "source": "hall-of-fame-3"
         },
         {
@@ -5842,6 +5959,7 @@ window.HBSTV_DATABASE = {
           "title": "SUVOH | REVELATIONS CUP 2022",
           "year": 2022,
           "organizer": "SUVOH",
+          "major": false,
           "source": "hall-of-fame-3"
         },
         {
@@ -5849,6 +5967,7 @@ window.HBSTV_DATABASE = {
           "title": "LN | LAN CUP 2023",
           "year": 2023,
           "organizer": "LN",
+          "major": false,
           "source": "hall-of-fame-3"
         },
         {
@@ -5856,6 +5975,7 @@ window.HBSTV_DATABASE = {
           "title": "GS | SUPER LEAGUE 2023",
           "year": 2023,
           "organizer": "GS",
+          "major": false,
           "source": "hall-of-fame-3"
         },
         {
@@ -5863,6 +5983,7 @@ window.HBSTV_DATABASE = {
           "title": "LCB | Summer Championship 2023",
           "year": 2023,
           "organizer": "LCB",
+          "major": false,
           "source": "hall-of-fame-3"
         },
         {
@@ -5870,6 +5991,7 @@ window.HBSTV_DATABASE = {
           "title": "GS | COPA DOS CAMPEOES 2024",
           "year": 2024,
           "organizer": "GS",
+          "major": false,
           "source": "hall-of-fame-3"
         },
         {
@@ -5877,6 +5999,7 @@ window.HBSTV_DATABASE = {
           "title": "PREMIER | PREMIER LEAGUE A",
           "year": 2024,
           "organizer": "PREMIER",
+          "major": false,
           "source": "hall-of-fame-3"
         },
         {
@@ -5884,6 +6007,7 @@ window.HBSTV_DATABASE = {
           "title": "LLP | STRIKE ONE SEASON 4",
           "year": 2024,
           "organizer": "LLP",
+          "major": false,
           "source": "hall-of-fame-3"
         },
         {
@@ -5891,6 +6015,7 @@ window.HBSTV_DATABASE = {
           "title": "BCN | CHALLENGERS BRAZIL",
           "year": 2024,
           "organizer": "BCN",
+          "major": false,
           "source": "hall-of-fame-3"
         },
         {
@@ -5898,6 +6023,7 @@ window.HBSTV_DATABASE = {
           "title": "BCN | CHALLENGERS 2025",
           "year": 2025,
           "organizer": "BCN",
+          "major": false,
           "source": "hall-of-fame-3"
         },
         {
@@ -5905,6 +6031,7 @@ window.HBSTV_DATABASE = {
           "title": "BCN | CHAMPIONSHIP 2.0",
           "year": 2025,
           "organizer": "BCN",
+          "major": false,
           "source": "hall-of-fame-3"
         },
         {
@@ -5912,6 +6039,7 @@ window.HBSTV_DATABASE = {
           "title": "BCN | LEAGUE 2025",
           "year": 2025,
           "organizer": "BCN",
+          "major": false,
           "source": "hall-of-fame-3"
         }
       ],
@@ -6464,6 +6592,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL | CBBS 2.0",
           "year": 2018,
           "organizer": "TSL",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -6471,6 +6600,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL | MAJOR CUP OCTUBER 2018",
           "year": 2018,
           "organizer": "TSL",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -6478,6 +6608,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL | MUNDIAL 2018",
           "year": 2018,
           "organizer": "TSL",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -6485,6 +6616,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL | HARDNESS PRO LEAGUE 2.0 2018",
           "year": 2018,
           "organizer": "TSL",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -6492,6 +6624,7 @@ window.HBSTV_DATABASE = {
           "title": "GSE | TUES 2019",
           "year": 2019,
           "organizer": "GSE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -6499,6 +6632,7 @@ window.HBSTV_DATABASE = {
           "title": "XMS | LEAGUE CUP 2023",
           "year": 2023,
           "organizer": "XMS",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -6506,6 +6640,7 @@ window.HBSTV_DATABASE = {
           "title": "GZ | ALPHA CUP",
           "year": 2024,
           "organizer": "GAMEZONE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -6513,6 +6648,7 @@ window.HBSTV_DATABASE = {
           "title": "GAMEZONE | BRASIL GAMING ELITE",
           "year": 2024,
           "organizer": "GAMEZONE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -6520,6 +6656,7 @@ window.HBSTV_DATABASE = {
           "title": "XMS | ZONA PRO TOURNOMENT",
           "year": 2025,
           "organizer": "XMS",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -6527,6 +6664,7 @@ window.HBSTV_DATABASE = {
           "title": "LHA | MUNDIAL 2025",
           "year": 2025,
           "organizer": "LHA",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -6534,6 +6672,7 @@ window.HBSTV_DATABASE = {
           "title": "MK9 | Biggest League 2025",
           "year": 2025,
           "organizer": "MK9",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -6541,6 +6680,7 @@ window.HBSTV_DATABASE = {
           "title": "BCN | FINALS 25",
           "year": 2025,
           "organizer": "BCN",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -6548,6 +6688,7 @@ window.HBSTV_DATABASE = {
           "title": "LCS | LCS League S2",
           "year": 2025,
           "organizer": "LCS",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -6555,6 +6696,7 @@ window.HBSTV_DATABASE = {
           "title": "BCN | CHAMPIONSHIP 2.0",
           "year": 2025,
           "organizer": "BCN",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -6562,6 +6704,7 @@ window.HBSTV_DATABASE = {
           "title": "BCN | YALLA COMPASS 2025",
           "year": 2025,
           "organizer": "BCN",
+          "major": false,
           "source": "hall-of-fame"
         }
       ],
@@ -6774,6 +6917,7 @@ window.HBSTV_DATABASE = {
           "title": "GLBS | GAME LEAGUE",
           "year": 2021,
           "organizer": "GLBS",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -6781,6 +6925,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL | SUZUKA 2021",
           "year": 2021,
           "organizer": "TSL",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -6788,6 +6933,7 @@ window.HBSTV_DATABASE = {
           "title": "LLP | STRIKE ONE  2021",
           "year": 2021,
           "organizer": "LLP",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -6795,6 +6941,7 @@ window.HBSTV_DATABASE = {
           "title": "CLUTCHERS | SEASON ONE 2021",
           "year": 2021,
           "organizer": "CLUTCHERS",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -6802,6 +6949,7 @@ window.HBSTV_DATABASE = {
           "title": "RISE LEADERS | SEASON ONE 2021",
           "year": 2021,
           "organizer": "RISE LEADERS",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -6809,6 +6957,7 @@ window.HBSTV_DATABASE = {
           "title": "SUVOH | MAJOR",
           "year": 2021,
           "organizer": "SUVOH",
+          "major": true,
           "source": "hall-of-fame"
         },
         {
@@ -6816,6 +6965,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL | BLAST STRIKE LEAGUE",
           "year": 2023,
           "organizer": "TSL",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -6823,6 +6973,7 @@ window.HBSTV_DATABASE = {
           "title": "WHL | Major",
           "year": 2023,
           "organizer": "WHL",
+          "major": true,
           "source": "hall-of-fame"
         },
         {
@@ -6830,6 +6981,7 @@ window.HBSTV_DATABASE = {
           "title": "XMS | ZONA PRO TOURNOMENT",
           "year": 2025,
           "organizer": "XMS",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -6837,6 +6989,7 @@ window.HBSTV_DATABASE = {
           "title": "LCS | LEAGUE S1",
           "year": 2025,
           "organizer": "LCS",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -6844,6 +6997,7 @@ window.HBSTV_DATABASE = {
           "title": "XMS | MASTER LEAGUE",
           "year": 2025,
           "organizer": "XMS",
+          "major": false,
           "source": "hall-of-fame"
         }
       ],
@@ -7272,6 +7426,7 @@ window.HBSTV_DATABASE = {
           "title": "XMS | LEAGUE CUP 2023",
           "year": 2023,
           "organizer": "XMS",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -7279,6 +7434,7 @@ window.HBSTV_DATABASE = {
           "title": "XMS | EXTREME MASTERS",
           "year": 2024,
           "organizer": "XMS",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -7286,6 +7442,7 @@ window.HBSTV_DATABASE = {
           "title": "GAMEZONE | PRO SERIES LEAGUE SEASON 2",
           "year": 2024,
           "organizer": "GAMEZONE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -7293,6 +7450,7 @@ window.HBSTV_DATABASE = {
           "title": "GBL | STARS CUP 2024",
           "year": 2024,
           "organizer": "GBL",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -7300,6 +7458,7 @@ window.HBSTV_DATABASE = {
           "title": "GAMEZONE | PRO SERIES LEAGUE SEASON 3",
           "year": 2024,
           "organizer": "GAMEZONE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -7307,6 +7466,7 @@ window.HBSTV_DATABASE = {
           "title": "XMS | ZONA PRO TOURNOMENT",
           "year": 2025,
           "organizer": "XMS",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -7314,6 +7474,7 @@ window.HBSTV_DATABASE = {
           "title": "BCN | STRIKE CUP",
           "year": 2025,
           "organizer": "BCN",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -7321,6 +7482,7 @@ window.HBSTV_DATABASE = {
           "title": "BCN | YALLA COMPASS 2025",
           "year": 2025,
           "organizer": "BCN",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -7328,6 +7490,7 @@ window.HBSTV_DATABASE = {
           "title": "BCN | LEAGUE 2025",
           "year": 2025,
           "organizer": "BCN",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -7335,6 +7498,7 @@ window.HBSTV_DATABASE = {
           "title": "BCN | FINALS 25",
           "year": 2025,
           "organizer": "BCN",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -7342,6 +7506,7 @@ window.HBSTV_DATABASE = {
           "title": "BCN I CHAMPIONSHIP 2025",
           "year": 2025,
           "organizer": "BCN",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -7349,6 +7514,7 @@ window.HBSTV_DATABASE = {
           "title": "XMS | MASTER LEAGUE",
           "year": 2025,
           "organizer": "XMS",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -7356,6 +7522,7 @@ window.HBSTV_DATABASE = {
           "title": "LCS | LEAGUE S1",
           "year": 2025,
           "organizer": "LCS",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -7363,6 +7530,7 @@ window.HBSTV_DATABASE = {
           "title": "LCS | LCS League S2",
           "year": 2025,
           "organizer": "LCS",
+          "major": false,
           "source": "hall-of-fame"
         }
       ],
@@ -9445,6 +9613,7 @@ window.HBSTV_DATABASE = {
           "title": "LCB | Summer Championship 2023",
           "year": 2023,
           "organizer": "LCB",
+          "major": false,
           "source": "hall-of-fame-3"
         },
         {
@@ -9452,6 +9621,7 @@ window.HBSTV_DATABASE = {
           "title": "GS | SUPER LEAGUE 2023",
           "year": 2023,
           "organizer": "GS",
+          "major": false,
           "source": "hall-of-fame-3"
         },
         {
@@ -9459,6 +9629,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL | BLAST STRIKE LEAGUE",
           "year": 2023,
           "organizer": "TSL",
+          "major": false,
           "source": "hall-of-fame-3"
         },
         {
@@ -9466,6 +9637,7 @@ window.HBSTV_DATABASE = {
           "title": "WHL | Major",
           "year": 2023,
           "organizer": "WHL",
+          "major": true,
           "source": "hall-of-fame-3"
         },
         {
@@ -9473,6 +9645,7 @@ window.HBSTV_DATABASE = {
           "title": "GS | COPA DOS CAMPEOES 2024",
           "year": 2024,
           "organizer": "GS",
+          "major": false,
           "source": "hall-of-fame-3"
         },
         {
@@ -9480,6 +9653,7 @@ window.HBSTV_DATABASE = {
           "title": "BCN | CHALLENGERS BRAZIL",
           "year": 2024,
           "organizer": "BCN",
+          "major": false,
           "source": "hall-of-fame-3"
         },
         {
@@ -9487,6 +9661,7 @@ window.HBSTV_DATABASE = {
           "title": "LLP | STRIKE ONE SEASON 4",
           "year": 2024,
           "organizer": "LLP",
+          "major": false,
           "source": "hall-of-fame-3"
         },
         {
@@ -9494,6 +9669,7 @@ window.HBSTV_DATABASE = {
           "title": "PREMIER | PREMIER LEAGUE A",
           "year": 2024,
           "organizer": "PREMIER",
+          "major": false,
           "source": "hall-of-fame-3"
         },
         {
@@ -9501,6 +9677,7 @@ window.HBSTV_DATABASE = {
           "title": "BCN | CHALLENGERS CHAMPIONSHIP",
           "year": 2025,
           "organizer": "BCN",
+          "major": false,
           "source": "hall-of-fame-3"
         },
         {
@@ -9508,6 +9685,7 @@ window.HBSTV_DATABASE = {
           "title": "LHA | Mundial 2025",
           "year": 2025,
           "organizer": "LHA",
+          "major": false,
           "source": "hall-of-fame-3"
         },
         {
@@ -9515,6 +9693,7 @@ window.HBSTV_DATABASE = {
           "title": "MK9 | Biggest League 2025",
           "year": 2025,
           "organizer": "MK9",
+          "major": false,
           "source": "hall-of-fame-3"
         },
         {
@@ -9522,6 +9701,7 @@ window.HBSTV_DATABASE = {
           "title": "BCN | YALLA COMPASS 2025",
           "year": 2025,
           "organizer": "BCN",
+          "major": false,
           "source": "hall-of-fame-3"
         },
         {
@@ -9529,6 +9709,7 @@ window.HBSTV_DATABASE = {
           "title": "BCN | LEAGUE 2025",
           "year": 2025,
           "organizer": "BCN",
+          "major": false,
           "source": "hall-of-fame-3"
         },
         {
@@ -9536,6 +9717,7 @@ window.HBSTV_DATABASE = {
           "title": "BCN | CHAMPIONSHIP 2.0",
           "year": 2025,
           "organizer": "BCN",
+          "major": false,
           "source": "hall-of-fame-3"
         }
       ],
@@ -10531,6 +10713,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL | SUZUKA 2021",
           "year": 2021,
           "organizer": "TSL",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -10538,6 +10721,7 @@ window.HBSTV_DATABASE = {
           "title": "LCB | Block Strike league 2021",
           "year": 2021,
           "organizer": "LCB",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -10545,6 +10729,7 @@ window.HBSTV_DATABASE = {
           "title": "LCB | Masters",
           "year": 2021,
           "organizer": "LCB",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -10552,6 +10737,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL | MAJOR",
           "year": 2021,
           "organizer": "TSL",
+          "major": true,
           "source": "hall-of-fame"
         },
         {
@@ -10559,6 +10745,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL | SMACK",
           "year": 2021,
           "organizer": "TSL",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -10566,6 +10753,7 @@ window.HBSTV_DATABASE = {
           "title": "GLBS | GAME LEAGUE",
           "year": 2021,
           "organizer": "GLBS",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -10573,6 +10761,7 @@ window.HBSTV_DATABASE = {
           "title": "G3X | CUP SEASON 2 2023",
           "year": 2023,
           "organizer": "G3X",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -10580,6 +10769,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL | BLAST STRIKE LEAGUE",
           "year": 2023,
           "organizer": "TSL",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -10587,6 +10777,7 @@ window.HBSTV_DATABASE = {
           "title": "WHL | Major",
           "year": 2023,
           "organizer": "WHL",
+          "major": true,
           "source": "hall-of-fame"
         },
         {
@@ -10594,6 +10785,7 @@ window.HBSTV_DATABASE = {
           "title": "BSTV | INSANITY SEASON 1",
           "year": 2024,
           "organizer": "BSTV",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -10601,6 +10793,7 @@ window.HBSTV_DATABASE = {
           "title": "WHL | WORLD RANKING S2",
           "year": 2024,
           "organizer": "WHL",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -10608,6 +10801,7 @@ window.HBSTV_DATABASE = {
           "title": "GAMEZONE | BRASIL GAMING ELITE",
           "year": 2024,
           "organizer": "GAMEZONE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -10615,6 +10809,7 @@ window.HBSTV_DATABASE = {
           "title": "GAMEZONE | PRO SERIES LEAGUE",
           "year": 2024,
           "organizer": "GAMEZONE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -10622,6 +10817,7 @@ window.HBSTV_DATABASE = {
           "title": "NZK | CHAMPIONS 2024",
           "year": 2024,
           "organizer": "NZK",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -10629,6 +10825,7 @@ window.HBSTV_DATABASE = {
           "title": "XMS | EXTREME MASTERS",
           "year": 2024,
           "organizer": "XMS",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -10636,6 +10833,7 @@ window.HBSTV_DATABASE = {
           "title": "GAMEZONE | PRO SERIES LEAGUE SEASON 2",
           "year": 2024,
           "organizer": "GAMEZONE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -10643,6 +10841,7 @@ window.HBSTV_DATABASE = {
           "title": "BCN | IMPACT LEAGUE",
           "year": 2025,
           "organizer": "BCN",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -10650,6 +10849,7 @@ window.HBSTV_DATABASE = {
           "title": "BCN | EMULABILE CUP",
           "year": 2025,
           "organizer": "BCN",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -10657,6 +10857,7 @@ window.HBSTV_DATABASE = {
           "title": "LCS | LEAGUE S1",
           "year": 2025,
           "organizer": "LCS",
+          "major": false,
           "source": "hall-of-fame"
         }
       ],
@@ -11246,6 +11447,7 @@ window.HBSTV_DATABASE = {
           "title": "BSL  | Cup 2019",
           "year": 2019,
           "organizer": "BSL",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -11253,6 +11455,7 @@ window.HBSTV_DATABASE = {
           "title": "LCB  | Strike One 2019",
           "year": 2019,
           "organizer": "LCB",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -11260,6 +11463,7 @@ window.HBSTV_DATABASE = {
           "title": "GSE | Evolution Championship 2020",
           "year": 2020,
           "organizer": "GSE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -11267,6 +11471,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL | CBBS 4.0 2020",
           "year": 2020,
           "organizer": "TSL",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -11274,6 +11479,7 @@ window.HBSTV_DATABASE = {
           "title": "GSE | TUES CUP 2020",
           "year": 2020,
           "organizer": "GSE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -11281,6 +11487,7 @@ window.HBSTV_DATABASE = {
           "title": "SUVOH | Loftus Cup 2020",
           "year": 2020,
           "organizer": "SUVOH",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -11288,6 +11495,7 @@ window.HBSTV_DATABASE = {
           "title": "? | Elite Strike 2020",
           "year": 2020,
           "organizer": "Não informada",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -11295,6 +11503,7 @@ window.HBSTV_DATABASE = {
           "title": "GSC | Pro Series",
           "year": 2023,
           "organizer": "GSC",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -11302,6 +11511,7 @@ window.HBSTV_DATABASE = {
           "title": "GSC | Pro League",
           "year": 2023,
           "organizer": "GSC",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -11309,6 +11519,7 @@ window.HBSTV_DATABASE = {
           "title": "WHL | ELECTRONIC SPORTS LEAGUE",
           "year": 2023,
           "organizer": "WHL",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -11316,6 +11527,7 @@ window.HBSTV_DATABASE = {
           "title": "RANK S | INVITATIONAL LEAGUE 2023",
           "year": 2023,
           "organizer": "RANK S",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -11323,6 +11535,7 @@ window.HBSTV_DATABASE = {
           "title": "GTR | Sanity Cup 2023",
           "year": 2023,
           "organizer": "GTR",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -11330,6 +11543,7 @@ window.HBSTV_DATABASE = {
           "title": "GTR  | Libertadores 2023",
           "year": 2023,
           "organizer": "GTR",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -11337,6 +11551,7 @@ window.HBSTV_DATABASE = {
           "title": "RANK S | DREAM HACK BRAZIL",
           "year": 2023,
           "organizer": "RANK S",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -11344,6 +11559,7 @@ window.HBSTV_DATABASE = {
           "title": "RANK S | Major",
           "year": 2023,
           "organizer": "RANK S",
+          "major": true,
           "source": "hall-of-fame"
         },
         {
@@ -11351,6 +11567,7 @@ window.HBSTV_DATABASE = {
           "title": "GAMEZONE | NEW AGE",
           "year": 2024,
           "organizer": "GAMEZONE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -11358,6 +11575,7 @@ window.HBSTV_DATABASE = {
           "title": "GBL | Copa GBL 2024",
           "year": 2024,
           "organizer": "GBL",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -11365,6 +11583,7 @@ window.HBSTV_DATABASE = {
           "title": "BCN | YALLA COMPASS 2024",
           "year": 2024,
           "organizer": "BCN",
+          "major": false,
           "source": "hall-of-fame"
         }
       ],
@@ -11469,6 +11688,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL | MAJOR CUP",
           "year": 2017,
           "organizer": "TSL",
+          "major": false,
           "source": "hall-of-fame-3"
         },
         {
@@ -11476,6 +11696,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL | CBBS 2.0",
           "year": 2018,
           "organizer": "TSL",
+          "major": false,
           "source": "hall-of-fame-3"
         }
       ],
@@ -12771,6 +12992,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL | APS League 2019",
           "year": 2019,
           "organizer": "TSL",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -12778,6 +13000,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL | Forcefield 2019",
           "year": 2019,
           "organizer": "TSL",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -12785,6 +13008,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL | Hardness Pro League 2019",
           "year": 2019,
           "organizer": "TSL",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -12792,6 +13016,7 @@ window.HBSTV_DATABASE = {
           "title": "GSE | TUES Season One 2019",
           "year": 2019,
           "organizer": "GSE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -12799,6 +13024,7 @@ window.HBSTV_DATABASE = {
           "title": "GSE | TOC 2019",
           "year": 2019,
           "organizer": "GSE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -12806,6 +13032,7 @@ window.HBSTV_DATABASE = {
           "title": "GSE | Brasil Extreme Masters MAJOR",
           "year": 2019,
           "organizer": "GSE",
+          "major": true,
           "source": "hall-of-fame"
         },
         {
@@ -12813,6 +13040,7 @@ window.HBSTV_DATABASE = {
           "title": "GSE | Tour II 2019",
           "year": 2019,
           "organizer": "GSE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -12820,6 +13048,7 @@ window.HBSTV_DATABASE = {
           "title": "GSE | Pro League 2019",
           "year": 2019,
           "organizer": "GSE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -12827,6 +13056,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL | Nodus",
           "year": 2020,
           "organizer": "TSL",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -12834,6 +13064,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL | Renovated Game League",
           "year": 2020,
           "organizer": "TSL",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -12841,6 +13072,7 @@ window.HBSTV_DATABASE = {
           "title": "MAWARE | Season",
           "year": 2020,
           "organizer": "MAWARE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -12848,6 +13080,7 @@ window.HBSTV_DATABASE = {
           "title": "GSE | Pro League",
           "year": 2020,
           "organizer": "GSE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -12855,6 +13088,7 @@ window.HBSTV_DATABASE = {
           "title": "ACE | Cup Season 1",
           "year": 2020,
           "organizer": "ACE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -12862,6 +13096,7 @@ window.HBSTV_DATABASE = {
           "title": "LCB | Pro League",
           "year": 2020,
           "organizer": "LCB",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -12869,6 +13104,7 @@ window.HBSTV_DATABASE = {
           "title": "GSE | Tour",
           "year": 2020,
           "organizer": "GSE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -12876,6 +13112,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL | Mjonir Cup",
           "year": 2020,
           "organizer": "TSL",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -12883,6 +13120,7 @@ window.HBSTV_DATABASE = {
           "title": "LLP | STRIKE ONE  2021",
           "year": 2021,
           "organizer": "LLP",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -12890,6 +13128,7 @@ window.HBSTV_DATABASE = {
           "title": "CLUTCHERS | SEASON ONE 2021",
           "year": 2021,
           "organizer": "CLUTCHERS",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -12897,6 +13136,7 @@ window.HBSTV_DATABASE = {
           "title": "RISE LEADERS | SEASON ONE 2021",
           "year": 2021,
           "organizer": "RISE LEADERS",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -12904,6 +13144,7 @@ window.HBSTV_DATABASE = {
           "title": "SUVOH | MAJOR",
           "year": 2021,
           "organizer": "SUVOH",
+          "major": true,
           "source": "hall-of-fame"
         },
         {
@@ -12911,6 +13152,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL | BLAST STRIKE LEAGUE",
           "year": 2023,
           "organizer": "TSL",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -12918,6 +13160,7 @@ window.HBSTV_DATABASE = {
           "title": "WHL | Major",
           "year": 2023,
           "organizer": "WHL",
+          "major": true,
           "source": "hall-of-fame"
         },
         {
@@ -12925,6 +13168,7 @@ window.HBSTV_DATABASE = {
           "title": "GZ | ALPHA CUP",
           "year": 2024,
           "organizer": "GAMEZONE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -12932,6 +13176,7 @@ window.HBSTV_DATABASE = {
           "title": "BCN | CHALLENGERS CHAMPIONSHIP",
           "year": 2025,
           "organizer": "BCN",
+          "major": false,
           "source": "hall-of-fame"
         }
       ],
@@ -13162,6 +13407,7 @@ window.HBSTV_DATABASE = {
           "title": "GSE | Tour II 2019",
           "year": 2019,
           "organizer": "GSE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -13169,6 +13415,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL | Hardness Pro League 2019",
           "year": 2019,
           "organizer": "TSL",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -13176,6 +13423,7 @@ window.HBSTV_DATABASE = {
           "title": "GSE | Pro League 2019",
           "year": 2019,
           "organizer": "GSE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -13183,6 +13431,7 @@ window.HBSTV_DATABASE = {
           "title": "ACE | Cup Season 1",
           "year": 2020,
           "organizer": "ACE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -13190,6 +13439,7 @@ window.HBSTV_DATABASE = {
           "title": "LCB | Pro League",
           "year": 2020,
           "organizer": "LCB",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -13197,6 +13447,7 @@ window.HBSTV_DATABASE = {
           "title": "GSE | Tour",
           "year": 2020,
           "organizer": "GSE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -13204,6 +13455,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL | Mjonir Cup",
           "year": 2020,
           "organizer": "TSL",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -13211,6 +13463,7 @@ window.HBSTV_DATABASE = {
           "title": "GSE | Masters Inverno",
           "year": 2021,
           "organizer": "GSE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -13218,6 +13471,7 @@ window.HBSTV_DATABASE = {
           "title": "PNL | Peninsula Cup",
           "year": 2021,
           "organizer": "PNL",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -13225,6 +13479,7 @@ window.HBSTV_DATABASE = {
           "title": "LCB | Pro League",
           "year": 2021,
           "organizer": "LCB",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -13232,6 +13487,7 @@ window.HBSTV_DATABASE = {
           "title": "LCB | MASTERS 2.0 2021",
           "year": 2021,
           "organizer": "LCB",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -13239,6 +13495,7 @@ window.HBSTV_DATABASE = {
           "title": "SUVOH | MAJOR",
           "year": 2021,
           "organizer": "SUVOH",
+          "major": true,
           "source": "hall-of-fame"
         },
         {
@@ -13246,6 +13503,7 @@ window.HBSTV_DATABASE = {
           "title": "LCB |  Summer Champioship 2023",
           "year": 2023,
           "organizer": "LCB",
+          "major": false,
           "source": "hall-of-fame"
         }
       ],
@@ -14073,6 +14331,7 @@ window.HBSTV_DATABASE = {
           "title": "GSE | Evolution Championship 2019",
           "year": 2019,
           "organizer": "GSE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -14080,6 +14339,7 @@ window.HBSTV_DATABASE = {
           "title": "GSE | TOC 2019",
           "year": 2019,
           "organizer": "GSE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -14087,6 +14347,7 @@ window.HBSTV_DATABASE = {
           "title": "GSE | TUES SEASON 2  2019",
           "year": 2019,
           "organizer": "GSE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -14094,6 +14355,7 @@ window.HBSTV_DATABASE = {
           "title": "GSE | TOBS III 2019",
           "year": 2019,
           "organizer": "GSE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -14101,6 +14363,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL | Nodus",
           "year": 2020,
           "organizer": "TSL",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -14108,6 +14371,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL | Renovated Game League",
           "year": 2020,
           "organizer": "TSL",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -14115,6 +14379,7 @@ window.HBSTV_DATABASE = {
           "title": "MAWARE | Season",
           "year": 2020,
           "organizer": "MAWARE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -14122,6 +14387,7 @@ window.HBSTV_DATABASE = {
           "title": "GSE | Pro League",
           "year": 2020,
           "organizer": "GSE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -14129,6 +14395,7 @@ window.HBSTV_DATABASE = {
           "title": "ACE | Cup Season 1",
           "year": 2020,
           "organizer": "ACE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -14136,6 +14403,7 @@ window.HBSTV_DATABASE = {
           "title": "LCB | Pro League",
           "year": 2020,
           "organizer": "LCB",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -14143,6 +14411,7 @@ window.HBSTV_DATABASE = {
           "title": "GSE | Tour",
           "year": 2020,
           "organizer": "GSE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -14150,6 +14419,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL | Mjonir Cup",
           "year": 2020,
           "organizer": "TSL",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -14157,6 +14427,7 @@ window.HBSTV_DATABASE = {
           "title": "GSE | Masters Inverno",
           "year": 2021,
           "organizer": "GSE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -14164,6 +14435,7 @@ window.HBSTV_DATABASE = {
           "title": "PNL | Peninsula Cup",
           "year": 2021,
           "organizer": "PNL",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -14171,6 +14443,7 @@ window.HBSTV_DATABASE = {
           "title": "LCB | Pro League",
           "year": 2021,
           "organizer": "LCB",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -14178,6 +14451,7 @@ window.HBSTV_DATABASE = {
           "title": "LCB | MASTERS 2.0 2021",
           "year": 2021,
           "organizer": "LCB",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -14185,6 +14459,7 @@ window.HBSTV_DATABASE = {
           "title": "SUVOH | MAJOR",
           "year": 2021,
           "organizer": "SUVOH",
+          "major": true,
           "source": "hall-of-fame"
         },
         {
@@ -14192,6 +14467,7 @@ window.HBSTV_DATABASE = {
           "title": "XMS | LEAGUE 2023",
           "year": 2023,
           "organizer": "XMS",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -14199,6 +14475,7 @@ window.HBSTV_DATABASE = {
           "title": "GZ | ALPHA CUP",
           "year": 2024,
           "organizer": "GAMEZONE",
+          "major": false,
           "source": "hall-of-fame"
         }
       ],
@@ -14514,6 +14791,7 @@ window.HBSTV_DATABASE = {
           "title": "GSE | MINOR 2019",
           "year": 2019,
           "organizer": "GSE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -14521,6 +14799,7 @@ window.HBSTV_DATABASE = {
           "title": "GSE | REVOLUTION 2020",
           "year": 2020,
           "organizer": "GSE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -14528,6 +14807,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL | MUNDIAL 2020",
           "year": 2020,
           "organizer": "TSL",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -14535,6 +14815,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL | Nodus",
           "year": 2020,
           "organizer": "TSL",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -14542,6 +14823,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL | Renovated Game League",
           "year": 2020,
           "organizer": "TSL",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -14549,6 +14831,7 @@ window.HBSTV_DATABASE = {
           "title": "GSE | Pro League",
           "year": 2020,
           "organizer": "GSE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -14556,6 +14839,7 @@ window.HBSTV_DATABASE = {
           "title": "ACE | LEAGUE CUP 2021",
           "year": 2021,
           "organizer": "ACE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -14563,6 +14847,7 @@ window.HBSTV_DATABASE = {
           "title": "LLP | STRIKE ONE  2021",
           "year": 2021,
           "organizer": "LLP",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -14570,6 +14855,7 @@ window.HBSTV_DATABASE = {
           "title": "CLUTCHERS | SEASON ONE 2021",
           "year": 2021,
           "organizer": "CLUTCHERS",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -14577,6 +14863,7 @@ window.HBSTV_DATABASE = {
           "title": "RISE LEADERS | SEASON ONE 2021",
           "year": 2021,
           "organizer": "RISE LEADERS",
+          "major": false,
           "source": "hall-of-fame"
         }
       ],
@@ -14869,6 +15156,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL | MAJOR CUP",
           "year": 2017,
           "organizer": "TSL",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -14876,6 +15164,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL | Hardness Pro League",
           "year": 2018,
           "organizer": "TSL",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -14883,6 +15172,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL | Brasil extreme Masters",
           "year": 2018,
           "organizer": "TSL",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -14890,6 +15180,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL | MAJOR CUP",
           "year": 2018,
           "organizer": "TSL",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -14897,6 +15188,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL | MAJOR PREMIERE",
           "year": 2018,
           "organizer": "TSL",
+          "major": true,
           "source": "hall-of-fame"
         },
         {
@@ -14904,6 +15196,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL | MUNDIAL 2018",
           "year": 2018,
           "organizer": "TSL",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -14911,6 +15204,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL | Nodus",
           "year": 2020,
           "organizer": "TSL",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -14918,6 +15212,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL | Renovated Game League",
           "year": 2020,
           "organizer": "TSL",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -14925,6 +15220,7 @@ window.HBSTV_DATABASE = {
           "title": "MAWARE | Season",
           "year": 2020,
           "organizer": "MAWARE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -14932,6 +15228,7 @@ window.HBSTV_DATABASE = {
           "title": "GSE | Pro League",
           "year": 2020,
           "organizer": "GSE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -14939,6 +15236,7 @@ window.HBSTV_DATABASE = {
           "title": "ACE | Cup Season 1",
           "year": 2020,
           "organizer": "ACE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -14946,6 +15244,7 @@ window.HBSTV_DATABASE = {
           "title": "LCB | Pro League",
           "year": 2020,
           "organizer": "LCB",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -14953,6 +15252,7 @@ window.HBSTV_DATABASE = {
           "title": "GSE | Tour",
           "year": 2020,
           "organizer": "GSE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -14960,6 +15260,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL | Mjonir Cup",
           "year": 2020,
           "organizer": "TSL",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -14967,6 +15268,7 @@ window.HBSTV_DATABASE = {
           "title": "GSE | Masters Inverno",
           "year": 2021,
           "organizer": "GSE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -14974,6 +15276,7 @@ window.HBSTV_DATABASE = {
           "title": "PNL | Peninsula Cup",
           "year": 2021,
           "organizer": "PNL",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -14981,6 +15284,7 @@ window.HBSTV_DATABASE = {
           "title": "LCB | Pro League",
           "year": 2021,
           "organizer": "LCB",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -14988,6 +15292,7 @@ window.HBSTV_DATABASE = {
           "title": "LCB | MASTERS 2.0 2021",
           "year": 2021,
           "organizer": "LCB",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -14995,6 +15300,7 @@ window.HBSTV_DATABASE = {
           "title": "SUVOH | MAJOR",
           "year": 2021,
           "organizer": "SUVOH",
+          "major": true,
           "source": "hall-of-fame"
         },
         {
@@ -15002,6 +15308,7 @@ window.HBSTV_DATABASE = {
           "title": "XMS | LEAGUE CUP 2023",
           "year": 2023,
           "organizer": "XMS",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -15009,6 +15316,7 @@ window.HBSTV_DATABASE = {
           "title": "GTR | NATIONAL LEAGUE",
           "year": 2023,
           "organizer": "GTR",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -15016,6 +15324,7 @@ window.HBSTV_DATABASE = {
           "title": "GZ | ALPHA CUP",
           "year": 2024,
           "organizer": "GAMEZONE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -15023,6 +15332,7 @@ window.HBSTV_DATABASE = {
           "title": "GAMEZONE | BRASIL GAMING ELITE",
           "year": 2024,
           "organizer": "GAMEZONE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -15030,6 +15340,7 @@ window.HBSTV_DATABASE = {
           "title": "LLP | STRIKE ONE SEASON 4",
           "year": 2024,
           "organizer": "LLP",
+          "major": false,
           "source": "hall-of-fame"
         }
       ],
@@ -15534,6 +15845,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL | MAJOR CUP",
           "year": 2018,
           "organizer": "TSL",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -15541,6 +15853,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL | Hardness Pro League",
           "year": 2018,
           "organizer": "TSL",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -15548,6 +15861,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL | Brasil extreme Masters",
           "year": 2018,
           "organizer": "TSL",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -15555,6 +15869,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL | MAJOR PREMIERE",
           "year": 2018,
           "organizer": "TSL",
+          "major": true,
           "source": "hall-of-fame"
         },
         {
@@ -15562,6 +15877,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL | MUNDIAL 2018",
           "year": 2018,
           "organizer": "TSL",
+          "major": false,
           "source": "hall-of-fame"
         }
       ],
@@ -16251,6 +16567,7 @@ window.HBSTV_DATABASE = {
           "title": "GSE | MASTERS INVERNO 2020",
           "year": 2020,
           "organizer": "GSE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -16258,6 +16575,7 @@ window.HBSTV_DATABASE = {
           "title": "XMS | LEAGUE CUP 2023",
           "year": 2023,
           "organizer": "XMS",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -16265,6 +16583,7 @@ window.HBSTV_DATABASE = {
           "title": "GTR | NATIONAL LEAGUE",
           "year": 2023,
           "organizer": "GTR",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -16272,6 +16591,7 @@ window.HBSTV_DATABASE = {
           "title": "GZ | ALPHA CUP",
           "year": 2024,
           "organizer": "GAMEZONE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -16279,6 +16599,7 @@ window.HBSTV_DATABASE = {
           "title": "GAMEZONE | BRASIL GAMING ELITE",
           "year": 2024,
           "organizer": "GAMEZONE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -16286,6 +16607,7 @@ window.HBSTV_DATABASE = {
           "title": "XMS | DREAM MASTERS STAR 2024",
           "year": 2024,
           "organizer": "XMS",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -16293,6 +16615,7 @@ window.HBSTV_DATABASE = {
           "title": "GAMEZONE | PRO SERIES LEAGUE SEASON 3",
           "year": 2024,
           "organizer": "GAMEZONE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -16300,6 +16623,7 @@ window.HBSTV_DATABASE = {
           "title": "XMS | ZONA PRO TOURNOMENT",
           "year": 2025,
           "organizer": "XMS",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -16307,6 +16631,7 @@ window.HBSTV_DATABASE = {
           "title": "BCN | STRIKE CUP",
           "year": 2025,
           "organizer": "BCN",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -16314,6 +16639,7 @@ window.HBSTV_DATABASE = {
           "title": "BCN | YALLA COMPASS 2025",
           "year": 2025,
           "organizer": "BCN",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -16321,6 +16647,7 @@ window.HBSTV_DATABASE = {
           "title": "BCN | LEAGUE 2025",
           "year": 2025,
           "organizer": "BCN",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -16328,6 +16655,7 @@ window.HBSTV_DATABASE = {
           "title": "Watching | LEAGUE 2.0 2025",
           "year": 2025,
           "organizer": "WATCHING",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -16335,6 +16663,7 @@ window.HBSTV_DATABASE = {
           "title": "XMS | MASTER LEAGUE",
           "year": 2025,
           "organizer": "XMS",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -16342,6 +16671,7 @@ window.HBSTV_DATABASE = {
           "title": "LCS | LEAGUE S1",
           "year": 2025,
           "organizer": "LCS",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -16349,6 +16679,7 @@ window.HBSTV_DATABASE = {
           "title": "LCS | LCS League S2",
           "year": 2025,
           "organizer": "LCS",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -16356,6 +16687,7 @@ window.HBSTV_DATABASE = {
           "title": "RED | LEAGUE 2025",
           "year": 2025,
           "organizer": "RED",
+          "major": false,
           "source": "hall-of-fame"
         }
       ],
@@ -16768,6 +17100,7 @@ window.HBSTV_DATABASE = {
           "title": "WHL | Z TOURNOMENT",
           "year": 2023,
           "organizer": "WHL",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -16775,6 +17108,7 @@ window.HBSTV_DATABASE = {
           "title": "WHL | WORLD RANKING SEASON 1",
           "year": 2023,
           "organizer": "WHL",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -16782,6 +17116,7 @@ window.HBSTV_DATABASE = {
           "title": "BSTV | INSANITY SEASON 1",
           "year": 2024,
           "organizer": "BSTV",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -16789,6 +17124,7 @@ window.HBSTV_DATABASE = {
           "title": "WHL | WORLD RANKING S2",
           "year": 2024,
           "organizer": "WHL",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -16796,6 +17132,7 @@ window.HBSTV_DATABASE = {
           "title": "GAMEZONE | BRASIL GAMING ELITE",
           "year": 2024,
           "organizer": "GAMEZONE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -16803,6 +17140,7 @@ window.HBSTV_DATABASE = {
           "title": "GAMEZONE | PRO SERIES LEAGUE",
           "year": 2024,
           "organizer": "GAMEZONE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -16810,6 +17148,7 @@ window.HBSTV_DATABASE = {
           "title": "NZK | CHAMPIONS 2024",
           "year": 2024,
           "organizer": "NZK",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -16817,6 +17156,7 @@ window.HBSTV_DATABASE = {
           "title": "XMS | EXTREME MASTERS",
           "year": 2024,
           "organizer": "XMS",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -16824,6 +17164,7 @@ window.HBSTV_DATABASE = {
           "title": "GAMEZONE | PRO SERIES LEAGUE SEASON 2",
           "year": 2024,
           "organizer": "GAMEZONE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -16831,6 +17172,7 @@ window.HBSTV_DATABASE = {
           "title": "BCN | IMPACT LEAGUE",
           "year": 2025,
           "organizer": "BCN",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -16838,6 +17180,7 @@ window.HBSTV_DATABASE = {
           "title": "BCN | EMULABILE CUP",
           "year": 2025,
           "organizer": "BCN",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -16845,6 +17188,7 @@ window.HBSTV_DATABASE = {
           "title": "BCN | STRIKE CUP 2.0",
           "year": 2025,
           "organizer": "BCN",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -16852,6 +17196,7 @@ window.HBSTV_DATABASE = {
           "title": "BCN | FINALS 25",
           "year": 2025,
           "organizer": "BCN",
+          "major": false,
           "source": "hall-of-fame"
         }
       ],
@@ -17426,6 +17771,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL | MAJOR",
           "year": 2021,
           "organizer": "TSL",
+          "major": true,
           "source": "hall-of-fame-3"
         },
         {
@@ -17433,6 +17779,7 @@ window.HBSTV_DATABASE = {
           "title": "GTR | SANITY CUP 2023",
           "year": 2023,
           "organizer": "GTR",
+          "major": false,
           "source": "hall-of-fame-3"
         },
         {
@@ -17440,6 +17787,7 @@ window.HBSTV_DATABASE = {
           "title": "GBL | CUP  2023",
           "year": 2023,
           "organizer": "GBL",
+          "major": false,
           "source": "hall-of-fame-3"
         },
         {
@@ -17447,6 +17795,7 @@ window.HBSTV_DATABASE = {
           "title": "GTR | LIBERATORS 2023",
           "year": 2023,
           "organizer": "GTR",
+          "major": false,
           "source": "hall-of-fame-3"
         },
         {
@@ -17454,6 +17803,7 @@ window.HBSTV_DATABASE = {
           "title": "RANK S | INVITATIONAL LEAGUE 2023",
           "year": 2023,
           "organizer": "RANK S",
+          "major": false,
           "source": "hall-of-fame-3"
         },
         {
@@ -17461,6 +17811,7 @@ window.HBSTV_DATABASE = {
           "title": "RANK S | DREAM HACK BRAZIL",
           "year": 2023,
           "organizer": "RANK S",
+          "major": false,
           "source": "hall-of-fame-3"
         },
         {
@@ -17468,6 +17819,7 @@ window.HBSTV_DATABASE = {
           "title": "RANK S | Major",
           "year": 2023,
           "organizer": "RANK S",
+          "major": true,
           "source": "hall-of-fame-3"
         },
         {
@@ -17475,6 +17827,7 @@ window.HBSTV_DATABASE = {
           "title": "GAMEZONE | NEW AGE",
           "year": 2024,
           "organizer": "GAMEZONE",
+          "major": false,
           "source": "hall-of-fame-3"
         },
         {
@@ -17482,6 +17835,7 @@ window.HBSTV_DATABASE = {
           "title": "BCN | YALLA COMPASS 2024",
           "year": 2024,
           "organizer": "BCN",
+          "major": false,
           "source": "hall-of-fame-3"
         }
       ],
@@ -17906,6 +18260,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL | APS League 2019",
           "year": 2019,
           "organizer": "TSL",
+          "major": false,
           "source": "hall-of-fame-3"
         },
         {
@@ -17913,6 +18268,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL | Forcefield 2019",
           "year": 2019,
           "organizer": "TSL",
+          "major": false,
           "source": "hall-of-fame-3"
         },
         {
@@ -17920,6 +18276,7 @@ window.HBSTV_DATABASE = {
           "title": "GSE | Tour II 2019",
           "year": 2019,
           "organizer": "GSE",
+          "major": false,
           "source": "hall-of-fame-3"
         },
         {
@@ -17927,6 +18284,7 @@ window.HBSTV_DATABASE = {
           "title": "GSE | HPL Season 3",
           "year": 2019,
           "organizer": "GSE",
+          "major": false,
           "source": "hall-of-fame-3"
         },
         {
@@ -17934,6 +18292,7 @@ window.HBSTV_DATABASE = {
           "title": "GSE | Pro League 2019",
           "year": 2019,
           "organizer": "GSE",
+          "major": false,
           "source": "hall-of-fame-3"
         },
         {
@@ -17941,6 +18300,7 @@ window.HBSTV_DATABASE = {
           "title": "GSE | Brasil Extreme Masters MAJOR",
           "year": 2019,
           "organizer": "GSE",
+          "major": true,
           "source": "hall-of-fame-3"
         },
         {
@@ -17948,6 +18308,7 @@ window.HBSTV_DATABASE = {
           "title": "GSE | MASTERS INVERNO INVITATIONAL 2021",
           "year": 2021,
           "organizer": "GSE",
+          "major": false,
           "source": "hall-of-fame-3"
         }
       ],
@@ -18495,6 +18856,7 @@ window.HBSTV_DATABASE = {
           "title": "BCN | FINALS 25",
           "year": 2025,
           "organizer": "BCN",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -18502,6 +18864,7 @@ window.HBSTV_DATABASE = {
           "title": "BCN | LEAGUE 2025",
           "year": 2025,
           "organizer": "BCN",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -18509,6 +18872,7 @@ window.HBSTV_DATABASE = {
           "title": "BCN | STRIKE CUP",
           "year": 2025,
           "organizer": "BCN",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -18516,6 +18880,7 @@ window.HBSTV_DATABASE = {
           "title": "BCN | YALLA COMPASS 2025",
           "year": 2025,
           "organizer": "BCN",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -18523,6 +18888,7 @@ window.HBSTV_DATABASE = {
           "title": "LCS | LEAGUE S1",
           "year": 2025,
           "organizer": "LCS",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -18530,6 +18896,7 @@ window.HBSTV_DATABASE = {
           "title": "XMS | MASTER LEAGUE",
           "year": 2025,
           "organizer": "XMS",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -18537,6 +18904,7 @@ window.HBSTV_DATABASE = {
           "title": "BCN | EMULABILE CUP",
           "year": 2025,
           "organizer": "BCN",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -18544,6 +18912,7 @@ window.HBSTV_DATABASE = {
           "title": "BSG | BPL",
           "year": 2025,
           "organizer": "BSG",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -18551,6 +18920,7 @@ window.HBSTV_DATABASE = {
           "title": "BCN | YALLA COMPASS 2024",
           "year": 2024,
           "organizer": "BCN",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -18558,6 +18928,7 @@ window.HBSTV_DATABASE = {
           "title": "GAMEZONE | NEW AGE",
           "year": 2024,
           "organizer": "GAMEZONE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -18565,6 +18936,7 @@ window.HBSTV_DATABASE = {
           "title": "RANK S | Major",
           "year": 2023,
           "organizer": "RANK S",
+          "major": true,
           "source": "hall-of-fame"
         }
       ],
@@ -18810,6 +19182,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL | MAJOR CUP",
           "year": 2017,
           "organizer": "TSL",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -18817,6 +19190,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL | Nodus",
           "year": 2020,
           "organizer": "TSL",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -18824,6 +19198,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL | Renovated Game League",
           "year": 2020,
           "organizer": "TSL",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -18831,6 +19206,7 @@ window.HBSTV_DATABASE = {
           "title": "MAWARE | Season",
           "year": 2020,
           "organizer": "MAWARE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -18838,6 +19214,7 @@ window.HBSTV_DATABASE = {
           "title": "GSE | Pro League",
           "year": 2020,
           "organizer": "GSE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -18845,6 +19222,7 @@ window.HBSTV_DATABASE = {
           "title": "ACE | Cup Season 1",
           "year": 2020,
           "organizer": "ACE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -18852,6 +19230,7 @@ window.HBSTV_DATABASE = {
           "title": "LCB | Pro League",
           "year": 2020,
           "organizer": "LCB",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -18859,6 +19238,7 @@ window.HBSTV_DATABASE = {
           "title": "GSE | Tour",
           "year": 2020,
           "organizer": "GSE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -18866,6 +19246,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL | Mjonir Cup",
           "year": 2020,
           "organizer": "TSL",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -18873,6 +19254,7 @@ window.HBSTV_DATABASE = {
           "title": "GSE | Masters Inverno",
           "year": 2021,
           "organizer": "GSE",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -18880,6 +19262,7 @@ window.HBSTV_DATABASE = {
           "title": "TSL | MAJOR",
           "year": 2021,
           "organizer": "TSL",
+          "major": true,
           "source": "hall-of-fame"
         },
         {
@@ -18887,6 +19270,7 @@ window.HBSTV_DATABASE = {
           "title": "PNL | Peninsula Cup",
           "year": 2021,
           "organizer": "PNL",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -18894,6 +19278,7 @@ window.HBSTV_DATABASE = {
           "title": "LCB | Pro League",
           "year": 2021,
           "organizer": "LCB",
+          "major": false,
           "source": "hall-of-fame"
         },
         {
@@ -18901,6 +19286,7 @@ window.HBSTV_DATABASE = {
           "title": "LCB | MASTERS 2.0 2021",
           "year": 2021,
           "organizer": "LCB",
+          "major": false,
           "source": "hall-of-fame"
         }
       ],

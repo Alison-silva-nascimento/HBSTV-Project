@@ -83,7 +83,7 @@ module.exports = ({ archive, players, events, key }) => {
           }
         }
         const id = event?.id || 'hof:' + name.key;
-        titles.set(id, {id, title: event?.title || title, year, organizer: event?.organizer || name.organizer, source: page.slug});
+        titles.set(id, {id, title: event?.title || title, year, organizer: event?.organizer || name.organizer, major: event?.major ?? /[Ⓜ🅼]/u.test(title), source: page.slug});
       }
       player.historicalTitles = [...titles.values()];
     }
