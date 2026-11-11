@@ -31,6 +31,7 @@ for(const t of teams.values())for(const r of t.titles)if(r.rosterSourceImage==="
 for(const t of teams.values())for(const r of t.titles)if(r.rosterSourceImage==="assets/archive/86ed67893904be137a59.jpeg")r.title="TSL | MAJOR";
 for(const t of teams.values())for(const r of t.titles)if(r.id==="2018:tslcbbs20")r.title="TSL | CBBS 2.0";
 for(const t of teams.values())for(const r of t.titles)if(r.id==="2018:tslmajorcup")r.title="TSL | MAJOR CUP";
+if (teams.has('pure')) teams.get('pure').logo = {src:'assets/pure-logo.png', crop:{x:0,y:0,w:1,h:1}};
 if (teams.has('00')) teams.get('00').logo = {src:'assets/00-logo.png', crop:{x:0,y:0,w:1,h:1}};
 if (teams.has('ntc')) teams.get('ntc').logo = {src:'assets/ntc-logo.svg', crop:{x:0,y:0,w:1,h:1}};
 if (teams.has('sx')) teams.get('sx').logo = {src:'assets/sx-logo.png', crop:{x:0,y:0,w:1,h:1}};

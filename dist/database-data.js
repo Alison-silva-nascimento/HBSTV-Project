@@ -3043,7 +3043,8 @@ window.HBSTV_DATABASE = {
           "id": "sx",
           "name": "SX",
           "years": [
-            2025
+            2025,
+            2023
           ]
         },
         {
@@ -5568,7 +5569,8 @@ window.HBSTV_DATABASE = {
           "id": "sx",
           "name": "SX",
           "years": [
-            2025
+            2025,
+            2023
           ]
         },
         {
@@ -6155,7 +6157,8 @@ window.HBSTV_DATABASE = {
           "id": "sx",
           "name": "SX",
           "years": [
-            2025
+            2025,
+            2023
           ]
         },
         {
@@ -9085,7 +9088,8 @@ window.HBSTV_DATABASE = {
           "id": "sx",
           "name": "SX",
           "years": [
-            2025
+            2025,
+            2023
           ]
         },
         {
@@ -11168,6 +11172,13 @@ window.HBSTV_DATABASE = {
       ],
       "realNames": [],
       "teams": [
+        {
+          "id": "sx",
+          "name": "SX",
+          "years": [
+            2023
+          ]
+        },
         {
           "id": "stompatopteam",
           "name": "STOMPA TOP TEAM",
@@ -13609,6 +13620,13 @@ window.HBSTV_DATABASE = {
           ]
         },
         {
+          "id": "sx",
+          "name": "SX",
+          "years": [
+            2023
+          ]
+        },
+        {
           "id": "teaminfinity",
           "name": "Team Infinity",
           "years": [
@@ -14058,12 +14076,20 @@ window.HBSTV_DATABASE = {
       "id": "sharp",
       "name": "SharP",
       "aliases": [
-        "SHARP",
         "SharP",
+        "SHARP",
         "Sharp"
       ],
       "realNames": [],
-      "teams": [],
+      "teams": [
+        {
+          "id": "sx",
+          "name": "SX",
+          "years": [
+            2023
+          ]
+        }
+      ],
       "titles": [],
       "mvps": [],
       "evps": [
@@ -30692,10 +30718,12 @@ window.HBSTV_DATABASE = {
           "id": "conjure",
           "name": "c0njure",
           "years": [
-            2025
+            2025,
+            2023
           ],
           "sources": [
-            "events-2025"
+            "events-2025",
+            "Passagem registrada no Hall of Fame. Temporada de 2023 confirmada pelo responsável pelo site."
           ]
         },
         {
@@ -30712,20 +30740,24 @@ window.HBSTV_DATABASE = {
           "id": "gah",
           "name": "Gah",
           "years": [
-            2025
+            2025,
+            2023
           ],
           "sources": [
-            "events-2025"
+            "events-2025",
+            "Passagem registrada no Hall of Fame. Temporada de 2023 confirmada pelo responsável pelo site."
           ]
         },
         {
           "id": "hardzera",
           "name": "Hardzera",
           "years": [
-            2025
+            2025,
+            2023
           ],
           "sources": [
-            "events-2025"
+            "events-2025",
+            "Passagem registrada no Hall of Fame. Temporada de 2023 confirmada pelo responsável pelo site."
           ]
         },
         {
@@ -30742,10 +30774,42 @@ window.HBSTV_DATABASE = {
           "id": "misuuta",
           "name": "Misuuta",
           "years": [
-            2025
+            2025,
+            2023
           ],
           "sources": [
-            "events-2025"
+            "events-2025",
+            "Passagem registrada no Hall of Fame. Temporada de 2023 confirmada pelo responsável pelo site."
+          ]
+        },
+        {
+          "id": "over",
+          "name": "OveR",
+          "years": [
+            2023
+          ],
+          "sources": [
+            "Passagem registrada no Hall of Fame. Temporada de 2023 confirmada pelo responsável pelo site."
+          ]
+        },
+        {
+          "id": "scream",
+          "name": "ScreaM",
+          "years": [
+            2023
+          ],
+          "sources": [
+            "Passagem registrada no Hall of Fame. Temporada de 2023 confirmada pelo responsável pelo site."
+          ]
+        },
+        {
+          "id": "sharp",
+          "name": "SharP",
+          "years": [
+            2023
+          ],
+          "sources": [
+            "Passagem registrada no Hall of Fame. Temporada de 2023 confirmada pelo responsável pelo site."
           ]
         }
       ],
@@ -31467,7 +31531,16 @@ window.HBSTV_DATABASE = {
         }
       ],
       "rankings": [],
-      "searchAliases": []
+      "searchAliases": [],
+      "logo": {
+        "src": "assets/pure-logo.png",
+        "crop": {
+          "x": 0,
+          "y": 0,
+          "w": 1,
+          "h": 1
+        }
+      }
     },
     {
       "id": "pyro",

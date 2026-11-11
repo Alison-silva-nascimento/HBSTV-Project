@@ -2212,7 +2212,8 @@ window.HBSTV_PLAYER_INDEX = {
           "id": "sx",
           "name": "SX",
           "years": [
-            2025
+            2025,
+            2023
           ]
         },
         {
@@ -4089,7 +4090,8 @@ window.HBSTV_PLAYER_INDEX = {
           "id": "sx",
           "name": "SX",
           "years": [
-            2025
+            2025,
+            2023
           ]
         },
         {
@@ -4512,7 +4514,8 @@ window.HBSTV_PLAYER_INDEX = {
           "id": "sx",
           "name": "SX",
           "years": [
-            2025
+            2025,
+            2023
           ]
         },
         {
@@ -6846,7 +6849,8 @@ window.HBSTV_PLAYER_INDEX = {
           "id": "sx",
           "name": "SX",
           "years": [
-            2025
+            2025,
+            2023
           ]
         },
         {
@@ -8320,6 +8324,13 @@ window.HBSTV_PLAYER_INDEX = {
       ],
       "realNames": [],
       "teams": [
+        {
+          "id": "sx",
+          "name": "SX",
+          "years": [
+            2023
+          ]
+        },
         {
           "id": "stompatopteam",
           "name": "STOMPA TOP TEAM",
@@ -10179,6 +10190,13 @@ window.HBSTV_PLAYER_INDEX = {
           ]
         },
         {
+          "id": "sx",
+          "name": "SX",
+          "years": [
+            2023
+          ]
+        },
+        {
           "id": "teaminfinity",
           "name": "Team Infinity",
           "years": [
@@ -10414,14 +10432,22 @@ window.HBSTV_PLAYER_INDEX = {
     },
     {
       "id": "sharp",
-      "name": "SHARP",
+      "name": "SharP",
       "aliases": [
-        "SHARP",
         "SharP",
+        "SHARP",
         "Sharp"
       ],
       "realNames": [],
-      "teams": [],
+      "teams": [
+        {
+          "id": "sx",
+          "name": "SX",
+          "years": [
+            2023
+          ]
+        }
+      ],
       "titles": [],
       "mvps": [],
       "evps": [
