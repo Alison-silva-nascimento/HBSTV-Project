@@ -580,6 +580,13 @@ window.HBSTV_PLAYER_INDEX = {
           ]
         },
         {
+          "id": "sp3t",
+          "name": "SP3T",
+          "years": [
+            2020
+          ]
+        },
+        {
           "id": "pentaesports",
           "name": "PENTA eSports",
           "years": [
@@ -589,6 +596,20 @@ window.HBSTV_PLAYER_INDEX = {
         {
           "id": "razer",
           "name": "RAZER",
+          "years": [
+            2018
+          ]
+        },
+        {
+          "id": "tecz",
+          "name": "TECZ",
+          "years": [
+            2018
+          ]
+        },
+        {
+          "id": "ence",
+          "name": "ENCE",
           "years": [
             2018
           ]

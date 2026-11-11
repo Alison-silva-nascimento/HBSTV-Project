@@ -787,6 +787,13 @@ window.HBSTV_DATABASE = {
           ]
         },
         {
+          "id": "sp3t",
+          "name": "SP3T",
+          "years": [
+            2020
+          ]
+        },
+        {
           "id": "pentaesports",
           "name": "PENTA eSports",
           "years": [
@@ -796,6 +803,20 @@ window.HBSTV_DATABASE = {
         {
           "id": "razer",
           "name": "RAZER",
+          "years": [
+            2018
+          ]
+        },
+        {
+          "id": "tecz",
+          "name": "TECZ",
+          "years": [
+            2018
+          ]
+        },
+        {
+          "id": "ence",
+          "name": "ENCE",
           "years": [
             2018
           ]
@@ -32132,6 +32153,37 @@ window.HBSTV_DATABASE = {
       "searchAliases": []
     },
     {
+      "id": "ence",
+      "name": "ENCE",
+      "aliases": [
+        "ENCE"
+      ],
+      "titles": [],
+      "members": [
+        {
+          "id": "4kkp",
+          "name": "4KKp",
+          "years": [
+            2018
+          ],
+          "sources": [
+            "Passagem e temporada confirmadas pelo responsável pelo site."
+          ]
+        }
+      ],
+      "rankings": [],
+      "searchAliases": [],
+      "logo": {
+        "src": "assets/ence-logo.png",
+        "crop": {
+          "x": 0,
+          "y": 0,
+          "w": 1,
+          "h": 1
+        }
+      }
+    },
+    {
       "id": "estadoislamico",
       "name": "ESTADO ISLÂMICO",
       "aliases": [
@@ -32648,6 +32700,28 @@ window.HBSTV_DATABASE = {
       ]
     },
     {
+      "id": "sp3t",
+      "name": "SP3T",
+      "aliases": [
+        "SP3T"
+      ],
+      "titles": [],
+      "members": [
+        {
+          "id": "4kkp",
+          "name": "4KKp",
+          "years": [
+            2020
+          ],
+          "sources": [
+            "Passagem e temporada confirmadas pelo responsável pelo site."
+          ]
+        }
+      ],
+      "rankings": [],
+      "searchAliases": []
+    },
+    {
       "id": "sy",
       "name": "SY",
       "aliases": [
@@ -32683,6 +32757,28 @@ window.HBSTV_DATABASE = {
           ],
           "sources": [
             "Passagem registrada no Hall of Fame. Temporada da equipe confirmada pelo responsável pelo site."
+          ]
+        }
+      ],
+      "rankings": [],
+      "searchAliases": []
+    },
+    {
+      "id": "tecz",
+      "name": "TECZ",
+      "aliases": [
+        "TECZ"
+      ],
+      "titles": [],
+      "members": [
+        {
+          "id": "4kkp",
+          "name": "4KKp",
+          "years": [
+            2018
+          ],
+          "sources": [
+            "Passagem e temporada confirmadas pelo responsável pelo site."
           ]
         }
       ],
