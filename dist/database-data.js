@@ -773,8 +773,8 @@ window.HBSTV_DATABASE = {
       "id": "4kkp",
       "name": "4kkp",
       "aliases": [
-        "4kkp",
         "4KKp",
+        "4kkp",
         "4Kpp"
       ],
       "realNames": [],
@@ -787,15 +787,15 @@ window.HBSTV_DATABASE = {
           ]
         },
         {
-          "id": "razer",
-          "name": "RAZER",
+          "id": "pentaesports",
+          "name": "PENTA eSports",
           "years": [
             2018
           ]
         },
         {
-          "id": "pentaesports",
-          "name": "PENTA eSports",
+          "id": "razer",
+          "name": "RAZER",
           "years": [
             2018
           ]
@@ -817,6 +817,15 @@ window.HBSTV_DATABASE = {
           "team": "RAZER",
           "major": true,
           "source": "major-history"
+        },
+        {
+          "id": "2018:tslproleague",
+          "title": "TSL | PRO LEAGUE",
+          "year": 2018,
+          "teamId": "pentaesports",
+          "team": "PENTA eSports",
+          "major": false,
+          "source": "owner-confirmed"
         },
         {
           "id": "2017:tslmajorcup",
@@ -8132,23 +8141,23 @@ window.HBSTV_DATABASE = {
     },
     {
       "id": "kns",
-      "name": "Kns",
+      "name": "KNS",
       "aliases": [
-        "Kns",
-        "KNS"
+        "KNS",
+        "Kns"
       ],
       "realNames": [],
       "teams": [
         {
-          "id": "razer",
-          "name": "RAZER",
+          "id": "pentaesports",
+          "name": "PENTA eSports",
           "years": [
             2018
           ]
         },
         {
-          "id": "pentaesports",
-          "name": "PENTA eSports",
+          "id": "razer",
+          "name": "RAZER",
           "years": [
             2018
           ]
@@ -8163,6 +8172,15 @@ window.HBSTV_DATABASE = {
           "team": "RAZER",
           "major": true,
           "source": "major-history"
+        },
+        {
+          "id": "2018:tslproleague",
+          "title": "TSL | PRO LEAGUE",
+          "year": 2018,
+          "teamId": "pentaesports",
+          "team": "PENTA eSports",
+          "major": false,
+          "source": "owner-confirmed"
         }
       ],
       "mvps": [],
@@ -11525,7 +11543,17 @@ window.HBSTV_DATABASE = {
           ]
         }
       ],
-      "titles": [],
+      "titles": [
+        {
+          "id": "2018:tslproleague",
+          "title": "TSL | PRO LEAGUE",
+          "year": 2018,
+          "teamId": "pentaesports",
+          "team": "PENTA eSports",
+          "major": false,
+          "source": "owner-confirmed"
+        }
+      ],
       "mvps": [],
       "evps": [],
       "rankings": [],
@@ -11597,15 +11625,15 @@ window.HBSTV_DATABASE = {
       "realNames": [],
       "teams": [
         {
-          "id": "razer",
-          "name": "RAZER",
+          "id": "pentaesports",
+          "name": "PENTA eSports",
           "years": [
             2018
           ]
         },
         {
-          "id": "pentaesports",
-          "name": "PENTA eSports",
+          "id": "razer",
+          "name": "RAZER",
           "years": [
             2018
           ]
@@ -11620,6 +11648,15 @@ window.HBSTV_DATABASE = {
           "team": "RAZER",
           "major": true,
           "source": "major-history"
+        },
+        {
+          "id": "2018:tslproleague",
+          "title": "TSL | PRO LEAGUE",
+          "year": 2018,
+          "teamId": "pentaesports",
+          "team": "PENTA eSports",
+          "major": false,
+          "source": "owner-confirmed"
         }
       ],
       "mvps": [],
@@ -14711,6 +14748,15 @@ window.HBSTV_DATABASE = {
           "source": "major-history"
         },
         {
+          "id": "2018:tslproleague",
+          "title": "TSL | PRO LEAGUE",
+          "year": 2018,
+          "teamId": "pentaesports",
+          "team": "PENTA eSports",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
           "id": "2017:tslmajorcup",
           "title": "TSL | MAJOR CUP",
           "year": 2017,
@@ -15283,7 +15329,17 @@ window.HBSTV_DATABASE = {
           ]
         }
       ],
-      "titles": [],
+      "titles": [
+        {
+          "id": "2018:tslproleague",
+          "title": "TSL | PRO LEAGUE",
+          "year": 2018,
+          "teamId": "pentaesports",
+          "team": "PENTA eSports",
+          "major": false,
+          "source": "owner-confirmed"
+        }
+      ],
       "mvps": [],
       "evps": [],
       "rankings": [],
@@ -15394,15 +15450,15 @@ window.HBSTV_DATABASE = {
       "realNames": [],
       "teams": [
         {
-          "id": "razer",
-          "name": "RAZER",
+          "id": "pentaesports",
+          "name": "PENTA eSports",
           "years": [
             2018
           ]
         },
         {
-          "id": "pentaesports",
-          "name": "PENTA eSports",
+          "id": "razer",
+          "name": "RAZER",
           "years": [
             2018
           ]
@@ -15417,6 +15473,15 @@ window.HBSTV_DATABASE = {
           "team": "RAZER",
           "major": true,
           "source": "major-history"
+        },
+        {
+          "id": "2018:tslproleague",
+          "title": "TSL | PRO LEAGUE",
+          "year": 2018,
+          "teamId": "pentaesports",
+          "team": "PENTA eSports",
+          "major": false,
+          "source": "owner-confirmed"
         }
       ],
       "mvps": [
@@ -22331,8 +22396,18 @@ window.HBSTV_DATABASE = {
       "year": 2018,
       "organizer": "TSL",
       "major": false,
-      "winners": [],
-      "roster": [],
+      "winners": [
+        "pentaesports"
+      ],
+      "roster": [
+        "shelzz",
+        "4kkp",
+        "strong",
+        "pasha",
+        "kns",
+        "sonic",
+        "pain"
+      ],
       "mvps": [
         "shelzz"
       ],
@@ -22341,6 +22416,7 @@ window.HBSTV_DATABASE = {
         "owner-confirmed"
       ],
       "notes": [
+        "Título e escalação informados pelo responsável pelo site.",
         "Premiações individuais confirmadas pelo responsável pelo site."
       ],
       "images": [],
@@ -22667,6 +22743,293 @@ window.HBSTV_DATABASE = {
         "goblinscheating2019",
         "tempstormy",
         "tsy"
+      ]
+    },
+    {
+      "id": "pentaesports",
+      "name": "PENTA eSports",
+      "aliases": [
+        "PENTA",
+        "Penta E-sports",
+        "PENTA SPORTS",
+        "pentasports",
+        "penta",
+        "pentaesports",
+        "pnt"
+      ],
+      "titles": [
+        {
+          "id": "2020:acecup",
+          "title": "ACE | Cup Season 1",
+          "year": 2020,
+          "source": "top-1-teams-of-years",
+          "major": false,
+          "roster": [],
+          "summary": true
+        },
+        {
+          "id": "2020:gseproleague",
+          "title": "GSE Pro League",
+          "year": 2020,
+          "source": "top-1-teams-of-years",
+          "major": false,
+          "roster": [],
+          "summary": true
+        },
+        {
+          "id": "2020:gsetour",
+          "title": "GSE Tour",
+          "year": 2020,
+          "source": "top-1-teams-of-years",
+          "major": false,
+          "roster": [],
+          "summary": true
+        },
+        {
+          "id": "2020:lcbproleague",
+          "title": "LCB | Pro League",
+          "year": 2020,
+          "source": "top-1-teams-of-years",
+          "major": false,
+          "roster": [],
+          "summary": true
+        },
+        {
+          "id": "2020:mawares",
+          "title": "MAWARE Season",
+          "year": 2020,
+          "source": "top-1-teams-of-years",
+          "major": false,
+          "roster": [],
+          "summary": true
+        },
+        {
+          "id": "2020:tslmjonircup",
+          "title": "TSL Mjonir Cup",
+          "year": 2020,
+          "source": "top-1-teams-of-years",
+          "major": false,
+          "roster": [],
+          "summary": true
+        },
+        {
+          "id": "2020:tslnodus",
+          "title": "TSL Nodus",
+          "year": 2020,
+          "source": "top-1-teams-of-years",
+          "major": false,
+          "roster": [],
+          "summary": true
+        },
+        {
+          "id": "2020:tslrenovatedgameleague",
+          "title": "TSL Renovated Game League",
+          "year": 2020,
+          "source": "top-1-teams-of-years",
+          "major": false,
+          "roster": [],
+          "summary": true
+        },
+        {
+          "id": "2018:tslproleague",
+          "title": "TSL | PRO LEAGUE",
+          "year": 2018,
+          "source": "owner-confirmed",
+          "sourceNote": "Título e escalação informados pelo responsável pelo site.",
+          "manual": true,
+          "major": false,
+          "roster": [
+            "ShelzZ",
+            "4KKp",
+            "StronG",
+            "Pasha",
+            "KNS",
+            "SoniC",
+            "PaiN"
+          ]
+        }
+      ],
+      "members": [
+        {
+          "id": "adren",
+          "name": "AdreN",
+          "years": [
+            2020
+          ],
+          "sources": [
+            "top-1-teams-of-years"
+          ]
+        },
+        {
+          "id": "conjure",
+          "name": "c0njure",
+          "years": [
+            2020
+          ],
+          "sources": [
+            "top-1-teams-of-years"
+          ]
+        },
+        {
+          "id": "fugly",
+          "name": "FugLY",
+          "years": [
+            2020
+          ],
+          "sources": [
+            "top-1-teams-of-years"
+          ]
+        },
+        {
+          "id": "nescau",
+          "name": "Nescau",
+          "years": [
+            2020
+          ],
+          "sources": [
+            "top-1-teams-of-years"
+          ]
+        },
+        {
+          "id": "rn",
+          "name": "RN",
+          "years": [
+            2020
+          ],
+          "sources": [
+            "top-1-teams-of-years"
+          ]
+        },
+        {
+          "id": "ryota",
+          "name": "ry0ta",
+          "years": [
+            2020
+          ],
+          "sources": [
+            "top-1-teams-of-years"
+          ]
+        },
+        {
+          "id": "scream",
+          "name": "ScreaM",
+          "years": [
+            2020
+          ],
+          "sources": [
+            "top-1-teams-of-years"
+          ]
+        },
+        {
+          "id": "shelzz",
+          "name": "ShelzZ",
+          "years": [
+            2020,
+            2018
+          ],
+          "sources": [
+            "top-1-teams-of-years",
+            "Elenco da PENTA SPORTS na TSL Pro League 2018 informado pelo responsável pelo site.",
+            "Título e escalação informados pelo responsável pelo site."
+          ]
+        },
+        {
+          "id": "zenn",
+          "name": "zenn",
+          "years": [
+            2020
+          ],
+          "sources": [
+            "top-1-teams-of-years"
+          ]
+        },
+        {
+          "id": "4kkp",
+          "name": "4KKp",
+          "years": [
+            2018
+          ],
+          "sources": [
+            "Elenco da PENTA SPORTS na TSL Pro League 2018 informado pelo responsável pelo site.",
+            "Título e escalação informados pelo responsável pelo site."
+          ]
+        },
+        {
+          "id": "kns",
+          "name": "KNS",
+          "years": [
+            2018
+          ],
+          "sources": [
+            "Elenco da PENTA SPORTS na TSL Pro League 2018 informado pelo responsável pelo site.",
+            "Título e escalação informados pelo responsável pelo site."
+          ]
+        },
+        {
+          "id": "pain",
+          "name": "PaiN",
+          "years": [
+            2018
+          ],
+          "sources": [
+            "Elenco da PENTA SPORTS na TSL Pro League 2018 informado pelo responsável pelo site.",
+            "Título e escalação informados pelo responsável pelo site."
+          ]
+        },
+        {
+          "id": "pasha",
+          "name": "Pasha",
+          "years": [
+            2018
+          ],
+          "sources": [
+            "Elenco da PENTA SPORTS na TSL Pro League 2018 informado pelo responsável pelo site.",
+            "Título e escalação informados pelo responsável pelo site."
+          ]
+        },
+        {
+          "id": "sonic",
+          "name": "SoniC",
+          "years": [
+            2018
+          ],
+          "sources": [
+            "Elenco da PENTA SPORTS na TSL Pro League 2018 informado pelo responsável pelo site.",
+            "Título e escalação informados pelo responsável pelo site."
+          ]
+        },
+        {
+          "id": "strong",
+          "name": "StronG",
+          "years": [
+            2018
+          ],
+          "sources": [
+            "Elenco da PENTA SPORTS na TSL Pro League 2018 informado pelo responsável pelo site.",
+            "Título e escalação informados pelo responsável pelo site."
+          ]
+        }
+      ],
+      "rankings": [
+        {
+          "year": 2020,
+          "rank": 1
+        }
+      ],
+      "logo": {
+        "src": "assets/archive/dfd80ec13b6069c38926.jpg",
+        "crop": {
+          "x": 0.02403846153846154,
+          "y": 0.029787234042553193,
+          "w": 0.1794871794871795,
+          "h": 0.15886524822695036
+        }
+      },
+      "searchAliases": [
+        "pentasports",
+        "penta",
+        "pentaesports",
+        "pnt"
       ]
     },
     {
@@ -23358,268 +23721,6 @@ window.HBSTV_DATABASE = {
         "chaos",
         "chaossportsclub",
         "chs"
-      ]
-    },
-    {
-      "id": "pentaesports",
-      "name": "PENTA eSports",
-      "aliases": [
-        "PENTA",
-        "Penta E-sports",
-        "PENTA SPORTS",
-        "pentasports",
-        "penta",
-        "pentaesports",
-        "pnt"
-      ],
-      "titles": [
-        {
-          "id": "2020:acecup",
-          "title": "ACE | Cup Season 1",
-          "year": 2020,
-          "source": "top-1-teams-of-years",
-          "major": false,
-          "roster": [],
-          "summary": true
-        },
-        {
-          "id": "2020:gseproleague",
-          "title": "GSE Pro League",
-          "year": 2020,
-          "source": "top-1-teams-of-years",
-          "major": false,
-          "roster": [],
-          "summary": true
-        },
-        {
-          "id": "2020:gsetour",
-          "title": "GSE Tour",
-          "year": 2020,
-          "source": "top-1-teams-of-years",
-          "major": false,
-          "roster": [],
-          "summary": true
-        },
-        {
-          "id": "2020:lcbproleague",
-          "title": "LCB | Pro League",
-          "year": 2020,
-          "source": "top-1-teams-of-years",
-          "major": false,
-          "roster": [],
-          "summary": true
-        },
-        {
-          "id": "2020:mawares",
-          "title": "MAWARE Season",
-          "year": 2020,
-          "source": "top-1-teams-of-years",
-          "major": false,
-          "roster": [],
-          "summary": true
-        },
-        {
-          "id": "2020:tslmjonircup",
-          "title": "TSL Mjonir Cup",
-          "year": 2020,
-          "source": "top-1-teams-of-years",
-          "major": false,
-          "roster": [],
-          "summary": true
-        },
-        {
-          "id": "2020:tslnodus",
-          "title": "TSL Nodus",
-          "year": 2020,
-          "source": "top-1-teams-of-years",
-          "major": false,
-          "roster": [],
-          "summary": true
-        },
-        {
-          "id": "2020:tslrenovatedgameleague",
-          "title": "TSL Renovated Game League",
-          "year": 2020,
-          "source": "top-1-teams-of-years",
-          "major": false,
-          "roster": [],
-          "summary": true
-        }
-      ],
-      "members": [
-        {
-          "id": "adren",
-          "name": "AdreN",
-          "years": [
-            2020
-          ],
-          "sources": [
-            "top-1-teams-of-years"
-          ]
-        },
-        {
-          "id": "conjure",
-          "name": "c0njure",
-          "years": [
-            2020
-          ],
-          "sources": [
-            "top-1-teams-of-years"
-          ]
-        },
-        {
-          "id": "fugly",
-          "name": "FugLY",
-          "years": [
-            2020
-          ],
-          "sources": [
-            "top-1-teams-of-years"
-          ]
-        },
-        {
-          "id": "nescau",
-          "name": "Nescau",
-          "years": [
-            2020
-          ],
-          "sources": [
-            "top-1-teams-of-years"
-          ]
-        },
-        {
-          "id": "rn",
-          "name": "RN",
-          "years": [
-            2020
-          ],
-          "sources": [
-            "top-1-teams-of-years"
-          ]
-        },
-        {
-          "id": "ryota",
-          "name": "ry0ta",
-          "years": [
-            2020
-          ],
-          "sources": [
-            "top-1-teams-of-years"
-          ]
-        },
-        {
-          "id": "scream",
-          "name": "ScreaM",
-          "years": [
-            2020
-          ],
-          "sources": [
-            "top-1-teams-of-years"
-          ]
-        },
-        {
-          "id": "shelzz",
-          "name": "ShelzZ",
-          "years": [
-            2020,
-            2018
-          ],
-          "sources": [
-            "top-1-teams-of-years",
-            "Elenco da PENTA SPORTS na TSL Pro League 2018 informado pelo responsável pelo site."
-          ]
-        },
-        {
-          "id": "zenn",
-          "name": "zenn",
-          "years": [
-            2020
-          ],
-          "sources": [
-            "top-1-teams-of-years"
-          ]
-        },
-        {
-          "id": "4kkp",
-          "name": "4KKp",
-          "years": [
-            2018
-          ],
-          "sources": [
-            "Elenco da PENTA SPORTS na TSL Pro League 2018 informado pelo responsável pelo site."
-          ]
-        },
-        {
-          "id": "kns",
-          "name": "KNS",
-          "years": [
-            2018
-          ],
-          "sources": [
-            "Elenco da PENTA SPORTS na TSL Pro League 2018 informado pelo responsável pelo site."
-          ]
-        },
-        {
-          "id": "pain",
-          "name": "PaiN",
-          "years": [
-            2018
-          ],
-          "sources": [
-            "Elenco da PENTA SPORTS na TSL Pro League 2018 informado pelo responsável pelo site."
-          ]
-        },
-        {
-          "id": "pasha",
-          "name": "Pasha",
-          "years": [
-            2018
-          ],
-          "sources": [
-            "Elenco da PENTA SPORTS na TSL Pro League 2018 informado pelo responsável pelo site."
-          ]
-        },
-        {
-          "id": "sonic",
-          "name": "SoniC",
-          "years": [
-            2018
-          ],
-          "sources": [
-            "Elenco da PENTA SPORTS na TSL Pro League 2018 informado pelo responsável pelo site."
-          ]
-        },
-        {
-          "id": "strong",
-          "name": "StronG",
-          "years": [
-            2018
-          ],
-          "sources": [
-            "Elenco da PENTA SPORTS na TSL Pro League 2018 informado pelo responsável pelo site."
-          ]
-        }
-      ],
-      "rankings": [
-        {
-          "year": 2020,
-          "rank": 1
-        }
-      ],
-      "logo": {
-        "src": "assets/archive/dfd80ec13b6069c38926.jpg",
-        "crop": {
-          "x": 0.02403846153846154,
-          "y": 0.029787234042553193,
-          "w": 0.1794871794871795,
-          "h": 0.15886524822695036
-        }
-      },
-      "searchAliases": [
-        "pentasports",
-        "penta",
-        "pentaesports",
-        "pnt"
       ]
     },
     {

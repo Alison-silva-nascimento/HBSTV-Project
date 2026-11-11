@@ -564,10 +564,10 @@ window.HBSTV_PLAYER_INDEX = {
     },
     {
       "id": "4kkp",
-      "name": "4kkp",
+      "name": "4KKp",
       "aliases": [
-        "4kkp",
         "4KKp",
+        "4kkp",
         "4Kpp"
       ],
       "realNames": [],
@@ -580,15 +580,15 @@ window.HBSTV_PLAYER_INDEX = {
           ]
         },
         {
-          "id": "razer",
-          "name": "RAZER",
+          "id": "pentaesports",
+          "name": "PENTA eSports",
           "years": [
             2018
           ]
         },
         {
-          "id": "pentaesports",
-          "name": "PENTA eSports",
+          "id": "razer",
+          "name": "RAZER",
           "years": [
             2018
           ]
@@ -602,6 +602,15 @@ window.HBSTV_PLAYER_INDEX = {
         }
       ],
       "titles": [
+        {
+          "id": "2018:tslproleague",
+          "title": "TSL | PRO LEAGUE",
+          "year": 2018,
+          "teamId": "pentaesports",
+          "team": "PENTA eSports",
+          "major": false,
+          "source": "owner-confirmed"
+        },
         {
           "id": "major:ba4b48dba7cb6e5526a7",
           "title": "TSL | MAJOR PREMIERE",
@@ -5987,29 +5996,38 @@ window.HBSTV_PLAYER_INDEX = {
     },
     {
       "id": "kns",
-      "name": "Kns",
+      "name": "KNS",
       "aliases": [
-        "Kns",
-        "KNS"
+        "KNS",
+        "Kns"
       ],
       "realNames": [],
       "teams": [
-        {
-          "id": "razer",
-          "name": "RAZER",
-          "years": [
-            2018
-          ]
-        },
         {
           "id": "pentaesports",
           "name": "PENTA eSports",
           "years": [
             2018
           ]
+        },
+        {
+          "id": "razer",
+          "name": "RAZER",
+          "years": [
+            2018
+          ]
         }
       ],
       "titles": [
+        {
+          "id": "2018:tslproleague",
+          "title": "TSL | PRO LEAGUE",
+          "year": 2018,
+          "teamId": "pentaesports",
+          "team": "PENTA eSports",
+          "major": false,
+          "source": "owner-confirmed"
+        },
         {
           "id": "major:ba4b48dba7cb6e5526a7",
           "title": "TSL | MAJOR PREMIERE",
@@ -8617,7 +8635,17 @@ window.HBSTV_PLAYER_INDEX = {
           ]
         }
       ],
-      "titles": [],
+      "titles": [
+        {
+          "id": "2018:tslproleague",
+          "title": "TSL | PRO LEAGUE",
+          "year": 2018,
+          "teamId": "pentaesports",
+          "team": "PENTA eSports",
+          "major": false,
+          "source": "owner-confirmed"
+        }
+      ],
       "mvps": [],
       "evps": [],
       "rankings": [],
@@ -8686,21 +8714,30 @@ window.HBSTV_PLAYER_INDEX = {
       "realNames": [],
       "teams": [
         {
-          "id": "razer",
-          "name": "RAZER",
+          "id": "pentaesports",
+          "name": "PENTA eSports",
           "years": [
             2018
           ]
         },
         {
-          "id": "pentaesports",
-          "name": "PENTA eSports",
+          "id": "razer",
+          "name": "RAZER",
           "years": [
             2018
           ]
         }
       ],
       "titles": [
+        {
+          "id": "2018:tslproleague",
+          "title": "TSL | PRO LEAGUE",
+          "year": 2018,
+          "teamId": "pentaesports",
+          "team": "PENTA eSports",
+          "major": false,
+          "source": "owner-confirmed"
+        },
         {
           "id": "major:ba4b48dba7cb6e5526a7",
           "title": "TSL | MAJOR PREMIERE",
@@ -10932,6 +10969,15 @@ window.HBSTV_PLAYER_INDEX = {
           "source": "major-history"
         },
         {
+          "id": "2018:tslproleague",
+          "title": "TSL | PRO LEAGUE",
+          "year": 2018,
+          "teamId": "pentaesports",
+          "team": "PENTA eSports",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
           "id": "major:ba4b48dba7cb6e5526a7",
           "title": "TSL | MAJOR PREMIERE",
           "year": 2018,
@@ -11237,7 +11283,17 @@ window.HBSTV_PLAYER_INDEX = {
           ]
         }
       ],
-      "titles": [],
+      "titles": [
+        {
+          "id": "2018:tslproleague",
+          "title": "TSL | PRO LEAGUE",
+          "year": 2018,
+          "teamId": "pentaesports",
+          "team": "PENTA eSports",
+          "major": false,
+          "source": "owner-confirmed"
+        }
+      ],
       "mvps": [],
       "evps": [],
       "rankings": [],
@@ -11339,21 +11395,30 @@ window.HBSTV_PLAYER_INDEX = {
       "realNames": [],
       "teams": [
         {
-          "id": "razer",
-          "name": "RAZER",
+          "id": "pentaesports",
+          "name": "PENTA eSports",
           "years": [
             2018
           ]
         },
         {
-          "id": "pentaesports",
-          "name": "PENTA eSports",
+          "id": "razer",
+          "name": "RAZER",
           "years": [
             2018
           ]
         }
       ],
       "titles": [
+        {
+          "id": "2018:tslproleague",
+          "title": "TSL | PRO LEAGUE",
+          "year": 2018,
+          "teamId": "pentaesports",
+          "team": "PENTA eSports",
+          "major": false,
+          "source": "owner-confirmed"
+        },
         {
           "id": "major:ba4b48dba7cb6e5526a7",
           "title": "TSL | MAJOR PREMIERE",
