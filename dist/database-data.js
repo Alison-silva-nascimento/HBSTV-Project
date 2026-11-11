@@ -593,15 +593,15 @@ window.HBSTV_DATABASE = {
           "source": "hall-of-fame"
         },
         {
-          "id": "hof:2021:SUVOH:loftuscup",
-          "title": "SUVOH | LOFTUS CUP 2021",
+          "id": "2021:suvohloftuscup",
+          "title": "SUVOH | LOFTUS CUP",
           "year": 2021,
           "organizer": "SUVOH",
           "source": "hall-of-fame"
         },
         {
-          "id": "hof:2021:GLBS:gameleague",
-          "title": "GLBS | GAME LEAGUE 2021",
+          "id": "2021:glbsgameleague",
+          "title": "GLBS | GAME LEAGUE",
           "year": 2021,
           "organizer": "GLBS",
           "source": "hall-of-fame"
@@ -614,8 +614,8 @@ window.HBSTV_DATABASE = {
           "source": "hall-of-fame"
         },
         {
-          "id": "hof:2021:TSL:seasonone",
-          "title": "TSL |  SEASON ONE 2021",
+          "id": "2021:tslsone",
+          "title": "TSL | SEASON ONE",
           "year": 2021,
           "organizer": "TSL",
           "source": "hall-of-fame"
@@ -933,29 +933,29 @@ window.HBSTV_DATABASE = {
           "source": "hall-of-fame-3"
         },
         {
-          "id": "hof:2021:SUVOH:loftuscup",
-          "title": "SUVOH | LOFTUS CUP 2021",
+          "id": "2021:suvohloftuscup",
+          "title": "SUVOH | LOFTUS CUP",
           "year": 2021,
           "organizer": "SUVOH",
           "source": "hall-of-fame-3"
         },
         {
-          "id": "hof:2021:GLBS:gameleague",
-          "title": "GLBS | GAME LEAGUE 2021",
+          "id": "2021:glbsgameleague",
+          "title": "GLBS | GAME LEAGUE",
           "year": 2021,
           "organizer": "GLBS",
           "source": "hall-of-fame-3"
         },
         {
-          "id": "hof:2021:TSL:smackcup",
-          "title": "TSL | SMACK 2021",
+          "id": "2021:tslsmack",
+          "title": "TSL | SMACK",
           "year": 2021,
           "organizer": "TSL",
           "source": "hall-of-fame-3"
         },
         {
-          "id": "hof:2021:TSL:seasonone",
-          "title": "TSL |  SEASON ONE 2021",
+          "id": "2021:tslsone",
+          "title": "TSL | SEASON ONE",
           "year": 2021,
           "organizer": "TSL",
           "source": "hall-of-fame-3"
@@ -4744,8 +4744,8 @@ window.HBSTV_DATABASE = {
           "source": "hall-of-fame-3"
         },
         {
-          "id": "hof:2021:TSL:smackcup",
-          "title": "TSL | SMACK CUP 2021",
+          "id": "2021:tslsmack",
+          "title": "TSL | SMACK",
           "year": 2021,
           "organizer": "TSL",
           "source": "hall-of-fame-3"
@@ -6784,8 +6784,8 @@ window.HBSTV_DATABASE = {
       "awards": [],
       "historicalTitles": [
         {
-          "id": "hof:2021:GLBS:gameleague",
-          "title": "GLBS | GAME LEAGUE 2021",
+          "id": "2021:glbsgameleague",
+          "title": "GLBS | GAME LEAGUE",
           "year": 2021,
           "organizer": "GLBS",
           "source": "hall-of-fame"
@@ -10569,15 +10569,15 @@ window.HBSTV_DATABASE = {
           "source": "hall-of-fame"
         },
         {
-          "id": "hof:2021:TSL:smackcup",
-          "title": "TSL | SMACK CUP 2021",
+          "id": "2021:tslsmack",
+          "title": "TSL | SMACK",
           "year": 2021,
           "organizer": "TSL",
           "source": "hall-of-fame"
         },
         {
-          "id": "hof:2021:GLBS:gameleague",
-          "title": "GLBS | GAME LEAGUE 2021",
+          "id": "2021:glbsgameleague",
+          "title": "GLBS | GAME LEAGUE",
           "year": 2021,
           "organizer": "GLBS",
           "source": "hall-of-fame"
@@ -18653,8 +18653,8 @@ window.HBSTV_DATABASE = {
       "id": "zenn",
       "name": "zenn",
       "aliases": [
-        "Hazz",
         "Zenn",
+        "Hazz",
         "zenn"
       ],
       "realNames": [],
@@ -21162,6 +21162,40 @@ window.HBSTV_DATABASE = {
       ]
     },
     {
+      "id": "2021:glbsgameleague",
+      "title": "GLBS | GAME LEAGUE",
+      "year": 2021,
+      "organizer": "GLBS",
+      "major": false,
+      "winners": [
+        "gt2021"
+      ],
+      "roster": [],
+      "mvps": [],
+      "evps": [],
+      "sources": [
+        "owner-confirmed"
+      ],
+      "notes": [
+        "Títulos da GT em 2021 confirmados pelo responsável pelo site."
+      ],
+      "images": [],
+      "rosterReference": {
+        "players": [
+          "4i2o",
+          "4kkp",
+          "alfa",
+          "ezeq",
+          "niko",
+          "valknut",
+          "zenn"
+        ],
+        "year": 2021,
+        "source": "Elenco anual da equipe em 2021",
+        "kind": "annual-team"
+      }
+    },
+    {
       "id": "2021:gsemasters",
       "title": "GSE | Masters Inverno",
       "year": 2021,
@@ -21318,6 +21352,40 @@ window.HBSTV_DATABASE = {
       }
     },
     {
+      "id": "2021:suvohloftuscup",
+      "title": "SUVOH | LOFTUS CUP",
+      "year": 2021,
+      "organizer": "SUVOH",
+      "major": false,
+      "winners": [
+        "gt2021"
+      ],
+      "roster": [],
+      "mvps": [],
+      "evps": [],
+      "sources": [
+        "owner-confirmed"
+      ],
+      "notes": [
+        "Títulos da GT em 2021 confirmados pelo responsável pelo site."
+      ],
+      "images": [],
+      "rosterReference": {
+        "players": [
+          "4i2o",
+          "4kkp",
+          "alfa",
+          "ezeq",
+          "niko",
+          "valknut",
+          "zenn"
+        ],
+        "year": 2021,
+        "source": "Elenco anual da equipe em 2021",
+        "kind": "annual-team"
+      }
+    },
+    {
       "id": "major:007759b02a7d7543b0a1",
       "title": "SUVOH | MAJOR",
       "year": 2021,
@@ -21398,6 +21466,74 @@ window.HBSTV_DATABASE = {
       "images": [
         "assets/archive/86ed67893904be137a59.jpeg"
       ]
+    },
+    {
+      "id": "2021:tslsone",
+      "title": "TSL | SEASON ONE",
+      "year": 2021,
+      "organizer": "TSL",
+      "major": false,
+      "winners": [
+        "gt2021"
+      ],
+      "roster": [],
+      "mvps": [],
+      "evps": [],
+      "sources": [
+        "owner-confirmed"
+      ],
+      "notes": [
+        "Títulos da GT em 2021 confirmados pelo responsável pelo site."
+      ],
+      "images": [],
+      "rosterReference": {
+        "players": [
+          "4i2o",
+          "4kkp",
+          "alfa",
+          "ezeq",
+          "niko",
+          "valknut",
+          "zenn"
+        ],
+        "year": 2021,
+        "source": "Elenco anual da equipe em 2021",
+        "kind": "annual-team"
+      }
+    },
+    {
+      "id": "2021:tslsmack",
+      "title": "TSL | SMACK",
+      "year": 2021,
+      "organizer": "TSL",
+      "major": false,
+      "winners": [
+        "gt2021"
+      ],
+      "roster": [],
+      "mvps": [],
+      "evps": [],
+      "sources": [
+        "owner-confirmed"
+      ],
+      "notes": [
+        "Títulos da GT em 2021 confirmados pelo responsável pelo site."
+      ],
+      "images": [],
+      "rosterReference": {
+        "players": [
+          "4i2o",
+          "4kkp",
+          "alfa",
+          "ezeq",
+          "niko",
+          "valknut",
+          "zenn"
+        ],
+        "year": 2021,
+        "source": "Elenco anual da equipe em 2021",
+        "kind": "annual-team"
+      }
     },
     {
       "id": "2020:elitestrike",
@@ -25414,6 +25550,196 @@ window.HBSTV_DATABASE = {
           "h": 1
         }
       }
+    },
+    {
+      "id": "gt2021",
+      "name": "GT 2021",
+      "aliases": [
+        "GT 2021",
+        "Legendary TeaM",
+        "gt",
+        "legendaryteam",
+        "gt2021",
+        "legendaryteam2021"
+      ],
+      "titles": [
+        {
+          "id": "2021:glbsgameleague",
+          "title": "GLBS | GAME LEAGUE",
+          "year": 2021,
+          "source": "owner-confirmed",
+          "sourceNote": "Títulos da GT em 2021 confirmados pelo responsável pelo site.",
+          "manual": true,
+          "major": false,
+          "roster": []
+        },
+        {
+          "id": "2021:suvohloftuscup",
+          "title": "SUVOH | LOFTUS CUP",
+          "year": 2021,
+          "source": "owner-confirmed",
+          "sourceNote": "Títulos da GT em 2021 confirmados pelo responsável pelo site.",
+          "manual": true,
+          "major": false,
+          "roster": []
+        },
+        {
+          "id": "major:86ed67893904be137a59",
+          "title": "TSL | MAJOR",
+          "year": 2021,
+          "source": "major-history",
+          "major": true,
+          "roster": [
+            "4i20",
+            "NIKO",
+            "Ezeq",
+            "Zenn",
+            "Valknut",
+            "Alfa"
+          ],
+          "blocks": [
+            {
+              "type": "heading",
+              "text": "TSL | MAJOR [2021]",
+              "level": 4
+            },
+            {
+              "type": "heading",
+              "text": "SUVOH | MAJOR [2021]",
+              "level": 4
+            },
+            {
+              "type": "image",
+              "src": "assets/archive/86ed67893904be137a59.jpeg",
+              "originalSrc": "https://img1.wsimg.com/isteam/ip/59989400-dfc1-4501-91c3-d5c38a10d7c1/WhatsApp%20Image%202024-02-23%20at%2019.18.43.jpeg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:388,cg:true",
+              "alt": ""
+            },
+            {
+              "type": "text",
+              "text": "CAMPEÃO [Legendary TeaM]"
+            },
+            {
+              "type": "text",
+              "text": "FINAL [GT Vs QNTS]"
+            }
+          ],
+          "legacyEventId": "2021:tslmajor",
+          "rosterSourceImage": "assets/archive/86ed67893904be137a59.jpeg"
+        },
+        {
+          "id": "2021:tslsone",
+          "title": "TSL | SEASON ONE",
+          "year": 2021,
+          "source": "owner-confirmed",
+          "sourceNote": "Títulos da GT em 2021 confirmados pelo responsável pelo site.",
+          "manual": true,
+          "major": false,
+          "roster": []
+        },
+        {
+          "id": "2021:tslsmack",
+          "title": "TSL | SMACK",
+          "year": 2021,
+          "source": "owner-confirmed",
+          "sourceNote": "Títulos da GT em 2021 confirmados pelo responsável pelo site.",
+          "manual": true,
+          "major": false,
+          "roster": []
+        }
+      ],
+      "members": [
+        {
+          "id": "4i2o",
+          "name": "4i20",
+          "years": [
+            2021
+          ],
+          "sources": [
+            "major-history"
+          ]
+        },
+        {
+          "id": "4kkp",
+          "name": "4kkp",
+          "years": [
+            2021
+          ],
+          "sources": [
+            "Passagem pela GT 2021 confirmada pelo proprietário do site."
+          ]
+        },
+        {
+          "id": "alfa",
+          "name": "Alfa",
+          "years": [
+            2021
+          ],
+          "sources": [
+            "major-history"
+          ]
+        },
+        {
+          "id": "ezeq",
+          "name": "Ezeq",
+          "years": [
+            2021
+          ],
+          "sources": [
+            "major-history"
+          ]
+        },
+        {
+          "id": "niko",
+          "name": "NIKO",
+          "years": [
+            2021
+          ],
+          "sources": [
+            "major-history"
+          ]
+        },
+        {
+          "id": "valknut",
+          "name": "Valknut",
+          "years": [
+            2021
+          ],
+          "sources": [
+            "major-history"
+          ]
+        },
+        {
+          "id": "zenn",
+          "name": "zenn",
+          "years": [
+            2021
+          ],
+          "sources": [
+            "major-history"
+          ]
+        }
+      ],
+      "rankings": [
+        {
+          "year": 2021,
+          "rank": 2
+        }
+      ],
+      "logo": {
+        "src": "assets/archive/fe536df0c4f9d35c5061.jpg",
+        "crop": {
+          "x": 0.17274167987321712,
+          "y": 0.2315202231520223,
+          "w": 0.1774960380348653,
+          "h": 0.15620641562064155
+        }
+      },
+      "searchAliases": [
+        "gt",
+        "legendaryteam",
+        "gt2021",
+        "legendaryteam2021"
+      ]
     },
     {
       "id": "teaminfinity",
@@ -30558,156 +30884,6 @@ window.HBSTV_DATABASE = {
         "gc2018",
         "goblinscheating",
         "goblinscheating2018"
-      ]
-    },
-    {
-      "id": "gt2021",
-      "name": "GT 2021",
-      "aliases": [
-        "GT 2021",
-        "Legendary TeaM",
-        "gt",
-        "legendaryteam",
-        "gt2021",
-        "legendaryteam2021"
-      ],
-      "titles": [
-        {
-          "id": "major:86ed67893904be137a59",
-          "title": "TSL | MAJOR",
-          "year": 2021,
-          "source": "major-history",
-          "major": true,
-          "roster": [
-            "4i20",
-            "NIKO",
-            "Ezeq",
-            "Zenn",
-            "Valknut",
-            "Alfa"
-          ],
-          "blocks": [
-            {
-              "type": "heading",
-              "text": "TSL | MAJOR [2021]",
-              "level": 4
-            },
-            {
-              "type": "heading",
-              "text": "SUVOH | MAJOR [2021]",
-              "level": 4
-            },
-            {
-              "type": "image",
-              "src": "assets/archive/86ed67893904be137a59.jpeg",
-              "originalSrc": "https://img1.wsimg.com/isteam/ip/59989400-dfc1-4501-91c3-d5c38a10d7c1/WhatsApp%20Image%202024-02-23%20at%2019.18.43.jpeg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:388,cg:true",
-              "alt": ""
-            },
-            {
-              "type": "text",
-              "text": "CAMPEÃO [Legendary TeaM]"
-            },
-            {
-              "type": "text",
-              "text": "FINAL [GT Vs QNTS]"
-            }
-          ],
-          "legacyEventId": "2021:tslmajor",
-          "rosterSourceImage": "assets/archive/86ed67893904be137a59.jpeg"
-        }
-      ],
-      "members": [
-        {
-          "id": "4i2o",
-          "name": "4i20",
-          "years": [
-            2021
-          ],
-          "sources": [
-            "major-history"
-          ]
-        },
-        {
-          "id": "4kkp",
-          "name": "4kkp",
-          "years": [
-            2021
-          ],
-          "sources": [
-            "Passagem pela GT 2021 confirmada pelo proprietário do site."
-          ]
-        },
-        {
-          "id": "alfa",
-          "name": "Alfa",
-          "years": [
-            2021
-          ],
-          "sources": [
-            "major-history"
-          ]
-        },
-        {
-          "id": "ezeq",
-          "name": "Ezeq",
-          "years": [
-            2021
-          ],
-          "sources": [
-            "major-history"
-          ]
-        },
-        {
-          "id": "niko",
-          "name": "NIKO",
-          "years": [
-            2021
-          ],
-          "sources": [
-            "major-history"
-          ]
-        },
-        {
-          "id": "valknut",
-          "name": "Valknut",
-          "years": [
-            2021
-          ],
-          "sources": [
-            "major-history"
-          ]
-        },
-        {
-          "id": "zenn",
-          "name": "zenn",
-          "years": [
-            2021
-          ],
-          "sources": [
-            "major-history"
-          ]
-        }
-      ],
-      "rankings": [
-        {
-          "year": 2021,
-          "rank": 2
-        }
-      ],
-      "logo": {
-        "src": "assets/archive/fe536df0c4f9d35c5061.jpg",
-        "crop": {
-          "x": 0.17274167987321712,
-          "y": 0.2315202231520223,
-          "w": 0.1774960380348653,
-          "h": 0.15620641562064155
-        }
-      },
-      "searchAliases": [
-        "gt",
-        "legendaryteam",
-        "gt2021",
-        "legendaryteam2021"
       ]
     },
     {

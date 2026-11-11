@@ -13860,10 +13860,10 @@ window.HBSTV_PLAYER_INDEX = {
     },
     {
       "id": "zenn",
-      "name": "zenn",
+      "name": "Zenn",
       "aliases": [
-        "Hazz",
         "Zenn",
+        "Hazz",
         "zenn"
       ],
       "realNames": [],

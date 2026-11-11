@@ -120,5 +120,18 @@
     ],
     "rosterConfirmed": true,
     "source": "Título e escalação informados pelo responsável pelo site."
+  },
+  {
+    "team": "GT 2021",
+    "year": 2021,
+    "titles": [
+      "SUVOH | LOFTUS CUP",
+      "GLBS | GAME LEAGUE",
+      "TSL | SMACK",
+      "TSL | SEASON ONE"
+    ],
+    "players": [],
+    "rosterConfirmed": false,
+    "source": "Títulos da GT em 2021 confirmados pelo responsável pelo site."
   }
 ]
