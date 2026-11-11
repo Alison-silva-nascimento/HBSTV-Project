@@ -14202,7 +14202,7 @@ window.RANKS_ARCHIVE = {
         },
         {
           "type": "text",
-          "text": "[ P4 TECZ PENTA RAZ3R ENCE SP3T RZ AST GT ]"
+          "text": "[ P4 TECZ RAZ3R ENCE SP3T RZ AST GT ]"
         },
         {
           "type": "text",
@@ -15078,7 +15078,7 @@ window.RANKS_ARCHIVE = {
             },
             {
               "type": "text",
-              "text": "[ P4 TECZ PENTA RAZ3R ENCE SP3T RZ AST GT ]"
+              "text": "[ P4 TECZ RAZ3R ENCE SP3T RZ AST GT ]"
             },
             {
               "type": "text",

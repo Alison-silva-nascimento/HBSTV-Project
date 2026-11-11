@@ -27693,7 +27693,8 @@ window.HBSTV_DATABASE = {
       "id": "fenix",
       "name": "FENIX",
       "aliases": [
-        "FENIX"
+        "FENIX",
+        "fnx"
       ],
       "titles": [
         {
@@ -28053,7 +28054,9 @@ window.HBSTV_DATABASE = {
           "h": 0.16017316017316016
         }
       },
-      "searchAliases": []
+      "searchAliases": [
+        "fnx"
+      ]
     },
     {
       "id": "gt2023",
@@ -28773,7 +28776,8 @@ window.HBSTV_DATABASE = {
       "id": "astralis",
       "name": "ASTRALIS",
       "aliases": [
-        "ASTRALIS"
+        "ASTRALIS",
+        "ast"
       ],
       "titles": [
         {
@@ -28896,7 +28900,9 @@ window.HBSTV_DATABASE = {
           "h": 0.15886524822695036
         }
       },
-      "searchAliases": []
+      "searchAliases": [
+        "ast"
+      ]
     },
     {
       "id": "bm",
@@ -30870,7 +30876,8 @@ window.HBSTV_DATABASE = {
       "id": "primeirocomando",
       "name": "PRIMEIRO COMANDO",
       "aliases": [
-        "PRIMEIRO COMANDO"
+        "PRIMEIRO COMANDO",
+        "pc"
       ],
       "titles": [],
       "members": [],
@@ -30889,7 +30896,9 @@ window.HBSTV_DATABASE = {
           "h": 0.15796897038081806
         }
       },
-      "searchAliases": []
+      "searchAliases": [
+        "pc"
+      ]
     },
     {
       "id": "pyro",
@@ -31149,7 +31158,8 @@ window.HBSTV_DATABASE = {
       "id": "vanguardelite",
       "name": "VANGUARD ELITE",
       "aliases": [
-        "VANGUARD ELITE"
+        "VANGUARD ELITE",
+        "ve"
       ],
       "titles": [],
       "members": [],
@@ -31172,7 +31182,9 @@ window.HBSTV_DATABASE = {
           "h": 0.15886524822695036
         }
       },
-      "searchAliases": []
+      "searchAliases": [
+        "ve"
+      ]
     }
   ]
 };

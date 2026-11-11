@@ -47,7 +47,9 @@ window.renderPlayerTeamCards = (player, legacyTags = []) => {
       const team = candidates[0];
       memberships.set(team.id, {id: team.id, name: team.name, years: []});
     } else {
-      const emblemId = ['gt','legendaryteam'].includes(normalized) ? candidates.find(team => team.logo)?.id : undefined;
+      const emblemId = ['gt','legendaryteam','gc','goblinscheating'].includes(normalized)
+        ? candidates.find(team => team.id === 'gc2018' && team.logo)?.id || candidates.find(team => team.logo)?.id
+        : undefined;
       memberships.set('tag:' + normalized, {name: tag, years: [], emblemId});
     }
   }

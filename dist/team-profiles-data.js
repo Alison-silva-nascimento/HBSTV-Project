@@ -6438,7 +6438,9 @@ window.HBSTV_TEAMS = [
         "h": 0.16017316017316016
       }
     },
-    "searchAliases": []
+    "searchAliases": [
+      "fnx"
+    ]
   },
   {
     "id": "gt2023",
@@ -7275,7 +7277,9 @@ window.HBSTV_TEAMS = [
         "h": 0.15886524822695036
       }
     },
-    "searchAliases": []
+    "searchAliases": [
+      "ast"
+    ]
   },
   {
     "id": "bm",
@@ -9257,7 +9261,9 @@ window.HBSTV_TEAMS = [
         "h": 0.15796897038081806
       }
     },
-    "searchAliases": []
+    "searchAliases": [
+      "pc"
+    ]
   },
   {
     "id": "pyro",
@@ -9539,6 +9545,8 @@ window.HBSTV_TEAMS = [
         "h": 0.15886524822695036
       }
     },
-    "searchAliases": []
+    "searchAliases": [
+      "ve"
+    ]
   }
 ];
