@@ -8,3 +8,41 @@ html{scroll-padding-top:90px}body{font-size:14px}button,a,input,select,summary{t
 .entity-player-teams:empty:after{content:"Nenhuma equipe vinculada nos registros disponíveis.";font-size:12px;color:#a9bfce;line-height:1.7}.awards-filters{background:#233542;border-color:#4b657a}.awards-filters select,.awards-filters input{background:#1c2d3b;border-color:#526f85;color:#e0ecf5}.awards-filters label{color:#b8cfdf}*{scrollbar-width:thin;scrollbar-color:#607e95 #1d2c37}
 @media(max-width:700px){#detail.profile-dialog .hof-identity{display:grid;grid-template-columns:1fr}#detail.profile-dialog .hof-portrait{width:100%;height:185px;min-height:185px;border-right:0;border-bottom:1px solid #526c81;background:radial-gradient(ellipse at 65% 35%,#5a83934d,transparent 65%),repeating-linear-gradient(135deg,transparent 0 26px,#c2dfef08 26px 27px),linear-gradient(120deg,#253847,#172633)}#detail.profile-dialog .hof-monogram{font-size:100px;line-height:1}#detail.profile-dialog .hof-portrait-footer{bottom:14px;left:17px;right:auto;font-size:8px;line-height:1.7}#detail.profile-dialog .hof-portrait-footer b{font-size:13px;letter-spacing:1px}#detail.profile-dialog .hof-player-label{top:15px;left:16px;font-size:9px;padding:6px 9px}#detail.profile-dialog .hof-bio{padding:23px 20px}#detail.profile-dialog .hof-bio h2{font-size:30px}#detail.profile-dialog .hof-facts dt{font-size:11px}#detail.profile-dialog .hof-facts dd{font-size:12px}}
 @media(max-width:850px){.right{display:none!important}}
+
+#majors .major-year-tabs {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 6px;
+  overflow: visible;
+  margin: 16px 0;
+}
+#majors .major-year-tabs button {
+  min-height: 44px;
+  padding: 8px 4px;
+  background: #243845;
+  border-color: #456072;
+  color: #d9e7f0;
+  font-size: 13px;
+}
+#majors .major-year-tabs button.active {
+  background: #a8cce2;
+  border-color: #a8cce2;
+  color: #162733;
+}
+#majors .major-grid {
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 185px), 1fr));
+  gap: 10px;
+}
+#majors .major-edition {
+  min-height: 96px;
+  padding: 12px;
+  gap: 12px;
+}
+#majors .major-edition .team-logo {
+  width: 52px;
+  height: 52px;
+  flex: 0 0 52px;
+}
+#majors .edition-copy strong {
+  font-size: clamp(15px, 2vw, 18px);
+}
