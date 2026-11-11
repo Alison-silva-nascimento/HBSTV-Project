@@ -4,7 +4,7 @@
 .stats-record-dialog p { color: #b5cbda; }
 .stats-record-dialog ol { display: grid; gap: 8px; margin: 20px 0; padding-left: 26px; }
 .stats-record-dialog li { padding: 10px 12px; background: #253b4b; line-height: 1.5; overflow-wrap: anywhere; }
-#statistics-screen .stats-header { padding: 16px 0; margin: 0; }
+#statistics-screen .stats-header { padding: 16px clamp(12px, 3vw, 24px); margin: 0 0 12px; }
 #statistics-screen .stats-header h2 { margin: 0; font-size: clamp(25px, 4vw, 36px); }
 .stats-category { display: flex; gap: 8px; margin-bottom: 12px; }
 .stats-category button, .stats-pagination button {
@@ -17,15 +17,37 @@
   cursor: pointer;
 }
 .stats-category button[aria-pressed="true"] { background: #385a70; border-color: #aacee7; }
-.stats-dashboard-filters { display: grid; grid-template-columns: repeat(2, minmax(0,1fr)); gap: 8px; }
-.stats-dashboard-filters label { min-width: 0; }
-.stats-dashboard-filters input, .stats-dashboard-filters select { width: 100%; min-width: 0; }
+#statistics-screen .stats-dashboard-filters {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 150px), 1fr));
+  gap: 12px;
+  align-items: end;
+}
+#statistics-screen .stats-dashboard-filters label {
+  display: grid;
+  gap: 6px;
+  min-width: 0;
+}
+#statistics-screen .stats-dashboard-filters :is(input, select) {
+  box-sizing: border-box;
+  width: 100%;
+  min-width: 0;
+  max-width: 100%;
+  min-height: 44px;
+  margin: 0;
+}
 .stats-pagination { display: flex; align-items: center; justify-content: space-between; gap: 8px; margin: 10px 0; }
 .stats-pagination button:disabled { opacity: .45; cursor: default; }
 .stats-team-logo, .stats-team-initials { width: 36px; height: 36px; }
 .stats-team-initials { display: grid; place-items: center; background: #20313d; font-weight: 700; }
 #statistics-screen .stats-rank-row { min-height: 55px; padding-block: 8px; }
 #statistics-screen .stats-ranking-head { margin-top: 14px; }
-@media (min-width: 950px) {
-  .stats-dashboard-filters { grid-template-columns: repeat(auto-fit, minmax(132px,1fr)); }
+@media (max-width: 600px) {
+  #statistics-screen .stats-dashboard-filters :is(input, select) { font-size: 16px; }
+}
+@media (max-width: 380px) {
+  #statistics-screen .stats-category button { flex: 1; }
+  #statistics-screen .stats-rank-row { grid-template-columns: 20px 32px minmax(0, 1fr) auto; gap: 8px; }
+  #statistics-screen :is(.stats-player-avatar, .stats-team-logo, .stats-team-initials) { width: 32px; }
+  #statistics-screen .stats-pagination button { padding-inline: 8px; }
 }
