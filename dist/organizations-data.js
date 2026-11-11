@@ -208,5 +208,9 @@ window.RANKS_ORGANIZATIONS = {
     "src": "assets/org-maware.svg",
     "name": "MAWARE",
     "note": "Identidade visual criada para o acervo a pedido do proprietário; não é reprodução de uma marca histórica verificada."
+  },
+  "XMS X BSTV": {
+    "src": "assets/org-xms-bstv.svg",
+    "name": "XMS × BSTV"
   }
 };

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <path d="M25 6h50l19 19v50L75 94H25L6 75V25Z" fill="#161b24" stroke="#ed4354" stroke-width="5"/>
+  <path d="M10 48h24m32 0h24" stroke="#ed4354" stroke-width="4"/>
+  <path d="m44 43 12 12m0-12L44 55" stroke="#ed4354" stroke-width="5" stroke-linecap="square"/>
+  <g fill="#f5f7fa" font-family="Arial, sans-serif" font-weight="900" text-anchor="middle">
+    <text x="50" y="36" font-size="26">XMS</text>
+    <text x="50" y="78" font-size="24">BSTV</text>
+  </g>
+</svg>

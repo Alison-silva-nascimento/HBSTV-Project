@@ -5,7 +5,10 @@
    const text=String(title).normalize('NFKC').trim();
    let name=text.includes('|')?text.split('|')[0]:text.match(/^(.+?)\s+I\s+/)?.[1];
    if(!name){const keys=Object.keys(window.RANKS_ORGANIZATIONS||{}).sort((a,b)=>b.length-a.length);name=keys.find(key=>text.toUpperCase().startsWith(key+' '));}
-   const key=name?canonical(name):'';const parts=key.split(/\s+[X×&]\s+/).filter(Boolean);if(parts.length>1)return {key,label:parts.join(' × '),short:parts.join('/'),parts,logo:null};const organization=window.RANKS_ORGANIZATIONS?.[key];
+   const key=name?canonical(name).replace(/^XMS [×&] BSTV$/,'XMS X BSTV'):'';
+   const organization=window.RANKS_ORGANIZATIONS?.[key];
+   const parts=key.split(/\s+[X×&]\s+/).filter(Boolean);
+   if(!organization?.src && parts.length>1)return {key,label:parts.join(' × '),short:parts.join('/'),parts,logo:null};
    return {key,label:organization?.name||key||'Organização não informada',short:key||'—',logo:organization?.src?organization:null};
  };
  window.renderOrganizationEmblem=title=>{
