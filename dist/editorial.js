@@ -24,9 +24,9 @@ window.HBSTV_EDITORIAL_FEATURES = [
     text: 'Um ano marcado por duas equipes que dominaram o cenário em 2021, conquistando juntas 9 títulos no ano.',
     stats: [['SUVOH', 'Team Infinity'], ['TSL', 'GT 2021']],
     sections: [
-      ['O título da Team Infinity', 'A Team Infinity, identificada pela tag FY, conquistou o Major da SUVOH. Entre os jogadores do elenco campeão, RN, ScreaM, Helix e FugLY também aparecem na lista de EVPs da edição.'],
-      ['A conquista da GT 2021', 'A GT 2021 venceu o Major da TSL com 4i20, NIKO, Ezeq, zenn, Valknut e Alfa no elenco registrado. NIKO e Alfa foram reconhecidos como EVPs do torneio.'],
-      ['Dois prêmios para 4i20', '4i20 recebeu o MVP nos dois Majors registrados de 2021. Na TSL, o prêmio veio junto do título pela GT. Na SUVOH, o MVP ficou com ele e o troféu coletivo com a FY. O jogador também terminou em primeiro lugar no Top 20 daquela temporada.']
+      ["Team Infinity","A FY terminou o ano de 2021 conquistando 5 títulos principais, incluindo o SUVOH | MAJOR 2021, vencido sobre a GT em uma MD3 histórica que encerrou a grande rivalidade no ano."],
+      ["GT","A GT conquistou 4 grandes torneios no ano, incluindo o TSL | MAJOR 2021, vencido sobre a equipe russa QNTS. O destaque foi o primeiro semestre de 2021, quando a equipe dominou o cenário e conquistou grandes vitórias."],
+      ["Destaques das equipes","GT e FY tinham grandes destaques em seus elencos. A FY tinha a base da lineup da PENTA eSports, oito vezes campeã e Top 1 de 2020. Já a GT, liderada por Leo “4i20” e João “4KKp”, montou uma grande base com jogadores jovens e talentosos que estavam em seu ápice mecânico no jogo."]
     ],
     links: [[H.eventHref('major:007759b02a7d7543b0a1'), 'Ver Major da SUVOH'], [H.eventHref('major:86ed67893904be137a59'), 'Ver Major da TSL']]
   }
