@@ -40,7 +40,8 @@ window.HBSTV_PLAYER_INDEX = {
     "benzin": "BENZ1N",
     "kauan": "Nescau",
     "kscerato": "ScreaM",
-    "reidogame": "RN"
+    "reidogame": "RN",
+    "realnoob": "RN"
   },
   "players": [
     {
@@ -9170,27 +9171,14 @@ window.HBSTV_PLAYER_INDEX = {
       "awards": []
     },
     {
-      "id": "realnoob",
-      "name": "ReAL NOOB",
-      "aliases": [
-        "ReAL NOOB"
-      ],
-      "realNames": [],
-      "teams": [],
-      "titles": [],
-      "mvps": [],
-      "evps": [],
-      "rankings": [],
-      "awards": []
-    },
-    {
       "id": "rn",
       "name": "rN",
       "aliases": [
         "rN",
         "RN",
         "Rn",
-        "ReiDoGame"
+        "ReiDoGame",
+        "ReAL NOOB"
       ],
       "realNames": [],
       "teams": [

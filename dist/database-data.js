@@ -12158,36 +12158,14 @@ window.HBSTV_DATABASE = {
       "topFiveTeams": []
     },
     {
-      "id": "realnoob",
-      "name": "ReAL NOOB",
-      "aliases": [
-        "ReAL NOOB"
-      ],
-      "realNames": [],
-      "teams": [],
-      "titles": [],
-      "mvps": [],
-      "evps": [
-        {
-          "id": "2020:lcbproleague",
-          "title": "LCB | Pro League",
-          "year": 2020,
-          "major": false,
-          "source": "owner-confirmed"
-        }
-      ],
-      "rankings": [],
-      "awards": [],
-      "topFiveTeams": []
-    },
-    {
       "id": "rn",
       "name": "RN",
       "aliases": [
         "rN",
         "RN",
         "Rn",
-        "ReiDoGame"
+        "ReiDoGame",
+        "ReAL NOOB"
       ],
       "realNames": [],
       "teams": [
@@ -12332,6 +12310,13 @@ window.HBSTV_DATABASE = {
         {
           "id": "2020:acecup",
           "title": "ACE | Cup Season 1",
+          "year": 2020,
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:lcbproleague",
+          "title": "LCB | Pro League",
           "year": 2020,
           "major": false,
           "source": "owner-confirmed"
@@ -18313,7 +18298,8 @@ window.HBSTV_DATABASE = {
     "benzin": "BENZ1N",
     "kauan": "Nescau",
     "kscerato": "ScreaM",
-    "reidogame": "RN"
+    "reidogame": "RN",
+    "realnoob": "RN"
   },
   "events": [
     {
@@ -20777,7 +20763,7 @@ window.HBSTV_DATABASE = {
         "scream"
       ],
       "evps": [
-        "realnoob",
+        "rn",
         "adren",
         "trex999",
         "zenn",
