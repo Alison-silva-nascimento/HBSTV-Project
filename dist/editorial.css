@@ -5,3 +5,5 @@
 @media(prefers-reduced-motion:reduce){.editorial-track{transition:none}}
 
 .ik-cropped-logo{display:block;position:relative;width:85px;height:85px;overflow:hidden;flex:none;background:#050505;border-radius:7px}.ik-cropped-logo img{position:absolute;max-width:none;object-fit:fill;opacity:1}.ik-art .ik-cropped-logo{width:130px;height:130px;margin:40px auto 60px}.ik-art .ik-cropped-logo img{bottom:auto;right:auto}.ik-article-summary .ik-cropped-logo img{width:auto;height:auto}@media(max-width:700px){.ik-art .ik-cropped-logo{width:72px;height:72px;margin:80px auto 65px}.ik-article-summary .ik-cropped-logo{width:65px;height:65px}}
+
+.editorial-controls{flex-wrap:wrap}
