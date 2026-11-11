@@ -3050,14 +3050,14 @@ window.HBSTV_DATABASE = {
           "id": "pure",
           "name": "PURE",
           "years": [
-            2023
+            2024
           ]
         },
         {
           "id": "00",
           "name": "00",
           "years": [
-            2023
+            2024
           ]
         },
         {
@@ -6169,14 +6169,14 @@ window.HBSTV_DATABASE = {
           "id": "pure",
           "name": "PURE",
           "years": [
-            2023
+            2024
           ]
         },
         {
           "id": "00",
           "name": "00",
           "years": [
-            2023
+            2024
           ]
         },
         {
@@ -6450,15 +6450,15 @@ window.HBSTV_DATABASE = {
           ]
         },
         {
-          "id": "gt2023",
-          "name": "GT 2023",
+          "id": "00",
+          "name": "00",
           "years": [
-            2023
+            2024
           ]
         },
         {
-          "id": "00",
-          "name": "00",
+          "id": "gt2023",
+          "name": "GT 2023",
           "years": [
             2023
           ]
@@ -6889,7 +6889,7 @@ window.HBSTV_DATABASE = {
           "id": "pure",
           "name": "PURE",
           "years": [
-            2023
+            2024
           ]
         }
       ],
@@ -13598,14 +13598,14 @@ window.HBSTV_DATABASE = {
           "id": "pure",
           "name": "PURE",
           "years": [
-            2023
+            2024
           ]
         },
         {
           "id": "00",
           "name": "00",
           "years": [
-            2023
+            2024
           ]
         },
         {
@@ -14236,14 +14236,14 @@ window.HBSTV_DATABASE = {
           "id": "pure",
           "name": "PURE",
           "years": [
-            2023
+            2024
           ]
         },
         {
           "id": "00",
           "name": "00",
           "years": [
-            2023
+            2024
           ]
         },
         {
@@ -15397,14 +15397,14 @@ window.HBSTV_DATABASE = {
           "id": "pure",
           "name": "PURE",
           "years": [
-            2023
+            2024
           ]
         },
         {
           "id": "00",
           "name": "00",
           "years": [
-            2023
+            2024
           ]
         },
         {
@@ -30965,60 +30965,60 @@ window.HBSTV_DATABASE = {
           "id": "conjure",
           "name": "c0njure",
           "years": [
-            2023
+            2024
           ],
           "sources": [
-            "Passagem registrada no Hall of Fame. Temporada da equipe confirmada pelo responsável pelo site."
+            "Passagem registrada no Hall of Fame. Temporada de 2024 corrigida pelo responsável pelo site."
           ]
         },
         {
           "id": "hardzera",
           "name": "Hardzera",
           "years": [
-            2023
+            2024
           ],
           "sources": [
-            "Passagem registrada no Hall of Fame. Temporada da equipe confirmada pelo responsável pelo site."
+            "Passagem registrada no Hall of Fame. Temporada de 2024 corrigida pelo responsável pelo site."
           ]
         },
         {
           "id": "helix",
           "name": "Helix",
           "years": [
-            2023
+            2024
           ],
           "sources": [
-            "Passagem registrada no Hall of Fame. Temporada da equipe confirmada pelo responsável pelo site."
+            "Passagem registrada no Hall of Fame. Temporada de 2024 corrigida pelo responsável pelo site."
           ]
         },
         {
           "id": "scream",
           "name": "ScreaM",
           "years": [
-            2023
+            2024
           ],
           "sources": [
-            "Passagem registrada no Hall of Fame. Temporada da equipe confirmada pelo responsável pelo site."
+            "Passagem registrada no Hall of Fame. Temporada de 2024 corrigida pelo responsável pelo site."
           ]
         },
         {
           "id": "shelzz",
           "name": "ShelzZ",
           "years": [
-            2023
+            2024
           ],
           "sources": [
-            "Passagem registrada no Hall of Fame. Temporada da equipe confirmada pelo responsável pelo site."
+            "Passagem registrada no Hall of Fame. Temporada de 2024 corrigida pelo responsável pelo site."
           ]
         },
         {
           "id": "tabsenn",
           "name": "tabsenn",
           "years": [
-            2023
+            2024
           ],
           "sources": [
-            "Passagem registrada no Hall of Fame. Temporada da equipe confirmada pelo responsável pelo site."
+            "Passagem registrada no Hall of Fame. Temporada de 2024 corrigida pelo responsável pelo site."
           ]
         }
       ],
@@ -31400,60 +31400,60 @@ window.HBSTV_DATABASE = {
           "id": "conjure",
           "name": "c0njure",
           "years": [
-            2023
+            2024
           ],
           "sources": [
-            "Passagem registrada no Hall of Fame. Temporada da equipe confirmada pelo responsável pelo site."
+            "Passagem registrada no Hall of Fame. Temporada de 2024 corrigida pelo responsável pelo site."
           ]
         },
         {
           "id": "hardzera",
           "name": "Hardzera",
           "years": [
-            2023
+            2024
           ],
           "sources": [
-            "Passagem registrada no Hall of Fame. Temporada da equipe confirmada pelo responsável pelo site."
+            "Passagem registrada no Hall of Fame. Temporada de 2024 corrigida pelo responsável pelo site."
           ]
         },
         {
           "id": "insani",
           "name": "Insani",
           "years": [
-            2023
+            2024
           ],
           "sources": [
-            "Passagem registrada no Hall of Fame. Temporada da equipe confirmada pelo responsável pelo site."
+            "Passagem registrada no Hall of Fame. Temporada de 2024 corrigida pelo responsável pelo site."
           ]
         },
         {
           "id": "scream",
           "name": "ScreaM",
           "years": [
-            2023
+            2024
           ],
           "sources": [
-            "Passagem registrada no Hall of Fame. Temporada da equipe confirmada pelo responsável pelo site."
+            "Passagem registrada no Hall of Fame. Temporada de 2024 corrigida pelo responsável pelo site."
           ]
         },
         {
           "id": "shelzz",
           "name": "ShelzZ",
           "years": [
-            2023
+            2024
           ],
           "sources": [
-            "Passagem registrada no Hall of Fame. Temporada da equipe confirmada pelo responsável pelo site."
+            "Passagem registrada no Hall of Fame. Temporada de 2024 corrigida pelo responsável pelo site."
           ]
         },
         {
           "id": "tabsenn",
           "name": "tabsenn",
           "years": [
-            2023
+            2024
           ],
           "sources": [
-            "Passagem registrada no Hall of Fame. Temporada da equipe confirmada pelo responsável pelo site."
+            "Passagem registrada no Hall of Fame. Temporada de 2024 corrigida pelo responsável pelo site."
           ]
         }
       ],

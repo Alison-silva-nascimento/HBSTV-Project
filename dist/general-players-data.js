@@ -2219,14 +2219,14 @@ window.HBSTV_PLAYER_INDEX = {
           "id": "pure",
           "name": "PURE",
           "years": [
-            2023
+            2024
           ]
         },
         {
           "id": "00",
           "name": "00",
           "years": [
-            2023
+            2024
           ]
         },
         {
@@ -4526,14 +4526,14 @@ window.HBSTV_PLAYER_INDEX = {
           "id": "pure",
           "name": "PURE",
           "years": [
-            2023
+            2024
           ]
         },
         {
           "id": "00",
           "name": "00",
           "years": [
-            2023
+            2024
           ]
         },
         {
@@ -4679,15 +4679,15 @@ window.HBSTV_PLAYER_INDEX = {
           ]
         },
         {
-          "id": "gt2023",
-          "name": "GT 2023",
+          "id": "00",
+          "name": "00",
           "years": [
-            2023
+            2024
           ]
         },
         {
-          "id": "00",
-          "name": "00",
+          "id": "gt2023",
+          "name": "GT 2023",
           "years": [
             2023
           ]
@@ -5009,7 +5009,7 @@ window.HBSTV_PLAYER_INDEX = {
           "id": "pure",
           "name": "PURE",
           "years": [
-            2023
+            2024
           ]
         }
       ],
@@ -10168,14 +10168,14 @@ window.HBSTV_PLAYER_INDEX = {
           "id": "pure",
           "name": "PURE",
           "years": [
-            2023
+            2024
           ]
         },
         {
           "id": "00",
           "name": "00",
           "years": [
-            2023
+            2024
           ]
         },
         {
@@ -10512,14 +10512,14 @@ window.HBSTV_PLAYER_INDEX = {
           "id": "pure",
           "name": "PURE",
           "years": [
-            2023
+            2024
           ]
         },
         {
           "id": "00",
           "name": "00",
           "years": [
-            2023
+            2024
           ]
         },
         {
@@ -11315,14 +11315,14 @@ window.HBSTV_PLAYER_INDEX = {
           "id": "pure",
           "name": "PURE",
           "years": [
-            2023
+            2024
           ]
         },
         {
           "id": "00",
           "name": "00",
           "years": [
-            2023
+            2024
           ]
         },
         {
