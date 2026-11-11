@@ -28,9 +28,9 @@ const reduce=matchMedia('(prefers-reduced-motion: reduce)');let current=0,paused
 function show(i){current=(i+slides.length)%slides.length;track.style.setProperty('--slide',current);slides.forEach((s,n)=>{s.hidden=false;s.inert=n!==current;s.setAttribute('aria-hidden',String(n!==current));});carousel.querySelectorAll('[data-slide]').forEach((b,n)=>b.setAttribute('aria-pressed',String(n===current)));carousel.querySelector('.editorial-slide-status').textContent=(current+1)+' / '+slides.length;}
 const pause=carousel.querySelector('[data-slide-pause]');function updatePause(){pause.textContent=paused?'Reproduzir':'Pausar';pause.setAttribute('aria-pressed',String(paused));}updatePause();
 carousel.addEventListener('click',e=>{const b=e.target.closest('button');if(!b)return;if(b.hasAttribute('data-slide'))show(+b.dataset.slide);if(b.hasAttribute('data-slide-next'))show(current+1);if(b.hasAttribute('data-slide-prev'))show(current-1);if(b.hasAttribute('data-slide-pause')){paused=!paused;updatePause();}});
-carousel.addEventListener('pointerenter',()=>hover=true);carousel.addEventListener('pointerleave',()=>hover=false);carousel.addEventListener('focusin',()=>focused=true);carousel.addEventListener('focusout',e=>focused=carousel.contains(e.relatedTarget));
+carousel.addEventListener('pointerenter',e=>{hover=e.pointerType==='mouse';});carousel.addEventListener('pointerleave',()=>hover=false);carousel.addEventListener('focusin',()=>focused=true);carousel.addEventListener('focusout',e=>focused=carousel.contains(e.relatedTarget));
 let touchX;track.addEventListener('touchstart',e=>touchX=e.changedTouches[0].clientX,{passive:true});track.addEventListener('touchend',e=>{const dx=e.changedTouches[0].clientX-touchX;if(Math.abs(dx)>45)show(current+(dx<0?1:-1));},{passive:true});
-setInterval(()=>{if(!paused&&!hover&&!focused&&!document.hidden&&!carousel.hidden)show(current+1);},7000);
+setInterval(()=>{if(!paused&&!hover&&!focused&&!document.hidden&&!carousel.hidden)show(current+1);},4000);
 reduce.addEventListener('change',e=>{if(e.matches){paused=true;updatePause();}});
 function route(){carousel.hidden=!!location.hash&&location.hash!=='#inicio';show(current);}window.addEventListener('hashchange',route);route();
 })();
