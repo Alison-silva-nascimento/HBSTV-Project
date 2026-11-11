@@ -32,4 +32,6 @@ for(const t of teams.values())for(const r of t.titles)if(r.rosterSourceImage==="
 for(const t of teams.values())for(const r of t.titles)if(r.id==="2018:tslcbbs20")r.title="TSL | CBBS 2.0";
 for(const t of teams.values())for(const r of t.titles)if(r.id==="2018:tslmajorcup")r.title="TSL | MAJOR CUP";
 if (teams.has('sx')) teams.get('sx').logo = {src:'assets/sx-logo.png', crop:{x:0,y:0,w:1,h:1}};
+if (teams.has('g2')) teams.get('g2').logo = {src:'assets/g2-logo.png', crop:{x:0,y:0,w:1,h:1}};
+if (teams.has('fanatic')) teams.get('fanatic').logo = {src:'assets/fanatic-logo.png', crop:{x:0,y:0,w:1,h:1}};
 const list=[...teams.values()].sort((a,b)=>b.titles.length-a.titles.length||a.name.localeCompare(b.name));fs.writeFileSync('dist/team-profiles-data.js','window.HBSTV_TEAMS = '+JSON.stringify(list,null,2)+';\n');console.log(JSON.stringify({teams:list.length,titles:list.reduce((s,t)=>s+t.titles.length,0),memberships:list.reduce((s,t)=>s+t.members.length,0),championshipsWithRoster:list.flatMap(t=>t.titles).filter(r=>r.roster.length).length}));

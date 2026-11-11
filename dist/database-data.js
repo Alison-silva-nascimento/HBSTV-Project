@@ -9969,6 +9969,16 @@ window.HBSTV_DATABASE = {
           "years": [
             2021
           ]
+        },
+        {
+          "id": "g2",
+          "name": "G2",
+          "years": []
+        },
+        {
+          "id": "fanatic",
+          "name": "FANATIC",
+          "years": []
         }
       ],
       "titles": [
@@ -30823,6 +30833,35 @@ window.HBSTV_DATABASE = {
       ]
     },
     {
+      "id": "fanatic",
+      "name": "FANATIC",
+      "aliases": [
+        "FANATIC"
+      ],
+      "titles": [],
+      "members": [
+        {
+          "id": "niko",
+          "name": "NIKO",
+          "years": [],
+          "sources": [
+            "Passagem confirmada pelo responsável pelo site. Temporada não informada."
+          ]
+        }
+      ],
+      "rankings": [],
+      "searchAliases": [],
+      "logo": {
+        "src": "assets/fanatic-logo.png",
+        "crop": {
+          "x": 0,
+          "y": 0,
+          "w": 1,
+          "h": 1
+        }
+      }
+    },
+    {
       "id": "firstlegion",
       "name": "FIRST LEGION",
       "aliases": [
@@ -30846,6 +30885,35 @@ window.HBSTV_DATABASE = {
         }
       },
       "searchAliases": []
+    },
+    {
+      "id": "g2",
+      "name": "G2",
+      "aliases": [
+        "G2"
+      ],
+      "titles": [],
+      "members": [
+        {
+          "id": "niko",
+          "name": "NIKO",
+          "years": [],
+          "sources": [
+            "Passagem confirmada pelo responsável pelo site. Temporada não informada."
+          ]
+        }
+      ],
+      "rankings": [],
+      "searchAliases": [],
+      "logo": {
+        "src": "assets/g2-logo.png",
+        "crop": {
+          "x": 0,
+          "y": 0,
+          "w": 1,
+          "h": 1
+        }
+      }
     },
     {
       "id": "luvv",

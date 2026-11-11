@@ -7488,6 +7488,16 @@ window.HBSTV_PLAYER_INDEX = {
           "years": [
             2021
           ]
+        },
+        {
+          "id": "g2",
+          "name": "G2",
+          "years": []
+        },
+        {
+          "id": "fanatic",
+          "name": "FANATIC",
+          "years": []
         }
       ],
       "titles": [
