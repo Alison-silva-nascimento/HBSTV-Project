@@ -8543,6 +8543,133 @@ window.HBSTV_TEAMS = [
     ]
   },
   {
+    "id": "pure",
+    "name": "PURE",
+    "aliases": [
+      "PURE"
+    ],
+    "titles": [
+      {
+        "id": "2023:gtrnationalleague",
+        "title": "GTR | NATIONAL LEAGUE",
+        "year": 2023,
+        "source": "owner-confirmed",
+        "sourceNote": "Campeã e escalação confirmadas pelo responsável pelo site.",
+        "manual": true,
+        "major": false,
+        "roster": [
+          "ShelzZ",
+          "Tabsenn",
+          "4i20",
+          "Scuba",
+          "c0njure",
+          "ScreaM"
+        ]
+      }
+    ],
+    "members": [
+      {
+        "id": "conjure",
+        "name": "c0njure",
+        "years": [
+          2024,
+          2023
+        ],
+        "sources": [
+          "Passagem registrada no Hall of Fame. Temporada de 2024 corrigida pelo responsável pelo site.",
+          "Campeã e escalação confirmadas pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "hardzera",
+        "name": "Hardzera",
+        "years": [
+          2024
+        ],
+        "sources": [
+          "Passagem registrada no Hall of Fame. Temporada de 2024 corrigida pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "insani",
+        "name": "Insani",
+        "years": [
+          2024
+        ],
+        "sources": [
+          "Passagem registrada no Hall of Fame. Temporada de 2024 corrigida pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "scream",
+        "name": "ScreaM",
+        "years": [
+          2024,
+          2023
+        ],
+        "sources": [
+          "Passagem registrada no Hall of Fame. Temporada de 2024 corrigida pelo responsável pelo site.",
+          "Campeã e escalação confirmadas pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "shelzz",
+        "name": "ShelzZ",
+        "years": [
+          2024,
+          2023
+        ],
+        "sources": [
+          "Passagem registrada no Hall of Fame. Temporada de 2024 corrigida pelo responsável pelo site.",
+          "Campeã e escalação confirmadas pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "tabsenn",
+        "name": "tabsenn",
+        "years": [
+          2024,
+          2023
+        ],
+        "sources": [
+          "Passagem registrada no Hall of Fame. Temporada de 2024 corrigida pelo responsável pelo site.",
+          "Campeã e escalação confirmadas pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "4i2o",
+        "name": "4i20",
+        "years": [
+          2023
+        ],
+        "sources": [
+          "Campeã e escalação confirmadas pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "scuba",
+        "name": "Scuba",
+        "years": [
+          2023
+        ],
+        "sources": [
+          "Campeã e escalação confirmadas pelo responsável pelo site."
+        ]
+      }
+    ],
+    "rankings": [],
+    "searchAliases": [],
+    "logo": {
+      "src": "assets/pure-logo.png",
+      "crop": {
+        "x": 0,
+        "y": 0,
+        "w": 1,
+        "h": 1
+      }
+    }
+  },
+  {
     "id": "rs4",
     "name": "RS4",
     "aliases": [
@@ -9624,87 +9751,6 @@ window.HBSTV_TEAMS = [
     "searchAliases": [
       "pc"
     ]
-  },
-  {
-    "id": "pure",
-    "name": "PURE",
-    "aliases": [
-      "PURE"
-    ],
-    "titles": [],
-    "members": [
-      {
-        "id": "conjure",
-        "name": "c0njure",
-        "years": [
-          2024
-        ],
-        "sources": [
-          "Passagem registrada no Hall of Fame. Temporada de 2024 corrigida pelo responsável pelo site."
-        ]
-      },
-      {
-        "id": "hardzera",
-        "name": "Hardzera",
-        "years": [
-          2024
-        ],
-        "sources": [
-          "Passagem registrada no Hall of Fame. Temporada de 2024 corrigida pelo responsável pelo site."
-        ]
-      },
-      {
-        "id": "insani",
-        "name": "Insani",
-        "years": [
-          2024
-        ],
-        "sources": [
-          "Passagem registrada no Hall of Fame. Temporada de 2024 corrigida pelo responsável pelo site."
-        ]
-      },
-      {
-        "id": "scream",
-        "name": "ScreaM",
-        "years": [
-          2024
-        ],
-        "sources": [
-          "Passagem registrada no Hall of Fame. Temporada de 2024 corrigida pelo responsável pelo site."
-        ]
-      },
-      {
-        "id": "shelzz",
-        "name": "ShelzZ",
-        "years": [
-          2024
-        ],
-        "sources": [
-          "Passagem registrada no Hall of Fame. Temporada de 2024 corrigida pelo responsável pelo site."
-        ]
-      },
-      {
-        "id": "tabsenn",
-        "name": "tabsenn",
-        "years": [
-          2024
-        ],
-        "sources": [
-          "Passagem registrada no Hall of Fame. Temporada de 2024 corrigida pelo responsável pelo site."
-        ]
-      }
-    ],
-    "rankings": [],
-    "searchAliases": [],
-    "logo": {
-      "src": "assets/pure-logo.png",
-      "crop": {
-        "x": 0,
-        "y": 0,
-        "w": 1,
-        "h": 1
-      }
-    }
   },
   {
     "id": "pyro",

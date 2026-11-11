@@ -144,6 +144,13 @@ window.HBSTV_PLAYER_INDEX = {
           ]
         },
         {
+          "id": "pure",
+          "name": "PURE",
+          "years": [
+            2023
+          ]
+        },
+        {
           "id": "gt2021",
           "name": "GT 2021",
           "years": [
@@ -278,6 +285,15 @@ window.HBSTV_PLAYER_INDEX = {
           "year": 2023,
           "teamId": "controlz",
           "team": "CONTROL Z",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2023:gtrnationalleague",
+          "title": "GTR | NATIONAL LEAGUE",
+          "year": 2023,
+          "teamId": "pure",
+          "team": "PURE",
           "major": false,
           "source": "owner-confirmed"
         },
@@ -2220,7 +2236,8 @@ window.HBSTV_PLAYER_INDEX = {
           "id": "pure",
           "name": "PURE",
           "years": [
-            2024
+            2024,
+            2023
           ]
         },
         {
@@ -2324,6 +2341,15 @@ window.HBSTV_PLAYER_INDEX = {
           "team": "SDP Interlude",
           "major": false,
           "source": "events-2024"
+        },
+        {
+          "id": "2023:gtrnationalleague",
+          "title": "GTR | NATIONAL LEAGUE",
+          "year": 2023,
+          "teamId": "pure",
+          "team": "PURE",
+          "major": false,
+          "source": "owner-confirmed"
         },
         {
           "id": "major:007759b02a7d7543b0a1",
@@ -10189,7 +10215,8 @@ window.HBSTV_PLAYER_INDEX = {
           "id": "pure",
           "name": "PURE",
           "years": [
-            2024
+            2024,
+            2023
           ]
         },
         {
@@ -10258,6 +10285,15 @@ window.HBSTV_PLAYER_INDEX = {
       ],
       "titles": [
         {
+          "id": "2023:gtrnationalleague",
+          "title": "GTR | NATIONAL LEAGUE",
+          "year": 2023,
+          "teamId": "pure",
+          "team": "PURE",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
           "id": "major:007759b02a7d7543b0a1",
           "title": "SUVOH | MAJOR",
           "year": 2021,
@@ -10321,6 +10357,13 @@ window.HBSTV_PLAYER_INDEX = {
       "realNames": [],
       "teams": [
         {
+          "id": "pure",
+          "name": "PURE",
+          "years": [
+            2023
+          ]
+        },
+        {
           "id": "astralis",
           "name": "ASTRALIS",
           "years": [
@@ -10336,6 +10379,15 @@ window.HBSTV_PLAYER_INDEX = {
         }
       ],
       "titles": [
+        {
+          "id": "2023:gtrnationalleague",
+          "title": "GTR | NATIONAL LEAGUE",
+          "year": 2023,
+          "teamId": "pure",
+          "team": "PURE",
+          "major": false,
+          "source": "owner-confirmed"
+        },
         {
           "id": "major:4ed7f41456f8697e77c6",
           "title": "GSE | MAJOR Adrenaline",
@@ -10531,6 +10583,14 @@ window.HBSTV_PLAYER_INDEX = {
           ]
         },
         {
+          "id": "pure",
+          "name": "PURE",
+          "years": [
+            2024,
+            2023
+          ]
+        },
+        {
           "id": "miracle",
           "name": "Miracle",
           "years": [
@@ -10540,13 +10600,6 @@ window.HBSTV_PLAYER_INDEX = {
         {
           "id": "vissionary",
           "name": "Vissionary",
-          "years": [
-            2024
-          ]
-        },
-        {
-          "id": "pure",
-          "name": "PURE",
           "years": [
             2024
           ]
@@ -10626,6 +10679,15 @@ window.HBSTV_PLAYER_INDEX = {
           "team": "SDP Interlude",
           "major": false,
           "source": "events-2024"
+        },
+        {
+          "id": "2023:gtrnationalleague",
+          "title": "GTR | NATIONAL LEAGUE",
+          "year": 2023,
+          "teamId": "pure",
+          "team": "PURE",
+          "major": false,
+          "source": "owner-confirmed"
         },
         {
           "id": "major:007759b02a7d7543b0a1",
@@ -11356,7 +11418,8 @@ window.HBSTV_PLAYER_INDEX = {
           "id": "pure",
           "name": "PURE",
           "years": [
-            2024
+            2024,
+            2023
           ]
         },
         {
@@ -11464,6 +11527,15 @@ window.HBSTV_PLAYER_INDEX = {
           "team": "Vissionary",
           "major": false,
           "source": "events-2024"
+        },
+        {
+          "id": "2023:gtrnationalleague",
+          "title": "GTR | NATIONAL LEAGUE",
+          "year": 2023,
+          "teamId": "pure",
+          "team": "PURE",
+          "major": false,
+          "source": "owner-confirmed"
         }
       ],
       "mvps": [

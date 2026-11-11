@@ -104,6 +104,13 @@ window.HBSTV_DATABASE = {
           ]
         },
         {
+          "id": "pure",
+          "name": "PURE",
+          "years": [
+            2023
+          ]
+        },
+        {
           "id": "gt2021",
           "name": "GT 2021",
           "years": [
@@ -238,6 +245,15 @@ window.HBSTV_DATABASE = {
           "year": 2023,
           "teamId": "controlz",
           "team": "CONTROL Z",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2023:gtrnationalleague",
+          "title": "GTR | NATIONAL LEAGUE",
+          "year": 2023,
+          "teamId": "pure",
+          "team": "PURE",
           "major": false,
           "source": "owner-confirmed"
         },
@@ -3051,7 +3067,8 @@ window.HBSTV_DATABASE = {
           "id": "pure",
           "name": "PURE",
           "years": [
-            2024
+            2024,
+            2023
           ]
         },
         {
@@ -3155,6 +3172,15 @@ window.HBSTV_DATABASE = {
           "team": "SDP Interlude",
           "major": false,
           "source": "events-2024"
+        },
+        {
+          "id": "2023:gtrnationalleague",
+          "title": "GTR | NATIONAL LEAGUE",
+          "year": 2023,
+          "teamId": "pure",
+          "team": "PURE",
+          "major": false,
+          "source": "owner-confirmed"
         },
         {
           "id": "major:007759b02a7d7543b0a1",
@@ -6358,13 +6384,6 @@ window.HBSTV_DATABASE = {
           "title": "XMS | LEAGUE CUP 2023",
           "year": 2023,
           "organizer": "XMS",
-          "source": "hall-of-fame"
-        },
-        {
-          "id": "hof:2023:GTR:nationalleague",
-          "title": "GTR | NATIONAL LEAGUE 2023",
-          "year": 2023,
-          "organizer": "GTR",
           "source": "hall-of-fame"
         },
         {
@@ -13663,7 +13682,8 @@ window.HBSTV_DATABASE = {
           "id": "pure",
           "name": "PURE",
           "years": [
-            2024
+            2024,
+            2023
           ]
         },
         {
@@ -13731,6 +13751,15 @@ window.HBSTV_DATABASE = {
         }
       ],
       "titles": [
+        {
+          "id": "2023:gtrnationalleague",
+          "title": "GTR | NATIONAL LEAGUE",
+          "year": 2023,
+          "teamId": "pure",
+          "team": "PURE",
+          "major": false,
+          "source": "owner-confirmed"
+        },
         {
           "id": "major:007759b02a7d7543b0a1",
           "title": "SUVOH | MAJOR",
@@ -13979,6 +14008,13 @@ window.HBSTV_DATABASE = {
       "realNames": [],
       "teams": [
         {
+          "id": "pure",
+          "name": "PURE",
+          "years": [
+            2023
+          ]
+        },
+        {
           "id": "astralis",
           "name": "ASTRALIS",
           "years": [
@@ -13994,6 +14030,15 @@ window.HBSTV_DATABASE = {
         }
       ],
       "titles": [
+        {
+          "id": "2023:gtrnationalleague",
+          "title": "GTR | NATIONAL LEAGUE",
+          "year": 2023,
+          "teamId": "pure",
+          "team": "PURE",
+          "major": false,
+          "source": "owner-confirmed"
+        },
         {
           "id": "major:4ed7f41456f8697e77c6",
           "title": "GSE | MAJOR Adrenaline",
@@ -14306,6 +14351,14 @@ window.HBSTV_DATABASE = {
           ]
         },
         {
+          "id": "pure",
+          "name": "PURE",
+          "years": [
+            2024,
+            2023
+          ]
+        },
+        {
           "id": "miracle",
           "name": "Miracle",
           "years": [
@@ -14315,13 +14368,6 @@ window.HBSTV_DATABASE = {
         {
           "id": "vissionary",
           "name": "Vissionary",
-          "years": [
-            2024
-          ]
-        },
-        {
-          "id": "pure",
-          "name": "PURE",
           "years": [
             2024
           ]
@@ -14401,6 +14447,15 @@ window.HBSTV_DATABASE = {
           "team": "SDP Interlude",
           "major": false,
           "source": "events-2024"
+        },
+        {
+          "id": "2023:gtrnationalleague",
+          "title": "GTR | NATIONAL LEAGUE",
+          "year": 2023,
+          "teamId": "pure",
+          "team": "PURE",
+          "major": false,
+          "source": "owner-confirmed"
         },
         {
           "id": "major:007759b02a7d7543b0a1",
@@ -14654,8 +14709,8 @@ window.HBSTV_DATABASE = {
           "source": "hall-of-fame"
         },
         {
-          "id": "hof:2023:GTR:nationalleague",
-          "title": "GTR | NATIONAL LEAGUE 2023",
+          "id": "2023:gtrnationalleague",
+          "title": "GTR | NATIONAL LEAGUE",
           "year": 2023,
           "organizer": "GTR",
           "source": "hall-of-fame"
@@ -15489,7 +15544,8 @@ window.HBSTV_DATABASE = {
           "id": "pure",
           "name": "PURE",
           "years": [
-            2024
+            2024,
+            2023
           ]
         },
         {
@@ -15597,6 +15653,15 @@ window.HBSTV_DATABASE = {
           "team": "Vissionary",
           "major": false,
           "source": "events-2024"
+        },
+        {
+          "id": "2023:gtrnationalleague",
+          "title": "GTR | NATIONAL LEAGUE",
+          "year": 2023,
+          "teamId": "pure",
+          "team": "PURE",
+          "major": false,
+          "source": "owner-confirmed"
         }
       ],
       "mvps": [
@@ -15805,8 +15870,8 @@ window.HBSTV_DATABASE = {
           "source": "hall-of-fame"
         },
         {
-          "id": "hof:2023:GTR:nationalleague",
-          "title": "GTR | NATIONAL LEAGUE 2023",
+          "id": "2023:gtrnationalleague",
+          "title": "GTR | NATIONAL LEAGUE",
           "year": 2023,
           "organizer": "GTR",
           "source": "hall-of-fame"
@@ -20122,6 +20187,33 @@ window.HBSTV_DATABASE = {
         "source": "Elenco anual da equipe em 2023",
         "kind": "annual-team"
       }
+    },
+    {
+      "id": "2023:gtrnationalleague",
+      "title": "GTR | NATIONAL LEAGUE",
+      "year": 2023,
+      "organizer": "GTR",
+      "major": false,
+      "winners": [
+        "pure"
+      ],
+      "roster": [
+        "shelzz",
+        "tabsenn",
+        "4i2o",
+        "scuba",
+        "conjure",
+        "scream"
+      ],
+      "mvps": [],
+      "evps": [],
+      "sources": [
+        "owner-confirmed"
+      ],
+      "notes": [
+        "Campeã e escalação confirmadas pelo responsável pelo site."
+      ],
+      "images": []
     },
     {
       "id": "2023:gzsanitycup",
@@ -30546,6 +30638,133 @@ window.HBSTV_DATABASE = {
       ]
     },
     {
+      "id": "pure",
+      "name": "PURE",
+      "aliases": [
+        "PURE"
+      ],
+      "titles": [
+        {
+          "id": "2023:gtrnationalleague",
+          "title": "GTR | NATIONAL LEAGUE",
+          "year": 2023,
+          "source": "owner-confirmed",
+          "sourceNote": "Campeã e escalação confirmadas pelo responsável pelo site.",
+          "manual": true,
+          "major": false,
+          "roster": [
+            "ShelzZ",
+            "Tabsenn",
+            "4i20",
+            "Scuba",
+            "c0njure",
+            "ScreaM"
+          ]
+        }
+      ],
+      "members": [
+        {
+          "id": "conjure",
+          "name": "c0njure",
+          "years": [
+            2024,
+            2023
+          ],
+          "sources": [
+            "Passagem registrada no Hall of Fame. Temporada de 2024 corrigida pelo responsável pelo site.",
+            "Campeã e escalação confirmadas pelo responsável pelo site."
+          ]
+        },
+        {
+          "id": "hardzera",
+          "name": "Hardzera",
+          "years": [
+            2024
+          ],
+          "sources": [
+            "Passagem registrada no Hall of Fame. Temporada de 2024 corrigida pelo responsável pelo site."
+          ]
+        },
+        {
+          "id": "insani",
+          "name": "Insani",
+          "years": [
+            2024
+          ],
+          "sources": [
+            "Passagem registrada no Hall of Fame. Temporada de 2024 corrigida pelo responsável pelo site."
+          ]
+        },
+        {
+          "id": "scream",
+          "name": "ScreaM",
+          "years": [
+            2024,
+            2023
+          ],
+          "sources": [
+            "Passagem registrada no Hall of Fame. Temporada de 2024 corrigida pelo responsável pelo site.",
+            "Campeã e escalação confirmadas pelo responsável pelo site."
+          ]
+        },
+        {
+          "id": "shelzz",
+          "name": "ShelzZ",
+          "years": [
+            2024,
+            2023
+          ],
+          "sources": [
+            "Passagem registrada no Hall of Fame. Temporada de 2024 corrigida pelo responsável pelo site.",
+            "Campeã e escalação confirmadas pelo responsável pelo site."
+          ]
+        },
+        {
+          "id": "tabsenn",
+          "name": "tabsenn",
+          "years": [
+            2024,
+            2023
+          ],
+          "sources": [
+            "Passagem registrada no Hall of Fame. Temporada de 2024 corrigida pelo responsável pelo site.",
+            "Campeã e escalação confirmadas pelo responsável pelo site."
+          ]
+        },
+        {
+          "id": "4i2o",
+          "name": "4i20",
+          "years": [
+            2023
+          ],
+          "sources": [
+            "Campeã e escalação confirmadas pelo responsável pelo site."
+          ]
+        },
+        {
+          "id": "scuba",
+          "name": "Scuba",
+          "years": [
+            2023
+          ],
+          "sources": [
+            "Campeã e escalação confirmadas pelo responsável pelo site."
+          ]
+        }
+      ],
+      "rankings": [],
+      "searchAliases": [],
+      "logo": {
+        "src": "assets/pure-logo.png",
+        "crop": {
+          "x": 0,
+          "y": 0,
+          "w": 1,
+          "h": 1
+        }
+      }
+    },
+    {
       "id": "rs4",
       "name": "RS4",
       "aliases": [
@@ -31630,87 +31849,6 @@ window.HBSTV_DATABASE = {
       "searchAliases": [
         "pc"
       ]
-    },
-    {
-      "id": "pure",
-      "name": "PURE",
-      "aliases": [
-        "PURE"
-      ],
-      "titles": [],
-      "members": [
-        {
-          "id": "conjure",
-          "name": "c0njure",
-          "years": [
-            2024
-          ],
-          "sources": [
-            "Passagem registrada no Hall of Fame. Temporada de 2024 corrigida pelo responsável pelo site."
-          ]
-        },
-        {
-          "id": "hardzera",
-          "name": "Hardzera",
-          "years": [
-            2024
-          ],
-          "sources": [
-            "Passagem registrada no Hall of Fame. Temporada de 2024 corrigida pelo responsável pelo site."
-          ]
-        },
-        {
-          "id": "insani",
-          "name": "Insani",
-          "years": [
-            2024
-          ],
-          "sources": [
-            "Passagem registrada no Hall of Fame. Temporada de 2024 corrigida pelo responsável pelo site."
-          ]
-        },
-        {
-          "id": "scream",
-          "name": "ScreaM",
-          "years": [
-            2024
-          ],
-          "sources": [
-            "Passagem registrada no Hall of Fame. Temporada de 2024 corrigida pelo responsável pelo site."
-          ]
-        },
-        {
-          "id": "shelzz",
-          "name": "ShelzZ",
-          "years": [
-            2024
-          ],
-          "sources": [
-            "Passagem registrada no Hall of Fame. Temporada de 2024 corrigida pelo responsável pelo site."
-          ]
-        },
-        {
-          "id": "tabsenn",
-          "name": "tabsenn",
-          "years": [
-            2024
-          ],
-          "sources": [
-            "Passagem registrada no Hall of Fame. Temporada de 2024 corrigida pelo responsável pelo site."
-          ]
-        }
-      ],
-      "rankings": [],
-      "searchAliases": [],
-      "logo": {
-        "src": "assets/pure-logo.png",
-        "crop": {
-          "x": 0,
-          "y": 0,
-          "w": 1,
-          "h": 1
-        }
-      }
     },
     {
       "id": "pyro",

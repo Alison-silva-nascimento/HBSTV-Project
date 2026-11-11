@@ -84,5 +84,22 @@
     "players": [],
     "rosterConfirmed": false,
     "source": "Título da GZ Alpha Cup 2024 confirmado pelo responsável pelo site."
+  },
+  {
+    "team": "PURE",
+    "year": 2023,
+    "titles": [
+      "GTR | NATIONAL LEAGUE"
+    ],
+    "players": [
+      "ShelzZ",
+      "Tabsenn",
+      "4i20",
+      "Scuba",
+      "c0njure",
+      "ScreaM"
+    ],
+    "rosterConfirmed": true,
+    "source": "Campeã e escalação confirmadas pelo responsável pelo site."
   }
 ]
