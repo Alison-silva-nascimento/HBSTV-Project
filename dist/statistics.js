@@ -58,6 +58,7 @@ const playerRows = H.db.players.map(player => ({
 }));
 const teamRows = H.db.teams.map(team => ({
   ...team,
+  name: team.id === 'teaminfinity' ? 'FY / Team Infinity' : team.name,
   trophies: H.db.events.filter(event => event.winners.includes(team.id)),
   search: [team.name, ...team.aliases].join(' ')
 }));
@@ -96,23 +97,27 @@ function playerValue(player) {
   }
 }
 
-function teamValue(team) {
+function teamRecords(team) {
   if (metric === 'trophies' || metric === 'majors') {
-    return team.trophies.filter(event => (metric === 'trophies' || event.major) && matches(event)).length;
+    return team.trophies.filter(event => (metric === 'trophies' || event.major) && matches(event));
   }
-  return new Set(team.rankings.filter(record =>
-    record.rank >= 1 && record.rank <= (metric === 'first' ? 1 : 5) && matches(record, false))
-    .map(record => record.year)).size;
+  const maxRank = metric === 'first' ? 1 : 5;
+  const placements = team.rankings.filter(record =>
+    record.rank >= 1 && record.rank <= maxRank && matches(record, false));
+  return [...new Map(placements.map(record => [record.year, record])).values()];
 }
 
 function ranking() {
   const rows = category === 'players' ? playerRows : teamRows;
-  const getValue = category === 'players' ? playerValue : teamValue;
   let rank = 0;
   let previous = -1;
-  return rows.map(row => ({row, value:getValue(row)}))
+  return rows.map(row => {
+    if (category === 'players') return {row, value: playerValue(row), years: []};
+    const years = teamRecords(row).map(record => record.year).sort((a,b) => b-a);
+    return {row, value: years.length, years};
+  })
     .filter(entry => entry.value > 0)
-    .sort((a,b) => b.value-a.value || a.row.name.localeCompare(b.row.name,'pt-BR'))
+    .sort((a,b) => b.value-a.value || (b.years[0] || 0)-(a.years[0] || 0) || a.row.name.localeCompare(b.row.name,'pt-BR'))
     .map((entry, index) => {
       if (entry.value !== previous) rank = index + 1;
       previous = entry.value;
@@ -121,8 +126,8 @@ function ranking() {
     .filter(entry => norm(entry.row.search).includes(norm(query)));
 }
 
-function rowDetail(row) {
-  if (category === 'teams') return organizer || 'Histórico da equipe';
+function rowDetail(row, years) {
+  if (category === 'teams') return [organizer, ...new Set(years)].filter(Boolean).join(' · ');
   if (metric === 'records') return 'Hall of Fame';
   if (metric === 'awards') return 'Premiações individuais';
   if (metric === 'teams') return (row.topFiveTeams || []).filter(record => matches(record, false))
@@ -130,12 +135,12 @@ function rowDetail(row) {
   return 'Registros do acervo';
 }
 
-function rowHtml({row, value, rank}) {
+function rowHtml({row, value, rank, years}) {
   const icon = category === 'teams' && row.logo
     ? `<span class="club-logo stats-team-logo"><img src="${esc(row.logo.src)}" alt="" style="width:${100/row.logo.crop.w}%;height:${100/row.logo.crop.h}%;left:${-100*row.logo.crop.x/row.logo.crop.w}%;top:${-100*row.logo.crop.y/row.logo.crop.h}%"></span>`
     : category === 'teams' ? `<span class="stats-team-initials" aria-hidden="true">${esc(row.name.slice(0,2))}</span>`
     : '<span class="stats-player-avatar" aria-hidden="true"></span>';
-  const contents = `<span class="stats-position">${rank}</span>${icon}<span class="stats-player-name"><strong>${esc(row.name)}</strong><small>${esc(rowDetail(row))}</small></span><b>${value}</b>`;
+  const contents = `<span class="stats-position">${rank}</span>${icon}<span class="stats-player-name"><strong>${esc(row.name)}</strong><small>${esc(rowDetail(row, years))}</small></span><b>${value}</b>`;
   if (metric === 'records') return `<button class="stats-rank-row" data-stats-record-player="${esc(row.id)}" aria-haspopup="dialog">${contents}</button>`;
   const href = category === 'players' ? H.playerHref(row.id) : '#time/' + encodeURIComponent(row.id);
   return `<a class="stats-rank-row" href="${href}">${contents}</a>`;
