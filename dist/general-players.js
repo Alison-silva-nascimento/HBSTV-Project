@@ -21,14 +21,17 @@ function events(rows, kind) {
   });
   return `<div class="gp-titles gp-trophy-gallery gp-award-gallery" aria-label="${esc(kind)}">${cards.join('')}</div>`;
 }
-window.renderPlayerTitleCards = (player, fallback = []) => {
+window.getPlayerTitleRecords = (player, fallback = []) => {
   const rows = player
     ? [...new Map([...(player.historicalTitles || []), ...player.titles].map(record => [record.id, record])).values()]
     : fallback.map(title => ({ title, year: Number(title.match(/20\d{2}/)?.[0]) }));
   for (const record of player?.seasonTitles || []) {
     if (!rows.some(title => title.id === record.id)) rows.push(record);
   }
-  rows.sort((a,b) => b.year - a.year);
+  return rows.sort((a,b) => b.year - a.year);
+};
+window.renderPlayerTitleCards = (player, fallback = []) => {
+  const rows = window.getPlayerTitleRecords(player, fallback);
   return `<section class="gp-section"><div class="gp-section-head"><h3>Títulos conquistados</h3><span>${rows.length} REGISTROS</span></div>${events(rows,'TÍTULO')}</section>`;
 };
 function teamEmblem(id){const t=[...window.HBSTV_TEAMS,...(window.HBSTV_TEAM_TAGS||[])].find(t=>t.id===id),l=t?.logo;if(!l)return `<span class="gp-team-initials" aria-hidden="true">${esc((t?.name||id).slice(0,2))}</span>`;const c=l.crop;return `<span class="gp-team-emblem"><img src="${esc(l.src)}" alt="" loading="lazy" style="width:${100/c.w}%;height:${100/c.h}%;left:${-100*c.x/c.w}%;top:${-100*c.y/c.h}%"></span>`;}
