@@ -74,5 +74,15 @@
     ],
     "rosterConfirmed": true,
     "source": "A P4 foi a primeira equipe campeã da história do Block Strike, conforme confirmado pelo responsável pelo site."
+  },
+  {
+    "team": "00",
+    "year": 2024,
+    "titles": [
+      "GZ | ALPHA CUP"
+    ],
+    "players": [],
+    "rosterConfirmed": false,
+    "source": "Título da GZ Alpha Cup 2024 confirmado pelo responsável pelo site."
   }
 ]

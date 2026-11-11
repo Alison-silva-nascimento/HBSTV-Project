@@ -7151,6 +7151,98 @@ window.HBSTV_TEAMS = [
     ]
   },
   {
+    "id": "00",
+    "name": "00",
+    "aliases": [
+      "00"
+    ],
+    "titles": [
+      {
+        "id": "2024:gzalphacup",
+        "title": "GZ | ALPHA CUP",
+        "year": 2024,
+        "source": "owner-confirmed",
+        "sourceNote": "Título da GZ Alpha Cup 2024 confirmado pelo responsável pelo site.",
+        "manual": true,
+        "major": false,
+        "roster": []
+      }
+    ],
+    "members": [
+      {
+        "id": "conjure",
+        "name": "c0njure",
+        "years": [
+          2024
+        ],
+        "sources": [
+          "Passagem registrada no Hall of Fame. Temporada de 2024 corrigida pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "hardzera",
+        "name": "Hardzera",
+        "years": [
+          2024
+        ],
+        "sources": [
+          "Passagem registrada no Hall of Fame. Temporada de 2024 corrigida pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "helix",
+        "name": "Helix",
+        "years": [
+          2024
+        ],
+        "sources": [
+          "Passagem registrada no Hall of Fame. Temporada de 2024 corrigida pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "scream",
+        "name": "ScreaM",
+        "years": [
+          2024
+        ],
+        "sources": [
+          "Passagem registrada no Hall of Fame. Temporada de 2024 corrigida pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "shelzz",
+        "name": "ShelzZ",
+        "years": [
+          2024
+        ],
+        "sources": [
+          "Passagem registrada no Hall of Fame. Temporada de 2024 corrigida pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "tabsenn",
+        "name": "tabsenn",
+        "years": [
+          2024
+        ],
+        "sources": [
+          "Passagem registrada no Hall of Fame. Temporada de 2024 corrigida pelo responsável pelo site."
+        ]
+      }
+    ],
+    "rankings": [],
+    "searchAliases": [],
+    "logo": {
+      "src": "assets/00-logo.png",
+      "crop": {
+        "x": 0,
+        "y": 0,
+        "w": 1,
+        "h": 1
+      }
+    }
+  },
+  {
     "id": "astralis",
     "name": "ASTRALIS",
     "aliases": [
@@ -9144,87 +9236,6 @@ window.HBSTV_TEAMS = [
     ],
     "rankings": [],
     "searchAliases": []
-  },
-  {
-    "id": "00",
-    "name": "00",
-    "aliases": [
-      "00"
-    ],
-    "titles": [],
-    "members": [
-      {
-        "id": "conjure",
-        "name": "c0njure",
-        "years": [
-          2024
-        ],
-        "sources": [
-          "Passagem registrada no Hall of Fame. Temporada de 2024 corrigida pelo responsável pelo site."
-        ]
-      },
-      {
-        "id": "hardzera",
-        "name": "Hardzera",
-        "years": [
-          2024
-        ],
-        "sources": [
-          "Passagem registrada no Hall of Fame. Temporada de 2024 corrigida pelo responsável pelo site."
-        ]
-      },
-      {
-        "id": "helix",
-        "name": "Helix",
-        "years": [
-          2024
-        ],
-        "sources": [
-          "Passagem registrada no Hall of Fame. Temporada de 2024 corrigida pelo responsável pelo site."
-        ]
-      },
-      {
-        "id": "scream",
-        "name": "ScreaM",
-        "years": [
-          2024
-        ],
-        "sources": [
-          "Passagem registrada no Hall of Fame. Temporada de 2024 corrigida pelo responsável pelo site."
-        ]
-      },
-      {
-        "id": "shelzz",
-        "name": "ShelzZ",
-        "years": [
-          2024
-        ],
-        "sources": [
-          "Passagem registrada no Hall of Fame. Temporada de 2024 corrigida pelo responsável pelo site."
-        ]
-      },
-      {
-        "id": "tabsenn",
-        "name": "tabsenn",
-        "years": [
-          2024
-        ],
-        "sources": [
-          "Passagem registrada no Hall of Fame. Temporada de 2024 corrigida pelo responsável pelo site."
-        ]
-      }
-    ],
-    "rankings": [],
-    "searchAliases": [],
-    "logo": {
-      "src": "assets/00-logo.png",
-      "crop": {
-        "x": 0,
-        "y": 0,
-        "w": 1,
-        "h": 1
-      }
-    }
   },
   {
     "id": "ae",
