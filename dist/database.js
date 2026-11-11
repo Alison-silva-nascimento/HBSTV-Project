@@ -9,7 +9,7 @@ if (typeof players !== 'undefined') for (const p of db.players.filter(p => p.hal
 }
 window.HBSTV_PLAYER_INDEX.players=db.players;window.HBSTV_PLAYER_INDEX.aliases=db.aliases;window.HBSTV_TEAMS=db.teams;
 const infinity = db.teams.find(team => team.id === 'teaminfinity');
-window.HBSTV_TEAM_TAGS = infinity ? [{
+window.HBSTV_TEAM_TAGS = infinity && !db.teams.some(team => team.id === 'ntc') ? [{
   ...infinity, id: 'ntc', name: 'NTC', aliases: ['NTC', 'Não Tem Como'], searchAliases: [],
   logo: {src: 'assets/ntc-logo.svg', crop: {x:0,y:0,w:1,h:1}},
   members: infinity.members.filter(player => !['inovate','rn'].includes(player.id)),

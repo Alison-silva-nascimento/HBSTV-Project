@@ -625,6 +625,13 @@ window.HBSTV_PLAYER_INDEX = {
           ]
         },
         {
+          "id": "sy",
+          "name": "SY",
+          "years": [
+            2020
+          ]
+        },
+        {
           "id": "gc2019",
           "name": "Temp Stormy / GC 2019",
           "years": [
@@ -656,7 +663,15 @@ window.HBSTV_PLAYER_INDEX = {
         "Aerial"
       ],
       "realNames": [],
-      "teams": [],
+      "teams": [
+        {
+          "id": "thunderzgaming",
+          "name": "THUNDERZ GAMING",
+          "years": [
+            2019
+          ]
+        }
+      ],
       "titles": [],
       "mvps": [],
       "evps": [],
@@ -2201,8 +2216,29 @@ window.HBSTV_PLAYER_INDEX = {
           ]
         },
         {
+          "id": "pure",
+          "name": "PURE",
+          "years": [
+            2023
+          ]
+        },
+        {
+          "id": "00",
+          "name": "00",
+          "years": [
+            2023
+          ]
+        },
+        {
           "id": "teaminfinity",
           "name": "Team Infinity",
+          "years": [
+            2021
+          ]
+        },
+        {
+          "id": "ntc",
+          "name": "NTC",
           "years": [
             2021
           ]
@@ -3831,8 +3867,22 @@ window.HBSTV_PLAYER_INDEX = {
           ]
         },
         {
+          "id": "ntc",
+          "name": "NTC",
+          "years": [
+            2021
+          ]
+        },
+        {
           "id": "pentaesports",
           "name": "PENTA eSports",
+          "years": [
+            2020
+          ]
+        },
+        {
+          "id": "sy",
+          "name": "SY",
           "years": [
             2020
           ]
@@ -4040,6 +4090,13 @@ window.HBSTV_PLAYER_INDEX = {
           "name": "SX",
           "years": [
             2025
+          ]
+        },
+        {
+          "id": "ntc",
+          "name": "NTC",
+          "years": [
+            2021
           ]
         }
       ],
@@ -4466,6 +4523,20 @@ window.HBSTV_PLAYER_INDEX = {
           ]
         },
         {
+          "id": "pure",
+          "name": "PURE",
+          "years": [
+            2023
+          ]
+        },
+        {
+          "id": "00",
+          "name": "00",
+          "years": [
+            2023
+          ]
+        },
+        {
           "id": "stompatopteam",
           "name": "STOMPA TOP TEAM",
           "years": [
@@ -4610,6 +4681,13 @@ window.HBSTV_PLAYER_INDEX = {
         {
           "id": "gt2023",
           "name": "GT 2023",
+          "years": [
+            2023
+          ]
+        },
+        {
+          "id": "00",
+          "name": "00",
           "years": [
             2023
           ]
@@ -4925,6 +5003,13 @@ window.HBSTV_PLAYER_INDEX = {
           "name": "FENIX",
           "years": [
             2024
+          ]
+        },
+        {
+          "id": "pure",
+          "name": "PURE",
+          "years": [
+            2023
           ]
         }
       ],
@@ -9458,6 +9543,13 @@ window.HBSTV_PLAYER_INDEX = {
           ]
         },
         {
+          "id": "ntc",
+          "name": "NTC",
+          "years": [
+            2021
+          ]
+        },
+        {
           "id": "pentaesports",
           "name": "PENTA eSports",
           "years": [
@@ -10073,8 +10165,29 @@ window.HBSTV_PLAYER_INDEX = {
       "realNames": [],
       "teams": [
         {
+          "id": "pure",
+          "name": "PURE",
+          "years": [
+            2023
+          ]
+        },
+        {
+          "id": "00",
+          "name": "00",
+          "years": [
+            2023
+          ]
+        },
+        {
           "id": "teaminfinity",
           "name": "Team Infinity",
+          "years": [
+            2021
+          ]
+        },
+        {
+          "id": "ntc",
+          "name": "NTC",
           "years": [
             2021
           ]
@@ -10084,6 +10197,34 @@ window.HBSTV_PLAYER_INDEX = {
           "name": "PENTA eSports",
           "years": [
             2020
+          ]
+        },
+        {
+          "id": "sy",
+          "name": "SY",
+          "years": [
+            2020
+          ]
+        },
+        {
+          "id": "thunderzgaming",
+          "name": "THUNDERZ GAMING",
+          "years": [
+            2019
+          ]
+        },
+        {
+          "id": "mouz",
+          "name": "MOUZ",
+          "years": [
+            2019
+          ]
+        },
+        {
+          "id": "ak",
+          "name": "AK",
+          "years": [
+            2019
           ]
         }
       ],
@@ -10368,8 +10509,29 @@ window.HBSTV_PLAYER_INDEX = {
           ]
         },
         {
+          "id": "pure",
+          "name": "PURE",
+          "years": [
+            2023
+          ]
+        },
+        {
+          "id": "00",
+          "name": "00",
+          "years": [
+            2023
+          ]
+        },
+        {
           "id": "teaminfinity",
           "name": "Team Infinity",
+          "years": [
+            2021
+          ]
+        },
+        {
+          "id": "ntc",
+          "name": "NTC",
           "years": [
             2021
           ]
@@ -11147,6 +11309,27 @@ window.HBSTV_PLAYER_INDEX = {
           "name": "Vissionary",
           "years": [
             2024
+          ]
+        },
+        {
+          "id": "pure",
+          "name": "PURE",
+          "years": [
+            2023
+          ]
+        },
+        {
+          "id": "00",
+          "name": "00",
+          "years": [
+            2023
+          ]
+        },
+        {
+          "id": "mouz",
+          "name": "MOUZ",
+          "years": [
+            2019
           ]
         }
       ],
@@ -13195,6 +13378,13 @@ window.HBSTV_PLAYER_INDEX = {
         {
           "id": "teaminfinity",
           "name": "Team Infinity",
+          "years": [
+            2021
+          ]
+        },
+        {
+          "id": "ntc",
+          "name": "NTC",
           "years": [
             2021
           ]

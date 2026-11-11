@@ -9108,6 +9108,78 @@ window.HBSTV_TEAMS = [
     "searchAliases": []
   },
   {
+    "id": "00",
+    "name": "00",
+    "aliases": [
+      "00"
+    ],
+    "titles": [],
+    "members": [
+      {
+        "id": "conjure",
+        "name": "c0njure",
+        "years": [
+          2023
+        ],
+        "sources": [
+          "Passagem registrada no Hall of Fame. Temporada da equipe confirmada pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "hardzera",
+        "name": "Hardzera",
+        "years": [
+          2023
+        ],
+        "sources": [
+          "Passagem registrada no Hall of Fame. Temporada da equipe confirmada pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "helix",
+        "name": "Helix",
+        "years": [
+          2023
+        ],
+        "sources": [
+          "Passagem registrada no Hall of Fame. Temporada da equipe confirmada pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "scream",
+        "name": "ScreaM",
+        "years": [
+          2023
+        ],
+        "sources": [
+          "Passagem registrada no Hall of Fame. Temporada da equipe confirmada pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "shelzz",
+        "name": "ShelzZ",
+        "years": [
+          2023
+        ],
+        "sources": [
+          "Passagem registrada no Hall of Fame. Temporada da equipe confirmada pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "tabsenn",
+        "name": "tabsenn",
+        "years": [
+          2023
+        ],
+        "sources": [
+          "Passagem registrada no Hall of Fame. Temporada da equipe confirmada pelo responsável pelo site."
+        ]
+      }
+    ],
+    "rankings": [],
+    "searchAliases": []
+  },
+  {
     "id": "ae",
     "name": "AE",
     "aliases": [
@@ -9130,6 +9202,28 @@ window.HBSTV_TEAMS = [
         "h": 0.15300546448087432
       }
     },
+    "searchAliases": []
+  },
+  {
+    "id": "ak",
+    "name": "AK",
+    "aliases": [
+      "AK"
+    ],
+    "titles": [],
+    "members": [
+      {
+        "id": "scream",
+        "name": "ScreaM",
+        "years": [
+          2019
+        ],
+        "sources": [
+          "Passagem registrada no Hall of Fame. Temporada da equipe confirmada pelo responsável pelo site."
+        ]
+      }
+    ],
+    "rankings": [],
     "searchAliases": []
   },
   {
@@ -9297,6 +9391,129 @@ window.HBSTV_TEAMS = [
     "searchAliases": []
   },
   {
+    "id": "mouz",
+    "name": "MOUZ",
+    "aliases": [
+      "MOUZ"
+    ],
+    "titles": [],
+    "members": [
+      {
+        "id": "scream",
+        "name": "ScreaM",
+        "years": [
+          2019
+        ],
+        "sources": [
+          "Passagem registrada no Hall of Fame. Temporada da equipe confirmada pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "tabsenn",
+        "name": "tabsenn",
+        "years": [
+          2019
+        ],
+        "sources": [
+          "Passagem registrada no Hall of Fame. Temporada da equipe confirmada pelo responsável pelo site."
+        ]
+      }
+    ],
+    "rankings": [],
+    "searchAliases": []
+  },
+  {
+    "id": "ntc",
+    "name": "NTC",
+    "aliases": [
+      "NTC"
+    ],
+    "titles": [],
+    "members": [
+      {
+        "id": "conjure",
+        "name": "c0njure",
+        "years": [
+          2021
+        ],
+        "sources": [
+          "Passagem registrada no Hall of Fame. Temporada da equipe confirmada pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "fugly",
+        "name": "FugLY",
+        "years": [
+          2021
+        ],
+        "sources": [
+          "Passagem registrada no Hall of Fame. Temporada da equipe confirmada pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "gah",
+        "name": "Gah",
+        "years": [
+          2021
+        ],
+        "sources": [
+          "Passagem registrada no Hall of Fame. Temporada da equipe confirmada pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "ryota",
+        "name": "ry0ta",
+        "years": [
+          2021
+        ],
+        "sources": [
+          "Passagem registrada no Hall of Fame. Temporada da equipe confirmada pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "scream",
+        "name": "ScreaM",
+        "years": [
+          2021
+        ],
+        "sources": [
+          "Passagem registrada no Hall of Fame. Temporada da equipe confirmada pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "shelzz",
+        "name": "ShelzZ",
+        "years": [
+          2021
+        ],
+        "sources": [
+          "Passagem registrada no Hall of Fame. Temporada da equipe confirmada pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "zenn",
+        "name": "zenn",
+        "years": [
+          2021
+        ],
+        "sources": [
+          "Passagem registrada no Hall of Fame. Temporada da equipe confirmada pelo responsável pelo site."
+        ]
+      }
+    ],
+    "rankings": [],
+    "searchAliases": [],
+    "logo": {
+      "src": "assets/ntc-logo.svg",
+      "crop": {
+        "x": 0,
+        "y": 0,
+        "w": 1,
+        "h": 1
+      }
+    }
+  },
+  {
     "id": "primeirocomando",
     "name": "PRIMEIRO COMANDO",
     "aliases": [
@@ -9322,6 +9539,78 @@ window.HBSTV_TEAMS = [
     "searchAliases": [
       "pc"
     ]
+  },
+  {
+    "id": "pure",
+    "name": "PURE",
+    "aliases": [
+      "PURE"
+    ],
+    "titles": [],
+    "members": [
+      {
+        "id": "conjure",
+        "name": "c0njure",
+        "years": [
+          2023
+        ],
+        "sources": [
+          "Passagem registrada no Hall of Fame. Temporada da equipe confirmada pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "hardzera",
+        "name": "Hardzera",
+        "years": [
+          2023
+        ],
+        "sources": [
+          "Passagem registrada no Hall of Fame. Temporada da equipe confirmada pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "insani",
+        "name": "Insani",
+        "years": [
+          2023
+        ],
+        "sources": [
+          "Passagem registrada no Hall of Fame. Temporada da equipe confirmada pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "scream",
+        "name": "ScreaM",
+        "years": [
+          2023
+        ],
+        "sources": [
+          "Passagem registrada no Hall of Fame. Temporada da equipe confirmada pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "shelzz",
+        "name": "ShelzZ",
+        "years": [
+          2023
+        ],
+        "sources": [
+          "Passagem registrada no Hall of Fame. Temporada da equipe confirmada pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "tabsenn",
+        "name": "tabsenn",
+        "years": [
+          2023
+        ],
+        "sources": [
+          "Passagem registrada no Hall of Fame. Temporada da equipe confirmada pelo responsável pelo site."
+        ]
+      }
+    ],
+    "rankings": [],
+    "searchAliases": []
   },
   {
     "id": "pyro",
@@ -9552,13 +9841,76 @@ window.HBSTV_TEAMS = [
     ]
   },
   {
+    "id": "sy",
+    "name": "SY",
+    "aliases": [
+      "SY"
+    ],
+    "titles": [],
+    "members": [
+      {
+        "id": "adren",
+        "name": "AdreN",
+        "years": [
+          2020
+        ],
+        "sources": [
+          "Passagem registrada no Hall of Fame. Temporada da equipe confirmada pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "fugly",
+        "name": "FugLY",
+        "years": [
+          2020
+        ],
+        "sources": [
+          "Passagem registrada no Hall of Fame. Temporada da equipe confirmada pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "scream",
+        "name": "ScreaM",
+        "years": [
+          2020
+        ],
+        "sources": [
+          "Passagem registrada no Hall of Fame. Temporada da equipe confirmada pelo responsável pelo site."
+        ]
+      }
+    ],
+    "rankings": [],
+    "searchAliases": []
+  },
+  {
     "id": "thunderzgaming",
     "name": "THUNDERZ GAMING",
     "aliases": [
       "THUNDERZ GAMING"
     ],
     "titles": [],
-    "members": [],
+    "members": [
+      {
+        "id": "aerial",
+        "name": "Aerial",
+        "years": [
+          2019
+        ],
+        "sources": [
+          "Passagem pela THUNDER (TZ) em 2019 confirmada pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "scream",
+        "name": "ScreaM",
+        "years": [
+          2019
+        ],
+        "sources": [
+          "Passagem pela THUNDER (TZ) em 2019 confirmada pelo responsável pelo site."
+        ]
+      }
+    ],
     "rankings": [
       {
         "year": 2019,
@@ -9574,7 +9926,10 @@ window.HBSTV_TEAMS = [
         "h": 0.15796897038081806
       }
     },
-    "searchAliases": []
+    "searchAliases": [
+      "thunder",
+      "tz"
+    ]
   },
   {
     "id": "vanguardelite",
