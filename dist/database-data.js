@@ -2158,7 +2158,53 @@ window.HBSTV_DATABASE = {
           ]
         }
       ],
-      "titles": [],
+      "titles": [
+        {
+          "id": "2020:elitestrike",
+          "title": "? | Elite Strike 2020",
+          "year": 2020,
+          "teamId": "vanx",
+          "team": "VANX",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:gseevolutionchampionship",
+          "title": "GSE | Evolution Championship 2020",
+          "year": 2020,
+          "teamId": "vanx",
+          "team": "VANX",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:gsetuescup",
+          "title": "GSE | TUES CUP 2020",
+          "year": 2020,
+          "teamId": "vanx",
+          "team": "VANX",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:suvohloftuscup",
+          "title": "SUVOH | Loftus Cup 2020",
+          "year": 2020,
+          "teamId": "vanx",
+          "team": "VANX",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:tslcbbs40",
+          "title": "TSL | CBBS 4.0 2020",
+          "year": 2020,
+          "teamId": "vanx",
+          "team": "VANX",
+          "major": false,
+          "source": "owner-confirmed"
+        }
+      ],
       "mvps": [],
       "evps": [],
       "rankings": [
@@ -5187,7 +5233,53 @@ window.HBSTV_DATABASE = {
           ]
         }
       ],
-      "titles": [],
+      "titles": [
+        {
+          "id": "2020:elitestrike",
+          "title": "? | Elite Strike 2020",
+          "year": 2020,
+          "teamId": "vanx",
+          "team": "VANX",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:gseevolutionchampionship",
+          "title": "GSE | Evolution Championship 2020",
+          "year": 2020,
+          "teamId": "vanx",
+          "team": "VANX",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:gsetuescup",
+          "title": "GSE | TUES CUP 2020",
+          "year": 2020,
+          "teamId": "vanx",
+          "team": "VANX",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:suvohloftuscup",
+          "title": "SUVOH | Loftus Cup 2020",
+          "year": 2020,
+          "teamId": "vanx",
+          "team": "VANX",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:tslcbbs40",
+          "title": "TSL | CBBS 4.0 2020",
+          "year": 2020,
+          "teamId": "vanx",
+          "team": "VANX",
+          "major": false,
+          "source": "owner-confirmed"
+        }
+      ],
       "mvps": [],
       "evps": [
         {
@@ -10880,6 +10972,51 @@ window.HBSTV_DATABASE = {
           "team": "Chaos",
           "major": false,
           "source": "events-2023"
+        },
+        {
+          "id": "2020:elitestrike",
+          "title": "? | Elite Strike 2020",
+          "year": 2020,
+          "teamId": "vanx",
+          "team": "VANX",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:gseevolutionchampionship",
+          "title": "GSE | Evolution Championship 2020",
+          "year": 2020,
+          "teamId": "vanx",
+          "team": "VANX",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:gsetuescup",
+          "title": "GSE | TUES CUP 2020",
+          "year": 2020,
+          "teamId": "vanx",
+          "team": "VANX",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:suvohloftuscup",
+          "title": "SUVOH | Loftus Cup 2020",
+          "year": 2020,
+          "teamId": "vanx",
+          "team": "VANX",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:tslcbbs40",
+          "title": "TSL | CBBS 4.0 2020",
+          "year": 2020,
+          "teamId": "vanx",
+          "team": "VANX",
+          "major": false,
+          "source": "owner-confirmed"
         }
       ],
       "mvps": [
@@ -14022,15 +14159,15 @@ window.HBSTV_DATABASE = {
           ]
         },
         {
-          "id": "astralis",
-          "name": "ASTRALIS",
+          "id": "vanx",
+          "name": "VANX",
           "years": [
             2020
           ]
         },
         {
-          "id": "vanx",
-          "name": "VANX",
+          "id": "astralis",
+          "name": "ASTRALIS",
           "years": [
             2020
           ]
@@ -14047,6 +14184,24 @@ window.HBSTV_DATABASE = {
           "source": "owner-confirmed"
         },
         {
+          "id": "2020:elitestrike",
+          "title": "? | Elite Strike 2020",
+          "year": 2020,
+          "teamId": "vanx",
+          "team": "VANX",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:gseevolutionchampionship",
+          "title": "GSE | Evolution Championship 2020",
+          "year": 2020,
+          "teamId": "vanx",
+          "team": "VANX",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
           "id": "major:4ed7f41456f8697e77c6",
           "title": "GSE | MAJOR Adrenaline",
           "year": 2020,
@@ -14054,6 +14209,33 @@ window.HBSTV_DATABASE = {
           "team": "ASTRALIS",
           "major": true,
           "source": "major-history"
+        },
+        {
+          "id": "2020:gsetuescup",
+          "title": "GSE | TUES CUP 2020",
+          "year": 2020,
+          "teamId": "vanx",
+          "team": "VANX",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:suvohloftuscup",
+          "title": "SUVOH | Loftus Cup 2020",
+          "year": 2020,
+          "teamId": "vanx",
+          "team": "VANX",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:tslcbbs40",
+          "title": "TSL | CBBS 4.0 2020",
+          "year": 2020,
+          "teamId": "vanx",
+          "team": "VANX",
+          "major": false,
+          "source": "owner-confirmed"
         }
       ],
       "mvps": [],
@@ -15050,7 +15232,53 @@ window.HBSTV_DATABASE = {
           ]
         }
       ],
-      "titles": [],
+      "titles": [
+        {
+          "id": "2020:elitestrike",
+          "title": "? | Elite Strike 2020",
+          "year": 2020,
+          "teamId": "vanx",
+          "team": "VANX",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:gseevolutionchampionship",
+          "title": "GSE | Evolution Championship 2020",
+          "year": 2020,
+          "teamId": "vanx",
+          "team": "VANX",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:gsetuescup",
+          "title": "GSE | TUES CUP 2020",
+          "year": 2020,
+          "teamId": "vanx",
+          "team": "VANX",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:suvohloftuscup",
+          "title": "SUVOH | Loftus Cup 2020",
+          "year": 2020,
+          "teamId": "vanx",
+          "team": "VANX",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:tslcbbs40",
+          "title": "TSL | CBBS 4.0 2020",
+          "year": 2020,
+          "teamId": "vanx",
+          "team": "VANX",
+          "major": false,
+          "source": "owner-confirmed"
+        }
+      ],
       "mvps": [],
       "evps": [],
       "rankings": [
@@ -18564,7 +18792,53 @@ window.HBSTV_DATABASE = {
           ]
         }
       ],
-      "titles": [],
+      "titles": [
+        {
+          "id": "2020:elitestrike",
+          "title": "? | Elite Strike 2020",
+          "year": 2020,
+          "teamId": "vanx",
+          "team": "VANX",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:gseevolutionchampionship",
+          "title": "GSE | Evolution Championship 2020",
+          "year": 2020,
+          "teamId": "vanx",
+          "team": "VANX",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:gsetuescup",
+          "title": "GSE | TUES CUP 2020",
+          "year": 2020,
+          "teamId": "vanx",
+          "team": "VANX",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:suvohloftuscup",
+          "title": "SUVOH | Loftus Cup 2020",
+          "year": 2020,
+          "teamId": "vanx",
+          "team": "VANX",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:tslcbbs40",
+          "title": "TSL | CBBS 4.0 2020",
+          "year": 2020,
+          "teamId": "vanx",
+          "team": "VANX",
+          "major": false,
+          "source": "owner-confirmed"
+        }
+      ],
       "mvps": [],
       "evps": [
         {
@@ -20965,29 +21239,23 @@ window.HBSTV_DATABASE = {
       "winners": [
         "vanx"
       ],
-      "roster": [],
+      "roster": [
+        "oskar",
+        "scuba",
+        "force",
+        "bale",
+        "spinard",
+        "zmat"
+      ],
       "mvps": [],
       "evps": [],
       "sources": [
         "owner-confirmed"
       ],
       "notes": [
-        "Informações confirmadas pelo proprietário do site. Elenco da temporada; escalações individuais por título não especificadas."
+        "Títulos e elenco de 2020 informados pelo responsável pelo site."
       ],
-      "images": [],
-      "rosterReference": {
-        "players": [
-          "bale",
-          "force",
-          "oskar",
-          "scuba",
-          "spinard",
-          "zmat"
-        ],
-        "year": 2020,
-        "source": "Elenco anual da equipe em 2020",
-        "kind": "annual-team"
-      }
+      "images": []
     },
     {
       "id": "2020:acecup",
@@ -21047,29 +21315,23 @@ window.HBSTV_DATABASE = {
       "winners": [
         "vanx"
       ],
-      "roster": [],
+      "roster": [
+        "oskar",
+        "scuba",
+        "force",
+        "bale",
+        "spinard",
+        "zmat"
+      ],
       "mvps": [],
       "evps": [],
       "sources": [
         "owner-confirmed"
       ],
       "notes": [
-        "Informações confirmadas pelo proprietário do site. Elenco da temporada; escalações individuais por título não especificadas."
+        "Títulos e elenco de 2020 informados pelo responsável pelo site."
       ],
-      "images": [],
-      "rosterReference": {
-        "players": [
-          "bale",
-          "force",
-          "oskar",
-          "scuba",
-          "spinard",
-          "zmat"
-        ],
-        "year": 2020,
-        "source": "Elenco anual da equipe em 2020",
-        "kind": "annual-team"
-      }
+      "images": []
     },
     {
       "id": "major:4ed7f41456f8697e77c6",
@@ -21187,29 +21449,23 @@ window.HBSTV_DATABASE = {
       "winners": [
         "vanx"
       ],
-      "roster": [],
+      "roster": [
+        "oskar",
+        "scuba",
+        "force",
+        "bale",
+        "spinard",
+        "zmat"
+      ],
       "mvps": [],
       "evps": [],
       "sources": [
         "owner-confirmed"
       ],
       "notes": [
-        "Informações confirmadas pelo proprietário do site. Elenco da temporada; escalações individuais por título não especificadas."
+        "Títulos e elenco de 2020 informados pelo responsável pelo site."
       ],
-      "images": [],
-      "rosterReference": {
-        "players": [
-          "bale",
-          "force",
-          "oskar",
-          "scuba",
-          "spinard",
-          "zmat"
-        ],
-        "year": 2020,
-        "source": "Elenco anual da equipe em 2020",
-        "kind": "annual-team"
-      }
+      "images": []
     },
     {
       "id": "2020:lcbproleague",
@@ -21300,29 +21556,23 @@ window.HBSTV_DATABASE = {
       "winners": [
         "vanx"
       ],
-      "roster": [],
+      "roster": [
+        "oskar",
+        "scuba",
+        "force",
+        "bale",
+        "spinard",
+        "zmat"
+      ],
       "mvps": [],
       "evps": [],
       "sources": [
         "owner-confirmed"
       ],
       "notes": [
-        "Informações confirmadas pelo proprietário do site. Elenco da temporada; escalações individuais por título não especificadas."
+        "Títulos e elenco de 2020 informados pelo responsável pelo site."
       ],
-      "images": [],
-      "rosterReference": {
-        "players": [
-          "bale",
-          "force",
-          "oskar",
-          "scuba",
-          "spinard",
-          "zmat"
-        ],
-        "year": 2020,
-        "source": "Elenco anual da equipe em 2020",
-        "kind": "annual-team"
-      }
+      "images": []
     },
     {
       "id": "2020:tslcbbs40",
@@ -21333,29 +21583,23 @@ window.HBSTV_DATABASE = {
       "winners": [
         "vanx"
       ],
-      "roster": [],
+      "roster": [
+        "oskar",
+        "scuba",
+        "force",
+        "bale",
+        "spinard",
+        "zmat"
+      ],
       "mvps": [],
       "evps": [],
       "sources": [
         "owner-confirmed"
       ],
       "notes": [
-        "Informações confirmadas pelo proprietário do site. Elenco da temporada; escalações individuais por título não especificadas."
+        "Títulos e elenco de 2020 informados pelo responsável pelo site."
       ],
-      "images": [],
-      "rosterReference": {
-        "players": [
-          "bale",
-          "force",
-          "oskar",
-          "scuba",
-          "spinard",
-          "zmat"
-        ],
-        "year": 2020,
-        "source": "Elenco anual da equipe em 2020",
-        "kind": "annual-team"
-      }
+      "images": []
     },
     {
       "id": "2020:tslmjonircup",
@@ -25122,50 +25366,85 @@ window.HBSTV_DATABASE = {
           "title": "? | Elite Strike 2020",
           "year": 2020,
           "source": "owner-confirmed",
-          "sourceNote": "Informações confirmadas pelo proprietário do site. Elenco da temporada; escalações individuais por título não especificadas.",
+          "sourceNote": "Títulos e elenco de 2020 informados pelo responsável pelo site.",
           "manual": true,
           "major": false,
-          "roster": []
+          "roster": [
+            "Oskar",
+            "Scuba",
+            "Force",
+            "Bale",
+            "SpinarD",
+            "zMAT"
+          ]
         },
         {
           "id": "2020:gseevolutionchampionship",
           "title": "GSE | Evolution Championship 2020",
           "year": 2020,
           "source": "owner-confirmed",
-          "sourceNote": "Informações confirmadas pelo proprietário do site. Elenco da temporada; escalações individuais por título não especificadas.",
+          "sourceNote": "Títulos e elenco de 2020 informados pelo responsável pelo site.",
           "manual": true,
           "major": false,
-          "roster": []
+          "roster": [
+            "Oskar",
+            "Scuba",
+            "Force",
+            "Bale",
+            "SpinarD",
+            "zMAT"
+          ]
         },
         {
           "id": "2020:gsetuescup",
           "title": "GSE | TUES CUP 2020",
           "year": 2020,
           "source": "owner-confirmed",
-          "sourceNote": "Informações confirmadas pelo proprietário do site. Elenco da temporada; escalações individuais por título não especificadas.",
+          "sourceNote": "Títulos e elenco de 2020 informados pelo responsável pelo site.",
           "manual": true,
           "major": false,
-          "roster": []
+          "roster": [
+            "Oskar",
+            "Scuba",
+            "Force",
+            "Bale",
+            "SpinarD",
+            "zMAT"
+          ]
         },
         {
           "id": "2020:suvohloftuscup",
           "title": "SUVOH | Loftus Cup 2020",
           "year": 2020,
           "source": "owner-confirmed",
-          "sourceNote": "Informações confirmadas pelo proprietário do site. Elenco da temporada; escalações individuais por título não especificadas.",
+          "sourceNote": "Títulos e elenco de 2020 informados pelo responsável pelo site.",
           "manual": true,
           "major": false,
-          "roster": []
+          "roster": [
+            "Oskar",
+            "Scuba",
+            "Force",
+            "Bale",
+            "SpinarD",
+            "zMAT"
+          ]
         },
         {
           "id": "2020:tslcbbs40",
           "title": "TSL | CBBS 4.0 2020",
           "year": 2020,
           "source": "owner-confirmed",
-          "sourceNote": "Informações confirmadas pelo proprietário do site. Elenco da temporada; escalações individuais por título não especificadas.",
+          "sourceNote": "Títulos e elenco de 2020 informados pelo responsável pelo site.",
           "manual": true,
           "major": false,
-          "roster": []
+          "roster": [
+            "Oskar",
+            "Scuba",
+            "Force",
+            "Bale",
+            "SpinarD",
+            "zMAT"
+          ]
         }
       ],
       "members": [
@@ -25176,7 +25455,7 @@ window.HBSTV_DATABASE = {
             2020
           ],
           "sources": [
-            "Informações confirmadas pelo proprietário do site. Elenco da temporada; escalações individuais por título não especificadas."
+            "Títulos e elenco de 2020 informados pelo responsável pelo site."
           ]
         },
         {
@@ -25186,7 +25465,7 @@ window.HBSTV_DATABASE = {
             2020
           ],
           "sources": [
-            "Informações confirmadas pelo proprietário do site. Elenco da temporada; escalações individuais por título não especificadas."
+            "Títulos e elenco de 2020 informados pelo responsável pelo site."
           ]
         },
         {
@@ -25196,7 +25475,7 @@ window.HBSTV_DATABASE = {
             2020
           ],
           "sources": [
-            "Informações confirmadas pelo proprietário do site. Elenco da temporada; escalações individuais por título não especificadas."
+            "Títulos e elenco de 2020 informados pelo responsável pelo site."
           ]
         },
         {
@@ -25206,7 +25485,7 @@ window.HBSTV_DATABASE = {
             2020
           ],
           "sources": [
-            "Informações confirmadas pelo proprietário do site. Elenco da temporada; escalações individuais por título não especificadas."
+            "Títulos e elenco de 2020 informados pelo responsável pelo site."
           ]
         },
         {
@@ -25216,7 +25495,7 @@ window.HBSTV_DATABASE = {
             2020
           ],
           "sources": [
-            "Informações confirmadas pelo proprietário do site. Elenco da temporada; escalações individuais por título não especificadas."
+            "Títulos e elenco de 2020 informados pelo responsável pelo site."
           ]
         },
         {
@@ -25226,7 +25505,7 @@ window.HBSTV_DATABASE = {
             2020
           ],
           "sources": [
-            "Informações confirmadas pelo proprietário do site. Elenco da temporada; escalações individuais por título não especificadas."
+            "Títulos e elenco de 2020 informados pelo responsável pelo site."
           ]
         }
       ],

@@ -3060,50 +3060,85 @@ window.HBSTV_TEAMS = [
         "title": "? | Elite Strike 2020",
         "year": 2020,
         "source": "owner-confirmed",
-        "sourceNote": "Informações confirmadas pelo proprietário do site. Elenco da temporada; escalações individuais por título não especificadas.",
+        "sourceNote": "Títulos e elenco de 2020 informados pelo responsável pelo site.",
         "manual": true,
         "major": false,
-        "roster": []
+        "roster": [
+          "Oskar",
+          "Scuba",
+          "Force",
+          "Bale",
+          "SpinarD",
+          "zMAT"
+        ]
       },
       {
         "id": "2020:gseevolutionchampionship",
         "title": "GSE | Evolution Championship 2020",
         "year": 2020,
         "source": "owner-confirmed",
-        "sourceNote": "Informações confirmadas pelo proprietário do site. Elenco da temporada; escalações individuais por título não especificadas.",
+        "sourceNote": "Títulos e elenco de 2020 informados pelo responsável pelo site.",
         "manual": true,
         "major": false,
-        "roster": []
+        "roster": [
+          "Oskar",
+          "Scuba",
+          "Force",
+          "Bale",
+          "SpinarD",
+          "zMAT"
+        ]
       },
       {
         "id": "2020:gsetuescup",
         "title": "GSE | TUES CUP 2020",
         "year": 2020,
         "source": "owner-confirmed",
-        "sourceNote": "Informações confirmadas pelo proprietário do site. Elenco da temporada; escalações individuais por título não especificadas.",
+        "sourceNote": "Títulos e elenco de 2020 informados pelo responsável pelo site.",
         "manual": true,
         "major": false,
-        "roster": []
+        "roster": [
+          "Oskar",
+          "Scuba",
+          "Force",
+          "Bale",
+          "SpinarD",
+          "zMAT"
+        ]
       },
       {
         "id": "2020:suvohloftuscup",
         "title": "SUVOH | Loftus Cup 2020",
         "year": 2020,
         "source": "owner-confirmed",
-        "sourceNote": "Informações confirmadas pelo proprietário do site. Elenco da temporada; escalações individuais por título não especificadas.",
+        "sourceNote": "Títulos e elenco de 2020 informados pelo responsável pelo site.",
         "manual": true,
         "major": false,
-        "roster": []
+        "roster": [
+          "Oskar",
+          "Scuba",
+          "Force",
+          "Bale",
+          "SpinarD",
+          "zMAT"
+        ]
       },
       {
         "id": "2020:tslcbbs40",
         "title": "TSL | CBBS 4.0 2020",
         "year": 2020,
         "source": "owner-confirmed",
-        "sourceNote": "Informações confirmadas pelo proprietário do site. Elenco da temporada; escalações individuais por título não especificadas.",
+        "sourceNote": "Títulos e elenco de 2020 informados pelo responsável pelo site.",
         "manual": true,
         "major": false,
-        "roster": []
+        "roster": [
+          "Oskar",
+          "Scuba",
+          "Force",
+          "Bale",
+          "SpinarD",
+          "zMAT"
+        ]
       }
     ],
     "members": [
@@ -3114,7 +3149,7 @@ window.HBSTV_TEAMS = [
           2020
         ],
         "sources": [
-          "Informações confirmadas pelo proprietário do site. Elenco da temporada; escalações individuais por título não especificadas."
+          "Títulos e elenco de 2020 informados pelo responsável pelo site."
         ]
       },
       {
@@ -3124,7 +3159,7 @@ window.HBSTV_TEAMS = [
           2020
         ],
         "sources": [
-          "Informações confirmadas pelo proprietário do site. Elenco da temporada; escalações individuais por título não especificadas."
+          "Títulos e elenco de 2020 informados pelo responsável pelo site."
         ]
       },
       {
@@ -3134,7 +3169,7 @@ window.HBSTV_TEAMS = [
           2020
         ],
         "sources": [
-          "Informações confirmadas pelo proprietário do site. Elenco da temporada; escalações individuais por título não especificadas."
+          "Títulos e elenco de 2020 informados pelo responsável pelo site."
         ]
       },
       {
@@ -3144,7 +3179,7 @@ window.HBSTV_TEAMS = [
           2020
         ],
         "sources": [
-          "Informações confirmadas pelo proprietário do site. Elenco da temporada; escalações individuais por título não especificadas."
+          "Títulos e elenco de 2020 informados pelo responsável pelo site."
         ]
       },
       {
@@ -3154,7 +3189,7 @@ window.HBSTV_TEAMS = [
           2020
         ],
         "sources": [
-          "Informações confirmadas pelo proprietário do site. Elenco da temporada; escalações individuais por título não especificadas."
+          "Títulos e elenco de 2020 informados pelo responsável pelo site."
         ]
       },
       {
@@ -3164,7 +3199,7 @@ window.HBSTV_TEAMS = [
           2020
         ],
         "sources": [
-          "Informações confirmadas pelo proprietário do site. Elenco da temporada; escalações individuais por título não especificadas."
+          "Títulos e elenco de 2020 informados pelo responsável pelo site."
         ]
       }
     ],

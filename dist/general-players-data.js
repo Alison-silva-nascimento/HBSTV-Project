@@ -1533,7 +1533,53 @@ window.HBSTV_PLAYER_INDEX = {
           ]
         }
       ],
-      "titles": [],
+      "titles": [
+        {
+          "id": "2020:elitestrike",
+          "title": "? | Elite Strike 2020",
+          "year": 2020,
+          "teamId": "vanx",
+          "team": "VANX",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:gseevolutionchampionship",
+          "title": "GSE | Evolution Championship 2020",
+          "year": 2020,
+          "teamId": "vanx",
+          "team": "VANX",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:gsetuescup",
+          "title": "GSE | TUES CUP 2020",
+          "year": 2020,
+          "teamId": "vanx",
+          "team": "VANX",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:suvohloftuscup",
+          "title": "SUVOH | Loftus Cup 2020",
+          "year": 2020,
+          "teamId": "vanx",
+          "team": "VANX",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:tslcbbs40",
+          "title": "TSL | CBBS 4.0 2020",
+          "year": 2020,
+          "teamId": "vanx",
+          "team": "VANX",
+          "major": false,
+          "source": "owner-confirmed"
+        }
+      ],
       "mvps": [],
       "evps": [],
       "rankings": [
@@ -3832,7 +3878,53 @@ window.HBSTV_PLAYER_INDEX = {
           ]
         }
       ],
-      "titles": [],
+      "titles": [
+        {
+          "id": "2020:elitestrike",
+          "title": "? | Elite Strike 2020",
+          "year": 2020,
+          "teamId": "vanx",
+          "team": "VANX",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:gseevolutionchampionship",
+          "title": "GSE | Evolution Championship 2020",
+          "year": 2020,
+          "teamId": "vanx",
+          "team": "VANX",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:gsetuescup",
+          "title": "GSE | TUES CUP 2020",
+          "year": 2020,
+          "teamId": "vanx",
+          "team": "VANX",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:suvohloftuscup",
+          "title": "SUVOH | Loftus Cup 2020",
+          "year": 2020,
+          "teamId": "vanx",
+          "team": "VANX",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:tslcbbs40",
+          "title": "TSL | CBBS 4.0 2020",
+          "year": 2020,
+          "teamId": "vanx",
+          "team": "VANX",
+          "major": false,
+          "source": "owner-confirmed"
+        }
+      ],
       "mvps": [],
       "evps": [
         {
@@ -8173,6 +8265,51 @@ window.HBSTV_PLAYER_INDEX = {
           "team": "Chaos",
           "major": false,
           "source": "events-2023"
+        },
+        {
+          "id": "2020:elitestrike",
+          "title": "? | Elite Strike 2020",
+          "year": 2020,
+          "teamId": "vanx",
+          "team": "VANX",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:gseevolutionchampionship",
+          "title": "GSE | Evolution Championship 2020",
+          "year": 2020,
+          "teamId": "vanx",
+          "team": "VANX",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:gsetuescup",
+          "title": "GSE | TUES CUP 2020",
+          "year": 2020,
+          "teamId": "vanx",
+          "team": "VANX",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:suvohloftuscup",
+          "title": "SUVOH | Loftus Cup 2020",
+          "year": 2020,
+          "teamId": "vanx",
+          "team": "VANX",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:tslcbbs40",
+          "title": "TSL | CBBS 4.0 2020",
+          "year": 2020,
+          "teamId": "vanx",
+          "team": "VANX",
+          "major": false,
+          "source": "owner-confirmed"
         }
       ],
       "mvps": [
@@ -10371,15 +10508,15 @@ window.HBSTV_PLAYER_INDEX = {
           ]
         },
         {
-          "id": "astralis",
-          "name": "ASTRALIS",
+          "id": "vanx",
+          "name": "VANX",
           "years": [
             2020
           ]
         },
         {
-          "id": "vanx",
-          "name": "VANX",
+          "id": "astralis",
+          "name": "ASTRALIS",
           "years": [
             2020
           ]
@@ -10392,6 +10529,51 @@ window.HBSTV_PLAYER_INDEX = {
           "year": 2023,
           "teamId": "pure",
           "team": "PURE",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:elitestrike",
+          "title": "? | Elite Strike 2020",
+          "year": 2020,
+          "teamId": "vanx",
+          "team": "VANX",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:gseevolutionchampionship",
+          "title": "GSE | Evolution Championship 2020",
+          "year": 2020,
+          "teamId": "vanx",
+          "team": "VANX",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:gsetuescup",
+          "title": "GSE | TUES CUP 2020",
+          "year": 2020,
+          "teamId": "vanx",
+          "team": "VANX",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:suvohloftuscup",
+          "title": "SUVOH | Loftus Cup 2020",
+          "year": 2020,
+          "teamId": "vanx",
+          "team": "VANX",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:tslcbbs40",
+          "title": "TSL | CBBS 4.0 2020",
+          "year": 2020,
+          "teamId": "vanx",
+          "team": "VANX",
           "major": false,
           "source": "owner-confirmed"
         },
@@ -11013,7 +11195,53 @@ window.HBSTV_PLAYER_INDEX = {
           ]
         }
       ],
-      "titles": [],
+      "titles": [
+        {
+          "id": "2020:elitestrike",
+          "title": "? | Elite Strike 2020",
+          "year": 2020,
+          "teamId": "vanx",
+          "team": "VANX",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:gseevolutionchampionship",
+          "title": "GSE | Evolution Championship 2020",
+          "year": 2020,
+          "teamId": "vanx",
+          "team": "VANX",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:gsetuescup",
+          "title": "GSE | TUES CUP 2020",
+          "year": 2020,
+          "teamId": "vanx",
+          "team": "VANX",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:suvohloftuscup",
+          "title": "SUVOH | Loftus Cup 2020",
+          "year": 2020,
+          "teamId": "vanx",
+          "team": "VANX",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:tslcbbs40",
+          "title": "TSL | CBBS 4.0 2020",
+          "year": 2020,
+          "teamId": "vanx",
+          "team": "VANX",
+          "major": false,
+          "source": "owner-confirmed"
+        }
+      ],
       "mvps": [],
       "evps": [],
       "rankings": [
@@ -13626,7 +13854,53 @@ window.HBSTV_PLAYER_INDEX = {
           ]
         }
       ],
-      "titles": [],
+      "titles": [
+        {
+          "id": "2020:elitestrike",
+          "title": "? | Elite Strike 2020",
+          "year": 2020,
+          "teamId": "vanx",
+          "team": "VANX",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:gseevolutionchampionship",
+          "title": "GSE | Evolution Championship 2020",
+          "year": 2020,
+          "teamId": "vanx",
+          "team": "VANX",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:gsetuescup",
+          "title": "GSE | TUES CUP 2020",
+          "year": 2020,
+          "teamId": "vanx",
+          "team": "VANX",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:suvohloftuscup",
+          "title": "SUVOH | Loftus Cup 2020",
+          "year": 2020,
+          "teamId": "vanx",
+          "team": "VANX",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:tslcbbs40",
+          "title": "TSL | CBBS 4.0 2020",
+          "year": 2020,
+          "teamId": "vanx",
+          "team": "VANX",
+          "major": false,
+          "source": "owner-confirmed"
+        }
+      ],
       "mvps": [],
       "evps": [
         {
