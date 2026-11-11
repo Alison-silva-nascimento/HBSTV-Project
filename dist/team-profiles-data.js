@@ -2821,7 +2821,16 @@ window.HBSTV_TEAMS = [
       }
     ],
     "rankings": [],
-    "searchAliases": []
+    "searchAliases": [],
+    "logo": {
+      "src": "assets/d2w-logo.png",
+      "crop": {
+        "x": 0,
+        "y": 0,
+        "w": 1,
+        "h": 1
+      }
+    }
   },
   {
     "id": "teaminfinity",
