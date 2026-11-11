@@ -23,25 +23,53 @@ function winnerSearchText(record) {
   }
   return normalize(names.join(' ')).replace(/[^a-z0-9]+/g, ' ');
 }
+function awardIdentity(record) {
+  const label = winnerName(record);
+  const nick = label.match(/[“"]([^”"]+)[”"]/)?.[1] || label;
+  const winner = window.HBSTV?.key(nick) || identityKey(nick);
+  return [record.year, record.category, winner].join('|');
+}
+function combinedRecords() {
+  if (state.group !== 'all') return eligible();
+  const official = new Map();
+  for (const record of records.filter(record => record.group !== 'history')) {
+    const key = awardIdentity(record);
+    const candidates = official.get(key) || [];
+    candidates.push(record);
+    official.set(key, candidates);
+  }
+  const historyById = new Map();
+  const duplicates = new Set();
+  for (const record of records.filter(record => record.group === 'history')) {
+    const candidates = official.get(awardIdentity(record));
+    if (candidates?.length !== 1) continue;
+    historyById.set(candidates[0].id, record);
+    duplicates.add(record.id);
+  }
+  return records.filter(record => !duplicates.has(record.id)).map(record => {
+    const history = historyById.get(record.id);
+    return history ? {...record, history} : record;
+  });
+}
 function selected() {
   const terms = normalize(state.query).split(/[^a-z0-9]+/).filter(Boolean);
-  return eligible().filter(record =>
+  return combinedRecords().filter(record =>
     (!state.year || String(record.year) === state.year) &&
     (!state.category || record.category === state.category) &&
-    (!terms.length || terms.every(term => winnerSearchText(record).includes(term))));
+    (!terms.length || terms.every(term => [winnerSearchText(record), record.history ? winnerSearchText(record.history) : ''].join(' ').includes(term))));
 }
 function source(r){return r.sourceImage?`<button class="award-source" data-award-source="${r.id}" aria-label="Conferir arte: ${esc(r.category)}, ${r.year}">Conferir arte ↗</button>`:'<span class="award-text-source">Registro textual</span>';}
-function row(r){return `<tr><td><strong class="award-category-name">${esc(r.category)}</strong>${r.originalCategory&&normalize(r.originalCategory)!==normalize(r.category)?`<small class="award-original-label">Na arte: ${esc(r.originalCategory)}</small>`:''}</td><td><strong class="award-winner">${esc(winnerName(r))}</strong>${r.placements?`<details class="award-vote"><summary>Votação pública · ${r.placements[0].votes} votos</summary><ol>${r.placements.map(p=>`<li><span>${p.position}. ${esc(p.name)}</span><b>${p.votes} votos</b></li>`).join('')}</ol></details>`:''}${r.note&&!r.placements?`<details class="award-note"><summary>Observação da fonte</summary><p>${esc(r.note)}</p></details>`:''}</td><td><span class="award-series">${esc(r.series)}</span>${source(r)}</td></tr>`;}
+function row(r){return `<tr data-award-id="${esc(r.id)}"><td><strong class="award-category-name">${esc(r.category)}</strong>${r.originalCategory&&normalize(r.originalCategory)!==normalize(r.category)?`<small class="award-original-label">Na arte: ${esc(r.originalCategory)}</small>`:''}</td><td><strong class="award-winner">${esc(winnerName(r))}</strong>${r.placements?`<details class="award-vote"><summary>Votação pública · ${r.placements[0].votes} votos</summary><ol>${r.placements.map(p=>`<li><span>${p.position}. ${esc(p.name)}</span><b>${p.votes} votos</b></li>`).join('')}</ol></details>`:''}${r.note&&!r.placements?`<details class="award-note"><summary>Observação da fonte</summary><p>${esc(r.note)}</p></details>`:''}</td><td><span class="award-series">${esc(r.series)}</span>${source(r)}${r.history?'<small class="award-original-label">Também registrado em STATS AWARDS</small>':''}</td></tr>`;}
 function renderResults(){const host=document.querySelector('#awards-results');if(!host)return;const list=selected();document.querySelector('#awards-count').textContent=`${list.length} ${list.length===1?'REGISTRO':'REGISTROS'}`;const years=[...new Set(list.map(r=>r.year))].sort((a,b)=>b-a);host.innerHTML=list.length?years.map(year=>{const rows=list.filter(r=>r.year===year);return `<section class="awards-year" aria-label="Premiações ${year}"><div class="awards-year-title"><h3>${year}</h3><span>${rows.length} ${rows.length===1?'REGISTRO':'REGISTROS'}</span></div><div class="awards-table-wrap"><table class="awards-table"><caption class="sr-only">Categorias e vencedores de ${year}</caption><thead><tr><th scope="col">Categoria</th><th scope="col">Vencedor</th><th scope="col">Premiação / fonte</th></tr></thead><tbody>${rows.map(row).join('')}</tbody></table></div></section>`;}).join(''):'<div class="empty"><p>Nenhum vencedor corresponde aos filtros.</p><button data-awards-reset>Limpar filtros</button></div>';}
 function groupButtons(){return ['all','awards','legacy','history'].map(group=>`<button data-award-group="${group}" class="${group===state.group?'active':''}" aria-pressed="${group===state.group}">${group==='awards'?'Awards':group==='legacy'?'GSE / AK de Ouro':group==='history'?'Histórico textual':'Todas'}</button>`).join('');}
 function renderFilters(){const base=eligible(),year=document.querySelector('#awards-year'),category=document.querySelector('#awards-category');year.innerHTML='<option value="">Todos os anos</option>'+[...new Set(base.map(r=>r.year))].sort((a,b)=>b-a).map(y=>`<option value="${y}" ${String(y)===state.year?'selected':''}>${y}</option>`).join('');category.innerHTML='<option value="">Todas as categorias</option>'+[...new Set(base.map(r=>r.category))].sort((a,b)=>a.localeCompare(b,'pt-BR')).map(c=>`<option value="${esc(c)}" ${c===state.category?'selected':''}>${esc(c)}</option>`).join('');}
 window.renderAwardsScreen=slug=>{
  if(!['awards','ak-de-ouro-awards'].includes(slug))return false;
  if(lastSlug!==slug){state={group:slug==='ak-de-ouro-awards'?'legacy':'all',year:'',category:'',query:''};lastSlug=slug;}
- const host=document.querySelector('#archive-reader');host.innerHTML=`<div class="reader-toolbar"><a href="#acervo" class="back-link">← Todas as coleções</a><a href="https://ranksorg.godaddysites.com/${slug}" target="_blank" rel="noopener">Fonte original ↗</a></div><div class="awards-header"><div><span class="eyebrow">O RECONHECIMENTO DE CADA ERA</span><h2>Awards<span>.</span></h2><p>Os melhores do ano. Categorias, vencedores e conquistas, agora em texto.</p></div><div class="awards-header-count"><b>2017 — 2025</b><span>HISTÓRICO DE PREMIAÇÕES</span></div></div><div class="award-group-tabs" role="group" aria-label="Selecionar premiação">${groupButtons()}</div><p class="awards-context" id="awards-context"></p><div class="awards-filters"><label>Ano<select id="awards-year" aria-label="Filtrar premiações por ano"></select></label><label>Categoria<select id="awards-category" aria-label="Filtrar premiações por categoria"></select></label><label class="awards-search">Buscar vencedor<input id="awards-query" type="search" placeholder="Nome, nick ou equipe…" value="${esc(state.query)}" aria-label="Buscar vencedor das premiações"></label></div><div class="awards-results-label"><h3 id="awards-series-title">${esc(names[state.group])}</h3><span id="awards-count"></span></div><div id="awards-results" aria-live="polite"></div><p class="awards-footnote">Nomes transcritos das artes originais. O resumo histórico foi mantido separado porque pode apresentar diferenças. As imagens ficam disponíveis apenas para conferência.</p>`;
+ const host=document.querySelector('#archive-reader');host.innerHTML=`<div class="reader-toolbar"><a href="#acervo" class="back-link">← Todas as coleções</a><a href="https://ranksorg.godaddysites.com/${slug}" target="_blank" rel="noopener">Fonte original ↗</a></div><div class="awards-header"><div><span class="eyebrow">O RECONHECIMENTO DE CADA ERA</span><h2>Awards<span>.</span></h2><p>Os melhores do ano. Categorias, vencedores e conquistas, agora em texto.</p></div><div class="awards-header-count"><b>2017 — 2025</b><span>HISTÓRICO DE PREMIAÇÕES</span></div></div><div class="award-group-tabs" role="group" aria-label="Selecionar premiação">${groupButtons()}</div><p class="awards-context" id="awards-context"></p><div class="awards-filters"><label>Ano<select id="awards-year" aria-label="Filtrar premiações por ano"></select></label><label>Categoria<select id="awards-category" aria-label="Filtrar premiações por categoria"></select></label><label class="awards-search">Buscar vencedor<input id="awards-query" type="search" placeholder="Nome, nick ou equipe…" value="${esc(state.query)}" aria-label="Buscar vencedor das premiações"></label></div><div class="awards-results-label"><h3 id="awards-series-title">${esc(names[state.group])}</h3><span id="awards-count"></span></div><div id="awards-results" aria-live="polite"></div><p class="awards-footnote">Nomes transcritos das artes originais. Resultados divergentes entre fontes aparecem em linhas separadas. As imagens ficam disponíveis apenas para conferência.</p>`;
  renderFilters();renderContext();renderResults();document.title='Awards — RANK S';return true;
 };
-function renderContext(){document.querySelector('#awards-context').textContent=state.group==='legacy'?'AK de Ouro: premiação realizada em 2021, reconhecendo os destaques de 2018 a 2021.':state.group==='history'?'Resumo STATS AWARDS do site original. Estes registros textuais são independentes das transcrições das imagens.':state.group==='all'?'Todas as fontes reunidas. Consulte a coluna de premiação para distinguir as edições e os registros históricos.':'BCN Awards 2025 e RANK S Awards 2024 e 2023. Abra as votações para consultar todos os colocados.';}
+function renderContext(){document.querySelector('#awards-context').textContent=state.group==='legacy'?'AK de Ouro: premiação realizada em 2021, reconhecendo os destaques de 2018 a 2021.':state.group==='history'?'Resumo STATS AWARDS do site original. Estes registros textuais são independentes das transcrições das imagens.':state.group==='all'?'Registros da arte e do resumo textual aparecem juntos quando ano, categoria e vencedor coincidem.':'BCN Awards 2025 e RANK S Awards 2024 e 2023. Abra as votações para consultar todos os colocados.';}
 document.addEventListener('click',event=>{const group=event.target.closest('[data-award-group]');if(group){state.group=group.dataset.awardGroup;state.year='';state.category='';document.querySelector('.award-group-tabs').innerHTML=groupButtons();document.querySelector('#awards-series-title').textContent=names[state.group];renderFilters();renderContext();renderResults();}const reset=event.target.closest('[data-awards-reset]');if(reset){state.year='';state.category='';state.query='';document.querySelector('#awards-query').value='';renderFilters();renderResults();}const src=event.target.closest('[data-award-source]');if(src){const r=records.find(r=>r.id===src.dataset.awardSource);if(!r)return;document.querySelector('#detail').classList.add('image-dialog');showDetail(`<h2>${esc(r.category)} · ${r.year}</h2><p>${esc(winnerName(r))} · ${esc(r.series)}</p><img class="full-archive-image" src="${esc(r.sourceImage)}" alt="Arte original: ${esc(r.category)}, ${esc(r.winner)}, ${r.year}">`);}});
 document.addEventListener('change',event=>{if(event.target.id==='awards-year'){state.year=event.target.value;renderResults();}if(event.target.id==='awards-category'){state.category=event.target.value;renderResults();}});
 document.addEventListener('input',event=>{if(event.target.id==='awards-query'){state.query=event.target.value;renderResults();}});

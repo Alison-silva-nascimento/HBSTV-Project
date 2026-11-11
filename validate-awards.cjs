@@ -24,6 +24,11 @@ const context = {
     addEventListener: (type, callback) => { listeners[type] = callback; }
   }
 };
+context.window.RANKS_ARCHIVE = archive;
+const app = fs.readFileSync(path.join(__dirname,'dist','app.js'),'utf8');
+const setup = app.slice(0,app.indexOf('let filter=')).split('\n')
+  .filter(line => !/^const (escapeHtml|normalizeText)=/.test(line)).join('\n');
+vm.runInNewContext(setup,context);
 for (const file of ['general-players-data.js','database-data.js','database.js']) {
   vm.runInNewContext(fs.readFileSync(path.join(__dirname,'dist',file),'utf8'),context);
 }
@@ -36,14 +41,27 @@ const click = (selector, value) => listeners.click({
   target: {closest: candidate => candidate === selector ? value : null}
 });
 assert(context.window.renderAwardsScreen('awards'));
-assert.equal(count(),105);
+assert.equal(count(),80);
+const mergedIds = new Set([...rows().matchAll(/data-award-id="([^"]+)"/g)].map(match => match[1]));
+assert.equal(mergedIds.size,80);
+change('awards-category','Melhor IGL');
+for (const year of [2024,2023,2021,2020,2018]) {
+  change('awards-year',year);
+  assert.equal(count(),1);
+  assert.match(rows(),/Conferir arte/);
+  assert.match(rows(),/Também registrado em STATS AWARDS/);
+}
+change('awards-year',2019);
+assert.equal(count(),2);
+assert.match(rows(),/YODA/i);
+assert.match(rows(),/Amz/i);
 assert.match(element('#awards-year').innerHTML,/2017/);
 assert.match(element('#awards-category').innerHTML,/Melhor jogadora/);
 
 let combinations = 0;
 for (const group of ['all','awards','legacy','history']) {
   click('[data-award-group]',{dataset:{awardGroup:group}});
-  const expected = data.records.filter(row => group === 'all' || row.group === group);
+  const expected = data.records.filter(row => group === 'all' ? mergedIds.has(context.escapeHtml(row.id)) : row.group === group);
   assert.equal(count(),expected.length);
   for (const year of ['',...new Set(expected.map(row=>row.year))]) {
     change('awards-year',year);
@@ -52,28 +70,28 @@ for (const group of ['all','awards','legacy','history']) {
       const matches = expected.filter(row =>
         (!year || row.year === year) && (!category || row.category === category));
       assert.equal(count(),matches.length,JSON.stringify({group,year,category}));
-      assert.equal((rows().match(/<tr><td>/g)||[]).length,matches.length);
+      assert.equal((rows().match(/<tr data-award-id=/g)||[]).length,matches.length);
       combinations++;
     }
   }
 }
 click('[data-award-group]',{dataset:{awardGroup:'all'}});
 change('awards-category','Jogador revelação');
-assert.equal(count(),data.records.filter(row=>row.category==='Jogador revelação').length);
+assert.equal(count(),data.records.filter(row=>mergedIds.has(context.escapeHtml(row.id))&&row.category==='Jogador revelação').length);
 search('fway emerson');
 assert.equal(count(),1);
 assert.match(rows(),/2024/);
 change('awards-category','');
 search('ry0ta');
-assert.match(rows(), /RYOTA/i);
+assert.match(rows(), /RY[O0]TA/i);
 assert.match(rows(), /2019/);
 search('vencedor inexistente');
 assert.equal(count(),0);
 click('[data-awards-reset]',{});
-assert.equal(count(),105);
+assert.equal(count(),80);
 assert.equal(element('#search').value,'consulta da busca global');
 assert(context.window.renderAwardsScreen('ak-de-ouro-awards'));
 assert.equal(count(),36);
 assert(context.window.renderAwardsScreen('awards'));
-assert.equal(count(),105);
+assert.equal(count(),80);
 console.log('Awards: ' + combinations + ' combinações de fonte, ano e categoria, busca e limpeza verificadas.');
