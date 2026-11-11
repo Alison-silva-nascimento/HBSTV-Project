@@ -53,7 +53,7 @@ const playerRows = H.db.players.map(player => ({
   ...player,
   hall: hall.get(player.id),
   records: playerRecords(hall.get(player.id)?.text),
-  allTitles: distinct([...(player.historicalTitles || []), ...player.titles]),
+  allTitles: window.getPlayerTitleRecords(player),
   search: [player.name, ...player.aliases, ...player.realNames].join(' ')
 }));
 const teamRows = H.db.teams.map(team => ({

@@ -10357,6 +10357,13 @@ window.HBSTV_PLAYER_INDEX = {
       "realNames": [],
       "teams": [
         {
+          "id": "00",
+          "name": "00",
+          "years": [
+            2024
+          ]
+        },
+        {
           "id": "pure",
           "name": "PURE",
           "years": [

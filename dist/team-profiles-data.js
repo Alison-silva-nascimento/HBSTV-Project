@@ -7219,6 +7219,16 @@ window.HBSTV_TEAMS = [
         ]
       },
       {
+        "id": "scuba",
+        "name": "Scuba",
+        "years": [
+          2024
+        ],
+        "sources": [
+          "Passagem pela 00 confirmada pelo responsável pelo site."
+        ]
+      },
+      {
         "id": "shelzz",
         "name": "ShelzZ",
         "years": [

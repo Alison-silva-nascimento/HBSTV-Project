@@ -3,7 +3,8 @@
   const archive=window.RANKS_ARCHIVE;
   if(!archive?.pages?.length) return;
   const hallPages=archive.pages.filter(p=>/^hall-of-fame/.test(p.slug));
-  const hallPlayers=[...players].sort((a,b)=>Number(b.titles||0)-Number(a.titles||0)||Number(b.mvps||0)-Number(a.mvps||0)||a.name.localeCompare(b.name,'pt-BR'));
+  const titleCount=p=>window.getPlayerTitleRecords(window.HBSTV.person(p.name)).length;
+  const hallPlayers=[...players].sort((a,b)=>titleCount(b)-titleCount(a)||Number(b.mvps||0)-Number(a.mvps||0)||a.name.localeCompare(b.name,'pt-BR'));
   const hallSections=hallPlayers.map(p=>({title:p.name,blocks:p.blocks}));
   const unifiedHall={...hallPages[0],slug:'hall-of-fame',title:'Hall of Fame',sections:hallSections,blocks:hallSections.flatMap(s=>s.blocks)};
   const pages=archive.pages.filter(p=>!/^hall-of-fame/.test(p.slug));pages.splice(archive.pages.findIndex(p=>/^hall-of-fame/.test(p.slug)),0,unifiedHall);

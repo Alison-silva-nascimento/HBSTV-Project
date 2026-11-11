@@ -14008,6 +14008,13 @@ window.HBSTV_DATABASE = {
       "realNames": [],
       "teams": [
         {
+          "id": "00",
+          "name": "00",
+          "years": [
+            2024
+          ]
+        },
+        {
           "id": "pure",
           "name": "PURE",
           "years": [
@@ -14075,6 +14082,7 @@ window.HBSTV_DATABASE = {
         }
       ],
       "awards": [],
+      "hallOfFame": true,
       "topFiveTeams": [
         {
           "teamId": "vanx",
@@ -19657,6 +19665,7 @@ window.HBSTV_DATABASE = {
           "hardzera",
           "helix",
           "scream",
+          "scuba",
           "shelzz",
           "tabsenn",
           "rn"
@@ -29291,6 +29300,16 @@ window.HBSTV_DATABASE = {
           ],
           "sources": [
             "Passagem registrada no Hall of Fame. Temporada de 2024 corrigida pelo responsável pelo site."
+          ]
+        },
+        {
+          "id": "scuba",
+          "name": "Scuba",
+          "years": [
+            2024
+          ],
+          "sources": [
+            "Passagem pela 00 confirmada pelo responsável pelo site."
           ]
         },
         {
