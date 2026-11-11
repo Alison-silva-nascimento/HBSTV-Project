@@ -3887,6 +3887,11 @@ window.HBSTV_PLAYER_INDEX = {
           "years": [
             2020
           ]
+        },
+        {
+          "id": "wa",
+          "name": "wA",
+          "years": []
         }
       ],
       "titles": [
@@ -5014,6 +5019,11 @@ window.HBSTV_PLAYER_INDEX = {
           "years": [
             2024
           ]
+        },
+        {
+          "id": "wa",
+          "name": "wA",
+          "years": []
         }
       ],
       "titles": [
@@ -10582,6 +10592,11 @@ window.HBSTV_PLAYER_INDEX = {
           "years": [
             2017
           ]
+        },
+        {
+          "id": "wa",
+          "name": "wA",
+          "years": []
         }
       ],
       "titles": [
@@ -13428,6 +13443,11 @@ window.HBSTV_PLAYER_INDEX = {
           "years": [
             2017
           ]
+        },
+        {
+          "id": "wa",
+          "name": "wA",
+          "years": []
         }
       ],
       "titles": [

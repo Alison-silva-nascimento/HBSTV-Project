@@ -10055,5 +10055,58 @@ window.HBSTV_TEAMS = [
     "searchAliases": [
       "ve"
     ]
+  },
+  {
+    "id": "wa",
+    "name": "wA",
+    "aliases": [
+      "wA"
+    ],
+    "titles": [],
+    "members": [
+      {
+        "id": "fugly",
+        "name": "FugLY",
+        "years": [],
+        "sources": [
+          "Passagem registrada no Hall of Fame. Temporada não informada."
+        ]
+      },
+      {
+        "id": "insani",
+        "name": "Insani",
+        "years": [],
+        "sources": [
+          "Passagem registrada no Hall of Fame. Temporada não informada."
+        ]
+      },
+      {
+        "id": "shelzz",
+        "name": "ShelzZ",
+        "years": [],
+        "sources": [
+          "Passagem registrada no Hall of Fame. Temporada não informada."
+        ]
+      },
+      {
+        "id": "zenn",
+        "name": "zenn",
+        "years": [],
+        "sources": [
+          "Passagem registrada no Hall of Fame. Temporada não informada."
+        ]
+      }
+    ],
+    "rankings": [],
+    "searchAliases": [],
+    "logo": {
+      "src": "assets/wa-logo.png",
+      "crop": {
+        "x": 0,
+        "y": 0,
+        "w": 1,
+        "h": 1
+      }
+    }
   }
 ];
