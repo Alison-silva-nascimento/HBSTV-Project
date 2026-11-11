@@ -24,13 +24,12 @@ const slides=[first,second,...window.HBSTV_EDITORIAL_FEATURES.map(feature=>{
 })];
 const slideButtons=slides.map((slide,i)=>`<button type="button" data-slide="${i}" aria-label="${esc(slide.querySelector('h2').textContent)}">${i+1}</button>`).join('');
 carousel.insertAdjacentHTML('beforeend',`<div class="editorial-controls"><button type="button" data-slide-prev aria-label="Matéria anterior">←</button><div role="group" aria-label="Escolher matéria">${slideButtons}</div><button type="button" data-slide-next aria-label="Próxima matéria">→</button><button type="button" data-slide-pause aria-pressed="false">Pausar</button><span class="editorial-slide-status" aria-live="off"></span></div>`);
-const reduce=matchMedia('(prefers-reduced-motion: reduce)');let current=0,paused=reduce.matches,hover=false,focused=false;
+let current=0,paused=false,hover=false,focused=false;
 function show(i){current=(i+slides.length)%slides.length;track.style.setProperty('--slide',current);slides.forEach((s,n)=>{s.hidden=false;s.inert=n!==current;s.setAttribute('aria-hidden',String(n!==current));});carousel.querySelectorAll('[data-slide]').forEach((b,n)=>b.setAttribute('aria-pressed',String(n===current)));carousel.querySelector('.editorial-slide-status').textContent=(current+1)+' / '+slides.length;}
 const pause=carousel.querySelector('[data-slide-pause]');function updatePause(){pause.textContent=paused?'Reproduzir':'Pausar';pause.setAttribute('aria-pressed',String(paused));}updatePause();
 carousel.addEventListener('click',e=>{const b=e.target.closest('button');if(!b)return;if(b.hasAttribute('data-slide'))show(+b.dataset.slide);if(b.hasAttribute('data-slide-next'))show(current+1);if(b.hasAttribute('data-slide-prev'))show(current-1);if(b.hasAttribute('data-slide-pause')){paused=!paused;updatePause();}});
 carousel.addEventListener('pointerenter',e=>{hover=e.pointerType==='mouse';});carousel.addEventListener('pointerleave',()=>hover=false);carousel.addEventListener('focusin',()=>focused=true);carousel.addEventListener('focusout',e=>focused=carousel.contains(e.relatedTarget));
 let touchX;track.addEventListener('touchstart',e=>touchX=e.changedTouches[0].clientX,{passive:true});track.addEventListener('touchend',e=>{const dx=e.changedTouches[0].clientX-touchX;if(Math.abs(dx)>45)show(current+(dx<0?1:-1));},{passive:true});
 setInterval(()=>{if(!paused&&!hover&&!focused&&!document.hidden&&!carousel.hidden)show(current+1);},4000);
-reduce.addEventListener('change',e=>{if(e.matches){paused=true;updatePause();}});
 function route(){carousel.hidden=!!location.hash&&location.hash!=='#inicio';show(current);}window.addEventListener('hashchange',route);route();
 })();
