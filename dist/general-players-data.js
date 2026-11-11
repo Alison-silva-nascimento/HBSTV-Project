@@ -587,6 +587,13 @@ window.HBSTV_PLAYER_INDEX = {
           ]
         },
         {
+          "id": "pentaesports",
+          "name": "PENTA eSports",
+          "years": [
+            2018
+          ]
+        },
+        {
           "id": "pir4tas",
           "name": "PIR4TAS",
           "years": [
@@ -5993,6 +6000,13 @@ window.HBSTV_PLAYER_INDEX = {
           "years": [
             2018
           ]
+        },
+        {
+          "id": "pentaesports",
+          "name": "PENTA eSports",
+          "years": [
+            2018
+          ]
         }
       ],
       "titles": [
@@ -8588,6 +8602,28 @@ window.HBSTV_PLAYER_INDEX = {
       "awards": []
     },
     {
+      "id": "pain",
+      "name": "PaiN",
+      "aliases": [
+        "PaiN"
+      ],
+      "realNames": [],
+      "teams": [
+        {
+          "id": "pentaesports",
+          "name": "PENTA eSports",
+          "years": [
+            2018
+          ]
+        }
+      ],
+      "titles": [],
+      "mvps": [],
+      "evps": [],
+      "rankings": [],
+      "awards": []
+    },
+    {
       "id": "pala4",
       "name": "PALA4",
       "aliases": [
@@ -8652,6 +8688,13 @@ window.HBSTV_PLAYER_INDEX = {
         {
           "id": "razer",
           "name": "RAZER",
+          "years": [
+            2018
+          ]
+        },
+        {
+          "id": "pentaesports",
+          "name": "PENTA eSports",
           "years": [
             2018
           ]
@@ -10818,7 +10861,8 @@ window.HBSTV_PLAYER_INDEX = {
           "id": "pentaesports",
           "name": "PENTA eSports",
           "years": [
-            2020
+            2020,
+            2018
           ]
         },
         {
@@ -11178,6 +11222,28 @@ window.HBSTV_PLAYER_INDEX = {
       "awards": []
     },
     {
+      "id": "sonic",
+      "name": "SoniC",
+      "aliases": [
+        "SoniC"
+      ],
+      "realNames": [],
+      "teams": [
+        {
+          "id": "pentaesports",
+          "name": "PENTA eSports",
+          "years": [
+            2018
+          ]
+        }
+      ],
+      "titles": [],
+      "mvps": [],
+      "evps": [],
+      "rankings": [],
+      "awards": []
+    },
+    {
       "id": "spinard",
       "name": "SpinarD",
       "aliases": [
@@ -11275,6 +11341,13 @@ window.HBSTV_PLAYER_INDEX = {
         {
           "id": "razer",
           "name": "RAZER",
+          "years": [
+            2018
+          ]
+        },
+        {
+          "id": "pentaesports",
+          "name": "PENTA eSports",
           "years": [
             2018
           ]

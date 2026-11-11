@@ -974,7 +974,8 @@ window.HBSTV_TEAMS = [
     "name": "PENTA eSports",
     "aliases": [
       "PENTA",
-      "Penta E-sports"
+      "Penta E-sports",
+      "PENTA SPORTS"
     ],
     "titles": [
       {
@@ -1125,10 +1126,12 @@ window.HBSTV_TEAMS = [
         "id": "shelzz",
         "name": "ShelzZ",
         "years": [
-          2020
+          2020,
+          2018
         ],
         "sources": [
-          "top-1-teams-of-years"
+          "top-1-teams-of-years",
+          "Elenco da PENTA SPORTS na TSL Pro League 2018 informado pelo responsável pelo site."
         ]
       },
       {
@@ -1139,6 +1142,66 @@ window.HBSTV_TEAMS = [
         ],
         "sources": [
           "top-1-teams-of-years"
+        ]
+      },
+      {
+        "id": "4kkp",
+        "name": "4KKp",
+        "years": [
+          2018
+        ],
+        "sources": [
+          "Elenco da PENTA SPORTS na TSL Pro League 2018 informado pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "kns",
+        "name": "KNS",
+        "years": [
+          2018
+        ],
+        "sources": [
+          "Elenco da PENTA SPORTS na TSL Pro League 2018 informado pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "pain",
+        "name": "PaiN",
+        "years": [
+          2018
+        ],
+        "sources": [
+          "Elenco da PENTA SPORTS na TSL Pro League 2018 informado pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "pasha",
+        "name": "Pasha",
+        "years": [
+          2018
+        ],
+        "sources": [
+          "Elenco da PENTA SPORTS na TSL Pro League 2018 informado pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "sonic",
+        "name": "SoniC",
+        "years": [
+          2018
+        ],
+        "sources": [
+          "Elenco da PENTA SPORTS na TSL Pro League 2018 informado pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "strong",
+        "name": "StronG",
+        "years": [
+          2018
+        ],
+        "sources": [
+          "Elenco da PENTA SPORTS na TSL Pro League 2018 informado pelo responsável pelo site."
         ]
       }
     ],
@@ -1158,6 +1221,7 @@ window.HBSTV_TEAMS = [
       }
     },
     "searchAliases": [
+      "pentasports",
       "penta",
       "pentaesports",
       "pnt"

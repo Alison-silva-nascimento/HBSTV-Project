@@ -794,6 +794,13 @@ window.HBSTV_DATABASE = {
           ]
         },
         {
+          "id": "pentaesports",
+          "name": "PENTA eSports",
+          "years": [
+            2018
+          ]
+        },
+        {
           "id": "pir4tas",
           "name": "PIR4TAS",
           "years": [
@@ -8138,6 +8145,13 @@ window.HBSTV_DATABASE = {
           "years": [
             2018
           ]
+        },
+        {
+          "id": "pentaesports",
+          "name": "PENTA eSports",
+          "years": [
+            2018
+          ]
         }
       ],
       "titles": [
@@ -11496,6 +11510,29 @@ window.HBSTV_DATABASE = {
       ]
     },
     {
+      "id": "pain",
+      "name": "PaiN",
+      "aliases": [
+        "PaiN"
+      ],
+      "realNames": [],
+      "teams": [
+        {
+          "id": "pentaesports",
+          "name": "PENTA eSports",
+          "years": [
+            2018
+          ]
+        }
+      ],
+      "titles": [],
+      "mvps": [],
+      "evps": [],
+      "rankings": [],
+      "awards": [],
+      "topFiveTeams": []
+    },
+    {
       "id": "pala4",
       "name": "PALA4",
       "aliases": [
@@ -11562,6 +11599,13 @@ window.HBSTV_DATABASE = {
         {
           "id": "razer",
           "name": "RAZER",
+          "years": [
+            2018
+          ]
+        },
+        {
+          "id": "pentaesports",
+          "name": "PENTA eSports",
           "years": [
             2018
           ]
@@ -14587,7 +14631,8 @@ window.HBSTV_DATABASE = {
           "id": "pentaesports",
           "name": "PENTA eSports",
           "years": [
-            2020
+            2020,
+            2018
           ]
         },
         {
@@ -14675,7 +14720,15 @@ window.HBSTV_DATABASE = {
           "source": "owner-confirmed"
         }
       ],
-      "mvps": [],
+      "mvps": [
+        {
+          "id": "2018:tslproleague",
+          "title": "TSL | PRO LEAGUE",
+          "year": 2018,
+          "major": false,
+          "source": "owner-confirmed"
+        }
+      ],
       "evps": [
         {
           "id": "2021:gsemasters",
@@ -15215,6 +15268,29 @@ window.HBSTV_DATABASE = {
       "topFiveTeams": []
     },
     {
+      "id": "sonic",
+      "name": "SoniC",
+      "aliases": [
+        "SoniC"
+      ],
+      "realNames": [],
+      "teams": [
+        {
+          "id": "pentaesports",
+          "name": "PENTA eSports",
+          "years": [
+            2018
+          ]
+        }
+      ],
+      "titles": [],
+      "mvps": [],
+      "evps": [],
+      "rankings": [],
+      "awards": [],
+      "topFiveTeams": []
+    },
+    {
       "id": "spinard",
       "name": "SpinarD",
       "aliases": [
@@ -15320,6 +15396,13 @@ window.HBSTV_DATABASE = {
         {
           "id": "razer",
           "name": "RAZER",
+          "years": [
+            2018
+          ]
+        },
+        {
+          "id": "pentaesports",
+          "name": "PENTA eSports",
           "years": [
             2018
           ]
@@ -22243,6 +22326,27 @@ window.HBSTV_DATABASE = {
       ]
     },
     {
+      "id": "2018:tslproleague",
+      "title": "TSL | PRO LEAGUE",
+      "year": 2018,
+      "organizer": "TSL",
+      "major": false,
+      "winners": [],
+      "roster": [],
+      "mvps": [
+        "shelzz"
+      ],
+      "evps": [],
+      "sources": [
+        "owner-confirmed"
+      ],
+      "notes": [
+        "Premiações individuais confirmadas pelo responsável pelo site."
+      ],
+      "images": [],
+      "mvs": []
+    },
+    {
       "id": "2017:tslmajorcup",
       "title": "TSL | MAJOR CUP",
       "year": 2017,
@@ -23262,6 +23366,8 @@ window.HBSTV_DATABASE = {
       "aliases": [
         "PENTA",
         "Penta E-sports",
+        "PENTA SPORTS",
+        "pentasports",
         "penta",
         "pentaesports",
         "pnt"
@@ -23415,10 +23521,12 @@ window.HBSTV_DATABASE = {
           "id": "shelzz",
           "name": "ShelzZ",
           "years": [
-            2020
+            2020,
+            2018
           ],
           "sources": [
-            "top-1-teams-of-years"
+            "top-1-teams-of-years",
+            "Elenco da PENTA SPORTS na TSL Pro League 2018 informado pelo responsável pelo site."
           ]
         },
         {
@@ -23429,6 +23537,66 @@ window.HBSTV_DATABASE = {
           ],
           "sources": [
             "top-1-teams-of-years"
+          ]
+        },
+        {
+          "id": "4kkp",
+          "name": "4KKp",
+          "years": [
+            2018
+          ],
+          "sources": [
+            "Elenco da PENTA SPORTS na TSL Pro League 2018 informado pelo responsável pelo site."
+          ]
+        },
+        {
+          "id": "kns",
+          "name": "KNS",
+          "years": [
+            2018
+          ],
+          "sources": [
+            "Elenco da PENTA SPORTS na TSL Pro League 2018 informado pelo responsável pelo site."
+          ]
+        },
+        {
+          "id": "pain",
+          "name": "PaiN",
+          "years": [
+            2018
+          ],
+          "sources": [
+            "Elenco da PENTA SPORTS na TSL Pro League 2018 informado pelo responsável pelo site."
+          ]
+        },
+        {
+          "id": "pasha",
+          "name": "Pasha",
+          "years": [
+            2018
+          ],
+          "sources": [
+            "Elenco da PENTA SPORTS na TSL Pro League 2018 informado pelo responsável pelo site."
+          ]
+        },
+        {
+          "id": "sonic",
+          "name": "SoniC",
+          "years": [
+            2018
+          ],
+          "sources": [
+            "Elenco da PENTA SPORTS na TSL Pro League 2018 informado pelo responsável pelo site."
+          ]
+        },
+        {
+          "id": "strong",
+          "name": "StronG",
+          "years": [
+            2018
+          ],
+          "sources": [
+            "Elenco da PENTA SPORTS na TSL Pro League 2018 informado pelo responsável pelo site."
           ]
         }
       ],
@@ -23448,6 +23616,7 @@ window.HBSTV_DATABASE = {
         }
       },
       "searchAliases": [
+        "pentasports",
         "penta",
         "pentaesports",
         "pnt"
