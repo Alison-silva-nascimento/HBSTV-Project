@@ -20,8 +20,8 @@ window.HBSTV_EDITORIAL_FEATURES = [
   },
   {
     id: 'dois-majors-2021', category: 'Major History', season: 2021,
-    title: '2021: dois Majors, duas campeãs', mark: '2021',
-    text: 'Team Infinity venceu o Major da SUVOH, GT 2021 levou o da TSL e 4i20 foi MVP nas duas edições.',
+    title: '2021: O ano da rivalidade histórica entre FY x GT, dois MAJORS, dois campeões', mark: '2021',
+    text: 'Um ano marcado por duas equipes que dominaram o cenário em 2021, conquistando juntas 9 títulos no ano.',
     stats: [['SUVOH', 'Team Infinity'], ['TSL', 'GT 2021']],
     sections: [
       ['O título da Team Infinity', 'A Team Infinity, identificada pela tag FY, conquistou o Major da SUVOH. Entre os jogadores do elenco campeão, RN, ScreaM, Helix e FugLY também aparecem na lista de EVPs da edição.'],
