@@ -33,26 +33,28 @@ window.renderPlayerTitleCards = (player, fallback = []) => {
 };
 function teamEmblem(id){const t=[...window.HBSTV_TEAMS,...(window.HBSTV_TEAM_TAGS||[])].find(t=>t.id===id),l=t?.logo;if(!l)return `<span class="gp-team-initials" aria-hidden="true">${esc((t?.name||id).slice(0,2))}</span>`;const c=l.crop;return `<span class="gp-team-emblem"><img src="${esc(l.src)}" alt="" loading="lazy" style="width:${100/c.w}%;height:${100/c.h}%;left:${-100*c.x/c.w}%;top:${-100*c.y/c.h}%"></span>`;}
 window.renderPlayerTeamCards = (player, legacyTags = []) => {
-  const teams = [...window.HBSTV_TEAMS, ...(window.HBSTV_TEAM_TAGS || []).filter(team => team.members.some(member => member.id === player?.id))];
+  const teams = [...window.HBSTV_TEAMS, ...(window.HBSTV_TEAM_TAGS || [])];
   const memberships = new Map((player?.teams || []).map(team => [team.id, team]));
   for (const tag of legacyTags) {
     const normalized = norm(tag);
     if (normalized === 'ntc' && ['rn','inovate'].includes(player?.id)) continue;
+    const lookupTag = normalized === 'st' ? 'saintsteam' : normalized;
     const candidates = teams.filter(team =>
       [team.id, team.name, ...(team.aliases || []), ...(team.searchAliases || [])]
-        .some(label => norm(label) === normalized));
+        .some(label => norm(label) === lookupTag));
     if (candidates.some(team => memberships.has(team.id))) continue;
     if (candidates.length === 1) {
       const team = candidates[0];
       memberships.set(team.id, {id: team.id, name: team.name, years: []});
     } else {
-      memberships.set('tag:' + normalized, {name: tag, years: []});
+      const emblemId = ['gt','legendaryteam'].includes(normalized) ? candidates.find(team => team.logo)?.id : undefined;
+      memberships.set('tag:' + normalized, {name: tag, years: [], emblemId});
     }
   }
   const cards = [...memberships.values()].map(team => {
     const seasons = [...team.years].sort((a,b) => b-a);
     const label = [team.name, ...seasons].join(' · ');
-    const emblem = team.id ? teamEmblem(team.id) :
+    const emblem = team.id || team.emblemId ? teamEmblem(team.id || team.emblemId) :
       `<span class="gp-team-initials" aria-hidden="true">${esc(team.name.slice(0,2))}</span>`;
     const content = `${emblem}<strong>${esc(team.name)}</strong>${seasons.length ? '<small>' + seasons.join(' · ') + '</small>' : ''}`;
     return team.id
