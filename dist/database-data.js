@@ -6469,6 +6469,11 @@ window.HBSTV_DATABASE = {
           "years": [
             2018
           ]
+        },
+        {
+          "id": "crazyshadows",
+          "name": "CRAZY SHADOWS",
+          "years": []
         }
       ],
       "titles": [
@@ -15780,6 +15785,18 @@ window.HBSTV_DATABASE = {
           "years": [
             2018
           ]
+        },
+        {
+          "id": "yeah",
+          "name": "YeaH",
+          "years": [
+            2018
+          ]
+        },
+        {
+          "id": "crazyshadows",
+          "name": "CRAZY SHADOWS",
+          "years": []
         }
       ],
       "titles": [
@@ -32677,10 +32694,29 @@ window.HBSTV_DATABASE = {
       "id": "crazyshadows",
       "name": "CRAZY SHADOWS",
       "aliases": [
-        "CRAZY SHADOWS"
+        "CRAZY SHADOWS",
+        "CSR",
+        "csr"
       ],
       "titles": [],
-      "members": [],
+      "members": [
+        {
+          "id": "hardzera",
+          "name": "Hardzera",
+          "years": [],
+          "sources": [
+            "Passagem registrada no Hall of Fame. Temporada não informada."
+          ]
+        },
+        {
+          "id": "strong",
+          "name": "StronG",
+          "years": [],
+          "sources": [
+            "Passagem registrada no Hall of Fame. Temporada não informada."
+          ]
+        }
+      ],
       "rankings": [
         {
           "year": 2019,
@@ -32700,7 +32736,9 @@ window.HBSTV_DATABASE = {
           "h": 0.15796897038081806
         }
       },
-      "searchAliases": []
+      "searchAliases": [
+        "csr"
+      ]
     },
     {
       "id": "ence",
@@ -33463,6 +33501,37 @@ window.HBSTV_DATABASE = {
       "searchAliases": [],
       "logo": {
         "src": "assets/wa-logo.png",
+        "crop": {
+          "x": 0,
+          "y": 0,
+          "w": 1,
+          "h": 1
+        }
+      }
+    },
+    {
+      "id": "yeah",
+      "name": "YeaH",
+      "aliases": [
+        "YeaH"
+      ],
+      "titles": [],
+      "members": [
+        {
+          "id": "strong",
+          "name": "StronG",
+          "years": [
+            2018
+          ],
+          "sources": [
+            "Passagem registrada no Hall of Fame. Temporada confirmada pelo responsável pelo site."
+          ]
+        }
+      ],
+      "rankings": [],
+      "searchAliases": [],
+      "logo": {
+        "src": "assets/yeah-logo.png",
         "crop": {
           "x": 0,
           "y": 0,

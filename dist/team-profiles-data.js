@@ -9616,10 +9616,28 @@ window.HBSTV_TEAMS = [
     "id": "crazyshadows",
     "name": "CRAZY SHADOWS",
     "aliases": [
-      "CRAZY SHADOWS"
+      "CRAZY SHADOWS",
+      "CSR"
     ],
     "titles": [],
-    "members": [],
+    "members": [
+      {
+        "id": "hardzera",
+        "name": "Hardzera",
+        "years": [],
+        "sources": [
+          "Passagem registrada no Hall of Fame. Temporada não informada."
+        ]
+      },
+      {
+        "id": "strong",
+        "name": "StronG",
+        "years": [],
+        "sources": [
+          "Passagem registrada no Hall of Fame. Temporada não informada."
+        ]
+      }
+    ],
     "rankings": [
       {
         "year": 2019,
@@ -9639,7 +9657,9 @@ window.HBSTV_TEAMS = [
         "h": 0.15796897038081806
       }
     },
-    "searchAliases": []
+    "searchAliases": [
+      "csr"
+    ]
   },
   {
     "id": "ence",
@@ -10396,6 +10416,37 @@ window.HBSTV_TEAMS = [
     "searchAliases": [],
     "logo": {
       "src": "assets/wa-logo.png",
+      "crop": {
+        "x": 0,
+        "y": 0,
+        "w": 1,
+        "h": 1
+      }
+    }
+  },
+  {
+    "id": "yeah",
+    "name": "YeaH",
+    "aliases": [
+      "YeaH"
+    ],
+    "titles": [],
+    "members": [
+      {
+        "id": "strong",
+        "name": "StronG",
+        "years": [
+          2018
+        ],
+        "sources": [
+          "Passagem registrada no Hall of Fame. Temporada confirmada pelo responsável pelo site."
+        ]
+      }
+    ],
+    "rankings": [],
+    "searchAliases": [],
+    "logo": {
+      "src": "assets/yeah-logo.png",
       "crop": {
         "x": 0,
         "y": 0,
