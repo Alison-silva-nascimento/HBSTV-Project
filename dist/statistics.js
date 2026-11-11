@@ -1,10 +1,28 @@
 (() => {
-const esc=escapeHtml,index=window.HBSTV_PLAYER_INDEX;if(!index)return;
-const norm=s=>normalizeText(String(s)).replace(/[^a-z0-9]/g,''),key=s=>norm(index.aliases[norm(s)]||s).replace(/0/g,'o');
-const fields={titles:{label:'Títulos',icon:'♜',description:'Conquistas identificadas nas escalações campeãs e nas listas de títulos do Hall of Fame, sem contar duas vezes o mesmo torneio.'},mvps:{label:'MVPs',icon:'★',description:'Totais do Hall of Fame, quando informados, e premiações individuais documentadas nos torneios.'},evps:{label:'EVPs',icon:'✦',description:'Premiações EVP identificadas por campeonato. Registros repetidos do mesmo evento são contados uma vez.'},top20:{label:'Aparições no Top 20',icon:'#',description:'Quantidade de temporadas em que o jogador aparece no Top 20: 2017, 2018, 2019, 2020, 2021, 2023, 2024 e 2025.'},teams:{label:'Aparições no TOP 5 Times do Ano',icon:'◈',description:'Cada equipe do Top 5 em que o jogador atuou na temporada vale uma aparição. A contagem cruza os rankings anuais com os vínculos documentados dos jogadores.'},records:{label:'Recordes e feitos',icon:'✧',description:'Quantidade de feitos distintos listados na seção Recordes do Hall of Fame de cada jogador.'}};
-function titleRecords(player) {
-  return [...new Map([...(player.historicalTitles || []), ...player.titles].map(r => [r.id, r])).values()];
-}
+const H = window.HBSTV;
+if (!H) return;
+const esc = escapeHtml;
+const norm = value => normalizeText(String(value ?? '')).replace(/[^a-z0-9]/g, '');
+const distinct = records => [...new Map(records.map(record => [record.id, record])).values()];
+const metrics = {
+  players: {
+    titles: ['Títulos', 'Conquistas das fichas de torneios e do Hall of Fame, contadas uma vez por edição.', 'event'],
+    majors: ['Majors conquistados', 'Títulos de Major identificados nas fichas e no Hall of Fame.', 'event'],
+    mvps: ['MVPs', 'Premiações por torneio. Na visão geral, inclui os totais históricos do Hall of Fame.', 'event'],
+    evps: ['EVPs', 'Premiações EVP documentadas por edição.', 'event'],
+    mvs: ['MVS · Melhor sniper', 'Premiações de melhor sniper registradas nas fichas dos torneios.', 'event'],
+    awards: ['Awards individuais', 'Categorias de premiação individual vencidas por temporada.', 'year'],
+    top20: ['Aparições no Top 20', 'Temporadas em que o jogador aparece no Top 20 anual.', 'year'],
+    teams: ['Aparições no TOP 5 Times do Ano', 'Uma aparição por equipe do Top 5 em que o jogador atuou na temporada.', 'year'],
+    records: ['Recordes e feitos', 'Feitos distintos listados na seção Recordes do Hall of Fame.', 'career']
+  },
+  teams: {
+    trophies: ['Troféus por organizadora', 'Títulos por equipe nas fichas de campeonatos. Selecione uma organizadora para ver o ranking dela.', 'event'],
+    majors: ['Majors conquistados', 'Títulos de Major documentados nas fichas de campeonatos.', 'event'],
+    top5: ['Aparições no Top 5 anual', 'Temporadas em que a equipe ficou entre as cinco primeiras.', 'year'],
+    first: ['Vezes como time do ano', 'Temporadas em que a equipe liderou o ranking anual.', 'year']
+  }
+};
 function playerRecords(text = '') {
   const lines = text.normalize('NFKC').split(/\r?\n/);
   const start = lines.findIndex(line => norm(line) === 'recordes');
@@ -17,52 +35,8 @@ function playerRecords(text = '') {
   }
   return [...records.values()];
 }
-function unavailableInScope(field) {
-  return (field === 'records' && Boolean(scopeYear || scopeOrg)) ||
-    (['top20','teams'].includes(field) && Boolean(scopeOrg));
-}
-const roster=new Map(index.players.map(p=>[p.id,{...p,hof:players.find(h=>key(h.name)===p.id)}]));for(const h of players)if(!roster.has(key(h.name)))roster.set(key(h.name),{id:key(h.name),name:h.name,hof:h,titles:[],mvps:[],evps:[],rankings:[],teams:[]});
-const rows=[...roster.values()].map(p=>{
-const h = p.hof;
-const records = playerRecords(h?.text);
-const topFiveTeams = p.topFiveTeams || [];
-const titles = titleRecords(p);
-return {
-  id: p.id, name: p.name, hof: h, topFiveTeams, records,
-  search: [p.name, ...(p.aliases || []), ...(p.realNames || []), h?.full || ''].join(' '),
-  values: {
-    titles: titles.length, mvps: Math.max(Number(h?.mvps) || 0, p.mvps.length),
-    evps: new Set(p.evps.map(r => r.id)).size,
-    top20: new Set(p.rankings.map(r => r.year)).size, teams: topFiveTeams.length, records: records.length
-  },
-  source: h ? 'Hall of Fame e fichas de torneios' : 'Registros dos torneios'
-};
-});
-window.getStatisticsRows=()=>rows;
-const screen=document.createElement('section');screen.id='statistics-screen';screen.hidden=true;document.querySelector('.content').append(screen);let metric='titles',query='',limit=20,scopeYear='',scopeOrg='';
-function scopedRows() {
-  if (!scopeYear && !scopeOrg) return rows;
-  const accept = r => (!scopeYear || r.year === Number(scopeYear)) &&
-    (!scopeOrg || (r.organizer || window.HBSTV.event(r.id)?.organizer) === scopeOrg);
-  return rows.map(row => {
-    const player = roster.get(row.id);
-    const titles = titleRecords(player).filter(accept);
-    const mvps = player.mvps.filter(accept);
-    const evps = player.evps.filter(accept);
-    const topFiveTeams = scopeOrg ? [] : row.topFiveTeams.filter(r => r.year === Number(scopeYear));
-    return {...row, topFiveTeams, source: 'Registros filtrados', values: {
-      titles: titles.length, mvps: new Set(mvps.map(r => r.id)).size,
-      evps: new Set(evps.map(r => r.id)).size,
-      top20: scopeOrg ? 0 : new Set(player.rankings.filter(r => r.year === Number(scopeYear)).map(r => r.year)).size,
-      teams: topFiveTeams.length, records: 0
-    }};
-  });
-}
-const scopes=()=>`<div class="stats-scope"><label>Temporada<select id="stats-year"><option value="">Toda a carreira</option>${[...new Set([...index.rankingYears,...window.HBSTV.db.events.map(e=>e.year),...index.players.flatMap(p=>(p.historicalTitles||[]).map(t=>t.year))])].sort((a,b)=>b-a).map(y=>`<option ${scopeYear===String(y)?'selected':''}>${y}</option>`).join('')}</select></label><label>Organizadora<select id="stats-org"><option value="">Todas</option>${[...new Set([...window.HBSTV.db.events.map(e=>e.organizer),...index.players.flatMap(p=>(p.historicalTitles||[]).map(t=>t.organizer))])].sort().map(o=>`<option ${scopeOrg===o?'selected':''}>${esc(o)}</option>`).join('')}</select></label></div><p class="stats-scope-info">${scopeYear||scopeOrg?'Filtro ativo: títulos e premiações identificados por edição. Totais gerais de MVP do Hall of Fame só aparecem na visão de carreira.':'Visão histórica: títulos e torneios identificados por edição. Os MVPs incluem o total histórico quando ele é maior que o número de fichas.'}${scopeOrg?' Os rankings anuais são consultados sem filtro por organizadora.':''}</p>`;
-function ordered(){let previous=null,rank=0;return [...scopedRows()].filter(p=>p.values[metric]>0).sort((a,b)=>b.values[metric]-a.values[metric]||a.name.localeCompare(b.name,'pt-BR')).map((p,i)=>{if(p.values[metric]!==previous)rank=i+1;previous=p.values[metric];return {...p,rank};});}
-const action=p=>metric==='records'?`data-stats-record-player="${esc(p.id)}" aria-haspopup="dialog"`:p.hof?`data-player="${players.indexOf(p.hof)}"`:`data-entity-player="${p.id}"`;
 function showPlayerRecords(id) {
-  const player = rows.find(row => row.id === id);
+  const player = playerRows.find(row => row.id === id);
   if (!player?.records.length) return;
   const entries = player.records.map(record => `<li>${esc(record)}</li>`).join('');
   document.querySelector('#detail').classList.remove('profile-dialog', 'registered-player-dialog', 'image-dialog');
@@ -74,15 +48,187 @@ function showPlayerRecords(id) {
     <a class="hub-button" href="${window.HBSTV.playerHref(player.id)}" data-entity-close>Ver perfil completo ↗</a>
   </section>`);
 }
-const value=p=>p.values[metric];
-function results(){const all=ordered(),list=all.filter(p=>norm(p.search).includes(norm(query))),visible=list.slice(0,limit===0?list.length:limit),top=list.slice(0,5),max=top[0]?.values[metric]||1;document.querySelector('#stats-ranking-title').textContent=fields[metric].label;document.querySelector('#stats-description').textContent=fields[metric].description;document.querySelector('#stats-count').textContent=list.length+' JOGADORES';document.querySelectorAll('[data-stats-metric]').forEach(b=>{const active=b.dataset.statsMetric===metric;b.classList.toggle('active',active);b.setAttribute('aria-pressed',String(active));});
-document.querySelector('#stats-chart').innerHTML=top.length?`<h3>Os líderes</h3>${top.map(p=>`<button class="stats-bar-row" ${action(p)} aria-label="${esc(p.name)}, ${esc(value(p))} ${esc(fields[metric].label)}"><span>${esc(p.name)}</span><b>${esc(value(p))}</b><i><em style="width:${p.values[metric]/max*100}%"></em></i></button>`).join('')}`:'<p class="entity-empty">Nenhum jogador corresponde à busca.</p>';
-document.querySelector('#stats-ranking').innerHTML=visible.length?visible.map(p=>`<button class="stats-rank-row" ${action(p)}><span class="stats-position">${p.rank}</span><span class="stats-player-avatar" aria-hidden="true"></span><span class="stats-player-name"><strong>${esc(p.name)}</strong><small>${metric==='records'?'Hall of Fame':metric==='teams'?esc(p.topFiveTeams.map(r=>r.year+' · #'+r.rank+' '+r.name).join(' / ')):metric==='evps'||metric==='top20'?'Torneios e rankings':p.source}</small></span><b>${esc(value(p))}</b></button>`).join(''):'<p class="entity-empty">Nenhum registro para estes filtros.</p>';}
-function render(){const scoped = scopedRows();const leaders=Object.entries(fields).map(([m,info])=>{
-  const highest = Math.max(0, ...scoped.map(row => row.values[m]));
-  const leaders = scoped.filter(row => highest > 0 && row.values[m] === highest);
-  const label = leaders.map(row => row.name).sort((a,b) => a.localeCompare(b,'pt-BR')).join(' · ');return `<button data-stats-metric="${m}" class="stats-metric-card" aria-pressed="${m===metric}" ${unavailableInScope(m)?'disabled':''}><span class="stats-card-label"><i aria-hidden="true">${info.icon}</i>${info.label}</span><b>${unavailableInScope(m)?'—':highest||'—'}</b><strong>${unavailableInScope(m)?(m==='records'?'Disponível em toda a carreira':'Retire o filtro de organizadora'):highest===0?'Sem registro neste filtro':esc(label)}</strong><small>${leaders.length>1?'LIDERANÇA COMPARTILHADA':scopeYear||scopeOrg?'LÍDER DA SELEÇÃO':'LÍDER HISTÓRICO'}</small></button>`;}).join('');screen.innerHTML=`<header class="stats-header"><span class="eyebrow">HBSTV · HISTÓRICO COMPETITIVO</span><h2>Estatísticas<span>.</span></h2><p>Os números de quem construiu o competitivo.</p><div><b>${rows.length}</b> jogadores na base <span>·</span> <b>${window.HBSTV_TEAMS.length}</b> equipes registradas</div></header>${scopes()}<div class="stats-overview" aria-label="Selecionar ranking">${leaders}</div><div class="stats-ranking-head"><div><span class="eyebrow">RANKING HISTÓRICO</span><h3 id="stats-ranking-title"></h3></div><span id="stats-count"></span></div><p id="stats-description" class="stats-description"></p><div class="stats-controls"><label>Buscar jogador<input id="stats-search" class="entity-field" type="search" placeholder="Nome ou nick…" value="${esc(query)}"></label><label>Mostrar<select id="stats-limit"><option value="10" ${limit===10?'selected':''}>Top 10</option><option value="20" ${limit===20?'selected':''}>Top 20</option><option value="50" ${limit===50?'selected':''}>Top 50</option><option value="0" ${limit===0?'selected':''}>Todos</option></select></label></div><div class="stats-board"><aside id="stats-chart" class="stats-chart"></aside><div id="stats-ranking" class="stats-ranking"></div></div><p class="stats-footnote">Dados históricos disponíveis no site. As estatísticas não representam necessariamente toda a carreira. Recordes e feitos reproduzem as listas históricas do Hall of Fame. Empates compartilham a posição. Clique em um jogador para conferir o perfil e os registros.</p>`;results();}
-window.renderStatisticsRoute=()=>{screen.hidden=true;if(location.hash!=='#estatisticas')return false;render();screen.hidden=false;document.title='Estatísticas — HBSTV.ORG';return true;};
+const hall = new Map(players.map(player => [H.key(player.name), player]));
+const playerRows = H.db.players.map(player => ({
+  ...player,
+  hall: hall.get(player.id),
+  records: playerRecords(hall.get(player.id)?.text),
+  allTitles: distinct([...(player.historicalTitles || []), ...player.titles]),
+  search: [player.name, ...player.aliases, ...player.realNames].join(' ')
+}));
+const teamRows = H.db.teams.map(team => ({
+  ...team,
+  trophies: H.db.events.filter(event => event.winners.includes(team.id)),
+  search: [team.name, ...team.aliases].join(' ')
+}));
+let category = 'players';
+let metric = 'titles';
+let year = '';
+let organizer = '';
+let query = '';
+let page = 0;
+const pageSize = 5;
+const screen = document.createElement('section');
+screen.id = 'statistics-screen';
+screen.hidden = true;
+document.querySelector('.content').append(screen);
+
+function matches(record, useOrganizer = true) {
+  return (!year || record.year === Number(year)) &&
+    (!useOrganizer || !organizer || (record.organizer || H.event(record.id)?.organizer) === organizer);
+}
+
+function playerValue(player) {
+  switch (metric) {
+    case 'titles': return player.allTitles.filter(record => matches(record)).length;
+    case 'majors': return player.allTitles.filter(record =>
+      (record.major || H.event(record.id)?.major || /[Ⓜ🅼]/u.test(record.title)) && matches(record)).length;
+    case 'mvps': {
+      const count = distinct(player.mvps).filter(record => matches(record)).length;
+      return year || organizer ? count : Math.max(count, Number(player.hall?.mvps) || 0);
+    }
+    case 'evps': return distinct(player.evps).filter(record => matches(record)).length;
+    case 'mvs': return distinct(player.mvs || []).filter(record => matches(record)).length;
+    case 'awards': return distinct(player.awards).filter(record => matches(record, false)).length;
+    case 'top20': return new Set(player.rankings.filter(record => matches(record, false)).map(record => record.year)).size;
+    case 'teams': return (player.topFiveTeams || []).filter(record => matches(record, false)).length;
+    case 'records': return player.records.length;
+  }
+}
+
+function teamValue(team) {
+  if (metric === 'trophies' || metric === 'majors') {
+    return team.trophies.filter(event => (metric === 'trophies' || event.major) && matches(event)).length;
+  }
+  return new Set(team.rankings.filter(record =>
+    record.rank >= 1 && record.rank <= (metric === 'first' ? 1 : 5) && matches(record, false))
+    .map(record => record.year)).size;
+}
+
+function ranking() {
+  const rows = category === 'players' ? playerRows : teamRows;
+  const getValue = category === 'players' ? playerValue : teamValue;
+  let rank = 0;
+  let previous = -1;
+  return rows.map(row => ({row, value:getValue(row)}))
+    .filter(entry => entry.value > 0)
+    .sort((a,b) => b.value-a.value || a.row.name.localeCompare(b.row.name,'pt-BR'))
+    .map((entry, index) => {
+      if (entry.value !== previous) rank = index + 1;
+      previous = entry.value;
+      return {...entry, rank};
+    })
+    .filter(entry => norm(entry.row.search).includes(norm(query)));
+}
+
+function rowDetail(row) {
+  if (category === 'teams') return organizer || 'Histórico da equipe';
+  if (metric === 'records') return 'Hall of Fame';
+  if (metric === 'awards') return 'Premiações individuais';
+  if (metric === 'teams') return (row.topFiveTeams || []).filter(record => matches(record, false))
+    .map(record => record.year + ' · #' + record.rank + ' ' + record.name).join(' / ');
+  return 'Registros do acervo';
+}
+
+function rowHtml({row, value, rank}) {
+  const icon = category === 'teams' && row.logo
+    ? `<span class="club-logo stats-team-logo"><img src="${esc(row.logo.src)}" alt="" style="width:${100/row.logo.crop.w}%;height:${100/row.logo.crop.h}%;left:${-100*row.logo.crop.x/row.logo.crop.w}%;top:${-100*row.logo.crop.y/row.logo.crop.h}%"></span>`
+    : category === 'teams' ? `<span class="stats-team-initials" aria-hidden="true">${esc(row.name.slice(0,2))}</span>`
+    : '<span class="stats-player-avatar" aria-hidden="true"></span>';
+  const contents = `<span class="stats-position">${rank}</span>${icon}<span class="stats-player-name"><strong>${esc(row.name)}</strong><small>${esc(rowDetail(row))}</small></span><b>${value}</b>`;
+  if (metric === 'records') return `<button class="stats-rank-row" data-stats-record-player="${esc(row.id)}" aria-haspopup="dialog">${contents}</button>`;
+  const href = category === 'players' ? H.playerHref(row.id) : '#time/' + encodeURIComponent(row.id);
+  return `<a class="stats-rank-row" href="${href}">${contents}</a>`;
+}
+
+function results() {
+  const list = ranking();
+  const pages = Math.max(1, Math.ceil(list.length / pageSize));
+  page = Math.min(page, pages - 1);
+  screen.querySelector('#stats-count').textContent = list.length + (category === 'players' ? ' jogadores' : ' equipes');
+  screen.querySelector('#stats-ranking').innerHTML = list.slice(page * pageSize, (page + 1) * pageSize)
+    .map(rowHtml).join('') || '<p class="entity-empty">Nenhum registro para estes filtros.</p>';
+  screen.querySelector('#stats-page-label').textContent = (page + 1) + ' de ' + pages;
+  screen.querySelector('#stats-prev').disabled = page === 0;
+  screen.querySelector('#stats-next').disabled = page >= pages - 1;
+}
+
+const years = [...new Set([
+  ...H.db.events.map(event => event.year),
+  ...playerRows.flatMap(player => [...player.allTitles, ...player.awards, ...player.rankings].map(record => record.year)),
+  ...teamRows.flatMap(team => team.rankings.map(record => record.year))
+])].sort((a,b) => b-a);
+const organizers = [...new Set([
+  ...H.db.events.map(event => event.organizer),
+  ...playerRows.flatMap(player => player.allTitles.map(record => record.organizer))
+].filter(Boolean))].sort((a,b) => a.localeCompare(b,'pt-BR'));
+
+function render() {
+  const [label, description, scope] = metrics[category][metric];
+  if (scope !== 'event') organizer = '';
+  if (scope === 'career') year = '';
+  screen.innerHTML = `<header class="stats-header"><h2>Estatísticas</h2></header>
+    <nav class="stats-category" aria-label="Categoria das estatísticas">
+      <button data-stats-category="players" aria-pressed="${category === 'players'}">Jogadores</button>
+      <button data-stats-category="teams" aria-pressed="${category === 'teams'}">Equipes</button>
+    </nav>
+    <div class="stats-scope stats-dashboard-filters">
+      <label>Métrica<select id="stats-metric">${Object.entries(metrics[category]).map(([key, [name]]) =>
+        `<option value="${key}" ${metric === key ? 'selected' : ''}>${esc(name)}</option>`).join('')}</select></label>
+      ${scope === 'career' ? '' : `<label>Temporada<select id="stats-year"><option value="">Todas</option>${years.map(y =>
+        `<option ${year === String(y) ? 'selected' : ''}>${y}</option>`).join('')}</select></label>`}
+      ${scope === 'event' ? `<label>Organizadora<select id="stats-org"><option value="">Todas</option>${organizers.map(org =>
+        `<option ${organizer === org ? 'selected' : ''}>${esc(org)}</option>`).join('')}</select></label>` : ''}
+      <label>Buscar ${category === 'players' ? 'jogador' : 'equipe'}<input id="stats-search" class="entity-field" type="search" value="${esc(query)}"></label>
+    </div>
+    <div class="stats-ranking-head"><h3>${esc(label)}</h3><span id="stats-count" aria-live="polite"></span></div>
+    <p class="stats-description">${esc(description)}</p>
+    <nav class="stats-pagination" aria-label="Páginas do ranking">
+      <button id="stats-prev">← Anterior</button><span id="stats-page-label" aria-live="polite"></span><button id="stats-next">Próxima →</button>
+    </nav>
+    <div id="stats-ranking" class="stats-ranking"></div>`;
+  results();
+}
+window.renderStatisticsRoute = () => {
+  screen.hidden = location.hash !== '#estatisticas';
+  if (screen.hidden) return false;
+  render();
+  document.title = 'Estatísticas — HBSTV.ORG';
+  return true;
+};
 document.querySelector('.side-nav').insertAdjacentHTML('beforeend','<a href="#estatisticas">▥ <span>Estatísticas</span><b>00</b></a>');
-document.addEventListener('click',e=>{const player=e.target.closest('[data-stats-record-player]');if(player){showPlayerRecords(player.dataset.statsRecordPlayer);return;}const b=e.target.closest('[data-stats-metric]');if(b){metric=b.dataset.statsMetric;results();}});document.addEventListener('input',e=>{if(e.target.id==='stats-search'){query=e.target.value;results();}});document.addEventListener('change',e=>{if(e.target.id==='stats-year'){scopeYear=e.target.value;if(unavailableInScope(metric))metric='titles';render();}if(e.target.id==='stats-org'){scopeOrg=e.target.value;if(unavailableInScope(metric))metric='titles';render();}if(e.target.id==='stats-limit'){limit=Number(e.target.value);results();}});
+screen.addEventListener('click', event => {
+  const record = event.target.closest('[data-stats-record-player]');
+  if (record) return showPlayerRecords(record.dataset.statsRecordPlayer);
+  const tab = event.target.closest('[data-stats-category]');
+  if (tab && tab.dataset.statsCategory !== category) {
+    category = tab.dataset.statsCategory;
+    metric = category === 'players' ? 'titles' : 'trophies';
+    query = '';
+    page = 0;
+    render();
+    screen.querySelector('[aria-pressed="true"]').focus();
+  }
+  if (event.target.id === 'stats-prev' || event.target.id === 'stats-next') {
+    page += event.target.id === 'stats-next' ? 1 : -1;
+    results();
+    if (event.target.disabled) screen.querySelector(event.target.id === 'stats-next' ? '#stats-prev' : '#stats-next').focus();
+  }
+});
+screen.addEventListener('input', event => {
+  if (event.target.id !== 'stats-search') return;
+  query = event.target.value;
+  page = 0;
+  results();
+});
+screen.addEventListener('change', event => {
+  const {id, value} = event.target;
+  if (id === 'stats-metric') metric = value;
+  else if (id === 'stats-year') year = value;
+  else if (id === 'stats-org') organizer = value;
+  else return;
+  page = 0;
+  render();
+  screen.querySelector('#' + id)?.focus();
+});
 })();
