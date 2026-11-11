@@ -9244,10 +9244,6 @@ window.RANKS_ARCHIVE = {
         },
         {
           "type": "text",
-          "text": "-PLAYER COM MAIS TITULOS NA HISTORIA DA TSL🥇"
-        },
-        {
-          "type": "text",
           "text": "✨PREMIAÇÕES✨"
         },
         {
@@ -11560,10 +11556,6 @@ window.RANKS_ARCHIVE = {
             {
               "type": "text",
               "text": "-CAMPEAO DO PRIMEIRO MAJOR DO BLOCK STRIKE BRASILEIRO🥇"
-            },
-            {
-              "type": "text",
-              "text": "-PLAYER COM MAIS TITULOS NA HISTORIA DA TSL🥇"
             },
             {
               "type": "text",
