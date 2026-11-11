@@ -3218,6 +3218,13 @@ window.HBSTV_DATABASE = {
           "source": "events-2024"
         },
         {
+          "id": "2024:gzalphacup",
+          "title": "GZ | ALPHA CUP",
+          "year": 2024,
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
           "id": "2024:llpstrikeones4",
           "title": "LLP | STRIKE ONE SEASON 4",
           "year": 2024,
@@ -6279,6 +6286,13 @@ window.HBSTV_DATABASE = {
           "source": "events-2024"
         },
         {
+          "id": "2024:gzalphacup",
+          "title": "GZ | ALPHA CUP",
+          "year": 2024,
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
           "id": "major:194c5f557f9f233ff918",
           "title": "WHL | Major",
           "year": 2023,
@@ -6562,6 +6576,13 @@ window.HBSTV_DATABASE = {
           "title": "GAMEZONE | NEW AGE",
           "year": 2024,
           "source": "events-2024"
+        },
+        {
+          "id": "2024:gzalphacup",
+          "title": "GZ | ALPHA CUP",
+          "year": 2024,
+          "major": false,
+          "source": "owner-confirmed"
         },
         {
           "id": "2023:lhaworldcupofclans",
@@ -12316,6 +12337,13 @@ window.HBSTV_DATABASE = {
           "years": [
             2019
           ]
+        },
+        {
+          "id": "00",
+          "name": "00",
+          "years": [
+            2024
+          ]
         }
       ],
       "titles": [
@@ -12327,6 +12355,15 @@ window.HBSTV_DATABASE = {
           "team": "SDP Interlude",
           "major": false,
           "source": "events-2025"
+        },
+        {
+          "id": "2024:gzalphacup",
+          "title": "GZ | ALPHA CUP",
+          "year": 2024,
+          "teamId": "00",
+          "team": "00",
+          "major": false,
+          "source": "owner-confirmed"
         },
         {
           "id": "2023:tslblaststrikeleague",
@@ -12381,6 +12418,13 @@ window.HBSTV_DATABASE = {
           "title": "BCN | CHALLENGERS CHAMPIONSHIP",
           "year": 2025,
           "source": "events-2025"
+        },
+        {
+          "id": "2024:gzalphacup",
+          "title": "GZ | ALPHA CUP",
+          "year": 2024,
+          "major": false,
+          "source": "owner-confirmed"
         },
         {
           "id": "2023:gzgtrleague",
@@ -13702,6 +13746,13 @@ window.HBSTV_DATABASE = {
           "title": "GAMEZONE | PRO SERIES LEAGUE",
           "year": 2024,
           "source": "events-2024"
+        },
+        {
+          "id": "2024:gzalphacup",
+          "title": "GZ | ALPHA CUP",
+          "year": 2024,
+          "major": false,
+          "source": "owner-confirmed"
         },
         {
           "id": "2021:gsemasters",
@@ -15569,6 +15620,13 @@ window.HBSTV_DATABASE = {
           "title": "GAMEZONE | PRO SERIES LEAGUE SEASON 3",
           "year": 2024,
           "source": "events-2024"
+        },
+        {
+          "id": "2024:gzalphacup",
+          "title": "GZ | ALPHA CUP",
+          "year": 2024,
+          "major": false,
+          "source": "owner-confirmed"
         }
       ],
       "evps": [
@@ -19489,15 +19547,25 @@ window.HBSTV_DATABASE = {
         "00"
       ],
       "roster": [],
-      "mvps": [],
-      "evps": [],
+      "mvps": [
+        "tabsenn"
+      ],
+      "evps": [
+        "hardzera",
+        "scream",
+        "rn",
+        "helix",
+        "conjure"
+      ],
       "sources": [
         "owner-confirmed"
       ],
       "notes": [
-        "Título da GZ Alpha Cup 2024 confirmado pelo responsável pelo site."
+        "Título da GZ Alpha Cup 2024 confirmado pelo responsável pelo site.",
+        "Premiações individuais confirmadas pelo responsável pelo site."
       ],
       "images": [],
+      "mvs": [],
       "rosterReference": {
         "players": [
           "conjure",
@@ -19505,7 +19573,8 @@ window.HBSTV_DATABASE = {
           "helix",
           "scream",
           "shelzz",
-          "tabsenn"
+          "tabsenn",
+          "rn"
         ],
         "year": 2024,
         "source": "Elenco anual da equipe em 2024",
@@ -29130,6 +29199,16 @@ window.HBSTV_DATABASE = {
           ],
           "sources": [
             "Passagem registrada no Hall of Fame. Temporada de 2024 corrigida pelo responsável pelo site."
+          ]
+        },
+        {
+          "id": "rn",
+          "name": "RN",
+          "years": [
+            2024
+          ],
+          "sources": [
+            "owner-confirmed"
           ]
         }
       ],
