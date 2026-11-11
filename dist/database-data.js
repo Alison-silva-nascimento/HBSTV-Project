@@ -891,20 +891,6 @@ window.HBSTV_DATABASE = {
           "source": "hall-of-fame-3"
         },
         {
-          "id": "2018:tslhardnesleague",
-          "title": "TSL | Hardness Pro League",
-          "year": 2018,
-          "organizer": "TSL",
-          "source": "hall-of-fame-3"
-        },
-        {
-          "id": "2018:tslextrememasters",
-          "title": "TSL | Brasil extreme Masters",
-          "year": 2018,
-          "organizer": "TSL",
-          "source": "hall-of-fame-3"
-        },
-        {
           "id": "major:ba4b48dba7cb6e5526a7",
           "title": "TSL | MAJOR PREMIERE",
           "year": 2018,
@@ -22349,17 +22335,18 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [],
       "sources": [
-        "top-1-teams-of-years"
+        "top-1-teams-of-years",
+        "owner-confirmed"
       ],
       "notes": [],
       "images": [],
+      "mvs": [],
       "rosterReference": {
         "players": [
           "strong",
           "4i2o",
           "pasha",
           "shelzz",
-          "4kkp",
           "casta",
           "theuzz",
           "kns",
@@ -22411,17 +22398,18 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [],
       "sources": [
-        "top-1-teams-of-years"
+        "top-1-teams-of-years",
+        "owner-confirmed"
       ],
       "notes": [],
       "images": [],
+      "mvs": [],
       "rosterReference": {
         "players": [
           "strong",
           "4i2o",
           "pasha",
           "shelzz",
-          "4kkp",
           "casta",
           "theuzz",
           "kns",
@@ -26567,7 +26555,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2018:tslextrememasters",
-          "title": "TSL Brasil extreme Masters",
+          "title": "TSL | Brasil extreme Masters",
           "year": 2018,
           "source": "top-1-teams-of-years",
           "major": false,

@@ -107,5 +107,19 @@
       "ShelzZ"
     ],
     "evps": []
+  },
+  {
+    "id": "2018:tslextrememasters",
+    "year": 2018,
+    "excludedRoster": [
+      "4KKp"
+    ]
+  },
+  {
+    "id": "2018:tslhardnesleague",
+    "year": 2018,
+    "excludedRoster": [
+      "4KKp"
+    ]
   }
 ]

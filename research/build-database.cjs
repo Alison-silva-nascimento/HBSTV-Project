@@ -16,8 +16,9 @@ for (const row of confirmedTournaments) {
   const e = existing || event({ id: row.id, title: row.title, year: row.year });
   if (row.title) e.title = row.title;
   if (!e.sources.includes('owner-confirmed')) e.sources.push('owner-confirmed');
-  e.notes.push('Premiações individuais confirmadas pelo responsável pelo site.');
+  if (row.mvp || row.evps || row.mvs) e.notes.push('Premiações individuais confirmadas pelo responsável pelo site.');
   for (const [field, names] of Object.entries({mvps: row.mvp, evps: row.evps, mvs: row.mvs || []})) {
+    if (!names) continue;
     e[field] = [...new Set(names.map(key))];
     for (const player of index.players) {
       if (!player[field] && !e[field].includes(player.id)) continue;
@@ -66,6 +67,12 @@ for (const row of confirmedTournaments.filter(row => row.confirmedRoster || row.
   }
 }
 require('./reconcile-historical-titles.cjs')({ archive: c.window.RANKS_ARCHIVE, players: index.players, events, key });
+for (const row of confirmedTournaments) {
+  const excluded = new Set((row.excludedRoster || []).map(key));
+  for (const player of index.players.filter(player => excluded.has(player.id))) {
+    player.historicalTitles = player.historicalTitles?.filter(title => title.id !== row.id);
+  }
+}
 const nescau = index.players.find(player => player.id === 'nescau');
 nescau.hallOfFame = true;
 index.players.find(player => player.id === 'scuba').hallOfFame = true;
