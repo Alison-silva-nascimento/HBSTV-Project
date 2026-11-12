@@ -101,6 +101,12 @@ for (const player of index.players) {
   }).map(({team, year, rank}) => ({teamId:team.id, name:team.name, year, rank}))
     .sort((a,b) => b.year - a.year || a.rank - b.rank);
 }
+const retiredTeamIds = new Set(['luvv', 'gc2018', 'gc2019']);
+for (const player of index.players) {
+  if (player.id === 'fabri' || player.teams.some(team => retiredTeamIds.has(team.id))) {
+    player.retired = true;
+  }
+}
 const data={schemaVersion:1,updated:'2026-11-03',players:index.players,aliases:index.aliases,events:list,teams:c.window.HBSTV_TEAMS.map(t=>({...t,aliases:[...new Set([...t.aliases,...t.searchAliases])]}))};
 assert.equal(new Set(data.players.map(p=>p.id)).size,data.players.length);assert.equal(new Set(list.map(e=>e.id)).size,list.length);
 fs.writeFileSync('dist/database-data.js','window.HBSTV_DATABASE = '+JSON.stringify(data,null,2)+';\n');console.log(JSON.stringify({canonicalPlayers:data.players.length,teams:data.teams.length,events:list.length}));

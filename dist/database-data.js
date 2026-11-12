@@ -1882,7 +1882,8 @@ window.HBSTV_DATABASE = {
           "year": 2017,
           "rank": 1
         }
-      ]
+      ],
+      "retired": true
     },
     {
       "id": "anarchy",
@@ -3102,7 +3103,8 @@ window.HBSTV_DATABASE = {
           "year": 2017,
           "rank": 1
         }
-      ]
+      ],
+      "retired": true
     },
     {
       "id": "broky",
@@ -4970,7 +4972,8 @@ window.HBSTV_DATABASE = {
           "year": 2021,
           "rank": 4
         }
-      ]
+      ],
+      "retired": true
     },
     {
       "id": "fabri",
@@ -5153,7 +5156,8 @@ window.HBSTV_DATABASE = {
           "year": 2018,
           "rank": 2
         }
-      ]
+      ],
+      "retired": true
     },
     {
       "id": "feeh",
@@ -5279,7 +5283,8 @@ window.HBSTV_DATABASE = {
           "year": 2019,
           "rank": 1
         }
-      ]
+      ],
+      "retired": true
     },
     {
       "id": "felpera",
@@ -5355,7 +5360,8 @@ window.HBSTV_DATABASE = {
           "year": 2021,
           "rank": 4
         }
-      ]
+      ],
+      "retired": true
     },
     {
       "id": "felps",
@@ -5423,7 +5429,8 @@ window.HBSTV_DATABASE = {
           "year": 2018,
           "rank": 3
         }
-      ]
+      ],
+      "retired": true
     },
     {
       "id": "finland",
@@ -7133,7 +7140,8 @@ window.HBSTV_DATABASE = {
           "year": 2018,
           "rank": 4
         }
-      ]
+      ],
+      "retired": true
     },
     {
       "id": "helix",
@@ -7490,7 +7498,8 @@ window.HBSTV_DATABASE = {
           "year": 2021,
           "rank": 4
         }
-      ]
+      ],
+      "retired": true
     },
     {
       "id": "henzo",
@@ -8551,7 +8560,8 @@ window.HBSTV_DATABASE = {
           "year": 2017,
           "rank": 3
         }
-      ]
+      ],
+      "retired": true
     },
     {
       "id": "jigsaw",
@@ -9777,7 +9787,8 @@ window.HBSTV_DATABASE = {
           "year": 2021,
           "rank": 4
         }
-      ]
+      ],
+      "retired": true
     },
     {
       "id": "metro",
@@ -10910,7 +10921,8 @@ window.HBSTV_DATABASE = {
       "evps": [],
       "rankings": [],
       "awards": [],
-      "topFiveTeams": []
+      "topFiveTeams": [],
+      "retired": true
     },
     {
       "id": "nezhno",
@@ -13886,7 +13898,8 @@ window.HBSTV_DATABASE = {
           "year": 2019,
           "rank": 1
         }
-      ]
+      ],
+      "retired": true
     },
     {
       "id": "roblox",
@@ -14028,7 +14041,8 @@ window.HBSTV_DATABASE = {
           "year": 2021,
           "rank": 4
         }
-      ]
+      ],
+      "retired": true
     },
     {
       "id": "ryota",
@@ -14625,7 +14639,8 @@ window.HBSTV_DATABASE = {
           "year": 2017,
           "rank": 2
         }
-      ]
+      ],
+      "retired": true
     },
     {
       "id": "sawpai",
@@ -15667,7 +15682,8 @@ window.HBSTV_DATABASE = {
           "year": 2021,
           "rank": 4
         }
-      ]
+      ],
+      "retired": true
     },
     {
       "id": "sharp1",
@@ -16308,7 +16324,8 @@ window.HBSTV_DATABASE = {
           "year": 2019,
           "rank": 1
         }
-      ]
+      ],
+      "retired": true
     },
     {
       "id": "sink",
@@ -16379,7 +16396,8 @@ window.HBSTV_DATABASE = {
           "year": 2017,
           "rank": 1
         }
-      ]
+      ],
+      "retired": true
     },
     {
       "id": "skillzes",
@@ -16824,7 +16842,8 @@ window.HBSTV_DATABASE = {
           "year": 2021,
           "rank": 4
         }
-      ]
+      ],
+      "retired": true
     },
     {
       "id": "svg3",
@@ -17171,7 +17190,8 @@ window.HBSTV_DATABASE = {
           "year": 2021,
           "rank": 4
         }
-      ]
+      ],
+      "retired": true
     },
     {
       "id": "tabsenn",
@@ -18927,7 +18947,8 @@ window.HBSTV_DATABASE = {
           "year": 2018,
           "rank": 3
         }
-      ]
+      ],
+      "retired": true
     },
     {
       "id": "vat",
@@ -19389,7 +19410,8 @@ window.HBSTV_DATABASE = {
           "year": 2019,
           "rank": 1
         }
-      ]
+      ],
+      "retired": true
     },
     {
       "id": "whitday",
@@ -19555,7 +19577,8 @@ window.HBSTV_DATABASE = {
           "year": 2019,
           "rank": 1
         }
-      ]
+      ],
+      "retired": true
     },
     {
       "id": "xdroid",
@@ -20524,7 +20547,8 @@ window.HBSTV_DATABASE = {
           "year": 2018,
           "rank": 3
         }
-      ]
+      ],
+      "retired": true
     },
     {
       "id": "zunhn",
