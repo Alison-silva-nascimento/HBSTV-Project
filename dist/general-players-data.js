@@ -3722,8 +3722,8 @@ window.HBSTV_PLAYER_INDEX = {
           "source": "owner-confirmed"
         },
         {
-          "id": "2021:suvohloftuscup",
-          "title": "SUVOH | LOFTUS CUP",
+          "id": "2021:suvohloftuscupedicaodaluvv",
+          "title": "SUVOH | LOFTUS CUP (edição da LUVV)",
           "year": 2021,
           "teamId": "luvv",
           "team": "LUVV",
@@ -6936,8 +6936,8 @@ window.HBSTV_PLAYER_INDEX = {
           "source": "owner-confirmed"
         },
         {
-          "id": "2021:suvohloftuscup",
-          "title": "SUVOH | LOFTUS CUP",
+          "id": "2021:suvohloftuscupedicaodaluvv",
+          "title": "SUVOH | LOFTUS CUP (edição da LUVV)",
           "year": 2021,
           "teamId": "luvv",
           "team": "LUVV",
@@ -9875,8 +9875,8 @@ window.HBSTV_PLAYER_INDEX = {
           "source": "owner-confirmed"
         },
         {
-          "id": "2021:suvohloftuscup",
-          "title": "SUVOH | LOFTUS CUP",
+          "id": "2021:suvohloftuscupedicaodaluvv",
+          "title": "SUVOH | LOFTUS CUP (edição da LUVV)",
           "year": 2021,
           "teamId": "luvv",
           "team": "LUVV",
@@ -10091,8 +10091,8 @@ window.HBSTV_PLAYER_INDEX = {
           "source": "owner-confirmed"
         },
         {
-          "id": "2021:suvohloftuscup",
-          "title": "SUVOH | LOFTUS CUP",
+          "id": "2021:suvohloftuscupedicaodaluvv",
+          "title": "SUVOH | LOFTUS CUP (edição da LUVV)",
           "year": 2021,
           "teamId": "luvv",
           "team": "LUVV",
@@ -11161,8 +11161,8 @@ window.HBSTV_PLAYER_INDEX = {
           "source": "owner-confirmed"
         },
         {
-          "id": "2021:suvohloftuscup",
-          "title": "SUVOH | LOFTUS CUP",
+          "id": "2021:suvohloftuscupedicaodaluvv",
+          "title": "SUVOH | LOFTUS CUP (edição da LUVV)",
           "year": 2021,
           "teamId": "luvv",
           "team": "LUVV",
