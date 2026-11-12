@@ -5205,6 +5205,7 @@ window.HBSTV_DATABASE = {
         }
       ],
       "awards": [],
+      "hallOfFame": true,
       "topFiveTeams": [
         {
           "teamId": "tsy2019",
