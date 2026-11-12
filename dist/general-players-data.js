@@ -4170,7 +4170,9 @@ window.HBSTV_PLAYER_INDEX = {
         {
           "id": "wa",
           "name": "wA",
-          "years": []
+          "years": [
+            2017
+          ]
         }
       ],
       "titles": [
@@ -5314,7 +5316,9 @@ window.HBSTV_PLAYER_INDEX = {
         {
           "id": "wa",
           "name": "wA",
-          "years": []
+          "years": [
+            2017
+          ]
         }
       ],
       "titles": [
@@ -11309,7 +11313,9 @@ window.HBSTV_PLAYER_INDEX = {
         {
           "id": "wa",
           "name": "wA",
-          "years": []
+          "years": [
+            2017
+          ]
         }
       ],
       "titles": [
@@ -14324,7 +14330,9 @@ window.HBSTV_PLAYER_INDEX = {
         {
           "id": "wa",
           "name": "wA",
-          "years": []
+          "years": [
+            2017
+          ]
         }
       ],
       "titles": [

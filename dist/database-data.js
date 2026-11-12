@@ -5653,7 +5653,9 @@ window.HBSTV_DATABASE = {
         {
           "id": "wa",
           "name": "wA",
-          "years": []
+          "years": [
+            2017
+          ]
         }
       ],
       "titles": [
@@ -7338,7 +7340,9 @@ window.HBSTV_DATABASE = {
         {
           "id": "wa",
           "name": "wA",
-          "years": []
+          "years": [
+            2017
+          ]
         }
       ],
       "titles": [
@@ -15361,7 +15365,9 @@ window.HBSTV_DATABASE = {
         {
           "id": "wa",
           "name": "wA",
-          "years": []
+          "years": [
+            2017
+          ]
         }
       ],
       "titles": [
@@ -19482,7 +19488,9 @@ window.HBSTV_DATABASE = {
         {
           "id": "wa",
           "name": "wA",
-          "years": []
+          "years": [
+            2017
+          ]
         }
       ],
       "titles": [
@@ -34324,33 +34332,41 @@ window.HBSTV_DATABASE = {
         {
           "id": "fugly",
           "name": "FugLY",
-          "years": [],
+          "years": [
+            2017
+          ],
           "sources": [
-            "Passagem registrada no Hall of Fame. Temporada não informada."
+            "Passagem registrada no Hall of Fame. Temporada de 2017 confirmada pelo responsável pelo site."
           ]
         },
         {
           "id": "insani",
           "name": "Insani",
-          "years": [],
+          "years": [
+            2017
+          ],
           "sources": [
-            "Passagem registrada no Hall of Fame. Temporada não informada."
+            "Passagem registrada no Hall of Fame. Temporada de 2017 confirmada pelo responsável pelo site."
           ]
         },
         {
           "id": "shelzz",
           "name": "ShelzZ",
-          "years": [],
+          "years": [
+            2017
+          ],
           "sources": [
-            "Passagem registrada no Hall of Fame. Temporada não informada."
+            "Passagem registrada no Hall of Fame. Temporada de 2017 confirmada pelo responsável pelo site."
           ]
         },
         {
           "id": "zenn",
           "name": "zenn",
-          "years": [],
+          "years": [
+            2017
+          ],
           "sources": [
-            "Passagem registrada no Hall of Fame. Temporada não informada."
+            "Passagem registrada no Hall of Fame. Temporada de 2017 confirmada pelo responsável pelo site."
           ]
         }
       ],
