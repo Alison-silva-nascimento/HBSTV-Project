@@ -13,4 +13,7 @@ champions.find(t=>t.year===2019).note='A mesma equipe competiu como Temp Stormy 
 const rankings=JSON.parse(fs.readFileSync('research/team-top5.json','utf8'));
 champions.forEach(t=>t.countries=t.roster.map((_,i)=>t.year===2025?(i===4?'LT':i===5?'DE':'BR'):t.year===2024?(['BR','BR','BR','BR','ES','FR','PL','FR'][i]):'BR'));
 rankings.forEach(r=>r.teams.forEach(t=>t.countries=t.roster.map((_,i)=>r.year===2025?(i===7?'LT':'BR'):r.year===2024?(['BR','ES','PL','FR','BR','BR','BR','FR'][i]):'BR')));
+const tsyCountries=["BR","BR","BR","BR","BR",null,"BR","BR","BR",null,null,"AR"];
+champions.find(t=>t.year===2019).countries=tsyCountries;
+rankings.find(t=>t.year===2019).teams.find(t=>t.rank===1).countries=tsyCountries;
 fs.writeFileSync('dist/team-years-data.js','window.RANKS_TEAM_YEARS = '+JSON.stringify({champions,rankings},null,2)+';\n');

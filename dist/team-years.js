@@ -7,7 +7,7 @@ window.selectTeamRankingYear=value=>{if(years.includes(Number(value)))year=Numbe
 function singleEmblem(team,src){const c=team.logoCrop;if(!c)return `<span class="team-emblem team-initials">${esc(team.name.split(/\s+/).map(n=>n[0]).join('').slice(0,3))}</span>`;return `<span class="team-emblem"><img alt="Logo ${esc(team.name)}" src="${esc(src)}" style="width:${100/c.w}%;height:${100/c.h}%;left:${-100*c.x/c.w}%;top:${-100*c.y/c.h}%"></span>`;}
 function emblem(team,src){if(!/Temp Stormy.*(?:GC|Goblins Cheating)/i.test(team.name))return singleEmblem(team,src);const gcRanking=data.rankings.find(r=>r.year===2018),gc=gcRanking.teams.find(t=>/GC 2018|GOBLINS CHEATING/i.test(t.name));return `<span class="team-emblem-pair">${singleEmblem({...team,name:'Temp Stormy'},src)}${singleEmblem({...gc,name:'Goblins Cheating'},gcRanking.sourceImage)}</span>`;}
 function player(label,country){
-const flag=country?`<i class="team-country" aria-label="${({BR:'Brasil',LT:'Lituânia',DE:'Alemanha',ES:'Espanha',FR:'França',PL:'Polônia'})[country]||country}">${country}</i>`:'';
+const flag=country?`<i class="team-country" aria-label="${({BR:'Brasil',AR:'Argentina',LT:'Lituânia',DE:'Alemanha',ES:'Espanha',FR:'França',PL:'Polônia'})[country]||country}">${country}</i>`:'';
 const nick=label.match(/“([^”]+)”/)?.[1]||label,norm=s=>normalizeText(s).replace(/0/g,'o').replace(/[^a-z0-9]/g,''),aliases={tabsen:'tabsenn',conjure:'c0njure',ryota:'ry0ta',...(window.HBSTV_PLAYER_INDEX?.aliases||{})};
 const displayNick=aliases[norm(nick)]||nick,target=players.find(p=>norm(p.name)===norm(displayNick)),id=window.getRegisteredPlayerId?.(displayNick),clickable=target||id;
 const attr=target?`data-player="${players.indexOf(target)}"`:id?`data-entity-player="${id}"`:'';

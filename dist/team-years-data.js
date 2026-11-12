@@ -257,13 +257,13 @@ window.RANKS_TEAM_YEARS = {
         "BR",
         "BR",
         "BR",
+        null,
         "BR",
         "BR",
         "BR",
-        "BR",
-        "BR",
-        "BR",
-        "BR"
+        null,
+        null,
+        "AR"
       ]
     },
     {
@@ -760,13 +760,13 @@ window.RANKS_TEAM_YEARS = {
             "BR",
             "BR",
             "BR",
+            null,
             "BR",
             "BR",
             "BR",
-            "BR",
-            "BR",
-            "BR",
-            "BR"
+            null,
+            null,
+            "AR"
           ]
         },
         {
