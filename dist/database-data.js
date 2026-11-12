@@ -7317,6 +7317,13 @@ window.HBSTV_DATABASE = {
           "years": [
             2021
           ]
+        },
+        {
+          "id": "vanx",
+          "name": "VANX",
+          "years": [
+            2020
+          ]
         }
       ],
       "titles": [
@@ -7328,6 +7335,51 @@ window.HBSTV_DATABASE = {
           "team": "Team Infinity",
           "major": true,
           "source": "major-history"
+        },
+        {
+          "id": "2020:elitestrike",
+          "title": "? | Elite Strike 2020",
+          "year": 2020,
+          "teamId": "vanx",
+          "team": "VANX",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:gseevolutionchampionship",
+          "title": "GSE | Evolution Championship 2020",
+          "year": 2020,
+          "teamId": "vanx",
+          "team": "VANX",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:gsetuescup",
+          "title": "GSE | TUES CUP 2020",
+          "year": 2020,
+          "teamId": "vanx",
+          "team": "VANX",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:suvohloftuscup",
+          "title": "SUVOH | Loftus Cup 2020",
+          "year": 2020,
+          "teamId": "vanx",
+          "team": "VANX",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:tslcbbs40",
+          "title": "TSL | CBBS 4.0 2020",
+          "year": 2020,
+          "teamId": "vanx",
+          "team": "VANX",
+          "major": false,
+          "source": "owner-confirmed"
         }
       ],
       "mvps": [],
@@ -7376,6 +7428,12 @@ window.HBSTV_DATABASE = {
           "name": "Team Infinity",
           "year": 2021,
           "rank": 1
+        },
+        {
+          "teamId": "vanx",
+          "name": "VANX",
+          "year": 2020,
+          "rank": 2
         }
       ]
     },
@@ -22614,7 +22672,8 @@ window.HBSTV_DATABASE = {
         "force",
         "bale",
         "spinard",
-        "zmat"
+        "zmat",
+        "inovate"
       ],
       "mvps": [],
       "evps": [],
@@ -22690,7 +22749,8 @@ window.HBSTV_DATABASE = {
         "force",
         "bale",
         "spinard",
-        "zmat"
+        "zmat",
+        "inovate"
       ],
       "mvps": [],
       "evps": [],
@@ -22824,7 +22884,8 @@ window.HBSTV_DATABASE = {
         "force",
         "bale",
         "spinard",
-        "zmat"
+        "zmat",
+        "inovate"
       ],
       "mvps": [],
       "evps": [],
@@ -22931,7 +22992,8 @@ window.HBSTV_DATABASE = {
         "force",
         "bale",
         "spinard",
-        "zmat"
+        "zmat",
+        "inovate"
       ],
       "mvps": [],
       "evps": [],
@@ -22958,7 +23020,8 @@ window.HBSTV_DATABASE = {
         "force",
         "bale",
         "spinard",
-        "zmat"
+        "zmat",
+        "inovate"
       ],
       "mvps": [],
       "evps": [],
@@ -27187,7 +27250,8 @@ window.HBSTV_DATABASE = {
             "Force",
             "Bale",
             "SpinarD",
-            "zMAT"
+            "zMAT",
+            "iNovate"
           ]
         },
         {
@@ -27204,7 +27268,8 @@ window.HBSTV_DATABASE = {
             "Force",
             "Bale",
             "SpinarD",
-            "zMAT"
+            "zMAT",
+            "iNovate"
           ]
         },
         {
@@ -27221,7 +27286,8 @@ window.HBSTV_DATABASE = {
             "Force",
             "Bale",
             "SpinarD",
-            "zMAT"
+            "zMAT",
+            "iNovate"
           ]
         },
         {
@@ -27238,7 +27304,8 @@ window.HBSTV_DATABASE = {
             "Force",
             "Bale",
             "SpinarD",
-            "zMAT"
+            "zMAT",
+            "iNovate"
           ]
         },
         {
@@ -27255,7 +27322,8 @@ window.HBSTV_DATABASE = {
             "Force",
             "Bale",
             "SpinarD",
-            "zMAT"
+            "zMAT",
+            "iNovate"
           ]
         }
       ],
@@ -27273,6 +27341,16 @@ window.HBSTV_DATABASE = {
         {
           "id": "force",
           "name": "Force",
+          "years": [
+            2020
+          ],
+          "sources": [
+            "Títulos e elenco de 2020 informados pelo responsável pelo site."
+          ]
+        },
+        {
+          "id": "inovate",
+          "name": "iNovate",
           "years": [
             2020
           ],

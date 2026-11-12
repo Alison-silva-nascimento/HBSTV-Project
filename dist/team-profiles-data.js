@@ -3446,7 +3446,8 @@ window.HBSTV_TEAMS = [
           "Force",
           "Bale",
           "SpinarD",
-          "zMAT"
+          "zMAT",
+          "iNovate"
         ]
       },
       {
@@ -3463,7 +3464,8 @@ window.HBSTV_TEAMS = [
           "Force",
           "Bale",
           "SpinarD",
-          "zMAT"
+          "zMAT",
+          "iNovate"
         ]
       },
       {
@@ -3480,7 +3482,8 @@ window.HBSTV_TEAMS = [
           "Force",
           "Bale",
           "SpinarD",
-          "zMAT"
+          "zMAT",
+          "iNovate"
         ]
       },
       {
@@ -3497,7 +3500,8 @@ window.HBSTV_TEAMS = [
           "Force",
           "Bale",
           "SpinarD",
-          "zMAT"
+          "zMAT",
+          "iNovate"
         ]
       },
       {
@@ -3514,7 +3518,8 @@ window.HBSTV_TEAMS = [
           "Force",
           "Bale",
           "SpinarD",
-          "zMAT"
+          "zMAT",
+          "iNovate"
         ]
       }
     ],
@@ -3532,6 +3537,16 @@ window.HBSTV_TEAMS = [
       {
         "id": "force",
         "name": "Force",
+        "years": [
+          2020
+        ],
+        "sources": [
+          "Títulos e elenco de 2020 informados pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "inovate",
+        "name": "iNovate",
         "years": [
           2020
         ],
