@@ -10251,6 +10251,28 @@ window.HBSTV_TEAMS = [
     }
   },
   {
+    "id": "ies",
+    "name": "IES",
+    "aliases": [
+      "IES"
+    ],
+    "titles": [],
+    "members": [
+      {
+        "id": "oskar",
+        "name": "Oskar",
+        "years": [
+          2022
+        ],
+        "sources": [
+          "Passagem e temporada confirmadas pelo responsável pelo site."
+        ]
+      }
+    ],
+    "rankings": [],
+    "searchAliases": []
+  },
+  {
     "id": "mouz",
     "name": "MOUZ",
     "aliases": [
@@ -10469,7 +10491,18 @@ window.HBSTV_TEAMS = [
       "PYRO"
     ],
     "titles": [],
-    "members": [],
+    "members": [
+      {
+        "id": "oskar",
+        "name": "Oskar",
+        "years": [
+          2021
+        ],
+        "sources": [
+          "Passagem e temporada confirmadas pelo responsável pelo site."
+        ]
+      }
+    ],
     "rankings": [
       {
         "year": 2021,
@@ -10556,7 +10589,19 @@ window.HBSTV_TEAMS = [
       "SAINTS TEAM"
     ],
     "titles": [],
-    "members": [],
+    "members": [
+      {
+        "id": "oskar",
+        "name": "Oskar",
+        "years": [
+          2021,
+          2020
+        ],
+        "sources": [
+          "Passagem e temporada confirmadas pelo responsável pelo site."
+        ]
+      }
+    ],
     "rankings": [
       {
         "year": 2020,

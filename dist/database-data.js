@@ -11768,8 +11768,30 @@ window.HBSTV_DATABASE = {
           ]
         },
         {
+          "id": "ies",
+          "name": "IES",
+          "years": [
+            2022
+          ]
+        },
+        {
           "id": "nike",
           "name": "NIKE",
+          "years": [
+            2021
+          ]
+        },
+        {
+          "id": "saintsteam",
+          "name": "SAINTS TEAM",
+          "years": [
+            2021,
+            2020
+          ]
+        },
+        {
+          "id": "pyro",
+          "name": "PYRO",
           "years": [
             2021
           ]
@@ -12225,10 +12247,22 @@ window.HBSTV_DATABASE = {
           "rank": 1
         },
         {
+          "teamId": "pyro",
+          "name": "PYRO",
+          "year": 2021,
+          "rank": 5
+        },
+        {
           "teamId": "vanx",
           "name": "VANX",
           "year": 2020,
           "rank": 2
+        },
+        {
+          "teamId": "saintsteam",
+          "name": "SAINTS TEAM",
+          "year": 2020,
+          "rank": 4
         }
       ]
     },
@@ -34661,6 +34695,28 @@ window.HBSTV_DATABASE = {
       }
     },
     {
+      "id": "ies",
+      "name": "IES",
+      "aliases": [
+        "IES"
+      ],
+      "titles": [],
+      "members": [
+        {
+          "id": "oskar",
+          "name": "Oskar",
+          "years": [
+            2022
+          ],
+          "sources": [
+            "Passagem e temporada confirmadas pelo responsável pelo site."
+          ]
+        }
+      ],
+      "rankings": [],
+      "searchAliases": []
+    },
+    {
       "id": "mouz",
       "name": "MOUZ",
       "aliases": [
@@ -34880,7 +34936,18 @@ window.HBSTV_DATABASE = {
         "PYRO"
       ],
       "titles": [],
-      "members": [],
+      "members": [
+        {
+          "id": "oskar",
+          "name": "Oskar",
+          "years": [
+            2021
+          ],
+          "sources": [
+            "Passagem e temporada confirmadas pelo responsável pelo site."
+          ]
+        }
+      ],
       "rankings": [
         {
           "year": 2021,
@@ -34967,7 +35034,19 @@ window.HBSTV_DATABASE = {
         "SAINTS TEAM"
       ],
       "titles": [],
-      "members": [],
+      "members": [
+        {
+          "id": "oskar",
+          "name": "Oskar",
+          "years": [
+            2021,
+            2020
+          ],
+          "sources": [
+            "Passagem e temporada confirmadas pelo responsável pelo site."
+          ]
+        }
+      ],
       "rankings": [
         {
           "year": 2020,

@@ -8633,8 +8633,30 @@ window.HBSTV_PLAYER_INDEX = {
           ]
         },
         {
+          "id": "ies",
+          "name": "IES",
+          "years": [
+            2022
+          ]
+        },
+        {
           "id": "nike",
           "name": "NIKE",
+          "years": [
+            2021
+          ]
+        },
+        {
+          "id": "saintsteam",
+          "name": "SAINTS TEAM",
+          "years": [
+            2021,
+            2020
+          ]
+        },
+        {
+          "id": "pyro",
+          "name": "PYRO",
           "years": [
             2021
           ]
