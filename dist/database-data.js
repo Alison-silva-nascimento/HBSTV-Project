@@ -4485,6 +4485,36 @@ window.HBSTV_DATABASE = {
       "topFiveTeams": []
     },
     {
+      "id": "draken",
+      "name": "Draken",
+      "aliases": [
+        "Draken"
+      ],
+      "realNames": [],
+      "teams": [
+        {
+          "id": "tsy2019",
+          "name": "TSY 2019",
+          "years": [
+            2019
+          ]
+        }
+      ],
+      "titles": [],
+      "mvps": [],
+      "evps": [],
+      "rankings": [],
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "tsy2019",
+          "name": "TSY 2019",
+          "year": 2019,
+          "rank": 1
+        }
+      ]
+    },
+    {
       "id": "dripwave",
       "name": "Dripwave",
       "aliases": [
@@ -4897,6 +4927,13 @@ window.HBSTV_DATABASE = {
       ],
       "teams": [
         {
+          "id": "tsy2019",
+          "name": "TSY 2019",
+          "years": [
+            2019
+          ]
+        },
+        {
           "id": "razer",
           "name": "RAZER",
           "years": [
@@ -4926,6 +4963,12 @@ window.HBSTV_DATABASE = {
       "awards": [],
       "topFiveTeams": [
         {
+          "teamId": "tsy2019",
+          "name": "TSY 2019",
+          "year": 2019,
+          "rank": 1
+        },
+        {
           "teamId": "razer",
           "name": "RAZER",
           "year": 2018,
@@ -4937,8 +4980,7 @@ window.HBSTV_DATABASE = {
       "id": "feeh",
       "name": "FeeH",
       "aliases": [
-        "FeeH",
-        "Feeh"
+        "FeeH"
       ],
       "realNames": [],
       "teams": [
@@ -8018,6 +8060,13 @@ window.HBSTV_DATABASE = {
           "years": [
             2019
           ]
+        },
+        {
+          "id": "tsy2019",
+          "name": "TSY 2019",
+          "years": [
+            2019
+          ]
         }
       ],
       "titles": [
@@ -8042,6 +8091,12 @@ window.HBSTV_DATABASE = {
       ],
       "awards": [],
       "topFiveTeams": [
+        {
+          "teamId": "tsy2019",
+          "name": "TSY 2019",
+          "year": 2019,
+          "rank": 1
+        },
         {
           "teamId": "real",
           "name": "REAL",
@@ -13868,13 +13923,6 @@ window.HBSTV_DATABASE = {
           ]
         },
         {
-          "id": "tsy2019",
-          "name": "TSY 2019",
-          "years": [
-            2019
-          ]
-        },
-        {
           "id": "pir4tas",
           "name": "PIR4TAS",
           "years": [
@@ -13927,12 +13975,6 @@ window.HBSTV_DATABASE = {
         }
       ],
       "topFiveTeams": [
-        {
-          "teamId": "tsy2019",
-          "name": "TSY 2019",
-          "year": 2019,
-          "rank": 1
-        },
         {
           "teamId": "pir4tas",
           "name": "PIR4TAS",
@@ -14253,6 +14295,13 @@ window.HBSTV_DATABASE = {
           ]
         },
         {
+          "id": "tsy2019",
+          "name": "TSY 2019",
+          "years": [
+            2019
+          ]
+        },
+        {
           "id": "thunderzgaming",
           "name": "THUNDERZ GAMING",
           "years": [
@@ -14531,6 +14580,12 @@ window.HBSTV_DATABASE = {
           "teamId": "pentaesports",
           "name": "PENTA eSports",
           "year": 2020,
+          "rank": 1
+        },
+        {
+          "teamId": "tsy2019",
+          "name": "TSY 2019",
+          "year": 2019,
           "rank": 1
         },
         {
@@ -15497,6 +15552,13 @@ window.HBSTV_DATABASE = {
       "realNames": [],
       "teams": [
         {
+          "id": "tsy2019",
+          "name": "TSY 2019",
+          "years": [
+            2019
+          ]
+        },
+        {
           "id": "gc2019",
           "name": "GC 2019",
           "years": [
@@ -15533,7 +15595,14 @@ window.HBSTV_DATABASE = {
           "source": "ak-de-ouro-awards"
         }
       ],
-      "topFiveTeams": []
+      "topFiveTeams": [
+        {
+          "teamId": "tsy2019",
+          "name": "TSY 2019",
+          "year": 2019,
+          "rank": 1
+        }
+      ]
     },
     {
       "id": "sink",
@@ -17932,13 +18001,6 @@ window.HBSTV_DATABASE = {
       "realNames": [],
       "teams": [
         {
-          "id": "tsy2019",
-          "name": "TSY 2019",
-          "years": [
-            2019
-          ]
-        },
-        {
           "id": "gc2019",
           "name": "GC 2019",
           "years": [
@@ -17978,12 +18040,6 @@ window.HBSTV_DATABASE = {
       "rankings": [],
       "awards": [],
       "topFiveTeams": [
-        {
-          "teamId": "tsy2019",
-          "name": "TSY 2019",
-          "year": 2019,
-          "rank": 1
-        },
         {
           "teamId": "gc2018",
           "name": "GC 2018",
@@ -22567,13 +22623,18 @@ window.HBSTV_DATABASE = {
       "images": [],
       "rosterReference": {
         "players": [
-          "amz",
           "rn",
+          "amz",
           "whezz",
           "ryota",
+          "xacau",
+          "draken",
           "feeh",
           "adren",
-          "vamp"
+          "fabri",
+          "scream",
+          "jhow",
+          "sick"
         ],
         "year": 2019,
         "source": "Elenco anual da equipe em 2019",
@@ -22599,13 +22660,18 @@ window.HBSTV_DATABASE = {
       "images": [],
       "rosterReference": {
         "players": [
-          "amz",
           "rn",
+          "amz",
           "whezz",
           "ryota",
+          "xacau",
+          "draken",
           "feeh",
           "adren",
-          "vamp"
+          "fabri",
+          "scream",
+          "jhow",
+          "sick"
         ],
         "year": 2019,
         "source": "Elenco anual da equipe em 2019",
@@ -22631,13 +22697,18 @@ window.HBSTV_DATABASE = {
       "images": [],
       "rosterReference": {
         "players": [
-          "amz",
           "rn",
+          "amz",
           "whezz",
           "ryota",
+          "xacau",
+          "draken",
           "feeh",
           "adren",
-          "vamp"
+          "fabri",
+          "scream",
+          "jhow",
+          "sick"
         ],
         "year": 2019,
         "source": "Elenco anual da equipe em 2019",
@@ -22663,13 +22734,18 @@ window.HBSTV_DATABASE = {
       "images": [],
       "rosterReference": {
         "players": [
-          "amz",
           "rn",
+          "amz",
           "whezz",
           "ryota",
+          "xacau",
+          "draken",
           "feeh",
           "adren",
-          "vamp"
+          "fabri",
+          "scream",
+          "jhow",
+          "sick"
         ],
         "year": 2019,
         "source": "Elenco anual da equipe em 2019",
@@ -22695,13 +22771,18 @@ window.HBSTV_DATABASE = {
       "images": [],
       "rosterReference": {
         "players": [
-          "amz",
           "rn",
+          "amz",
           "whezz",
           "ryota",
+          "xacau",
+          "draken",
           "feeh",
           "adren",
-          "vamp"
+          "fabri",
+          "scream",
+          "jhow",
+          "sick"
         ],
         "year": 2019,
         "source": "Elenco anual da equipe em 2019",
@@ -22727,13 +22808,18 @@ window.HBSTV_DATABASE = {
       "images": [],
       "rosterReference": {
         "players": [
-          "amz",
           "rn",
+          "amz",
           "whezz",
           "ryota",
+          "xacau",
+          "draken",
           "feeh",
           "adren",
-          "vamp"
+          "fabri",
+          "scream",
+          "jhow",
+          "sick"
         ],
         "year": 2019,
         "source": "Elenco anual da equipe em 2019",
@@ -22759,13 +22845,18 @@ window.HBSTV_DATABASE = {
       "images": [],
       "rosterReference": {
         "players": [
-          "amz",
           "rn",
+          "amz",
           "whezz",
           "ryota",
+          "xacau",
+          "draken",
           "feeh",
           "adren",
-          "vamp"
+          "fabri",
+          "scream",
+          "jhow",
+          "sick"
         ],
         "year": 2019,
         "source": "Elenco anual da equipe em 2019",
@@ -25070,14 +25161,46 @@ window.HBSTV_DATABASE = {
           ]
         },
         {
+          "id": "draken",
+          "name": "Draken",
+          "years": [
+            2019
+          ],
+          "sources": [
+            "top-1-teams-of-years"
+          ]
+        },
+        {
+          "id": "fabri",
+          "name": "Fabri",
+          "years": [
+            2019
+          ],
+          "sources": [
+            "top-1-teams-of-years"
+          ]
+        },
+        {
           "id": "feeh",
-          "name": "Feeh",
+          "name": "FeeH",
           "years": [
             2019
           ],
           "sources": [
             "top-1-teams-of-years",
             "major-history"
+          ]
+        },
+        {
+          "id": "jhow",
+          "name": "Jhow",
+          "years": [
+            2019
+          ],
+          "sources": [
+            "top-1-teams-of-years",
+            "major-history",
+            "Passagem pela GC 2019 confirmada pelo responsável pelo site."
           ]
         },
         {
@@ -25103,19 +25226,18 @@ window.HBSTV_DATABASE = {
           ]
         },
         {
-          "id": "sansey",
-          "name": "Sansey",
+          "id": "scream",
+          "name": "ScreaM",
           "years": [
             2019
           ],
           "sources": [
-            "top-1-teams-of-years",
-            "major-history"
+            "top-1-teams-of-years"
           ]
         },
         {
-          "id": "vamp",
-          "name": "Vamp",
+          "id": "sick",
+          "name": "Sick",
           "years": [
             2019
           ],
@@ -29863,7 +29985,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "feeh",
-          "name": "Feeh",
+          "name": "FeeH",
           "years": [
             2019
           ],
@@ -29899,6 +30021,7 @@ window.HBSTV_DATABASE = {
             2019
           ],
           "sources": [
+            "top-1-teams-of-years",
             "major-history",
             "Passagem pela GC 2019 confirmada pelo responsável pelo site."
           ]
@@ -29932,7 +30055,6 @@ window.HBSTV_DATABASE = {
             2019
           ],
           "sources": [
-            "top-1-teams-of-years",
             "major-history"
           ]
         },
@@ -29943,6 +30065,7 @@ window.HBSTV_DATABASE = {
             2019
           ],
           "sources": [
+            "top-1-teams-of-years",
             "Passagem pela GC 2019 confirmada pelo responsável pelo site."
           ]
         },
@@ -29953,7 +30076,6 @@ window.HBSTV_DATABASE = {
             2019
           ],
           "sources": [
-            "top-1-teams-of-years",
             "Passagem pela GC 2019 confirmada pelo responsável pelo site."
           ]
         },

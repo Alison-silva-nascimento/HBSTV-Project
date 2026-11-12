@@ -2005,14 +2005,46 @@ window.HBSTV_TEAMS = [
         ]
       },
       {
+        "id": "draken",
+        "name": "Draken",
+        "years": [
+          2019
+        ],
+        "sources": [
+          "top-1-teams-of-years"
+        ]
+      },
+      {
+        "id": "fabri",
+        "name": "Fabri",
+        "years": [
+          2019
+        ],
+        "sources": [
+          "top-1-teams-of-years"
+        ]
+      },
+      {
         "id": "feeh",
-        "name": "Feeh",
+        "name": "FeeH",
         "years": [
           2019
         ],
         "sources": [
           "top-1-teams-of-years",
           "major-history"
+        ]
+      },
+      {
+        "id": "jhow",
+        "name": "Jhow",
+        "years": [
+          2019
+        ],
+        "sources": [
+          "top-1-teams-of-years",
+          "major-history",
+          "Passagem pela GC 2019 confirmada pelo responsável pelo site."
         ]
       },
       {
@@ -2038,19 +2070,18 @@ window.HBSTV_TEAMS = [
         ]
       },
       {
-        "id": "sansey",
-        "name": "Sansey",
+        "id": "scream",
+        "name": "ScreaM",
         "years": [
           2019
         ],
         "sources": [
-          "top-1-teams-of-years",
-          "major-history"
+          "top-1-teams-of-years"
         ]
       },
       {
-        "id": "vamp",
-        "name": "Vamp",
+        "id": "sick",
+        "name": "Sick",
         "years": [
           2019
         ],
@@ -6760,7 +6791,7 @@ window.HBSTV_TEAMS = [
       },
       {
         "id": "feeh",
-        "name": "Feeh",
+        "name": "FeeH",
         "years": [
           2019
         ],
@@ -6796,6 +6827,7 @@ window.HBSTV_TEAMS = [
           2019
         ],
         "sources": [
+          "top-1-teams-of-years",
           "major-history",
           "Passagem pela GC 2019 confirmada pelo responsável pelo site."
         ]
@@ -6829,7 +6861,6 @@ window.HBSTV_TEAMS = [
           2019
         ],
         "sources": [
-          "top-1-teams-of-years",
           "major-history"
         ]
       },
@@ -6840,6 +6871,7 @@ window.HBSTV_TEAMS = [
           2019
         ],
         "sources": [
+          "top-1-teams-of-years",
           "Passagem pela GC 2019 confirmada pelo responsável pelo site."
         ]
       },
@@ -6850,7 +6882,6 @@ window.HBSTV_TEAMS = [
           2019
         ],
         "sources": [
-          "top-1-teams-of-years",
           "Passagem pela GC 2019 confirmada pelo responsável pelo site."
         ]
       },

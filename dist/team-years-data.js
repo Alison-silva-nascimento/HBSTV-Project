@@ -217,15 +217,20 @@ window.RANKS_TEAM_YEARS = {
     },
     {
       "year": 2019,
-      "name": "Temp Stormy / GC 2019",
+      "name": "TSY",
       "roster": [
+        "Kauan “RN”",
         "Diogo “Amz”",
-        "Kauan “rN”",
         "Fabrício “Whezz”",
         "Lucas “Ryota”",
+        "Xacau",
+        "Draken",
         "Felipe “FeeH”",
         "Cauê “AdreN”",
-        "Felipe “Vamp”"
+        "Fabrício “Fabri”",
+        "ScreaM",
+        "Jhow",
+        "Sick"
       ],
       "titles": [
         "TSL | APS League 2019",
@@ -247,6 +252,11 @@ window.RANKS_TEAM_YEARS = {
       },
       "note": "A mesma equipe competiu como Temp Stormy e Goblins Cheating em 2019, com mudança de tag.",
       "countries": [
+        "BR",
+        "BR",
+        "BR",
+        "BR",
+        "BR",
         "BR",
         "BR",
         "BR",
@@ -723,15 +733,20 @@ window.RANKS_TEAM_YEARS = {
       "teams": [
         {
           "rank": 1,
-          "name": "Temp Stormy / GC 2019",
+          "name": "TSY",
           "roster": [
-            "Amz",
-            "ry0ta",
-            "Sansey",
+            "Kauan “RN”",
+            "Diogo “Amz”",
+            "Fabrício “Whezz”",
+            "Lucas “Ryota”",
             "Xacau",
-            "AdreN",
-            "Feeh",
-            "RN"
+            "Draken",
+            "Felipe “FeeH”",
+            "Cauê “AdreN”",
+            "Fabrício “Fabri”",
+            "ScreaM",
+            "Jhow",
+            "Sick"
           ],
           "logoCrop": {
             "x": 0.027070063694267517,
@@ -740,6 +755,11 @@ window.RANKS_TEAM_YEARS = {
             "h": 0.15796897038081806
           },
           "countries": [
+            "BR",
+            "BR",
+            "BR",
+            "BR",
+            "BR",
             "BR",
             "BR",
             "BR",

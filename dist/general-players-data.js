@@ -3255,6 +3255,28 @@ window.HBSTV_PLAYER_INDEX = {
       "awards": []
     },
     {
+      "id": "draken",
+      "name": "Draken",
+      "aliases": [
+        "Draken"
+      ],
+      "realNames": [],
+      "teams": [
+        {
+          "id": "tsy2019",
+          "name": "TSY 2019",
+          "years": [
+            2019
+          ]
+        }
+      ],
+      "titles": [],
+      "mvps": [],
+      "evps": [],
+      "rankings": [],
+      "awards": []
+    },
+    {
       "id": "dripwave",
       "name": "Dripwave",
       "aliases": [
@@ -3566,6 +3588,13 @@ window.HBSTV_PLAYER_INDEX = {
       ],
       "teams": [
         {
+          "id": "tsy2019",
+          "name": "TSY 2019",
+          "years": [
+            2019
+          ]
+        },
+        {
           "id": "razer",
           "name": "RAZER",
           "years": [
@@ -3598,8 +3627,7 @@ window.HBSTV_PLAYER_INDEX = {
       "id": "feeh",
       "name": "FeeH",
       "aliases": [
-        "FeeH",
-        "Feeh"
+        "FeeH"
       ],
       "realNames": [],
       "teams": [
@@ -5784,6 +5812,13 @@ window.HBSTV_PLAYER_INDEX = {
         {
           "id": "gc2019",
           "name": "GC 2019",
+          "years": [
+            2019
+          ]
+        },
+        {
+          "id": "tsy2019",
+          "name": "TSY 2019",
           "years": [
             2019
           ]
@@ -10207,13 +10242,6 @@ window.HBSTV_PLAYER_INDEX = {
           ]
         },
         {
-          "id": "tsy2019",
-          "name": "TSY 2019",
-          "years": [
-            2019
-          ]
-        },
-        {
           "id": "pir4tas",
           "name": "PIR4TAS",
           "years": [
@@ -10551,6 +10579,13 @@ window.HBSTV_PLAYER_INDEX = {
           "name": "SY",
           "years": [
             2020
+          ]
+        },
+        {
+          "id": "tsy2019",
+          "name": "TSY 2019",
+          "years": [
+            2019
           ]
         },
         {
@@ -11184,6 +11219,13 @@ window.HBSTV_PLAYER_INDEX = {
       ],
       "realNames": [],
       "teams": [
+        {
+          "id": "tsy2019",
+          "name": "TSY 2019",
+          "years": [
+            2019
+          ]
+        },
         {
           "id": "gc2019",
           "name": "GC 2019",
@@ -13063,13 +13105,6 @@ window.HBSTV_PLAYER_INDEX = {
       ],
       "realNames": [],
       "teams": [
-        {
-          "id": "tsy2019",
-          "name": "TSY 2019",
-          "years": [
-            2019
-          ]
-        },
         {
           "id": "gc2019",
           "name": "GC 2019",
