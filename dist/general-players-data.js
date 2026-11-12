@@ -686,7 +686,7 @@ window.HBSTV_PLAYER_INDEX = {
         },
         {
           "id": "tsy2019",
-          "name": "TSY 2019",
+          "name": "TSY",
           "years": [
             2019
           ]
@@ -1140,7 +1140,7 @@ window.HBSTV_PLAYER_INDEX = {
         },
         {
           "id": "tsy2019",
-          "name": "TSY 2019",
+          "name": "TSY",
           "years": [
             2019
           ]
@@ -3264,7 +3264,7 @@ window.HBSTV_PLAYER_INDEX = {
       "teams": [
         {
           "id": "tsy2019",
-          "name": "TSY 2019",
+          "name": "TSY",
           "years": [
             2019
           ]
@@ -3589,7 +3589,7 @@ window.HBSTV_PLAYER_INDEX = {
       "teams": [
         {
           "id": "tsy2019",
-          "name": "TSY 2019",
+          "name": "TSY",
           "years": [
             2019
           ]
@@ -3640,7 +3640,7 @@ window.HBSTV_PLAYER_INDEX = {
         },
         {
           "id": "tsy2019",
-          "name": "TSY 2019",
+          "name": "TSY",
           "years": [
             2019
           ]
@@ -5886,7 +5886,7 @@ window.HBSTV_PLAYER_INDEX = {
         },
         {
           "id": "tsy2019",
-          "name": "TSY 2019",
+          "name": "TSY",
           "years": [
             2019
           ]
@@ -9804,7 +9804,7 @@ window.HBSTV_PLAYER_INDEX = {
         },
         {
           "id": "tsy2019",
-          "name": "TSY 2019",
+          "name": "TSY",
           "years": [
             2019
           ]
@@ -10152,7 +10152,7 @@ window.HBSTV_PLAYER_INDEX = {
         },
         {
           "id": "tsy2019",
-          "name": "TSY 2019",
+          "name": "TSY",
           "years": [
             2019
           ]
@@ -10810,7 +10810,7 @@ window.HBSTV_PLAYER_INDEX = {
         },
         {
           "id": "tsy2019",
-          "name": "TSY 2019",
+          "name": "TSY",
           "years": [
             2019
           ]
@@ -11501,7 +11501,7 @@ window.HBSTV_PLAYER_INDEX = {
       "teams": [
         {
           "id": "tsy2019",
-          "name": "TSY 2019",
+          "name": "TSY",
           "years": [
             2019
           ]
@@ -13702,7 +13702,7 @@ window.HBSTV_PLAYER_INDEX = {
         },
         {
           "id": "tsy2019",
-          "name": "TSY 2019",
+          "name": "TSY",
           "years": [
             2019
           ]
@@ -13856,7 +13856,7 @@ window.HBSTV_PLAYER_INDEX = {
         },
         {
           "id": "tsy2019",
-          "name": "TSY 2019",
+          "name": "TSY",
           "years": [
             2019
           ]

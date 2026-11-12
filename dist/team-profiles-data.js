@@ -1904,7 +1904,7 @@ window.HBSTV_TEAMS = [
   },
   {
     "id": "tsy2019",
-    "name": "TSY 2019",
+    "name": "TSY",
     "aliases": [
       "Temp Stormy",
       "TSY",

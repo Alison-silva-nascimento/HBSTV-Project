@@ -1038,7 +1038,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "tsy2019",
-          "name": "TSY 2019",
+          "name": "TSY",
           "years": [
             2019
           ]
@@ -1174,7 +1174,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "teamId": "tsy2019",
-          "name": "TSY 2019",
+          "name": "TSY",
           "year": 2019,
           "rank": 1
         }
@@ -1666,7 +1666,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "tsy2019",
-          "name": "TSY 2019",
+          "name": "TSY",
           "years": [
             2019
           ]
@@ -1866,7 +1866,7 @@ window.HBSTV_DATABASE = {
       "topFiveTeams": [
         {
           "teamId": "tsy2019",
-          "name": "TSY 2019",
+          "name": "TSY",
           "year": 2019,
           "rank": 1
         },
@@ -4494,7 +4494,7 @@ window.HBSTV_DATABASE = {
       "teams": [
         {
           "id": "tsy2019",
-          "name": "TSY 2019",
+          "name": "TSY",
           "years": [
             2019
           ]
@@ -4508,7 +4508,7 @@ window.HBSTV_DATABASE = {
       "topFiveTeams": [
         {
           "teamId": "tsy2019",
-          "name": "TSY 2019",
+          "name": "TSY",
           "year": 2019,
           "rank": 1
         }
@@ -4920,7 +4920,7 @@ window.HBSTV_DATABASE = {
       "teams": [
         {
           "id": "tsy2019",
-          "name": "TSY 2019",
+          "name": "TSY",
           "years": [
             2019
           ]
@@ -4956,7 +4956,7 @@ window.HBSTV_DATABASE = {
       "topFiveTeams": [
         {
           "teamId": "tsy2019",
-          "name": "TSY 2019",
+          "name": "TSY",
           "year": 2019,
           "rank": 1
         },
@@ -4985,7 +4985,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "tsy2019",
-          "name": "TSY 2019",
+          "name": "TSY",
           "years": [
             2019
           ]
@@ -5015,7 +5015,7 @@ window.HBSTV_DATABASE = {
       "topFiveTeams": [
         {
           "teamId": "tsy2019",
-          "name": "TSY 2019",
+          "name": "TSY",
           "year": 2019,
           "rank": 1
         }
@@ -8107,7 +8107,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "tsy2019",
-          "name": "TSY 2019",
+          "name": "TSY",
           "years": [
             2019
           ]
@@ -8137,7 +8137,7 @@ window.HBSTV_DATABASE = {
       "topFiveTeams": [
         {
           "teamId": "tsy2019",
-          "name": "TSY 2019",
+          "name": "TSY",
           "year": 2019,
           "rank": 1
         },
@@ -13010,7 +13010,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "tsy2019",
-          "name": "TSY 2019",
+          "name": "TSY",
           "years": [
             2019
           ]
@@ -13460,7 +13460,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "teamId": "tsy2019",
-          "name": "TSY 2019",
+          "name": "TSY",
           "year": 2019,
           "rank": 1
         }
@@ -13642,7 +13642,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "tsy2019",
-          "name": "TSY 2019",
+          "name": "TSY",
           "years": [
             2019
           ]
@@ -13833,7 +13833,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "teamId": "tsy2019",
-          "name": "TSY 2019",
+          "name": "TSY",
           "year": 2019,
           "rank": 1
         }
@@ -14518,7 +14518,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "tsy2019",
-          "name": "TSY 2019",
+          "name": "TSY",
           "years": [
             2019
           ]
@@ -14806,7 +14806,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "teamId": "tsy2019",
-          "name": "TSY 2019",
+          "name": "TSY",
           "year": 2019,
           "rank": 1
         },
@@ -15835,7 +15835,7 @@ window.HBSTV_DATABASE = {
       "teams": [
         {
           "id": "tsy2019",
-          "name": "TSY 2019",
+          "name": "TSY",
           "years": [
             2019
           ]
@@ -15880,7 +15880,7 @@ window.HBSTV_DATABASE = {
       "topFiveTeams": [
         {
           "teamId": "tsy2019",
-          "name": "TSY 2019",
+          "name": "TSY",
           "year": 2019,
           "rank": 1
         }
@@ -18640,7 +18640,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "tsy2019",
-          "name": "TSY 2019",
+          "name": "TSY",
           "years": [
             2019
           ]
@@ -18728,7 +18728,7 @@ window.HBSTV_DATABASE = {
       "topFiveTeams": [
         {
           "teamId": "tsy2019",
-          "name": "TSY 2019",
+          "name": "TSY",
           "year": 2019,
           "rank": 1
         }
@@ -18864,7 +18864,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "tsy2019",
-          "name": "TSY 2019",
+          "name": "TSY",
           "years": [
             2019
           ]
@@ -18894,7 +18894,7 @@ window.HBSTV_DATABASE = {
       "topFiveTeams": [
         {
           "teamId": "tsy2019",
-          "name": "TSY 2019",
+          "name": "TSY",
           "year": 2019,
           "rank": 1
         }
@@ -25469,7 +25469,7 @@ window.HBSTV_DATABASE = {
     },
     {
       "id": "tsy2019",
-      "name": "TSY 2019",
+      "name": "TSY",
       "aliases": [
         "Temp Stormy",
         "TSY",

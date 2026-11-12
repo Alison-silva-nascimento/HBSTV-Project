@@ -49,7 +49,7 @@ hardnessSeason2.title = 'GSE | Hardness Pro League Season 2';
 const goblinsTitles = goblins2019.titles.filter(title => title.major || title === hardnessSeason2);
 const stormy = {
   id: 'tsy2019',
-  name: 'TSY 2019',
+  name: 'TSY',
   aliases: ['Temp Stormy', 'TSY', 'Temp Stormy / GC 2019', 'Temp Stormy / Goblins Cheating'],
   searchAliases: ['tempstormy', 'tsy', 'tsy2019'],
   titles: goblins2019.titles.filter(title => !goblinsTitles.includes(title)),
