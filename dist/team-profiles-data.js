@@ -10371,7 +10371,19 @@ window.HBSTV_TEAMS = [
       "REAL"
     ],
     "titles": [],
-    "members": [],
+    "members": [
+      {
+        "id": "theuzz",
+        "name": "theuzz",
+        "years": [
+          2018,
+          2017
+        ],
+        "sources": [
+          "Passagem pela REAL confirmada pelo responsável pelo site."
+        ]
+      }
+    ],
     "rankings": [
       {
         "year": 2017,

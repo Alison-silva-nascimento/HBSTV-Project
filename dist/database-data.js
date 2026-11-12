@@ -17994,6 +17994,14 @@ window.HBSTV_DATABASE = {
           "years": [
             2018
           ]
+        },
+        {
+          "id": "real",
+          "name": "REAL",
+          "years": [
+            2018,
+            2017
+          ]
         }
       ],
       "titles": [
@@ -18044,6 +18052,12 @@ window.HBSTV_DATABASE = {
           "name": "RAZER",
           "year": 2018,
           "rank": 1
+        },
+        {
+          "teamId": "real",
+          "name": "REAL",
+          "year": 2017,
+          "rank": 3
         }
       ]
     },
@@ -34266,7 +34280,19 @@ window.HBSTV_DATABASE = {
         "REAL"
       ],
       "titles": [],
-      "members": [],
+      "members": [
+        {
+          "id": "theuzz",
+          "name": "theuzz",
+          "years": [
+            2018,
+            2017
+          ],
+          "sources": [
+            "Passagem pela REAL confirmada pelo responsável pelo site."
+          ]
+        }
+      ],
       "rankings": [
         {
           "year": 2017,

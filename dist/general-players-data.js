@@ -13114,6 +13114,14 @@ window.HBSTV_PLAYER_INDEX = {
           "years": [
             2018
           ]
+        },
+        {
+          "id": "real",
+          "name": "REAL",
+          "years": [
+            2018,
+            2017
+          ]
         }
       ],
       "titles": [
