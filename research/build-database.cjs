@@ -38,7 +38,8 @@ for (const row of confirmedTournaments.filter(row => row.confirmedRoster || row.
   const event = events.get(row.id);
   const excluded = new Set((row.excludedRoster || []).map(key));
   const confirmed = (row.confirmedRoster || []).map(key);
-  event.roster = event.roster.filter(id => !excluded.has(id));
+  const roster = event.rosterReference ? event.roster : [...event.roster, ...confirmed];
+  event.roster = [...new Set(roster)].filter(id => !excluded.has(id));
   if (event.rosterReference) {
     event.rosterReference.players = [...new Set([...event.rosterReference.players, ...confirmed])]
       .filter(id => !excluded.has(id));

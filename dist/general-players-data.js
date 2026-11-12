@@ -3600,6 +3600,11 @@ window.HBSTV_PLAYER_INDEX = {
           "years": [
             2018
           ]
+        },
+        {
+          "id": "crazyshadows",
+          "name": "CRAZY SHADOWS",
+          "years": []
         }
       ],
       "titles": [],

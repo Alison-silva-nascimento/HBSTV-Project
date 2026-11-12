@@ -9958,6 +9958,14 @@ window.HBSTV_TEAMS = [
     "titles": [],
     "members": [
       {
+        "id": "fabri",
+        "name": "Fabri",
+        "years": [],
+        "sources": [
+          "Passagem confirmada pelo responsável pelo site. Temporada não informada."
+        ]
+      },
+      {
         "id": "hardzera",
         "name": "Hardzera",
         "years": [],

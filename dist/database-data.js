@@ -4931,9 +4931,114 @@ window.HBSTV_DATABASE = {
           "years": [
             2018
           ]
+        },
+        {
+          "id": "crazyshadows",
+          "name": "CRAZY SHADOWS",
+          "years": []
         }
       ],
-      "titles": [],
+      "titles": [
+        {
+          "id": "2019:gsehpls3",
+          "title": "GSE | HPL Season 3",
+          "year": 2019,
+          "teamId": "tsy2019",
+          "team": "TSY",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2019:gseproleague",
+          "title": "GSE | Pro League 2019",
+          "year": 2019,
+          "teamId": "tsy2019",
+          "team": "TSY",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2019:gsetoc",
+          "title": "GSE | TOC 2019",
+          "year": 2019,
+          "teamId": "tsy2019",
+          "team": "TSY",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2019:gsetourii",
+          "title": "GSE | Tour II 2019",
+          "year": 2019,
+          "teamId": "tsy2019",
+          "team": "TSY",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2019:gsetuessone",
+          "title": "GSE | TUES Season One 2019",
+          "year": 2019,
+          "teamId": "tsy2019",
+          "team": "TSY",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2019:tslapsleague",
+          "title": "TSL | APS League 2019",
+          "year": 2019,
+          "teamId": "tsy2019",
+          "team": "TSY",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2019:tslforcefield",
+          "title": "TSL | Forcefield 2019",
+          "year": 2019,
+          "teamId": "tsy2019",
+          "team": "TSY",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2018:tslextrememasters",
+          "title": "TSL | Brasil extreme Masters",
+          "year": 2018,
+          "teamId": "razer",
+          "team": "RAZER",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2018:tslhardnesleague",
+          "title": "TSL | Hardness Pro League",
+          "year": 2018,
+          "teamId": "razer",
+          "team": "RAZER",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2018:tslmajorcup",
+          "title": "TSL | MAJOR CUP",
+          "year": 2018,
+          "teamId": "razer",
+          "team": "RAZER",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "major:ba4b48dba7cb6e5526a7",
+          "title": "TSL | MAJOR PREMIERE",
+          "year": 2018,
+          "teamId": "razer",
+          "team": "RAZER",
+          "major": true,
+          "source": "owner-confirmed"
+        }
+      ],
       "mvps": [],
       "evps": [
         {
@@ -23059,10 +23164,12 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [],
       "sources": [
-        "top-1-teams-of-years"
+        "top-1-teams-of-years",
+        "owner-confirmed"
       ],
       "notes": [],
       "images": [],
+      "mvs": [],
       "rosterReference": {
         "players": [
           "rn",
@@ -23096,10 +23203,12 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [],
       "sources": [
-        "top-1-teams-of-years"
+        "top-1-teams-of-years",
+        "owner-confirmed"
       ],
       "notes": [],
       "images": [],
+      "mvs": [],
       "rosterReference": {
         "players": [
           "rn",
@@ -23133,10 +23242,12 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [],
       "sources": [
-        "top-1-teams-of-years"
+        "top-1-teams-of-years",
+        "owner-confirmed"
       ],
       "notes": [],
       "images": [],
+      "mvs": [],
       "rosterReference": {
         "players": [
           "rn",
@@ -23170,10 +23281,12 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [],
       "sources": [
-        "top-1-teams-of-years"
+        "top-1-teams-of-years",
+        "owner-confirmed"
       ],
       "notes": [],
       "images": [],
+      "mvs": [],
       "rosterReference": {
         "players": [
           "rn",
@@ -23207,10 +23320,12 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [],
       "sources": [
-        "top-1-teams-of-years"
+        "top-1-teams-of-years",
+        "owner-confirmed"
       ],
       "notes": [],
       "images": [],
+      "mvs": [],
       "rosterReference": {
         "players": [
           "rn",
@@ -23244,10 +23359,12 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [],
       "sources": [
-        "top-1-teams-of-years"
+        "top-1-teams-of-years",
+        "owner-confirmed"
       ],
       "notes": [],
       "images": [],
+      "mvs": [],
       "rosterReference": {
         "players": [
           "rn",
@@ -23281,10 +23398,12 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [],
       "sources": [
-        "top-1-teams-of-years"
+        "top-1-teams-of-years",
+        "owner-confirmed"
       ],
       "notes": [],
       "images": [],
+      "mvs": [],
       "rosterReference": {
         "players": [
           "rn",
@@ -23417,10 +23536,12 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [],
       "sources": [
-        "top-1-teams-of-years"
+        "top-1-teams-of-years",
+        "owner-confirmed"
       ],
       "notes": [],
       "images": [],
+      "mvs": [],
       "rosterReference": {
         "players": [
           "strong",
@@ -23457,7 +23578,8 @@ window.HBSTV_DATABASE = {
         "casta",
         "theuzz",
         "kns",
-        "yonk"
+        "yonk",
+        "fabri"
       ],
       "mvps": [
         "strong"
@@ -23473,12 +23595,14 @@ window.HBSTV_DATABASE = {
         "shelzz"
       ],
       "sources": [
-        "major-history"
+        "major-history",
+        "owner-confirmed"
       ],
       "notes": [],
       "images": [
         "assets/archive/ba4b48dba7cb6e5526a7.jpeg"
-      ]
+      ],
+      "mvs": []
     },
     {
       "id": "major:188f48896736e07cbe4d",
@@ -25619,7 +25743,8 @@ window.HBSTV_DATABASE = {
             2019
           ],
           "sources": [
-            "top-1-teams-of-years"
+            "top-1-teams-of-years",
+            "owner-confirmed"
           ]
         },
         {
@@ -27704,7 +27829,8 @@ window.HBSTV_DATABASE = {
             2018
           ],
           "sources": [
-            "top-1-teams-of-years"
+            "top-1-teams-of-years",
+            "owner-confirmed"
           ]
         },
         {
@@ -33617,6 +33743,14 @@ window.HBSTV_DATABASE = {
       ],
       "titles": [],
       "members": [
+        {
+          "id": "fabri",
+          "name": "Fabri",
+          "years": [],
+          "sources": [
+            "Passagem confirmada pelo responsável pelo site. Temporada não informada."
+          ]
+        },
         {
           "id": "hardzera",
           "name": "Hardzera",

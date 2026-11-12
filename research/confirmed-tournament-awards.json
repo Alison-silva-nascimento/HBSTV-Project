@@ -113,6 +113,9 @@
     "year": 2018,
     "excludedRoster": [
       "4KKp"
+    ],
+    "confirmedRoster": [
+      "Fabri"
     ]
   },
   {
@@ -120,6 +123,72 @@
     "year": 2018,
     "excludedRoster": [
       "4KKp"
+    ],
+    "confirmedRoster": [
+      "Fabri"
+    ]
+  },
+  {
+    "id": "2019:gsehpls3",
+    "year": 2019,
+    "confirmedRoster": [
+      "Fabri"
+    ]
+  },
+  {
+    "id": "2019:gseproleague",
+    "year": 2019,
+    "confirmedRoster": [
+      "Fabri"
+    ]
+  },
+  {
+    "id": "2019:gsetoc",
+    "year": 2019,
+    "confirmedRoster": [
+      "Fabri"
+    ]
+  },
+  {
+    "id": "2019:gsetourii",
+    "year": 2019,
+    "confirmedRoster": [
+      "Fabri"
+    ]
+  },
+  {
+    "id": "2019:gsetuessone",
+    "year": 2019,
+    "confirmedRoster": [
+      "Fabri"
+    ]
+  },
+  {
+    "id": "2019:tslapsleague",
+    "year": 2019,
+    "confirmedRoster": [
+      "Fabri"
+    ]
+  },
+  {
+    "id": "2019:tslforcefield",
+    "year": 2019,
+    "confirmedRoster": [
+      "Fabri"
+    ]
+  },
+  {
+    "id": "2018:tslmajorcup",
+    "year": 2018,
+    "confirmedRoster": [
+      "Fabri"
+    ]
+  },
+  {
+    "id": "major:ba4b48dba7cb6e5526a7",
+    "year": 2018,
+    "confirmedRoster": [
+      "Fabri"
     ]
   }
 ]
