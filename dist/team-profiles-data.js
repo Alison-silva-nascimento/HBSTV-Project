@@ -9975,9 +9975,12 @@ window.HBSTV_TEAMS = [
       {
         "id": "fabri",
         "name": "Fabri",
-        "years": [],
+        "years": [
+          2019,
+          2018
+        ],
         "sources": [
-          "Passagem confirmada pelo responsável pelo site. Temporada não informada."
+          "Passagem pela CSR em 2018 e 2019 confirmada pelo responsável pelo site."
         ]
       },
       {

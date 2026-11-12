@@ -3595,16 +3595,19 @@ window.HBSTV_PLAYER_INDEX = {
           ]
         },
         {
+          "id": "crazyshadows",
+          "name": "CRAZY SHADOWS",
+          "years": [
+            2019,
+            2018
+          ]
+        },
+        {
           "id": "razer",
           "name": "RAZER",
           "years": [
             2018
           ]
-        },
-        {
-          "id": "crazyshadows",
-          "name": "CRAZY SHADOWS",
-          "years": []
         }
       ],
       "titles": [],

@@ -4926,16 +4926,19 @@ window.HBSTV_DATABASE = {
           ]
         },
         {
+          "id": "crazyshadows",
+          "name": "CRAZY SHADOWS",
+          "years": [
+            2019,
+            2018
+          ]
+        },
+        {
           "id": "razer",
           "name": "RAZER",
           "years": [
             2018
           ]
-        },
-        {
-          "id": "crazyshadows",
-          "name": "CRAZY SHADOWS",
-          "years": []
         }
       ],
       "titles": [
@@ -5066,10 +5069,22 @@ window.HBSTV_DATABASE = {
           "rank": 1
         },
         {
+          "teamId": "crazyshadows",
+          "name": "CRAZY SHADOWS",
+          "year": 2019,
+          "rank": 2
+        },
+        {
           "teamId": "razer",
           "name": "RAZER",
           "year": 2018,
           "rank": 1
+        },
+        {
+          "teamId": "crazyshadows",
+          "name": "CRAZY SHADOWS",
+          "year": 2018,
+          "rank": 2
         }
       ]
     },
@@ -33852,9 +33867,12 @@ window.HBSTV_DATABASE = {
         {
           "id": "fabri",
           "name": "Fabri",
-          "years": [],
+          "years": [
+            2019,
+            2018
+          ],
           "sources": [
-            "Passagem confirmada pelo responsável pelo site. Temporada não informada."
+            "Passagem pela CSR em 2018 e 2019 confirmada pelo responsável pelo site."
           ]
         },
         {
