@@ -17982,6 +17982,33 @@ window.HBSTV_DATABASE = {
       ],
       "titles": [
         {
+          "id": "2018:tslextrememasters",
+          "title": "TSL | Brasil extreme Masters",
+          "year": 2018,
+          "teamId": "razer",
+          "team": "RAZER",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2018:tslhardnesleague",
+          "title": "TSL | Hardness Pro League",
+          "year": 2018,
+          "teamId": "razer",
+          "team": "RAZER",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2018:tslmajorcup",
+          "title": "TSL | MAJOR CUP",
+          "year": 2018,
+          "teamId": "razer",
+          "team": "RAZER",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
           "id": "major:ba4b48dba7cb6e5526a7",
           "title": "TSL | MAJOR PREMIERE",
           "year": 2018,
@@ -27973,7 +28000,8 @@ window.HBSTV_DATABASE = {
           ],
           "sources": [
             "top-1-teams-of-years",
-            "major-history"
+            "major-history",
+            "owner-confirmed"
           ]
         },
         {
