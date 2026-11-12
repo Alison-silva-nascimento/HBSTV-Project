@@ -8,9 +8,10 @@ function normalizeTitle(title, year, reviewed = true) {
   const match = text.trim().match(/^(.+?)\s*(?:\||\s+i\s+)\s*(.+)$/);
   if (!match) return null;
   const tag = match[1].replace(/[^a-z0-9]/g, '');
-  const organizer = organizers[tag] || match[1].trim().toUpperCase();
+  let organizer = organizers[tag] || match[1].trim().toUpperCase();
   let name = match[2].replace(new RegExp('\\b' + year + '\\b', 'g'), '')
     .replace(/[^a-z0-9]/g, '');
+  if (year === 2019 && organizer === 'TSL' && name === 'hardnessproleague') organizer = 'GSE';
   const variants = {
     '2018:TSL': {cbbs: 'cbbs20'},
     '2019:GSE': {majorextrememasters: 'brasilextrememastersmajor', extrememastersmajor: 'brasilextrememastersmajor',

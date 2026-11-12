@@ -230,7 +230,6 @@ window.RANKS_TEAM_YEARS = {
       "titles": [
         "TSL | APS League 2019",
         "TSL | Forcefield 2019",
-        "TSL | Hardness Pro League 2019",
         "GSE | TUES Season One 2019",
         "GSE | TOC 2019",
         "GSE | Major Extreme Masters 2019",
