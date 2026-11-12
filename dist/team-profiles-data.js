@@ -3601,6 +3601,16 @@ window.HBSTV_TEAMS = [
     ],
     "members": [
       {
+        "id": "amz",
+        "name": "Amz",
+        "years": [
+          2020
+        ],
+        "sources": [
+          "Passagem registrada no Hall of Fame. Temporada confirmada pelo responsável pelo site."
+        ]
+      },
+      {
         "id": "bale",
         "name": "Bale",
         "years": [
@@ -10266,6 +10276,68 @@ window.HBSTV_TEAMS = [
         ],
         "sources": [
           "Passagem registrada no Hall of Fame. Temporada da equipe confirmada pelo responsável pelo site."
+        ]
+      }
+    ],
+    "rankings": [],
+    "searchAliases": []
+  },
+  {
+    "id": "nike",
+    "name": "NIKE",
+    "aliases": [
+      "NIKE"
+    ],
+    "titles": [],
+    "members": [
+      {
+        "id": "amz",
+        "name": "Amz",
+        "years": [
+          2021
+        ],
+        "sources": [
+          "Passagem pela NIKE em 2021 confirmada pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "bale",
+        "name": "Bale",
+        "years": [
+          2021
+        ],
+        "sources": [
+          "Passagem pela NIKE em 2021 confirmada pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "force",
+        "name": "Force",
+        "years": [
+          2021
+        ],
+        "sources": [
+          "Passagem pela NIKE em 2021 confirmada pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "oskar",
+        "name": "Oskar",
+        "years": [
+          2021
+        ],
+        "sources": [
+          "Passagem pela NIKE em 2021 confirmada pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "scuba",
+        "name": "Scuba",
+        "years": [
+          2021
+        ],
+        "sources": [
+          "Passagem pela NIKE em 2021 confirmada pelo responsável pelo site."
         ]
       }
     ],

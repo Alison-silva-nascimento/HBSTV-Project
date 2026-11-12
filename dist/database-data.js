@@ -1658,6 +1658,20 @@ window.HBSTV_DATABASE = {
           ]
         },
         {
+          "id": "nike",
+          "name": "NIKE",
+          "years": [
+            2021
+          ]
+        },
+        {
+          "id": "vanx",
+          "name": "VANX",
+          "years": [
+            2020
+          ]
+        },
+        {
           "id": "gc2019",
           "name": "GC 2019",
           "years": [
@@ -1864,6 +1878,12 @@ window.HBSTV_DATABASE = {
         }
       ],
       "topFiveTeams": [
+        {
+          "teamId": "vanx",
+          "name": "VANX",
+          "year": 2020,
+          "rank": 2
+        },
         {
           "teamId": "tsy2019",
           "name": "TSY",
@@ -2233,6 +2253,13 @@ window.HBSTV_DATABASE = {
       ],
       "realNames": [],
       "teams": [
+        {
+          "id": "nike",
+          "name": "NIKE",
+          "years": [
+            2021
+          ]
+        },
         {
           "id": "vanx",
           "name": "VANX",
@@ -5758,6 +5785,13 @@ window.HBSTV_DATABASE = {
       ],
       "realNames": [],
       "teams": [
+        {
+          "id": "nike",
+          "name": "NIKE",
+          "years": [
+            2021
+          ]
+        },
         {
           "id": "vanx",
           "name": "VANX",
@@ -11764,6 +11798,13 @@ window.HBSTV_DATABASE = {
           ]
         },
         {
+          "id": "nike",
+          "name": "NIKE",
+          "years": [
+            2021
+          ]
+        },
+        {
           "id": "vanx",
           "name": "VANX",
           "years": [
@@ -15276,6 +15317,13 @@ window.HBSTV_DATABASE = {
           "name": "PURE",
           "years": [
             2023
+          ]
+        },
+        {
+          "id": "nike",
+          "name": "NIKE",
+          "years": [
+            2021
           ]
         },
         {
@@ -27927,6 +27975,16 @@ window.HBSTV_DATABASE = {
       ],
       "members": [
         {
+          "id": "amz",
+          "name": "Amz",
+          "years": [
+            2020
+          ],
+          "sources": [
+            "Passagem registrada no Hall of Fame. Temporada confirmada pelo responsável pelo site."
+          ]
+        },
+        {
           "id": "bale",
           "name": "Bale",
           "years": [
@@ -34640,6 +34698,68 @@ window.HBSTV_DATABASE = {
           ],
           "sources": [
             "Passagem registrada no Hall of Fame. Temporada da equipe confirmada pelo responsável pelo site."
+          ]
+        }
+      ],
+      "rankings": [],
+      "searchAliases": []
+    },
+    {
+      "id": "nike",
+      "name": "NIKE",
+      "aliases": [
+        "NIKE"
+      ],
+      "titles": [],
+      "members": [
+        {
+          "id": "amz",
+          "name": "Amz",
+          "years": [
+            2021
+          ],
+          "sources": [
+            "Passagem pela NIKE em 2021 confirmada pelo responsável pelo site."
+          ]
+        },
+        {
+          "id": "bale",
+          "name": "Bale",
+          "years": [
+            2021
+          ],
+          "sources": [
+            "Passagem pela NIKE em 2021 confirmada pelo responsável pelo site."
+          ]
+        },
+        {
+          "id": "force",
+          "name": "Force",
+          "years": [
+            2021
+          ],
+          "sources": [
+            "Passagem pela NIKE em 2021 confirmada pelo responsável pelo site."
+          ]
+        },
+        {
+          "id": "oskar",
+          "name": "Oskar",
+          "years": [
+            2021
+          ],
+          "sources": [
+            "Passagem pela NIKE em 2021 confirmada pelo responsável pelo site."
+          ]
+        },
+        {
+          "id": "scuba",
+          "name": "Scuba",
+          "years": [
+            2021
+          ],
+          "sources": [
+            "Passagem pela NIKE em 2021 confirmada pelo responsável pelo site."
           ]
         }
       ],

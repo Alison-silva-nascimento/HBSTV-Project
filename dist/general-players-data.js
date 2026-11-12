@@ -1132,6 +1132,20 @@ window.HBSTV_PLAYER_INDEX = {
           ]
         },
         {
+          "id": "nike",
+          "name": "NIKE",
+          "years": [
+            2021
+          ]
+        },
+        {
+          "id": "vanx",
+          "name": "VANX",
+          "years": [
+            2020
+          ]
+        },
+        {
           "id": "gc2019",
           "name": "GC 2019",
           "years": [
@@ -1569,6 +1583,13 @@ window.HBSTV_PLAYER_INDEX = {
       ],
       "realNames": [],
       "teams": [
+        {
+          "id": "nike",
+          "name": "NIKE",
+          "years": [
+            2021
+          ]
+        },
         {
           "id": "vanx",
           "name": "VANX",
@@ -4091,6 +4112,13 @@ window.HBSTV_PLAYER_INDEX = {
       ],
       "realNames": [],
       "teams": [
+        {
+          "id": "nike",
+          "name": "NIKE",
+          "years": [
+            2021
+          ]
+        },
         {
           "id": "vanx",
           "name": "VANX",
@@ -8632,6 +8660,13 @@ window.HBSTV_PLAYER_INDEX = {
           ]
         },
         {
+          "id": "nike",
+          "name": "NIKE",
+          "years": [
+            2021
+          ]
+        },
+        {
           "id": "vanx",
           "name": "VANX",
           "years": [
@@ -11108,6 +11143,13 @@ window.HBSTV_PLAYER_INDEX = {
           "name": "PURE",
           "years": [
             2023
+          ]
+        },
+        {
+          "id": "nike",
+          "name": "NIKE",
+          "years": [
+            2021
           ]
         },
         {
