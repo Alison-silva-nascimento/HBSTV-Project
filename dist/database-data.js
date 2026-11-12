@@ -603,8 +603,8 @@ window.HBSTV_DATABASE = {
           "source": "hall-of-fame"
         },
         {
-          "id": "2021:suvohloftuscup",
-          "title": "SUVOH | LOFTUS CUP",
+          "id": "2021:suvohloftuscups3",
+          "title": "SUVOH | LOFTUS CUP S3",
           "year": 2021,
           "organizer": "SUVOH",
           "major": false,
@@ -953,8 +953,8 @@ window.HBSTV_DATABASE = {
           "source": "hall-of-fame-3"
         },
         {
-          "id": "2021:suvohloftuscup",
-          "title": "SUVOH | LOFTUS CUP",
+          "id": "2021:suvohloftuscups3",
+          "title": "SUVOH | LOFTUS CUP S3",
           "year": 2021,
           "organizer": "SUVOH",
           "major": false,
@@ -4843,14 +4843,6 @@ window.HBSTV_DATABASE = {
           "source": "hall-of-fame-3"
         },
         {
-          "id": "hof:2021:SUVOH:loftuscups2",
-          "title": "SUVOH | LOFTUS CUP S2 2021",
-          "year": 2021,
-          "organizer": "SUVOH",
-          "major": false,
-          "source": "hall-of-fame-3"
-        },
-        {
           "id": "hof:2021:LCB:blockstrikeleague",
           "title": "LCB | BLOCK STRIKE LEAGUE 2021",
           "year": 2021,
@@ -5083,8 +5075,8 @@ window.HBSTV_DATABASE = {
           "source": "owner-confirmed"
         },
         {
-          "id": "2021:suvohloftuscupedicaodaluvv",
-          "title": "SUVOH | LOFTUS CUP (edição da LUVV)",
+          "id": "2021:suvohloftuscups2",
+          "title": "SUVOH | LOFTUS CUP S2",
           "year": 2021,
           "teamId": "luvv",
           "team": "LUVV",
@@ -9326,8 +9318,8 @@ window.HBSTV_DATABASE = {
           "source": "owner-confirmed"
         },
         {
-          "id": "2021:suvohloftuscupedicaodaluvv",
-          "title": "SUVOH | LOFTUS CUP (edição da LUVV)",
+          "id": "2021:suvohloftuscups2",
+          "title": "SUVOH | LOFTUS CUP S2",
           "year": 2021,
           "teamId": "luvv",
           "team": "LUVV",
@@ -13105,8 +13097,8 @@ window.HBSTV_DATABASE = {
           "source": "owner-confirmed"
         },
         {
-          "id": "2021:suvohloftuscupedicaodaluvv",
-          "title": "SUVOH | LOFTUS CUP (edição da LUVV)",
+          "id": "2021:suvohloftuscups2",
+          "title": "SUVOH | LOFTUS CUP S2",
           "year": 2021,
           "teamId": "luvv",
           "team": "LUVV",
@@ -13575,8 +13567,8 @@ window.HBSTV_DATABASE = {
           "source": "owner-confirmed"
         },
         {
-          "id": "2021:suvohloftuscupedicaodaluvv",
-          "title": "SUVOH | LOFTUS CUP (edição da LUVV)",
+          "id": "2021:suvohloftuscups2",
+          "title": "SUVOH | LOFTUS CUP S2",
           "year": 2021,
           "teamId": "luvv",
           "team": "LUVV",
@@ -15122,8 +15114,8 @@ window.HBSTV_DATABASE = {
           "source": "owner-confirmed"
         },
         {
-          "id": "2021:suvohloftuscupedicaodaluvv",
-          "title": "SUVOH | LOFTUS CUP (edição da LUVV)",
+          "id": "2021:suvohloftuscups2",
+          "title": "SUVOH | LOFTUS CUP S2",
           "year": 2021,
           "teamId": "luvv",
           "team": "LUVV",
@@ -22263,8 +22255,34 @@ window.HBSTV_DATABASE = {
       "images": []
     },
     {
-      "id": "2021:suvohloftuscup",
-      "title": "SUVOH | LOFTUS CUP",
+      "id": "2021:suvohloftuscups2",
+      "title": "SUVOH | LOFTUS CUP S2",
+      "year": 2021,
+      "organizer": "SUVOH",
+      "major": false,
+      "winners": [
+        "luvv"
+      ],
+      "roster": [
+        "rn",
+        "sharp",
+        "mary",
+        "roggers",
+        "felpera"
+      ],
+      "mvps": [],
+      "evps": [],
+      "sources": [
+        "owner-confirmed"
+      ],
+      "notes": [
+        "Títulos e elenco da LUVV em 2021 informados pelo responsável pelo site."
+      ],
+      "images": []
+    },
+    {
+      "id": "2021:suvohloftuscups3",
+      "title": "SUVOH | LOFTUS CUP S3",
       "year": 2021,
       "organizer": "SUVOH",
       "major": false,
@@ -22295,32 +22313,6 @@ window.HBSTV_DATABASE = {
         "source": "Elenco anual da equipe em 2021",
         "kind": "annual-team"
       }
-    },
-    {
-      "id": "2021:suvohloftuscupedicaodaluvv",
-      "title": "SUVOH | LOFTUS CUP (edição da LUVV)",
-      "year": 2021,
-      "organizer": "SUVOH",
-      "major": false,
-      "winners": [
-        "luvv"
-      ],
-      "roster": [
-        "rn",
-        "sharp",
-        "mary",
-        "roggers",
-        "felpera"
-      ],
-      "mvps": [],
-      "evps": [],
-      "sources": [
-        "owner-confirmed"
-      ],
-      "notes": [
-        "Títulos e elenco da LUVV em 2021 informados pelo responsável pelo site."
-      ],
-      "images": []
     },
     {
       "id": "major:007759b02a7d7543b0a1",
@@ -26465,8 +26457,8 @@ window.HBSTV_DATABASE = {
           "roster": []
         },
         {
-          "id": "2021:suvohloftuscup",
-          "title": "SUVOH | LOFTUS CUP",
+          "id": "2021:suvohloftuscups3",
+          "title": "SUVOH | LOFTUS CUP S3",
           "year": 2021,
           "source": "owner-confirmed",
           "sourceNote": "Títulos da GT em 2021 confirmados pelo responsável pelo site.",
@@ -26704,8 +26696,8 @@ window.HBSTV_DATABASE = {
           ]
         },
         {
-          "id": "2021:suvohloftuscupedicaodaluvv",
-          "title": "SUVOH | LOFTUS CUP (edição da LUVV)",
+          "id": "2021:suvohloftuscups2",
+          "title": "SUVOH | LOFTUS CUP S2",
           "year": 2021,
           "source": "owner-confirmed",
           "sourceNote": "Títulos e elenco da LUVV em 2021 informados pelo responsável pelo site.",

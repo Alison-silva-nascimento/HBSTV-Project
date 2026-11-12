@@ -2885,8 +2885,8 @@ window.HBSTV_TEAMS = [
         "roster": []
       },
       {
-        "id": "2021:suvohloftuscup",
-        "title": "SUVOH | LOFTUS CUP",
+        "id": "2021:suvohloftuscups3",
+        "title": "SUVOH | LOFTUS CUP S3",
         "year": 2021,
         "source": "owner-confirmed",
         "sourceNote": "Títulos da GT em 2021 confirmados pelo responsável pelo site.",
@@ -3124,8 +3124,8 @@ window.HBSTV_TEAMS = [
         ]
       },
       {
-        "id": "2021:suvohloftuscupedicaodaluvv",
-        "title": "SUVOH | LOFTUS CUP (edição da LUVV)",
+        "id": "2021:suvohloftuscups2",
+        "title": "SUVOH | LOFTUS CUP S2",
         "year": 2021,
         "source": "owner-confirmed",
         "sourceNote": "Títulos e elenco da LUVV em 2021 informados pelo responsável pelo site.",

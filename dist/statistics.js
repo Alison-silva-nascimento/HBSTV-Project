@@ -81,7 +81,7 @@ function matches(record, useOrganizer = true) {
 
 function playerTitleRecords(player) {
   return player.allTitles.filter(record => matches(record) &&
-    (metric !== 'majors' || record.major || H.event(record.id)?.major || /[Ⓜ🅼]/u.test(record.title)));
+    (metric !== 'majors' || window.isPlayerMajorTitle(record)));
 }
 
 function showPlayerTrophies(id) {

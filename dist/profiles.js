@@ -5,7 +5,7 @@ document.querySelector('#ranking').innerHTML=`<div class="section-head"><h2>Lega
 const isMajorTitle=title=>/[Ⓜ🅼]/u.test(title);
 const cup='<svg viewBox="0 0 32 38" aria-hidden="true"><path d="M8 3h16v12c0 6-4 10-8 10S8 21 8 15V3Zm0 3H3v6c0 6 4 8 8 8M24 6h5v6c0 6-4 8-8 8M16 25v7M9 34h14" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linejoin="round"/><path d="m16 8 1.5 3 3.5.5-2.5 2.5.5 3.5-3-1.5-3 1.5.5-3.5-2.5-2.5 3.5-.5Z" fill="currentColor"/></svg>';
 function stats(p){
- const text=p.text,major=text.match(/(?:-?\s*)(\d+)\s*x?\s*MAJOR CHAMPION/i)?.[1]||text.match(/x\s*(\d+)\s*MAJOR CHAMPION/i)?.[1];
+ const text=p.text,archiveMajor=text.match(/(?:-?\s*)(\d+)\s*x?\s*MAJOR CHAMPION/i)?.[1]||text.match(/x\s*(\d+)\s*MAJOR CHAMPION/i)?.[1];
  const teams=text.match(/TEAMS\s*\n\s*\[([^\]]+)\]/i)?.[1]?.trim().split(/[\s,]+/).filter(Boolean)||[];
  const rankings=[];const prefix=text.split(/RECORDES|PREMIAÇÕES|TEAMS|PRINCIPAIS/i)[0];
  for(const match of prefix.matchAll(/TOP\s*(\d+)\s*(?:em\s*)?((?:\(20\d{2}\)\s*)+)/gi))for(const y of match[2].matchAll(/20\d{2}/g))rankings.push({rank:Number(match[1]),year:Number(y[0])});
@@ -18,6 +18,7 @@ function stats(p){
  const player=window.HBSTV?.person(p.name);
  const titleRecords=window.getPlayerTitleRecords?.(player,titles);
  const titleCount=titleRecords?.length ?? p.titles ?? 0;
+ const major=player&&titleRecords&&window.isPlayerMajorTitle ? titleRecords.filter(window.isPlayerMajorTitle).length : archiveMajor;
  return {major,teams,rankings:unique,titles,titleCount,titleRecords,retired:/APOSENTADO/i.test(p.full),realName:p.full.replace(/(?:´´|“|”|"|''|‘)[^´“”"‘]+?(?:´´|“|”|"|''|‘)/g,'').replace(/\[APOSENTADO\]/gi,'').trim(),best:unique.length?Math.min(...unique.map(r=>r.rank)):null};
 }
 function registeredZdrEvps(p){if(p.name!=='ZDR')return '';const count=p.text.match(/(?:^|\n)-?(\d+)\s*EVPs\b/i)?.[1]||'0';return `<div><dt>EVPs registrados</dt><dd>${esc(count)}</dd></div>`;}

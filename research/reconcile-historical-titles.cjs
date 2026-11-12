@@ -21,7 +21,7 @@ function normalizeTitle(title, year, reviewed = true) {
     '2020:ACE': {leaguecup: 'cupseason1', cup: 'cupseason1'},
     '2020:MAWARE': {seasonone: 'season'},
     '2021:GSE': {masters: 'mastersinverno', msters: 'mastersinverno'},
-    '2021:SUVOH': {majorcup: 'major'},
+    '2021:SUVOH': {majorcup: 'major', loftuscup: 'loftuscups3'},
     '2021:LLP': {strikeone: 'strikeoneseasonfive', strikeoneseason5: 'strikeoneseasonfive'},
     '2021:TSL': {majorcup: 'major', smack: 'smackcup'}
   };
