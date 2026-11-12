@@ -4484,36 +4484,6 @@ window.HBSTV_DATABASE = {
       ]
     },
     {
-      "id": "downbad",
-      "name": "downbad",
-      "aliases": [
-        "downbad",
-        "Downbad",
-        "DOWNBAD"
-      ],
-      "realNames": [],
-      "teams": [],
-      "titles": [],
-      "mvps": [],
-      "evps": [
-        {
-          "id": "2023:gzgtrleague",
-          "title": "GAMEZONE | GTR LEAGUE",
-          "year": 2023,
-          "source": "events-2023"
-        },
-        {
-          "id": "major:67b535053e8ba3d242da",
-          "title": "RANK S | Major",
-          "year": 2023,
-          "source": "events-2023"
-        }
-      ],
-      "rankings": [],
-      "awards": [],
-      "topFiveTeams": []
-    },
-    {
       "id": "draken",
       "name": "Draken",
       "aliases": [
@@ -18300,15 +18270,31 @@ window.HBSTV_DATABASE = {
     },
     {
       "id": "tenz",
-      "name": "Tenz",
+      "name": "TENZ",
       "aliases": [
-        "Tenz"
+        "downbad",
+        "Downbad",
+        "Tenz",
+        "DOWNBAD",
+        "TENZ"
       ],
       "realNames": [],
       "teams": [],
       "titles": [],
       "mvps": [],
       "evps": [
+        {
+          "id": "2023:gzgtrleague",
+          "title": "GAMEZONE | GTR LEAGUE",
+          "year": 2023,
+          "source": "events-2023"
+        },
+        {
+          "id": "major:67b535053e8ba3d242da",
+          "title": "RANK S | Major",
+          "year": 2023,
+          "source": "events-2023"
+        },
         {
           "id": "2023:ranksworlds",
           "title": "RANK S | WORLDS 2023",
@@ -18332,7 +18318,7 @@ window.HBSTV_DATABASE = {
         {
           "year": 2023,
           "rank": 12,
-          "country": "FR"
+          "country": "PE"
         }
       ],
       "awards": [],
@@ -20662,7 +20648,9 @@ window.HBSTV_DATABASE = {
     "kauan": "Nescau",
     "kscerato": "ScreaM",
     "reidogame": "RN",
-    "realnoob": "RN"
+    "realnoob": "RN",
+    "tenz": "TENZ",
+    "downbad": "TENZ"
   },
   "events": [
     {
@@ -22069,11 +22057,11 @@ window.HBSTV_DATABASE = {
         "micho"
       ],
       "evps": [
-        "downbad",
         "niko",
         "rn",
         "salty",
-        "tamashi"
+        "tamashi",
+        "tenz"
       ],
       "sources": [
         "events-2023"
@@ -22382,7 +22370,6 @@ window.HBSTV_DATABASE = {
         "oskar"
       ],
       "evps": [
-        "downbad",
         "gah",
         "kmx",
         "michi",
@@ -22391,6 +22378,7 @@ window.HBSTV_DATABASE = {
         "scr1mx",
         "tabsenn",
         "tamashi",
+        "tenz",
         "valknut"
       ],
       "sources": [

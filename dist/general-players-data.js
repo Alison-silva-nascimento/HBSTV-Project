@@ -41,7 +41,9 @@ window.HBSTV_PLAYER_INDEX = {
     "kauan": "Nescau",
     "kscerato": "ScreaM",
     "reidogame": "RN",
-    "realnoob": "RN"
+    "realnoob": "RN",
+    "tenz": "TENZ",
+    "downbad": "TENZ"
   },
   "players": [
     {
@@ -3243,35 +3245,6 @@ window.HBSTV_PLAYER_INDEX = {
       ],
       "mvps": [],
       "evps": [],
-      "rankings": [],
-      "awards": []
-    },
-    {
-      "id": "downbad",
-      "name": "downbad",
-      "aliases": [
-        "downbad",
-        "Downbad",
-        "DOWNBAD"
-      ],
-      "realNames": [],
-      "teams": [],
-      "titles": [],
-      "mvps": [],
-      "evps": [
-        {
-          "id": "major:67b535053e8ba3d242da",
-          "title": "RANK S | MajoR LEAGUE 2023 [TIER S+]",
-          "year": 2023,
-          "source": "events-2023"
-        },
-        {
-          "id": "2023:gzgtrleague",
-          "title": "GAMEZONE | GTR LEAGUE [TIER S]",
-          "year": 2023,
-          "source": "events-2023"
-        }
-      ],
       "rankings": [],
       "awards": []
     },
@@ -13278,15 +13251,31 @@ window.HBSTV_PLAYER_INDEX = {
     },
     {
       "id": "tenz",
-      "name": "Tenz",
+      "name": "TENZ",
       "aliases": [
-        "Tenz"
+        "downbad",
+        "Downbad",
+        "Tenz",
+        "DOWNBAD",
+        "TENZ"
       ],
       "realNames": [],
       "teams": [],
       "titles": [],
       "mvps": [],
       "evps": [
+        {
+          "id": "major:67b535053e8ba3d242da",
+          "title": "RANK S | MajoR LEAGUE 2023 [TIER S+]",
+          "year": 2023,
+          "source": "events-2023"
+        },
+        {
+          "id": "2023:gzgtrleague",
+          "title": "GAMEZONE | GTR LEAGUE [TIER S]",
+          "year": 2023,
+          "source": "events-2023"
+        },
         {
           "id": "2023:ranksworlds",
           "title": "RANK S | WORLDS 2023 [TIER S]",
@@ -13310,7 +13299,7 @@ window.HBSTV_PLAYER_INDEX = {
         {
           "year": 2023,
           "rank": 12,
-          "country": "FR"
+          "country": "PE"
         }
       ],
       "awards": []
