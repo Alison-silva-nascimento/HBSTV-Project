@@ -134,49 +134,56 @@
     "id": "2019:gsehpls3",
     "year": 2019,
     "confirmedRoster": [
-      "Fabri"
+      "Fabri",
+      "FeeH"
     ]
   },
   {
     "id": "2019:gseproleague",
     "year": 2019,
     "confirmedRoster": [
-      "Fabri"
+      "Fabri",
+      "FeeH"
     ]
   },
   {
     "id": "2019:gsetoc",
     "year": 2019,
     "confirmedRoster": [
-      "Fabri"
+      "Fabri",
+      "FeeH"
     ]
   },
   {
     "id": "2019:gsetourii",
     "year": 2019,
     "confirmedRoster": [
-      "Fabri"
+      "Fabri",
+      "FeeH"
     ]
   },
   {
     "id": "2019:gsetuessone",
     "year": 2019,
     "confirmedRoster": [
-      "Fabri"
+      "Fabri",
+      "FeeH"
     ]
   },
   {
     "id": "2019:tslapsleague",
     "year": 2019,
     "confirmedRoster": [
-      "Fabri"
+      "Fabri",
+      "FeeH"
     ]
   },
   {
     "id": "2019:tslforcefield",
     "year": 2019,
     "confirmedRoster": [
-      "Fabri"
+      "Fabri",
+      "FeeH"
     ]
   },
   {
@@ -192,6 +199,13 @@
     "year": 2018,
     "confirmedRoster": [
       "Fabri"
+    ]
+  },
+  {
+    "id": "2019:gsehardnessproleagues2",
+    "year": 2019,
+    "confirmedRoster": [
+      "FeeH"
     ]
   }
 ]

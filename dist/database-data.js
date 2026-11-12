@@ -5121,6 +5121,78 @@ window.HBSTV_DATABASE = {
           "team": "GC 2019",
           "major": true,
           "source": "major-history"
+        },
+        {
+          "id": "2019:gsehardnessproleagues2",
+          "title": "GSE | Hardness Pro League Season 2",
+          "year": 2019,
+          "teamId": "gc2019",
+          "team": "GC 2019",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2019:gsehpls3",
+          "title": "GSE | HPL Season 3",
+          "year": 2019,
+          "teamId": "tsy2019",
+          "team": "TSY",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2019:gseproleague",
+          "title": "GSE | Pro League 2019",
+          "year": 2019,
+          "teamId": "tsy2019",
+          "team": "TSY",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2019:gsetoc",
+          "title": "GSE | TOC 2019",
+          "year": 2019,
+          "teamId": "tsy2019",
+          "team": "TSY",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2019:gsetourii",
+          "title": "GSE | Tour II 2019",
+          "year": 2019,
+          "teamId": "tsy2019",
+          "team": "TSY",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2019:gsetuessone",
+          "title": "GSE | TUES Season One 2019",
+          "year": 2019,
+          "teamId": "tsy2019",
+          "team": "TSY",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2019:tslapsleague",
+          "title": "TSL | APS League 2019",
+          "year": 2019,
+          "teamId": "tsy2019",
+          "team": "TSY",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2019:tslforcefield",
+          "title": "TSL | Forcefield 2019",
+          "year": 2019,
+          "teamId": "tsy2019",
+          "team": "TSY",
+          "major": false,
+          "source": "owner-confirmed"
         }
       ],
       "mvps": [],
@@ -23245,10 +23317,12 @@ window.HBSTV_DATABASE = {
       "mvps": [],
       "evps": [],
       "sources": [
-        "top-1-teams-of-years"
+        "top-1-teams-of-years",
+        "owner-confirmed"
       ],
       "notes": [],
       "images": [],
+      "mvs": [],
       "rosterReference": {
         "players": [
           "amz",
@@ -25875,7 +25949,8 @@ window.HBSTV_DATABASE = {
           ],
           "sources": [
             "top-1-teams-of-years",
-            "major-history"
+            "major-history",
+            "owner-confirmed"
           ]
         },
         {
@@ -30857,7 +30932,8 @@ window.HBSTV_DATABASE = {
           ],
           "sources": [
             "top-1-teams-of-years",
-            "major-history"
+            "major-history",
+            "owner-confirmed"
           ]
         },
         {
