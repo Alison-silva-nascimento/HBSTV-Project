@@ -6111,6 +6111,15 @@ window.HBSTV_PLAYER_INDEX = {
           "source": "events-2024"
         },
         {
+          "id": "2024:gznewage",
+          "title": "GAMEZONE | NEW AGE [TIER S]",
+          "year": 2024,
+          "teamId": "aura",
+          "team": "AURA",
+          "major": false,
+          "source": "events-2024"
+        },
+        {
           "id": "2023:ranksdreamhack",
           "title": "RANK S | DREAM HACK BRAZIL [TIER S]",
           "year": 2023,
@@ -9160,6 +9169,15 @@ window.HBSTV_PLAYER_INDEX = {
         {
           "id": "2024:bcnyallacompass",
           "title": "BCN | YALLA COMPASS 2024 [TIER S]",
+          "year": 2024,
+          "teamId": "aura",
+          "team": "AURA",
+          "major": false,
+          "source": "events-2024"
+        },
+        {
+          "id": "2024:gznewage",
+          "title": "GAMEZONE | NEW AGE [TIER S]",
           "year": 2024,
           "teamId": "aura",
           "team": "AURA",

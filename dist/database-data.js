@@ -8386,6 +8386,15 @@ window.HBSTV_DATABASE = {
           "source": "events-2024"
         },
         {
+          "id": "2024:gznewage",
+          "title": "GAMEZONE | NEW AGE",
+          "year": 2024,
+          "teamId": "aura",
+          "team": "AURA",
+          "major": false,
+          "source": "events-2024"
+        },
+        {
           "id": "2023:ranksdreamhack",
           "title": "RANK S | DREAM HACK BRAZIL",
           "year": 2023,
@@ -12298,6 +12307,15 @@ window.HBSTV_DATABASE = {
         {
           "id": "2024:bcnyallacompass",
           "title": "BCN | YALLA COMPASS 2024",
+          "year": 2024,
+          "teamId": "aura",
+          "team": "AURA",
+          "major": false,
+          "source": "events-2024"
+        },
+        {
+          "id": "2024:gznewage",
+          "title": "GAMEZONE | NEW AGE",
           "year": 2024,
           "teamId": "aura",
           "team": "AURA",
@@ -20707,7 +20725,9 @@ window.HBSTV_DATABASE = {
         "zdr",
         "valknut",
         "bronkz",
-        "uch"
+        "uch",
+        "perfect",
+        "kmx"
       ],
       "mvps": [
         "oskar"
@@ -20726,7 +20746,9 @@ window.HBSTV_DATABASE = {
       "sources": [
         "events-2024"
       ],
-      "notes": [],
+      "notes": [
+        "Perfect e KMX incluídos na escalação campeã por confirmação do responsável pelo site."
+      ],
       "images": [
         "assets/archive/db37c192f108a6659dbc.jpeg"
       ]
@@ -29547,7 +29569,9 @@ window.HBSTV_DATABASE = {
             "ZDR",
             "Valknut",
             "Bronkz",
-            "UCH"
+            "UCH",
+            "Perfect",
+            "KMX"
           ],
           "blocks": [
             {
@@ -29646,7 +29670,8 @@ window.HBSTV_DATABASE = {
               "originalSrc": "https://img1.wsimg.com/isteam/ip/59989400-dfc1-4501-91c3-d5c38a10d7c1/WhatsApp%20Image%202024-02-17%20at%2009.46.54.jpeg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:400,h:400,cg:true",
               "alt": ""
             }
-          ]
+          ],
+          "sourceNote": "Perfect e KMX incluídos na escalação campeã por confirmação do responsável pelo site."
         }
       ],
       "members": [
@@ -29687,7 +29712,8 @@ window.HBSTV_DATABASE = {
             2024
           ],
           "sources": [
-            "events-2024"
+            "events-2024",
+            "Perfect e KMX incluídos na escalação campeã por confirmação do responsável pelo site."
           ]
         },
         {
@@ -29707,7 +29733,8 @@ window.HBSTV_DATABASE = {
             2024
           ],
           "sources": [
-            "events-2024"
+            "events-2024",
+            "Perfect e KMX incluídos na escalação campeã por confirmação do responsável pelo site."
           ]
         },
         {

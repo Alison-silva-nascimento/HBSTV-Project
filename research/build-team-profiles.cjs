@@ -18,7 +18,19 @@ const majorPage=c.window.RANKS_ARCHIVE.pages.find(p=>p.slug==='major-history');l
 const majorRosters=JSON.parse(fs.readFileSync('research/major-winning-rosters.json','utf8'));
 for(const row of majorRosters){const t=team(row.winner,row.year),candidates=t.titles.filter(r=>r.year===row.year&&r.major),r=candidates.find(r=>r.id===titleKey(row.title,row.year))||(candidates.length===1?candidates[0]:null);if(!r)throw new Error('Major roster could not be matched: '+row.title);r.legacyEventId=r.id;r.id='major:'+row.sourceImage.split('/').pop().replace(/\.[^.]+$/,'');r.roster=[...new Map([...r.roster,...row.roster].map(name=>[nickKey(name),name])).values()];r.rosterSourceImage=row.sourceImage;for(const name of row.roster)member(t,name,row.year,'major-history');}
 for(const row of JSON.parse(fs.readFileSync('research/player-career-corrections.json','utf8')))member(team(row.team,row.year),row.player,row.year,row.source);
-for(const row of JSON.parse(fs.readFileSync('research/team-record-corrections.json','utf8'))){const t=team(row.team,row.year);for(const name of row.players)member(t,name,row.year,row.source);for(const title of row.titles)addTitle(t,{title,year:row.year,source:'owner-confirmed',sourceNote:row.source,manual:true,major:false,roster:row.rosterConfirmed?row.players:[]});}
+for (const row of JSON.parse(fs.readFileSync('research/team-record-corrections.json','utf8'))) {
+  const t = team(row.team,row.year);
+  for (const name of row.players) member(t,name,row.year,row.source);
+  for (const title of row.titles) {
+    const existing = t.titles.find(record => record.id === titleKey(title,row.year));
+    if (existing && row.rosterConfirmed) {
+      existing.roster = [...new Map([...existing.roster,...row.players].map(name => [nickKey(name),name])).values()];
+      existing.sourceNote = row.source;
+      continue;
+    }
+    addTitle(t,{title,year:row.year,source:'owner-confirmed',sourceNote:row.source,manual:true,major:false,roster:row.rosterConfirmed?row.players:[]});
+  }
+}
 for(const t of teams.values()){t.searchAliases=Object.entries(aliases).filter(([a,label])=>norm(label)===t.id).map(([a])=>a);if(/^gt(2021|2023)$/.test(t.id))t.searchAliases=['gt','legendaryteam',t.id,'legendaryteam'+t.id.slice(2)];if(t.id==='gc2018')t.searchAliases=['gc','gc2018','goblinscheating','goblinscheating2018'];if(t.id==='gc2019')t.searchAliases=['gc','gc2019','goblinscheating','goblinscheating2019','tempstormy','tsy'];t.titles.sort((a,b)=>b.year-a.year||a.title.localeCompare(b.title));t.members.forEach(p=>p.years.sort((a,b)=>b-a));t.members.sort((a,b)=>Math.max(...b.years)-Math.max(...a.years)||a.name.localeCompare(b.name));t.rankings.sort((a,b)=>b.year-a.year);}
 if(teams.has("iklegends"))teams.get("iklegends").name="IK";
 for(const t of teams.values())for(const r of t.titles)if(r.rosterSourceImage==="assets/archive/188f48896736e07cbe4d.jpeg")r.roster=r.roster.filter(n=>!/^hard(zera)?$/i.test(n));

@@ -5940,7 +5940,9 @@ window.HBSTV_TEAMS = [
           "ZDR",
           "Valknut",
           "Bronkz",
-          "UCH"
+          "UCH",
+          "Perfect",
+          "KMX"
         ],
         "blocks": [
           {
@@ -6039,7 +6041,8 @@ window.HBSTV_TEAMS = [
             "originalSrc": "https://img1.wsimg.com/isteam/ip/59989400-dfc1-4501-91c3-d5c38a10d7c1/WhatsApp%20Image%202024-02-17%20at%2009.46.54.jpeg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:400,h:400,cg:true",
             "alt": ""
           }
-        ]
+        ],
+        "sourceNote": "Perfect e KMX incluídos na escalação campeã por confirmação do responsável pelo site."
       }
     ],
     "members": [
@@ -6080,7 +6083,8 @@ window.HBSTV_TEAMS = [
           2024
         ],
         "sources": [
-          "events-2024"
+          "events-2024",
+          "Perfect e KMX incluídos na escalação campeã por confirmação do responsável pelo site."
         ]
       },
       {
@@ -6100,7 +6104,8 @@ window.HBSTV_TEAMS = [
           2024
         ],
         "sources": [
-          "events-2024"
+          "events-2024",
+          "Perfect e KMX incluídos na escalação campeã por confirmação do responsável pelo site."
         ]
       },
       {
