@@ -236,7 +236,7 @@ window.RANKS_TEAM_YEARS = {
         "GSE | Tour II 2019",
         "GSE | Pro League 2019",
         "GSE | HPL Season 3",
-        "GSE | GPL Season 2"
+        "GSE | Hardness Pro League Season 2"
       ],
       "sourceImage": "assets/archive/b5cfd9c2ba3653ff9b37.jpeg",
       "logoCrop": {

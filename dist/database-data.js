@@ -1037,8 +1037,8 @@ window.HBSTV_DATABASE = {
           ]
         },
         {
-          "id": "gc2019",
-          "name": "Temp Stormy / GC 2019",
+          "id": "tsy2019",
+          "name": "TSY 2019",
           "years": [
             2019
           ]
@@ -1076,14 +1076,6 @@ window.HBSTV_DATABASE = {
       ],
       "awards": [],
       "historicalTitles": [
-        {
-          "id": "major:7713f3c1b8fa50d7e849",
-          "title": "GSE | Brasil Extreme Masters MAJOR",
-          "year": 2019,
-          "organizer": "GSE",
-          "major": true,
-          "source": "hall-of-fame"
-        },
         {
           "id": "2019:gsehpls3",
           "title": "GSE | HPL Season 3",
@@ -1181,8 +1173,8 @@ window.HBSTV_DATABASE = {
           "rank": 1
         },
         {
-          "teamId": "gc2019",
-          "name": "Temp Stormy / GC 2019",
+          "teamId": "tsy2019",
+          "name": "TSY 2019",
           "year": 2019,
           "rank": 1
         }
@@ -1667,7 +1659,14 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "gc2019",
-          "name": "Temp Stormy / GC 2019",
+          "name": "GC 2019",
+          "years": [
+            2019
+          ]
+        },
+        {
+          "id": "tsy2019",
+          "name": "TSY 2019",
           "years": [
             2019
           ]
@@ -1702,7 +1701,7 @@ window.HBSTV_DATABASE = {
           "title": "GSE | Brasil Extreme Masters MAJOR",
           "year": 2019,
           "teamId": "gc2019",
-          "team": "Temp Stormy / GC 2019",
+          "team": "GC 2019",
           "major": true,
           "source": "major-history"
         },
@@ -1866,8 +1865,8 @@ window.HBSTV_DATABASE = {
       ],
       "topFiveTeams": [
         {
-          "teamId": "gc2019",
-          "name": "Temp Stormy / GC 2019",
+          "teamId": "tsy2019",
+          "name": "TSY 2019",
           "year": 2019,
           "rank": 1
         },
@@ -2886,6 +2885,13 @@ window.HBSTV_DATABASE = {
           ]
         },
         {
+          "id": "gc2019",
+          "name": "GC 2019",
+          "years": [
+            2019
+          ]
+        },
+        {
           "id": "gc2018",
           "name": "GC 2018",
           "years": [
@@ -3021,6 +3027,14 @@ window.HBSTV_DATABASE = {
           "source": "hall-of-fame-3"
         },
         {
+          "id": "major:7713f3c1b8fa50d7e849",
+          "title": "GSE | Brasil Extreme Masters MAJOR",
+          "year": 2019,
+          "organizer": "GSE",
+          "major": true,
+          "source": "hall-of-fame-3"
+        },
+        {
           "id": "hof:2019:GSE:tues",
           "title": "GSE | TUES 2019",
           "year": 2019,
@@ -3029,8 +3043,8 @@ window.HBSTV_DATABASE = {
           "source": "hall-of-fame-3"
         },
         {
-          "id": "2019:gsegpls2",
-          "title": "GSE | GPL Season 2",
+          "id": "2019:gsehardnessproleagues2",
+          "title": "GSE | Hardness Pro League Season 2",
           "year": 2019,
           "organizer": "GSE",
           "major": false,
@@ -4930,7 +4944,14 @@ window.HBSTV_DATABASE = {
       "teams": [
         {
           "id": "gc2019",
-          "name": "Temp Stormy / GC 2019",
+          "name": "GC 2019",
+          "years": [
+            2019
+          ]
+        },
+        {
+          "id": "tsy2019",
+          "name": "TSY 2019",
           "years": [
             2019
           ]
@@ -4942,7 +4963,7 @@ window.HBSTV_DATABASE = {
           "title": "GSE | Brasil Extreme Masters MAJOR",
           "year": 2019,
           "teamId": "gc2019",
-          "team": "Temp Stormy / GC 2019",
+          "team": "GC 2019",
           "major": true,
           "source": "major-history"
         }
@@ -4959,8 +4980,8 @@ window.HBSTV_DATABASE = {
       "awards": [],
       "topFiveTeams": [
         {
-          "teamId": "gc2019",
-          "name": "Temp Stormy / GC 2019",
+          "teamId": "tsy2019",
+          "name": "TSY 2019",
           "year": 2019,
           "rank": 1
         }
@@ -4975,6 +4996,13 @@ window.HBSTV_DATABASE = {
       ],
       "realNames": [],
       "teams": [
+        {
+          "id": "gc2019",
+          "name": "GC 2019",
+          "years": [
+            2019
+          ]
+        },
         {
           "id": "gc2018",
           "name": "GC 2018",
@@ -6461,6 +6489,13 @@ window.HBSTV_DATABASE = {
           "name": "00",
           "years": [
             2024
+          ]
+        },
+        {
+          "id": "gc2019",
+          "name": "GC 2019",
+          "years": [
+            2019
           ]
         },
         {
@@ -7979,7 +8014,7 @@ window.HBSTV_DATABASE = {
       "teams": [
         {
           "id": "gc2019",
-          "name": "Temp Stormy / GC 2019",
+          "name": "GC 2019",
           "years": [
             2019
           ]
@@ -7991,7 +8026,7 @@ window.HBSTV_DATABASE = {
           "title": "GSE | Brasil Extreme Masters MAJOR",
           "year": 2019,
           "teamId": "gc2019",
-          "team": "Temp Stormy / GC 2019",
+          "team": "GC 2019",
           "major": true,
           "source": "major-history"
         }
@@ -8007,12 +8042,6 @@ window.HBSTV_DATABASE = {
       ],
       "awards": [],
       "topFiveTeams": [
-        {
-          "teamId": "gc2019",
-          "name": "Temp Stormy / GC 2019",
-          "year": 2019,
-          "rank": 1
-        },
         {
           "teamId": "real",
           "name": "REAL",
@@ -10286,7 +10315,7 @@ window.HBSTV_DATABASE = {
       "teams": [
         {
           "id": "gc2019",
-          "name": "Temp Stormy / GC 2019",
+          "name": "GC 2019",
           "years": [
             2019
           ]
@@ -10298,7 +10327,7 @@ window.HBSTV_DATABASE = {
           "title": "GSE | Brasil Extreme Masters MAJOR",
           "year": 2019,
           "teamId": "gc2019",
-          "team": "Temp Stormy / GC 2019",
+          "team": "GC 2019",
           "major": true,
           "source": "major-history"
         }
@@ -10307,14 +10336,7 @@ window.HBSTV_DATABASE = {
       "evps": [],
       "rankings": [],
       "awards": [],
-      "topFiveTeams": [
-        {
-          "teamId": "gc2019",
-          "name": "Temp Stormy / GC 2019",
-          "year": 2019,
-          "rank": 1
-        }
-      ]
+      "topFiveTeams": []
     },
     {
       "id": "nezhno",
@@ -12813,7 +12835,14 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "gc2019",
-          "name": "Temp Stormy / GC 2019",
+          "name": "GC 2019",
+          "years": [
+            2019
+          ]
+        },
+        {
+          "id": "tsy2019",
+          "name": "TSY 2019",
           "years": [
             2019
           ]
@@ -12877,7 +12906,7 @@ window.HBSTV_DATABASE = {
           "title": "GSE | Brasil Extreme Masters MAJOR",
           "year": 2019,
           "teamId": "gc2019",
-          "team": "Temp Stormy / GC 2019",
+          "team": "GC 2019",
           "major": true,
           "source": "major-history"
         }
@@ -13211,8 +13240,8 @@ window.HBSTV_DATABASE = {
           "rank": 1
         },
         {
-          "teamId": "gc2019",
-          "name": "Temp Stormy / GC 2019",
+          "teamId": "tsy2019",
+          "name": "TSY 2019",
           "year": 2019,
           "rank": 1
         }
@@ -13335,8 +13364,8 @@ window.HBSTV_DATABASE = {
           ]
         },
         {
-          "id": "gc2019",
-          "name": "Temp Stormy / GC 2019",
+          "id": "tsy2019",
+          "name": "TSY 2019",
           "years": [
             2019
           ]
@@ -13526,8 +13555,8 @@ window.HBSTV_DATABASE = {
           "rank": 1
         },
         {
-          "teamId": "gc2019",
-          "name": "Temp Stormy / GC 2019",
+          "teamId": "tsy2019",
+          "name": "TSY 2019",
           "year": 2019,
           "rank": 1
         }
@@ -13833,7 +13862,14 @@ window.HBSTV_DATABASE = {
       "teams": [
         {
           "id": "gc2019",
-          "name": "Temp Stormy / GC 2019",
+          "name": "GC 2019",
+          "years": [
+            2019
+          ]
+        },
+        {
+          "id": "tsy2019",
+          "name": "TSY 2019",
           "years": [
             2019
           ]
@@ -13852,7 +13888,7 @@ window.HBSTV_DATABASE = {
           "title": "GSE | Brasil Extreme Masters MAJOR",
           "year": 2019,
           "teamId": "gc2019",
-          "team": "Temp Stormy / GC 2019",
+          "team": "GC 2019",
           "major": true,
           "source": "major-history"
         },
@@ -13892,8 +13928,8 @@ window.HBSTV_DATABASE = {
       ],
       "topFiveTeams": [
         {
-          "teamId": "gc2019",
-          "name": "Temp Stormy / GC 2019",
+          "teamId": "tsy2019",
+          "name": "TSY 2019",
           "year": 2019,
           "rank": 1
         },
@@ -15454,12 +15490,20 @@ window.HBSTV_DATABASE = {
       "id": "sick",
       "name": "Sick",
       "aliases": [
+        "Sick",
         "SICK",
-        "SicK",
-        "Sick"
+        "SicK"
       ],
       "realNames": [],
-      "teams": [],
+      "teams": [
+        {
+          "id": "gc2019",
+          "name": "GC 2019",
+          "years": [
+            2019
+          ]
+        }
+      ],
       "titles": [],
       "mvps": [],
       "evps": [
@@ -17888,8 +17932,15 @@ window.HBSTV_DATABASE = {
       "realNames": [],
       "teams": [
         {
+          "id": "tsy2019",
+          "name": "TSY 2019",
+          "years": [
+            2019
+          ]
+        },
+        {
           "id": "gc2019",
-          "name": "Temp Stormy / GC 2019",
+          "name": "GC 2019",
           "years": [
             2019
           ]
@@ -17928,8 +17979,8 @@ window.HBSTV_DATABASE = {
       "awards": [],
       "topFiveTeams": [
         {
-          "teamId": "gc2019",
-          "name": "Temp Stormy / GC 2019",
+          "teamId": "tsy2019",
+          "name": "TSY 2019",
           "year": 2019,
           "rank": 1
         },
@@ -18244,7 +18295,14 @@ window.HBSTV_DATABASE = {
       "teams": [
         {
           "id": "gc2019",
-          "name": "Temp Stormy / GC 2019",
+          "name": "GC 2019",
+          "years": [
+            2019
+          ]
+        },
+        {
+          "id": "tsy2019",
+          "name": "TSY 2019",
           "years": [
             2019
           ]
@@ -18256,7 +18314,7 @@ window.HBSTV_DATABASE = {
           "title": "GSE | Brasil Extreme Masters MAJOR",
           "year": 2019,
           "teamId": "gc2019",
-          "team": "Temp Stormy / GC 2019",
+          "team": "GC 2019",
           "major": true,
           "source": "major-history"
         }
@@ -18331,8 +18389,8 @@ window.HBSTV_DATABASE = {
       ],
       "topFiveTeams": [
         {
-          "teamId": "gc2019",
-          "name": "Temp Stormy / GC 2019",
+          "teamId": "tsy2019",
+          "name": "TSY 2019",
           "year": 2019,
           "rank": 1
         }
@@ -18461,7 +18519,14 @@ window.HBSTV_DATABASE = {
       "teams": [
         {
           "id": "gc2019",
-          "name": "Temp Stormy / GC 2019",
+          "name": "GC 2019",
+          "years": [
+            2019
+          ]
+        },
+        {
+          "id": "tsy2019",
+          "name": "TSY 2019",
           "years": [
             2019
           ]
@@ -18473,7 +18538,7 @@ window.HBSTV_DATABASE = {
           "title": "GSE | Brasil Extreme Masters MAJOR",
           "year": 2019,
           "teamId": "gc2019",
-          "team": "Temp Stormy / GC 2019",
+          "team": "GC 2019",
           "major": true,
           "source": "major-history"
         }
@@ -18490,8 +18555,8 @@ window.HBSTV_DATABASE = {
       "awards": [],
       "topFiveTeams": [
         {
-          "teamId": "gc2019",
-          "name": "Temp Stormy / GC 2019",
+          "teamId": "tsy2019",
+          "name": "TSY 2019",
           "year": 2019,
           "rank": 1
         }
@@ -19425,6 +19490,13 @@ window.HBSTV_DATABASE = {
       ],
       "realNames": [],
       "teams": [
+        {
+          "id": "gc2019",
+          "name": "GC 2019",
+          "years": [
+            2019
+          ]
+        },
         {
           "id": "gc2018",
           "name": "GC 2018",
@@ -22438,8 +22510,8 @@ window.HBSTV_DATABASE = {
       ]
     },
     {
-      "id": "2019:gsegpls2",
-      "title": "GSE | GPL Season 2",
+      "id": "2019:gsehardnessproleagues2",
+      "title": "GSE | Hardness Pro League Season 2",
       "year": 2019,
       "organizer": "GSE",
       "major": false,
@@ -22457,12 +22529,19 @@ window.HBSTV_DATABASE = {
       "rosterReference": {
         "players": [
           "amz",
-          "rn",
-          "whezz",
-          "ryota",
+          "brizado",
           "feeh",
-          "adren",
-          "vamp"
+          "felps",
+          "hardzera",
+          "jhow",
+          "nesk",
+          "rn",
+          "sansey",
+          "sick",
+          "vamp",
+          "whezz",
+          "xacau",
+          "zori"
         ],
         "year": 2019,
         "source": "Elenco anual da equipe em 2019",
@@ -22476,7 +22555,7 @@ window.HBSTV_DATABASE = {
       "organizer": "GSE",
       "major": false,
       "winners": [
-        "gc2019"
+        "tsy2019"
       ],
       "roster": [],
       "mvps": [],
@@ -22508,7 +22587,7 @@ window.HBSTV_DATABASE = {
       "organizer": "GSE",
       "major": false,
       "winners": [
-        "gc2019"
+        "tsy2019"
       ],
       "roster": [],
       "mvps": [],
@@ -22540,7 +22619,7 @@ window.HBSTV_DATABASE = {
       "organizer": "GSE",
       "major": false,
       "winners": [
-        "gc2019"
+        "tsy2019"
       ],
       "roster": [],
       "mvps": [],
@@ -22572,7 +22651,7 @@ window.HBSTV_DATABASE = {
       "organizer": "GSE",
       "major": false,
       "winners": [
-        "gc2019"
+        "tsy2019"
       ],
       "roster": [],
       "mvps": [],
@@ -22604,7 +22683,7 @@ window.HBSTV_DATABASE = {
       "organizer": "GSE",
       "major": false,
       "winners": [
-        "gc2019"
+        "tsy2019"
       ],
       "roster": [],
       "mvps": [],
@@ -22636,7 +22715,7 @@ window.HBSTV_DATABASE = {
       "organizer": "TSL",
       "major": false,
       "winners": [
-        "gc2019"
+        "tsy2019"
       ],
       "roster": [],
       "mvps": [],
@@ -22668,7 +22747,7 @@ window.HBSTV_DATABASE = {
       "organizer": "TSL",
       "major": false,
       "winners": [
-        "gc2019"
+        "tsy2019"
       ],
       "roster": [],
       "mvps": [],
@@ -23258,285 +23337,6 @@ window.HBSTV_DATABASE = {
         "penta",
         "pentaesports",
         "pnt"
-      ]
-    },
-    {
-      "id": "gc2019",
-      "name": "Temp Stormy / GC 2019",
-      "aliases": [
-        "Temp Stormy / GC 2019",
-        "Goblins Cheating",
-        "gc",
-        "gc2019",
-        "goblinscheating",
-        "goblinscheating2019",
-        "tempstormy",
-        "tsy"
-      ],
-      "titles": [
-        {
-          "id": "2019:gsegpls2",
-          "title": "GSE | GPL Season 2",
-          "year": 2019,
-          "source": "top-1-teams-of-years",
-          "major": false,
-          "roster": [],
-          "summary": true
-        },
-        {
-          "id": "2019:gsehpls3",
-          "title": "GSE | HPL Season 3",
-          "year": 2019,
-          "source": "top-1-teams-of-years",
-          "major": false,
-          "roster": [],
-          "summary": true
-        },
-        {
-          "id": "major:7713f3c1b8fa50d7e849",
-          "title": "GSE | Brasil Extreme Masters MAJOR",
-          "year": 2019,
-          "source": "major-history",
-          "major": true,
-          "roster": [
-            "rN",
-            "Amz",
-            "FeeH",
-            "JhowW",
-            "Sansey",
-            "WhezZ",
-            "XACAU",
-            "NESK"
-          ],
-          "summary": true,
-          "blocks": [
-            {
-              "type": "heading",
-              "text": "GSE | MAJOR [2019]",
-              "level": 4
-            },
-            {
-              "type": "image",
-              "src": "assets/archive/7713f3c1b8fa50d7e849.jpeg",
-              "originalSrc": "https://img1.wsimg.com/isteam/ip/59989400-dfc1-4501-91c3-d5c38a10d7c1/WhatsApp%20Image%202024-03-01%20at%2010.45.18.jpeg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:388,cg:true",
-              "alt": ""
-            },
-            {
-              "type": "text",
-              "text": "CAMPEÃO [Goblins Cheating]"
-            },
-            {
-              "type": "text",
-              "text": "FINAL [GC Vs VE]"
-            }
-          ],
-          "legacyEventId": "2019:gsebrasilextrememasters",
-          "rosterSourceImage": "assets/archive/7713f3c1b8fa50d7e849.jpeg"
-        },
-        {
-          "id": "2019:gseproleague",
-          "title": "GSE | Pro League 2019",
-          "year": 2019,
-          "source": "top-1-teams-of-years",
-          "major": false,
-          "roster": [],
-          "summary": true
-        },
-        {
-          "id": "2019:gsetoc",
-          "title": "GSE | TOC 2019",
-          "year": 2019,
-          "source": "top-1-teams-of-years",
-          "major": false,
-          "roster": [],
-          "summary": true
-        },
-        {
-          "id": "2019:gsetourii",
-          "title": "GSE | Tour II 2019",
-          "year": 2019,
-          "source": "top-1-teams-of-years",
-          "major": false,
-          "roster": [],
-          "summary": true
-        },
-        {
-          "id": "2019:gsetuessone",
-          "title": "GSE | TUES Season One 2019",
-          "year": 2019,
-          "source": "top-1-teams-of-years",
-          "major": false,
-          "roster": [],
-          "summary": true
-        },
-        {
-          "id": "2019:tslapsleague",
-          "title": "TSL | APS League 2019",
-          "year": 2019,
-          "source": "top-1-teams-of-years",
-          "major": false,
-          "roster": [],
-          "summary": true
-        },
-        {
-          "id": "2019:tslforcefield",
-          "title": "TSL | Forcefield 2019",
-          "year": 2019,
-          "source": "top-1-teams-of-years",
-          "major": false,
-          "roster": [],
-          "summary": true
-        }
-      ],
-      "members": [
-        {
-          "id": "adren",
-          "name": "AdreN",
-          "years": [
-            2019
-          ],
-          "sources": [
-            "top-1-teams-of-years"
-          ]
-        },
-        {
-          "id": "amz",
-          "name": "Amz",
-          "years": [
-            2019
-          ],
-          "sources": [
-            "top-1-teams-of-years",
-            "major-history"
-          ]
-        },
-        {
-          "id": "feeh",
-          "name": "Feeh",
-          "years": [
-            2019
-          ],
-          "sources": [
-            "top-1-teams-of-years",
-            "major-history"
-          ]
-        },
-        {
-          "id": "jhow",
-          "name": "Jhow",
-          "years": [
-            2019
-          ],
-          "sources": [
-            "major-history"
-          ]
-        },
-        {
-          "id": "nesk",
-          "name": "NESK",
-          "years": [
-            2019
-          ],
-          "sources": [
-            "major-history"
-          ]
-        },
-        {
-          "id": "rn",
-          "name": "RN",
-          "years": [
-            2019
-          ],
-          "sources": [
-            "top-1-teams-of-years",
-            "major-history"
-          ]
-        },
-        {
-          "id": "ryota",
-          "name": "ry0ta",
-          "years": [
-            2019
-          ],
-          "sources": [
-            "top-1-teams-of-years"
-          ]
-        },
-        {
-          "id": "sansey",
-          "name": "Sansey",
-          "years": [
-            2019
-          ],
-          "sources": [
-            "top-1-teams-of-years",
-            "major-history"
-          ]
-        },
-        {
-          "id": "vamp",
-          "name": "Vamp",
-          "years": [
-            2019
-          ],
-          "sources": [
-            "top-1-teams-of-years"
-          ]
-        },
-        {
-          "id": "whezz",
-          "name": "Whezz",
-          "years": [
-            2019
-          ],
-          "sources": [
-            "top-1-teams-of-years",
-            "major-history"
-          ]
-        },
-        {
-          "id": "xacau",
-          "name": "Xacau",
-          "years": [
-            2019
-          ],
-          "sources": [
-            "top-1-teams-of-years",
-            "major-history"
-          ]
-        }
-      ],
-      "rankings": [
-        {
-          "year": 2019,
-          "rank": 1
-        }
-      ],
-      "logo": {
-        "src": "assets/archive/11cb7cafd00935923831.jpg",
-        "crop": {
-          "x": 0.027070063694267517,
-          "y": 0.031029619181946404,
-          "w": 0.17834394904458598,
-          "h": 0.15796897038081806
-        }
-      },
-      "extraLogo": {
-        "src": "assets/archive/450cbb3f1a617981795b.jpg",
-        "crop": {
-          "x": 0.16719745222929935,
-          "y": 0.42715700141442714,
-          "w": 0.17834394904458598,
-          "h": 0.15841584158415842
-        }
-      },
-      "searchAliases": [
-        "gc",
-        "gc2019",
-        "goblinscheating",
-        "goblinscheating2019",
-        "tempstormy",
-        "tsy"
       ]
     },
     {
@@ -25163,6 +24963,205 @@ window.HBSTV_DATABASE = {
         "ik",
         "iklegends"
       ]
+    },
+    {
+      "id": "tsy2019",
+      "name": "TSY 2019",
+      "aliases": [
+        "Temp Stormy",
+        "TSY",
+        "Temp Stormy / GC 2019",
+        "Temp Stormy / Goblins Cheating",
+        "tempstormy",
+        "tsy",
+        "tsy2019"
+      ],
+      "searchAliases": [
+        "tempstormy",
+        "tsy",
+        "tsy2019"
+      ],
+      "titles": [
+        {
+          "id": "2019:gsehpls3",
+          "title": "GSE | HPL Season 3",
+          "year": 2019,
+          "source": "top-1-teams-of-years",
+          "major": false,
+          "roster": [],
+          "summary": true
+        },
+        {
+          "id": "2019:gseproleague",
+          "title": "GSE | Pro League 2019",
+          "year": 2019,
+          "source": "top-1-teams-of-years",
+          "major": false,
+          "roster": [],
+          "summary": true
+        },
+        {
+          "id": "2019:gsetoc",
+          "title": "GSE | TOC 2019",
+          "year": 2019,
+          "source": "top-1-teams-of-years",
+          "major": false,
+          "roster": [],
+          "summary": true
+        },
+        {
+          "id": "2019:gsetourii",
+          "title": "GSE | Tour II 2019",
+          "year": 2019,
+          "source": "top-1-teams-of-years",
+          "major": false,
+          "roster": [],
+          "summary": true
+        },
+        {
+          "id": "2019:gsetuessone",
+          "title": "GSE | TUES Season One 2019",
+          "year": 2019,
+          "source": "top-1-teams-of-years",
+          "major": false,
+          "roster": [],
+          "summary": true
+        },
+        {
+          "id": "2019:tslapsleague",
+          "title": "TSL | APS League 2019",
+          "year": 2019,
+          "source": "top-1-teams-of-years",
+          "major": false,
+          "roster": [],
+          "summary": true
+        },
+        {
+          "id": "2019:tslforcefield",
+          "title": "TSL | Forcefield 2019",
+          "year": 2019,
+          "source": "top-1-teams-of-years",
+          "major": false,
+          "roster": [],
+          "summary": true
+        }
+      ],
+      "members": [
+        {
+          "id": "adren",
+          "name": "AdreN",
+          "years": [
+            2019
+          ],
+          "sources": [
+            "top-1-teams-of-years"
+          ]
+        },
+        {
+          "id": "amz",
+          "name": "Amz",
+          "years": [
+            2019
+          ],
+          "sources": [
+            "top-1-teams-of-years",
+            "major-history",
+            "Passagem pela GC 2019 confirmada pelo responsável pelo site."
+          ]
+        },
+        {
+          "id": "feeh",
+          "name": "Feeh",
+          "years": [
+            2019
+          ],
+          "sources": [
+            "top-1-teams-of-years",
+            "major-history"
+          ]
+        },
+        {
+          "id": "rn",
+          "name": "RN",
+          "years": [
+            2019
+          ],
+          "sources": [
+            "top-1-teams-of-years",
+            "major-history",
+            "Passagem pela GC 2019 confirmada pelo responsável pelo site."
+          ]
+        },
+        {
+          "id": "ryota",
+          "name": "ry0ta",
+          "years": [
+            2019
+          ],
+          "sources": [
+            "top-1-teams-of-years"
+          ]
+        },
+        {
+          "id": "sansey",
+          "name": "Sansey",
+          "years": [
+            2019
+          ],
+          "sources": [
+            "top-1-teams-of-years",
+            "major-history"
+          ]
+        },
+        {
+          "id": "vamp",
+          "name": "Vamp",
+          "years": [
+            2019
+          ],
+          "sources": [
+            "top-1-teams-of-years",
+            "Passagem pela GC 2019 confirmada pelo responsável pelo site."
+          ]
+        },
+        {
+          "id": "whezz",
+          "name": "Whezz",
+          "years": [
+            2019
+          ],
+          "sources": [
+            "top-1-teams-of-years",
+            "major-history"
+          ]
+        },
+        {
+          "id": "xacau",
+          "name": "Xacau",
+          "years": [
+            2019
+          ],
+          "sources": [
+            "top-1-teams-of-years",
+            "major-history"
+          ]
+        }
+      ],
+      "rankings": [
+        {
+          "year": 2019,
+          "rank": 1
+        }
+      ],
+      "logo": {
+        "src": "assets/archive/11cb7cafd00935923831.jpg",
+        "crop": {
+          "x": 0.027070063694267517,
+          "y": 0.031029619181946404,
+          "w": 0.17834394904458598,
+          "h": 0.15796897038081806
+        }
+      }
     },
     {
       "id": "d2w",
@@ -29773,6 +29772,239 @@ window.HBSTV_DATABASE = {
       },
       "searchAliases": [
         "fnx"
+      ]
+    },
+    {
+      "id": "gc2019",
+      "name": "GC 2019",
+      "aliases": [
+        "GC 2019",
+        "Goblins Cheating",
+        "GC",
+        "gc",
+        "gc2019",
+        "goblinscheating",
+        "goblinscheating2019"
+      ],
+      "titles": [
+        {
+          "id": "2019:gsehardnessproleagues2",
+          "title": "GSE | Hardness Pro League Season 2",
+          "year": 2019,
+          "source": "top-1-teams-of-years",
+          "major": false,
+          "roster": [],
+          "summary": true
+        },
+        {
+          "id": "major:7713f3c1b8fa50d7e849",
+          "title": "GSE | Brasil Extreme Masters MAJOR",
+          "year": 2019,
+          "source": "major-history",
+          "major": true,
+          "roster": [
+            "rN",
+            "Amz",
+            "FeeH",
+            "JhowW",
+            "Sansey",
+            "WhezZ",
+            "XACAU",
+            "NESK"
+          ],
+          "summary": true,
+          "blocks": [
+            {
+              "type": "heading",
+              "text": "GSE | MAJOR [2019]",
+              "level": 4
+            },
+            {
+              "type": "image",
+              "src": "assets/archive/7713f3c1b8fa50d7e849.jpeg",
+              "originalSrc": "https://img1.wsimg.com/isteam/ip/59989400-dfc1-4501-91c3-d5c38a10d7c1/WhatsApp%20Image%202024-03-01%20at%2010.45.18.jpeg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:388,cg:true",
+              "alt": ""
+            },
+            {
+              "type": "text",
+              "text": "CAMPEÃO [Goblins Cheating]"
+            },
+            {
+              "type": "text",
+              "text": "FINAL [GC Vs VE]"
+            }
+          ],
+          "legacyEventId": "2019:gsebrasilextrememasters",
+          "rosterSourceImage": "assets/archive/7713f3c1b8fa50d7e849.jpeg"
+        }
+      ],
+      "members": [
+        {
+          "id": "amz",
+          "name": "Amz",
+          "years": [
+            2019
+          ],
+          "sources": [
+            "top-1-teams-of-years",
+            "major-history",
+            "Passagem pela GC 2019 confirmada pelo responsável pelo site."
+          ]
+        },
+        {
+          "id": "brizado",
+          "name": "Brizado",
+          "years": [
+            2019
+          ],
+          "sources": [
+            "Passagem pela GC 2019 confirmada pelo responsável pelo site."
+          ]
+        },
+        {
+          "id": "feeh",
+          "name": "Feeh",
+          "years": [
+            2019
+          ],
+          "sources": [
+            "top-1-teams-of-years",
+            "major-history"
+          ]
+        },
+        {
+          "id": "felps",
+          "name": "Felps",
+          "years": [
+            2019
+          ],
+          "sources": [
+            "Passagem pela GC 2019 confirmada pelo responsável pelo site."
+          ]
+        },
+        {
+          "id": "hardzera",
+          "name": "Hardzera",
+          "years": [
+            2019
+          ],
+          "sources": [
+            "Passagem pela GC 2019 confirmada pelo responsável pelo site."
+          ]
+        },
+        {
+          "id": "jhow",
+          "name": "Jhow",
+          "years": [
+            2019
+          ],
+          "sources": [
+            "major-history",
+            "Passagem pela GC 2019 confirmada pelo responsável pelo site."
+          ]
+        },
+        {
+          "id": "nesk",
+          "name": "NESK",
+          "years": [
+            2019
+          ],
+          "sources": [
+            "major-history"
+          ]
+        },
+        {
+          "id": "rn",
+          "name": "RN",
+          "years": [
+            2019
+          ],
+          "sources": [
+            "top-1-teams-of-years",
+            "major-history",
+            "Passagem pela GC 2019 confirmada pelo responsável pelo site."
+          ]
+        },
+        {
+          "id": "sansey",
+          "name": "Sansey",
+          "years": [
+            2019
+          ],
+          "sources": [
+            "top-1-teams-of-years",
+            "major-history"
+          ]
+        },
+        {
+          "id": "sick",
+          "name": "Sick",
+          "years": [
+            2019
+          ],
+          "sources": [
+            "Passagem pela GC 2019 confirmada pelo responsável pelo site."
+          ]
+        },
+        {
+          "id": "vamp",
+          "name": "Vamp",
+          "years": [
+            2019
+          ],
+          "sources": [
+            "top-1-teams-of-years",
+            "Passagem pela GC 2019 confirmada pelo responsável pelo site."
+          ]
+        },
+        {
+          "id": "whezz",
+          "name": "Whezz",
+          "years": [
+            2019
+          ],
+          "sources": [
+            "top-1-teams-of-years",
+            "major-history"
+          ]
+        },
+        {
+          "id": "xacau",
+          "name": "Xacau",
+          "years": [
+            2019
+          ],
+          "sources": [
+            "top-1-teams-of-years",
+            "major-history"
+          ]
+        },
+        {
+          "id": "zori",
+          "name": "Zori",
+          "years": [
+            2019
+          ],
+          "sources": [
+            "Passagem pela GC 2019 confirmada pelo responsável pelo site."
+          ]
+        }
+      ],
+      "rankings": [],
+      "logo": {
+        "src": "assets/archive/450cbb3f1a617981795b.jpg",
+        "crop": {
+          "x": 0.16719745222929935,
+          "y": 0.42715700141442714,
+          "w": 0.17834394904458598,
+          "h": 0.15841584158415842
+        }
+      },
+      "searchAliases": [
+        "gc",
+        "gc2019",
+        "goblinscheating",
+        "goblinscheating2019"
       ]
     },
     {

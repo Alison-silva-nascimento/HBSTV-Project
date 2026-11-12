@@ -685,8 +685,8 @@ window.HBSTV_PLAYER_INDEX = {
           ]
         },
         {
-          "id": "gc2019",
-          "name": "Temp Stormy / GC 2019",
+          "id": "tsy2019",
+          "name": "TSY 2019",
           "years": [
             2019
           ]
@@ -1133,7 +1133,14 @@ window.HBSTV_PLAYER_INDEX = {
         },
         {
           "id": "gc2019",
-          "name": "Temp Stormy / GC 2019",
+          "name": "GC 2019",
+          "years": [
+            2019
+          ]
+        },
+        {
+          "id": "tsy2019",
+          "name": "TSY 2019",
           "years": [
             2019
           ]
@@ -1168,7 +1175,7 @@ window.HBSTV_PLAYER_INDEX = {
           "title": "GSE | Brasil Extreme Masters MAJOR",
           "year": 2019,
           "teamId": "gc2019",
-          "team": "Temp Stormy / GC 2019",
+          "team": "GC 2019",
           "major": true,
           "source": "major-history"
         },
@@ -2121,6 +2128,13 @@ window.HBSTV_PLAYER_INDEX = {
           "name": "SX",
           "years": [
             2025
+          ]
+        },
+        {
+          "id": "gc2019",
+          "name": "GC 2019",
+          "years": [
+            2019
           ]
         },
         {
@@ -3591,7 +3605,14 @@ window.HBSTV_PLAYER_INDEX = {
       "teams": [
         {
           "id": "gc2019",
-          "name": "Temp Stormy / GC 2019",
+          "name": "GC 2019",
+          "years": [
+            2019
+          ]
+        },
+        {
+          "id": "tsy2019",
+          "name": "TSY 2019",
           "years": [
             2019
           ]
@@ -3603,7 +3624,7 @@ window.HBSTV_PLAYER_INDEX = {
           "title": "GSE | Brasil Extreme Masters MAJOR",
           "year": 2019,
           "teamId": "gc2019",
-          "team": "Temp Stormy / GC 2019",
+          "team": "GC 2019",
           "major": true,
           "source": "major-history"
         }
@@ -3628,6 +3649,13 @@ window.HBSTV_PLAYER_INDEX = {
       ],
       "realNames": [],
       "teams": [
+        {
+          "id": "gc2019",
+          "name": "GC 2019",
+          "years": [
+            2019
+          ]
+        },
         {
           "id": "gc2018",
           "name": "GC 2018",
@@ -4700,6 +4728,13 @@ window.HBSTV_PLAYER_INDEX = {
           ]
         },
         {
+          "id": "gc2019",
+          "name": "GC 2019",
+          "years": [
+            2019
+          ]
+        },
+        {
           "id": "stompatopteam",
           "name": "STOMPA TOP TEAM",
           "years": [
@@ -5748,7 +5783,7 @@ window.HBSTV_PLAYER_INDEX = {
       "teams": [
         {
           "id": "gc2019",
-          "name": "Temp Stormy / GC 2019",
+          "name": "GC 2019",
           "years": [
             2019
           ]
@@ -5760,7 +5795,7 @@ window.HBSTV_PLAYER_INDEX = {
           "title": "GSE | Brasil Extreme Masters MAJOR",
           "year": 2019,
           "teamId": "gc2019",
-          "team": "Temp Stormy / GC 2019",
+          "team": "GC 2019",
           "major": true,
           "source": "major-history"
         }
@@ -7626,7 +7661,7 @@ window.HBSTV_PLAYER_INDEX = {
       "teams": [
         {
           "id": "gc2019",
-          "name": "Temp Stormy / GC 2019",
+          "name": "GC 2019",
           "years": [
             2019
           ]
@@ -7638,7 +7673,7 @@ window.HBSTV_PLAYER_INDEX = {
           "title": "GSE | Brasil Extreme Masters MAJOR",
           "year": 2019,
           "teamId": "gc2019",
-          "team": "Temp Stormy / GC 2019",
+          "team": "GC 2019",
           "major": true,
           "source": "major-history"
         }
@@ -9597,7 +9632,14 @@ window.HBSTV_PLAYER_INDEX = {
         },
         {
           "id": "gc2019",
-          "name": "Temp Stormy / GC 2019",
+          "name": "GC 2019",
+          "years": [
+            2019
+          ]
+        },
+        {
+          "id": "tsy2019",
+          "name": "TSY 2019",
           "years": [
             2019
           ]
@@ -9645,7 +9687,7 @@ window.HBSTV_PLAYER_INDEX = {
           "title": "GSE | Brasil Extreme Masters MAJOR",
           "year": 2019,
           "teamId": "gc2019",
-          "team": "Temp Stormy / GC 2019",
+          "team": "GC 2019",
           "major": true,
           "source": "major-history"
         }
@@ -9847,8 +9889,8 @@ window.HBSTV_PLAYER_INDEX = {
           ]
         },
         {
-          "id": "gc2019",
-          "name": "Temp Stormy / GC 2019",
+          "id": "tsy2019",
+          "name": "TSY 2019",
           "years": [
             2019
           ]
@@ -10159,7 +10201,14 @@ window.HBSTV_PLAYER_INDEX = {
       "teams": [
         {
           "id": "gc2019",
-          "name": "Temp Stormy / GC 2019",
+          "name": "GC 2019",
+          "years": [
+            2019
+          ]
+        },
+        {
+          "id": "tsy2019",
+          "name": "TSY 2019",
           "years": [
             2019
           ]
@@ -10178,7 +10227,7 @@ window.HBSTV_PLAYER_INDEX = {
           "title": "GSE | Brasil Extreme Masters MAJOR",
           "year": 2019,
           "teamId": "gc2019",
-          "team": "Temp Stormy / GC 2019",
+          "team": "GC 2019",
           "major": true,
           "source": "major-history"
         },
@@ -11129,11 +11178,20 @@ window.HBSTV_PLAYER_INDEX = {
       "id": "sick",
       "name": "Sick",
       "aliases": [
+        "Sick",
         "SICK",
         "SicK"
       ],
       "realNames": [],
-      "teams": [],
+      "teams": [
+        {
+          "id": "gc2019",
+          "name": "GC 2019",
+          "years": [
+            2019
+          ]
+        }
+      ],
       "titles": [],
       "mvps": [],
       "evps": [
@@ -13006,8 +13064,15 @@ window.HBSTV_PLAYER_INDEX = {
       "realNames": [],
       "teams": [
         {
+          "id": "tsy2019",
+          "name": "TSY 2019",
+          "years": [
+            2019
+          ]
+        },
+        {
           "id": "gc2019",
-          "name": "Temp Stormy / GC 2019",
+          "name": "GC 2019",
           "years": [
             2019
           ]
@@ -13315,7 +13380,14 @@ window.HBSTV_PLAYER_INDEX = {
       "teams": [
         {
           "id": "gc2019",
-          "name": "Temp Stormy / GC 2019",
+          "name": "GC 2019",
+          "years": [
+            2019
+          ]
+        },
+        {
+          "id": "tsy2019",
+          "name": "TSY 2019",
           "years": [
             2019
           ]
@@ -13327,7 +13399,7 @@ window.HBSTV_PLAYER_INDEX = {
           "title": "GSE | Brasil Extreme Masters MAJOR",
           "year": 2019,
           "teamId": "gc2019",
-          "team": "Temp Stormy / GC 2019",
+          "team": "GC 2019",
           "major": true,
           "source": "major-history"
         }
@@ -13462,7 +13534,14 @@ window.HBSTV_PLAYER_INDEX = {
       "teams": [
         {
           "id": "gc2019",
-          "name": "Temp Stormy / GC 2019",
+          "name": "GC 2019",
+          "years": [
+            2019
+          ]
+        },
+        {
+          "id": "tsy2019",
+          "name": "TSY 2019",
           "years": [
             2019
           ]
@@ -13474,7 +13553,7 @@ window.HBSTV_PLAYER_INDEX = {
           "title": "GSE | Brasil Extreme Masters MAJOR",
           "year": 2019,
           "teamId": "gc2019",
-          "team": "Temp Stormy / GC 2019",
+          "team": "GC 2019",
           "major": true,
           "source": "major-history"
         }
@@ -14097,6 +14176,13 @@ window.HBSTV_PLAYER_INDEX = {
       ],
       "realNames": [],
       "teams": [
+        {
+          "id": "gc2019",
+          "name": "GC 2019",
+          "years": [
+            2019
+          ]
+        },
         {
           "id": "gc2018",
           "name": "GC 2018",

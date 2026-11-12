@@ -15,7 +15,7 @@ function normalizeTitle(title, year, reviewed = true) {
   const variants = {
     '2018:TSL': {cbbs: 'cbbs20'},
     '2019:GSE': {majorextrememasters: 'brasilextrememastersmajor', extrememastersmajor: 'brasilextrememastersmajor',
-      tour2: 'tourii', tuesseason1: 'tuesseasonone', hardnessproleague: 'hplseason3'},
+      tour2: 'tourii', tuesseason1: 'tuesseasonone', hardnessproleague: 'hplseason3', gplseason2: 'hplseason2', hardnessproleagueseason2: 'hplseason2'},
     '2020:GSE': {tour3: 'tour', touriii: 'tour'},
     '2020:TSL': {ronovatedgameleague: 'renovatedgameleague'},
     '2020:ACE': {leaguecup: 'cupseason1', cup: 'cupseason1'},

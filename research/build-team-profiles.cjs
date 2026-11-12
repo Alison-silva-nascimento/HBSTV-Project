@@ -43,4 +43,27 @@ if (teams.has('ntc')) teams.get('ntc').logo = {src:'assets/ntc-logo.svg', crop:{
 if (teams.has('sx')) teams.get('sx').logo = {src:'assets/sx-logo.png', crop:{x:0,y:0,w:1,h:1}};
 if (teams.has('g2')) teams.get('g2').logo = {src:'assets/g2-logo.png', crop:{x:0,y:0,w:1,h:1}};
 if (teams.has('fanatic')) teams.get('fanatic').logo = {src:'assets/fanatic-logo.png', crop:{x:0,y:0,w:1,h:1}};
+const goblins2019 = teams.get('gc2019');
+const hardnessSeason2 = goblins2019.titles.find(title => title.id === '2019:gsehardnessproleagues2');
+hardnessSeason2.title = 'GSE | Hardness Pro League Season 2';
+const goblinsTitles = goblins2019.titles.filter(title => title.major || title === hardnessSeason2);
+const stormy = {
+  id: 'tsy2019',
+  name: 'TSY 2019',
+  aliases: ['Temp Stormy', 'TSY', 'Temp Stormy / GC 2019', 'Temp Stormy / Goblins Cheating'],
+  searchAliases: ['tempstormy', 'tsy', 'tsy2019'],
+  titles: goblins2019.titles.filter(title => !goblinsTitles.includes(title)),
+  members: goblins2019.members.filter(member => member.sources.includes('top-1-teams-of-years')),
+  rankings: goblins2019.rankings,
+  logo: goblins2019.logo
+};
+teams.set(stormy.id, stormy);
+goblins2019.name = 'GC 2019';
+goblins2019.aliases = ['GC 2019', 'Goblins Cheating', 'GC'];
+goblins2019.searchAliases = ['gc', 'gc2019', 'goblinscheating', 'goblinscheating2019'];
+goblins2019.titles = goblinsTitles;
+goblins2019.members = goblins2019.members.filter(member => member.sources.some(source => source !== 'top-1-teams-of-years'));
+goblins2019.rankings = [];
+goblins2019.logo = goblins2019.extraLogo;
+delete goblins2019.extraLogo;
 const list=[...teams.values()].sort((a,b)=>b.titles.length-a.titles.length||a.name.localeCompare(b.name));fs.writeFileSync('dist/team-profiles-data.js','window.HBSTV_TEAMS = '+JSON.stringify(list,null,2)+';\n');console.log(JSON.stringify({teams:list.length,titles:list.reduce((s,t)=>s+t.titles.length,0),memberships:list.reduce((s,t)=>s+t.members.length,0),championshipsWithRoster:list.flatMap(t=>t.titles).filter(r=>r.roster.length).length}));
