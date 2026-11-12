@@ -76,7 +76,7 @@ for (const row of confirmedTournaments) {
 }
 const nescau = index.players.find(player => player.id === 'nescau');
 nescau.hallOfFame = true;
-index.players.find(player => player.id === 'scuba').hallOfFame = true;
+for (const id of ['scuba', 'fabri']) index.players.find(player => player.id === id).hallOfFame = true;
 nescau.seasonTitles = [...events.values()]
   .filter(e => e.year === 2020 && e.sources.includes('top-1-teams-of-years') && e.winners.includes('pentaesports') && e.rosterReference?.players.includes(nescau.id))
   .map(e => ({id: e.id, title: e.title, year: e.year, team: c.window.HBSTV_TEAMS.find(team => team.id === 'pentaesports').name}));
