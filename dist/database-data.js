@@ -4783,6 +4783,13 @@ window.HBSTV_DATABASE = {
           "years": [
             2021
           ]
+        },
+        {
+          "id": "luvv",
+          "name": "LUVV",
+          "years": [
+            2021
+          ]
         }
       ],
       "titles": [
@@ -4803,6 +4810,51 @@ window.HBSTV_DATABASE = {
           "team": "GT 2023",
           "major": true,
           "source": "events-2023"
+        },
+        {
+          "id": "2021:clutcherssone",
+          "title": "CLUTCHERS | SEASON ONE",
+          "year": 2021,
+          "teamId": "luvv",
+          "team": "LUVV",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2021:llpstrikeonesfive",
+          "title": "LLP | STRIKE ONE SEASON FIVE",
+          "year": 2021,
+          "teamId": "luvv",
+          "team": "LUVV",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2021:riseleaderssone",
+          "title": "RISE LEADERS | SEASON ONE",
+          "year": 2021,
+          "teamId": "luvv",
+          "team": "LUVV",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2021:seltournament",
+          "title": "SEL | TOURNAMENT",
+          "year": 2021,
+          "teamId": "luvv",
+          "team": "LUVV",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2021:suvohloftuscups2",
+          "title": "SUVOH | LOFTUS CUP S2",
+          "year": 2021,
+          "teamId": "luvv",
+          "team": "LUVV",
+          "major": false,
+          "source": "owner-confirmed"
         },
         {
           "id": "major:86ed67893904be137a59",
@@ -4839,6 +4891,14 @@ window.HBSTV_DATABASE = {
           "title": "ACE | LEAGUE CUP 2021",
           "year": 2021,
           "organizer": "ACE",
+          "major": false,
+          "source": "hall-of-fame-3"
+        },
+        {
+          "id": "2021:suvohloftuscups2",
+          "title": "SUVOH | LOFTUS CUP S2",
+          "year": 2021,
+          "organizer": "SUVOH",
           "major": false,
           "source": "hall-of-fame-3"
         },
@@ -4903,6 +4963,12 @@ window.HBSTV_DATABASE = {
           "name": "GT 2021",
           "year": 2021,
           "rank": 2
+        },
+        {
+          "teamId": "luvv",
+          "name": "LUVV",
+          "year": 2021,
+          "rank": 4
         }
       ]
     },
@@ -5231,6 +5297,51 @@ window.HBSTV_DATABASE = {
           ]
         }
       ],
+      "titles": [],
+      "mvps": [],
+      "evps": [],
+      "rankings": [],
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "luvv",
+          "name": "LUVV",
+          "year": 2021,
+          "rank": 4
+        }
+      ]
+    },
+    {
+      "id": "felps",
+      "name": "Felps",
+      "aliases": [
+        "Felps",
+        "FELPS"
+      ],
+      "realNames": [],
+      "teams": [
+        {
+          "id": "luvv",
+          "name": "LUVV",
+          "years": [
+            2021
+          ]
+        },
+        {
+          "id": "gc2019",
+          "name": "GC 2019",
+          "years": [
+            2019
+          ]
+        },
+        {
+          "id": "gc2018",
+          "name": "GC 2018",
+          "years": [
+            2018
+          ]
+        }
+      ],
       "titles": [
         {
           "id": "2021:clutcherssone",
@@ -5276,46 +5387,7 @@ window.HBSTV_DATABASE = {
           "team": "LUVV",
           "major": false,
           "source": "owner-confirmed"
-        }
-      ],
-      "mvps": [],
-      "evps": [],
-      "rankings": [],
-      "awards": [],
-      "topFiveTeams": [
-        {
-          "teamId": "luvv",
-          "name": "LUVV",
-          "year": 2021,
-          "rank": 4
-        }
-      ]
-    },
-    {
-      "id": "felps",
-      "name": "FELPS",
-      "aliases": [
-        "FELPS",
-        "Felps"
-      ],
-      "realNames": [],
-      "teams": [
-        {
-          "id": "gc2019",
-          "name": "GC 2019",
-          "years": [
-            2019
-          ]
         },
-        {
-          "id": "gc2018",
-          "name": "GC 2018",
-          "years": [
-            2018
-          ]
-        }
-      ],
-      "titles": [
         {
           "id": "major:188f48896736e07cbe4d",
           "title": "TSL | MAJOR PREMIERE 2.0",
@@ -5351,6 +5423,12 @@ window.HBSTV_DATABASE = {
       ],
       "awards": [],
       "topFiveTeams": [
+        {
+          "teamId": "luvv",
+          "name": "LUVV",
+          "year": 2021,
+          "rank": 4
+        },
         {
           "teamId": "gc2018",
           "name": "GC 2018",
@@ -7109,6 +7187,13 @@ window.HBSTV_DATABASE = {
           ]
         },
         {
+          "id": "luvv",
+          "name": "LUVV",
+          "years": [
+            2021
+          ]
+        },
+        {
           "id": "teaminfinity",
           "name": "Team Infinity",
           "years": [
@@ -7161,6 +7246,51 @@ window.HBSTV_DATABASE = {
           "team": "GT 2023",
           "major": true,
           "source": "events-2023"
+        },
+        {
+          "id": "2021:clutcherssone",
+          "title": "CLUTCHERS | SEASON ONE",
+          "year": 2021,
+          "teamId": "luvv",
+          "team": "LUVV",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2021:llpstrikeonesfive",
+          "title": "LLP | STRIKE ONE SEASON FIVE",
+          "year": 2021,
+          "teamId": "luvv",
+          "team": "LUVV",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2021:riseleaderssone",
+          "title": "RISE LEADERS | SEASON ONE",
+          "year": 2021,
+          "teamId": "luvv",
+          "team": "LUVV",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2021:seltournament",
+          "title": "SEL | TOURNAMENT",
+          "year": 2021,
+          "teamId": "luvv",
+          "team": "LUVV",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2021:suvohloftuscups2",
+          "title": "SUVOH | LOFTUS CUP S2",
+          "year": 2021,
+          "teamId": "luvv",
+          "team": "LUVV",
+          "major": false,
+          "source": "owner-confirmed"
         },
         {
           "id": "major:007759b02a7d7543b0a1",
@@ -7275,6 +7405,30 @@ window.HBSTV_DATABASE = {
           "source": "hall-of-fame"
         },
         {
+          "id": "2021:llpstrikeonesfive",
+          "title": "LLP | STRIKE ONE SEASON FIVE",
+          "year": 2021,
+          "organizer": "LLP",
+          "major": false,
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2021:clutcherssone",
+          "title": "CLUTCHERS | SEASON ONE",
+          "year": 2021,
+          "organizer": "CLUTCHERS",
+          "major": false,
+          "source": "hall-of-fame"
+        },
+        {
+          "id": "2021:riseleaderssone",
+          "title": "RISE LEADERS | SEASON ONE",
+          "year": 2021,
+          "organizer": "RISE LEADERS",
+          "major": false,
+          "source": "hall-of-fame"
+        },
+        {
           "id": "major:007759b02a7d7543b0a1",
           "title": "SUVOH | MAJOR",
           "year": 2021,
@@ -7341,6 +7495,12 @@ window.HBSTV_DATABASE = {
           "name": "Team Infinity",
           "year": 2021,
           "rank": 1
+        },
+        {
+          "teamId": "luvv",
+          "name": "LUVV",
+          "year": 2021,
+          "rank": 4
         }
       ]
     },
@@ -16603,6 +16763,82 @@ window.HBSTV_DATABASE = {
       "topFiveTeams": []
     },
     {
+      "id": "surf",
+      "name": "Surf",
+      "aliases": [
+        "Surf"
+      ],
+      "realNames": [],
+      "teams": [
+        {
+          "id": "luvv",
+          "name": "LUVV",
+          "years": [
+            2021
+          ]
+        }
+      ],
+      "titles": [
+        {
+          "id": "2021:clutcherssone",
+          "title": "CLUTCHERS | SEASON ONE",
+          "year": 2021,
+          "teamId": "luvv",
+          "team": "LUVV",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2021:llpstrikeonesfive",
+          "title": "LLP | STRIKE ONE SEASON FIVE",
+          "year": 2021,
+          "teamId": "luvv",
+          "team": "LUVV",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2021:riseleaderssone",
+          "title": "RISE LEADERS | SEASON ONE",
+          "year": 2021,
+          "teamId": "luvv",
+          "team": "LUVV",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2021:seltournament",
+          "title": "SEL | TOURNAMENT",
+          "year": 2021,
+          "teamId": "luvv",
+          "team": "LUVV",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2021:suvohloftuscups2",
+          "title": "SUVOH | LOFTUS CUP S2",
+          "year": 2021,
+          "teamId": "luvv",
+          "team": "LUVV",
+          "major": false,
+          "source": "owner-confirmed"
+        }
+      ],
+      "mvps": [],
+      "evps": [],
+      "rankings": [],
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "luvv",
+          "name": "LUVV",
+          "year": 2021,
+          "rank": 4
+        }
+      ]
+    },
+    {
       "id": "svg3",
       "name": "SVG3",
       "aliases": [
@@ -16729,6 +16965,13 @@ window.HBSTV_DATABASE = {
           "years": [
             2023
           ]
+        },
+        {
+          "id": "luvv",
+          "name": "LUVV",
+          "years": [
+            2021
+          ]
         }
       ],
       "titles": [
@@ -16821,6 +17064,51 @@ window.HBSTV_DATABASE = {
           "team": "GT 2023",
           "major": true,
           "source": "events-2023"
+        },
+        {
+          "id": "2021:clutcherssone",
+          "title": "CLUTCHERS | SEASON ONE",
+          "year": 2021,
+          "teamId": "luvv",
+          "team": "LUVV",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2021:llpstrikeonesfive",
+          "title": "LLP | STRIKE ONE SEASON FIVE",
+          "year": 2021,
+          "teamId": "luvv",
+          "team": "LUVV",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2021:riseleaderssone",
+          "title": "RISE LEADERS | SEASON ONE",
+          "year": 2021,
+          "teamId": "luvv",
+          "team": "LUVV",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2021:seltournament",
+          "title": "SEL | TOURNAMENT",
+          "year": 2021,
+          "teamId": "luvv",
+          "team": "LUVV",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2021:suvohloftuscups2",
+          "title": "SUVOH | LOFTUS CUP S2",
+          "year": 2021,
+          "teamId": "luvv",
+          "team": "LUVV",
+          "major": false,
+          "source": "owner-confirmed"
         }
       ],
       "mvps": [
@@ -16887,6 +17175,12 @@ window.HBSTV_DATABASE = {
           "teamId": "controlz",
           "name": "CONTROL Z",
           "year": 2023,
+          "rank": 4
+        },
+        {
+          "teamId": "luvv",
+          "name": "LUVV",
+          "year": 2021,
           "rank": 4
         }
       ]
@@ -18943,11 +19237,18 @@ window.HBSTV_DATABASE = {
       "id": "whezz",
       "name": "Whezz",
       "aliases": [
-        "WhezZ",
-        "Whezz"
+        "Whezz",
+        "WhezZ"
       ],
       "realNames": [],
       "teams": [
+        {
+          "id": "luvv",
+          "name": "LUVV",
+          "years": [
+            2021
+          ]
+        },
         {
           "id": "gc2019",
           "name": "GC 2019",
@@ -18964,6 +19265,51 @@ window.HBSTV_DATABASE = {
         }
       ],
       "titles": [
+        {
+          "id": "2021:clutcherssone",
+          "title": "CLUTCHERS | SEASON ONE",
+          "year": 2021,
+          "teamId": "luvv",
+          "team": "LUVV",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2021:llpstrikeonesfive",
+          "title": "LLP | STRIKE ONE SEASON FIVE",
+          "year": 2021,
+          "teamId": "luvv",
+          "team": "LUVV",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2021:riseleaderssone",
+          "title": "RISE LEADERS | SEASON ONE",
+          "year": 2021,
+          "teamId": "luvv",
+          "team": "LUVV",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2021:seltournament",
+          "title": "SEL | TOURNAMENT",
+          "year": 2021,
+          "teamId": "luvv",
+          "team": "LUVV",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2021:suvohloftuscups2",
+          "title": "SUVOH | LOFTUS CUP S2",
+          "year": 2021,
+          "teamId": "luvv",
+          "team": "LUVV",
+          "major": false,
+          "source": "owner-confirmed"
+        },
         {
           "id": "major:7713f3c1b8fa50d7e849",
           "title": "GSE | Brasil Extreme Masters MAJOR",
@@ -19043,6 +19389,12 @@ window.HBSTV_DATABASE = {
         }
       ],
       "topFiveTeams": [
+        {
+          "teamId": "luvv",
+          "name": "LUVV",
+          "year": 2021,
+          "rank": 4
+        },
         {
           "teamId": "tsy2019",
           "name": "TSY",
@@ -22294,10 +22646,15 @@ window.HBSTV_DATABASE = {
       ],
       "roster": [
         "rn",
-        "sharp",
         "mary",
+        "felps",
         "roggers",
-        "felpera"
+        "whezz",
+        "sharp",
+        "helix",
+        "surf",
+        "t1o",
+        "ezeq"
       ],
       "mvps": [],
       "evps": [],
@@ -22464,10 +22821,15 @@ window.HBSTV_DATABASE = {
       ],
       "roster": [
         "rn",
-        "sharp",
         "mary",
+        "felps",
         "roggers",
-        "felpera"
+        "whezz",
+        "sharp",
+        "helix",
+        "surf",
+        "t1o",
+        "ezeq"
       ],
       "mvps": [],
       "evps": [],
@@ -22536,10 +22898,15 @@ window.HBSTV_DATABASE = {
       ],
       "roster": [
         "rn",
-        "sharp",
         "mary",
+        "felps",
         "roggers",
-        "felpera"
+        "whezz",
+        "sharp",
+        "helix",
+        "surf",
+        "t1o",
+        "ezeq"
       ],
       "mvps": [],
       "evps": [],
@@ -22562,10 +22929,15 @@ window.HBSTV_DATABASE = {
       ],
       "roster": [
         "rn",
-        "sharp",
         "mary",
+        "felps",
         "roggers",
-        "felpera"
+        "whezz",
+        "sharp",
+        "helix",
+        "surf",
+        "t1o",
+        "ezeq"
       ],
       "mvps": [],
       "evps": [],
@@ -22588,10 +22960,15 @@ window.HBSTV_DATABASE = {
       ],
       "roster": [
         "rn",
-        "sharp",
         "mary",
+        "felps",
         "roggers",
-        "felpera"
+        "whezz",
+        "sharp",
+        "helix",
+        "surf",
+        "t1o",
+        "ezeq"
       ],
       "mvps": [],
       "evps": [],
@@ -26992,10 +27369,15 @@ window.HBSTV_DATABASE = {
           "major": false,
           "roster": [
             "RN",
-            "SharP",
             "Mary",
+            "Felps",
             "Roggers",
-            "Felpera"
+            "Whezz",
+            "SharP",
+            "Helix",
+            "Surf",
+            "T10",
+            "Ezeq"
           ]
         },
         {
@@ -27008,10 +27390,15 @@ window.HBSTV_DATABASE = {
           "major": false,
           "roster": [
             "RN",
-            "SharP",
             "Mary",
+            "Felps",
             "Roggers",
-            "Felpera"
+            "Whezz",
+            "SharP",
+            "Helix",
+            "Surf",
+            "T10",
+            "Ezeq"
           ]
         },
         {
@@ -27024,10 +27411,15 @@ window.HBSTV_DATABASE = {
           "major": false,
           "roster": [
             "RN",
-            "SharP",
             "Mary",
+            "Felps",
             "Roggers",
-            "Felpera"
+            "Whezz",
+            "SharP",
+            "Helix",
+            "Surf",
+            "T10",
+            "Ezeq"
           ]
         },
         {
@@ -27040,10 +27432,15 @@ window.HBSTV_DATABASE = {
           "major": false,
           "roster": [
             "RN",
-            "SharP",
             "Mary",
+            "Felps",
             "Roggers",
-            "Felpera"
+            "Whezz",
+            "SharP",
+            "Helix",
+            "Surf",
+            "T10",
+            "Ezeq"
           ]
         },
         {
@@ -27056,17 +27453,52 @@ window.HBSTV_DATABASE = {
           "major": false,
           "roster": [
             "RN",
-            "SharP",
             "Mary",
+            "Felps",
             "Roggers",
-            "Felpera"
+            "Whezz",
+            "SharP",
+            "Helix",
+            "Surf",
+            "T10",
+            "Ezeq"
           ]
         }
       ],
       "members": [
         {
+          "id": "ezeq",
+          "name": "Ezeq",
+          "years": [
+            2021
+          ],
+          "sources": [
+            "Títulos e elenco da LUVV em 2021 informados pelo responsável pelo site."
+          ]
+        },
+        {
           "id": "felpera",
           "name": "Felpera",
+          "years": [
+            2021
+          ],
+          "sources": [
+            "Passagem pela LUVV confirmada pelo responsável pelo site."
+          ]
+        },
+        {
+          "id": "felps",
+          "name": "Felps",
+          "years": [
+            2021
+          ],
+          "sources": [
+            "Títulos e elenco da LUVV em 2021 informados pelo responsável pelo site."
+          ]
+        },
+        {
+          "id": "helix",
+          "name": "Helix",
           "years": [
             2021
           ],
@@ -27107,6 +27539,36 @@ window.HBSTV_DATABASE = {
         {
           "id": "sharp",
           "name": "SharP",
+          "years": [
+            2021
+          ],
+          "sources": [
+            "Títulos e elenco da LUVV em 2021 informados pelo responsável pelo site."
+          ]
+        },
+        {
+          "id": "surf",
+          "name": "Surf",
+          "years": [
+            2021
+          ],
+          "sources": [
+            "Títulos e elenco da LUVV em 2021 informados pelo responsável pelo site."
+          ]
+        },
+        {
+          "id": "t1o",
+          "name": "T10",
+          "years": [
+            2021
+          ],
+          "sources": [
+            "Títulos e elenco da LUVV em 2021 informados pelo responsável pelo site."
+          ]
+        },
+        {
+          "id": "whezz",
+          "name": "Whezz",
           "years": [
             2021
           ],

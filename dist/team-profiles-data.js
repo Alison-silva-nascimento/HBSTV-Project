@@ -3069,10 +3069,15 @@ window.HBSTV_TEAMS = [
         "major": false,
         "roster": [
           "RN",
-          "SharP",
           "Mary",
+          "Felps",
           "Roggers",
-          "Felpera"
+          "Whezz",
+          "SharP",
+          "Helix",
+          "Surf",
+          "T10",
+          "Ezeq"
         ]
       },
       {
@@ -3085,10 +3090,15 @@ window.HBSTV_TEAMS = [
         "major": false,
         "roster": [
           "RN",
-          "SharP",
           "Mary",
+          "Felps",
           "Roggers",
-          "Felpera"
+          "Whezz",
+          "SharP",
+          "Helix",
+          "Surf",
+          "T10",
+          "Ezeq"
         ]
       },
       {
@@ -3101,10 +3111,15 @@ window.HBSTV_TEAMS = [
         "major": false,
         "roster": [
           "RN",
-          "SharP",
           "Mary",
+          "Felps",
           "Roggers",
-          "Felpera"
+          "Whezz",
+          "SharP",
+          "Helix",
+          "Surf",
+          "T10",
+          "Ezeq"
         ]
       },
       {
@@ -3117,10 +3132,15 @@ window.HBSTV_TEAMS = [
         "major": false,
         "roster": [
           "RN",
-          "SharP",
           "Mary",
+          "Felps",
           "Roggers",
-          "Felpera"
+          "Whezz",
+          "SharP",
+          "Helix",
+          "Surf",
+          "T10",
+          "Ezeq"
         ]
       },
       {
@@ -3133,17 +3153,52 @@ window.HBSTV_TEAMS = [
         "major": false,
         "roster": [
           "RN",
-          "SharP",
           "Mary",
+          "Felps",
           "Roggers",
-          "Felpera"
+          "Whezz",
+          "SharP",
+          "Helix",
+          "Surf",
+          "T10",
+          "Ezeq"
         ]
       }
     ],
     "members": [
       {
+        "id": "ezeq",
+        "name": "Ezeq",
+        "years": [
+          2021
+        ],
+        "sources": [
+          "Títulos e elenco da LUVV em 2021 informados pelo responsável pelo site."
+        ]
+      },
+      {
         "id": "felpera",
         "name": "Felpera",
+        "years": [
+          2021
+        ],
+        "sources": [
+          "Passagem pela LUVV confirmada pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "felps",
+        "name": "Felps",
+        "years": [
+          2021
+        ],
+        "sources": [
+          "Títulos e elenco da LUVV em 2021 informados pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "helix",
+        "name": "Helix",
         "years": [
           2021
         ],
@@ -3184,6 +3239,36 @@ window.HBSTV_TEAMS = [
       {
         "id": "sharp",
         "name": "SharP",
+        "years": [
+          2021
+        ],
+        "sources": [
+          "Títulos e elenco da LUVV em 2021 informados pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "surf",
+        "name": "Surf",
+        "years": [
+          2021
+        ],
+        "sources": [
+          "Títulos e elenco da LUVV em 2021 informados pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "t1o",
+        "name": "T10",
+        "years": [
+          2021
+        ],
+        "sources": [
+          "Títulos e elenco da LUVV em 2021 informados pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "whezz",
+        "name": "Whezz",
         "years": [
           2021
         ],

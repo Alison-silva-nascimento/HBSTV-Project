@@ -3524,6 +3524,13 @@ window.HBSTV_PLAYER_INDEX = {
           "years": [
             2021
           ]
+        },
+        {
+          "id": "luvv",
+          "name": "LUVV",
+          "years": [
+            2021
+          ]
         }
       ],
       "titles": [
@@ -3553,6 +3560,51 @@ window.HBSTV_PLAYER_INDEX = {
           "team": "GT 2021",
           "major": true,
           "source": "major-history"
+        },
+        {
+          "id": "2021:clutcherssone",
+          "title": "CLUTCHERS | SEASON ONE",
+          "year": 2021,
+          "teamId": "luvv",
+          "team": "LUVV",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2021:llpstrikeonesfive",
+          "title": "LLP | STRIKE ONE SEASON FIVE",
+          "year": 2021,
+          "teamId": "luvv",
+          "team": "LUVV",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2021:riseleaderssone",
+          "title": "RISE LEADERS | SEASON ONE",
+          "year": 2021,
+          "teamId": "luvv",
+          "team": "LUVV",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2021:seltournament",
+          "title": "SEL | TOURNAMENT",
+          "year": 2021,
+          "teamId": "luvv",
+          "team": "LUVV",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2021:suvohloftuscups2",
+          "title": "SUVOH | LOFTUS CUP S2",
+          "year": 2021,
+          "teamId": "luvv",
+          "team": "LUVV",
+          "major": false,
+          "source": "owner-confirmed"
         }
       ],
       "mvps": [],
@@ -3692,6 +3744,43 @@ window.HBSTV_PLAYER_INDEX = {
           ]
         }
       ],
+      "titles": [],
+      "mvps": [],
+      "evps": [],
+      "rankings": [],
+      "awards": []
+    },
+    {
+      "id": "felps",
+      "name": "Felps",
+      "aliases": [
+        "Felps",
+        "FELPS"
+      ],
+      "realNames": [],
+      "teams": [
+        {
+          "id": "luvv",
+          "name": "LUVV",
+          "years": [
+            2021
+          ]
+        },
+        {
+          "id": "gc2019",
+          "name": "GC 2019",
+          "years": [
+            2019
+          ]
+        },
+        {
+          "id": "gc2018",
+          "name": "GC 2018",
+          "years": [
+            2018
+          ]
+        }
+      ],
       "titles": [
         {
           "id": "2021:clutcherssone",
@@ -3737,38 +3826,7 @@ window.HBSTV_PLAYER_INDEX = {
           "team": "LUVV",
           "major": false,
           "source": "owner-confirmed"
-        }
-      ],
-      "mvps": [],
-      "evps": [],
-      "rankings": [],
-      "awards": []
-    },
-    {
-      "id": "felps",
-      "name": "FELPS",
-      "aliases": [
-        "FELPS",
-        "Felps"
-      ],
-      "realNames": [],
-      "teams": [
-        {
-          "id": "gc2019",
-          "name": "GC 2019",
-          "years": [
-            2019
-          ]
         },
-        {
-          "id": "gc2018",
-          "name": "GC 2018",
-          "years": [
-            2018
-          ]
-        }
-      ],
-      "titles": [
         {
           "id": "major:188f48896736e07cbe4d",
           "title": "TSL | MAJOR PREMIERE 2.0",
@@ -5002,6 +5060,13 @@ window.HBSTV_PLAYER_INDEX = {
           ]
         },
         {
+          "id": "luvv",
+          "name": "LUVV",
+          "years": [
+            2021
+          ]
+        },
+        {
           "id": "teaminfinity",
           "name": "Team Infinity",
           "years": [
@@ -5054,6 +5119,51 @@ window.HBSTV_PLAYER_INDEX = {
           "team": "GT 2023",
           "major": true,
           "source": "events-2023"
+        },
+        {
+          "id": "2021:clutcherssone",
+          "title": "CLUTCHERS | SEASON ONE",
+          "year": 2021,
+          "teamId": "luvv",
+          "team": "LUVV",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2021:llpstrikeonesfive",
+          "title": "LLP | STRIKE ONE SEASON FIVE",
+          "year": 2021,
+          "teamId": "luvv",
+          "team": "LUVV",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2021:riseleaderssone",
+          "title": "RISE LEADERS | SEASON ONE",
+          "year": 2021,
+          "teamId": "luvv",
+          "team": "LUVV",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2021:seltournament",
+          "title": "SEL | TOURNAMENT",
+          "year": 2021,
+          "teamId": "luvv",
+          "team": "LUVV",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2021:suvohloftuscups2",
+          "title": "SUVOH | LOFTUS CUP S2",
+          "year": 2021,
+          "teamId": "luvv",
+          "team": "LUVV",
+          "major": false,
+          "source": "owner-confirmed"
         },
         {
           "id": "major:007759b02a7d7543b0a1",
@@ -11993,6 +12103,74 @@ window.HBSTV_PLAYER_INDEX = {
       "awards": []
     },
     {
+      "id": "surf",
+      "name": "Surf",
+      "aliases": [
+        "Surf"
+      ],
+      "realNames": [],
+      "teams": [
+        {
+          "id": "luvv",
+          "name": "LUVV",
+          "years": [
+            2021
+          ]
+        }
+      ],
+      "titles": [
+        {
+          "id": "2021:clutcherssone",
+          "title": "CLUTCHERS | SEASON ONE",
+          "year": 2021,
+          "teamId": "luvv",
+          "team": "LUVV",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2021:llpstrikeonesfive",
+          "title": "LLP | STRIKE ONE SEASON FIVE",
+          "year": 2021,
+          "teamId": "luvv",
+          "team": "LUVV",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2021:riseleaderssone",
+          "title": "RISE LEADERS | SEASON ONE",
+          "year": 2021,
+          "teamId": "luvv",
+          "team": "LUVV",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2021:seltournament",
+          "title": "SEL | TOURNAMENT",
+          "year": 2021,
+          "teamId": "luvv",
+          "team": "LUVV",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2021:suvohloftuscups2",
+          "title": "SUVOH | LOFTUS CUP S2",
+          "year": 2021,
+          "teamId": "luvv",
+          "team": "LUVV",
+          "major": false,
+          "source": "owner-confirmed"
+        }
+      ],
+      "mvps": [],
+      "evps": [],
+      "rankings": [],
+      "awards": []
+    },
+    {
       "id": "svg3",
       "name": "SVG3",
       "aliases": [
@@ -12109,6 +12287,13 @@ window.HBSTV_PLAYER_INDEX = {
           "years": [
             2023
           ]
+        },
+        {
+          "id": "luvv",
+          "name": "LUVV",
+          "years": [
+            2021
+          ]
         }
       ],
       "titles": [
@@ -12201,6 +12386,51 @@ window.HBSTV_PLAYER_INDEX = {
           "team": "GT 2023",
           "major": true,
           "source": "events-2023"
+        },
+        {
+          "id": "2021:clutcherssone",
+          "title": "CLUTCHERS | SEASON ONE",
+          "year": 2021,
+          "teamId": "luvv",
+          "team": "LUVV",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2021:llpstrikeonesfive",
+          "title": "LLP | STRIKE ONE SEASON FIVE",
+          "year": 2021,
+          "teamId": "luvv",
+          "team": "LUVV",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2021:riseleaderssone",
+          "title": "RISE LEADERS | SEASON ONE",
+          "year": 2021,
+          "teamId": "luvv",
+          "team": "LUVV",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2021:seltournament",
+          "title": "SEL | TOURNAMENT",
+          "year": 2021,
+          "teamId": "luvv",
+          "team": "LUVV",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2021:suvohloftuscups2",
+          "title": "SUVOH | LOFTUS CUP S2",
+          "year": 2021,
+          "teamId": "luvv",
+          "team": "LUVV",
+          "major": false,
+          "source": "owner-confirmed"
         }
       ],
       "mvps": [
@@ -13778,13 +14008,20 @@ window.HBSTV_PLAYER_INDEX = {
     },
     {
       "id": "whezz",
-      "name": "WhezZ",
+      "name": "Whezz",
       "aliases": [
-        "WhezZ",
-        "Whezz"
+        "Whezz",
+        "WhezZ"
       ],
       "realNames": [],
       "teams": [
+        {
+          "id": "luvv",
+          "name": "LUVV",
+          "years": [
+            2021
+          ]
+        },
         {
           "id": "gc2019",
           "name": "GC 2019",
@@ -13801,6 +14038,51 @@ window.HBSTV_PLAYER_INDEX = {
         }
       ],
       "titles": [
+        {
+          "id": "2021:clutcherssone",
+          "title": "CLUTCHERS | SEASON ONE",
+          "year": 2021,
+          "teamId": "luvv",
+          "team": "LUVV",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2021:llpstrikeonesfive",
+          "title": "LLP | STRIKE ONE SEASON FIVE",
+          "year": 2021,
+          "teamId": "luvv",
+          "team": "LUVV",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2021:riseleaderssone",
+          "title": "RISE LEADERS | SEASON ONE",
+          "year": 2021,
+          "teamId": "luvv",
+          "team": "LUVV",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2021:seltournament",
+          "title": "SEL | TOURNAMENT",
+          "year": 2021,
+          "teamId": "luvv",
+          "team": "LUVV",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2021:suvohloftuscups2",
+          "title": "SUVOH | LOFTUS CUP S2",
+          "year": 2021,
+          "teamId": "luvv",
+          "team": "LUVV",
+          "major": false,
+          "source": "owner-confirmed"
+        },
         {
           "id": "major:7713f3c1b8fa50d7e849",
           "title": "GSE | Brasil Extreme Masters MAJOR",
