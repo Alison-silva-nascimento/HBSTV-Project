@@ -3070,7 +3070,7 @@ window.HBSTV_TEAMS = [
         "roster": [
           "RN",
           "Mary",
-          "Felps",
+          "Felpera",
           "Roggers",
           "Whezz",
           "SharP",
@@ -3091,7 +3091,7 @@ window.HBSTV_TEAMS = [
         "roster": [
           "RN",
           "Mary",
-          "Felps",
+          "Felpera",
           "Roggers",
           "Whezz",
           "SharP",
@@ -3112,7 +3112,7 @@ window.HBSTV_TEAMS = [
         "roster": [
           "RN",
           "Mary",
-          "Felps",
+          "Felpera",
           "Roggers",
           "Whezz",
           "SharP",
@@ -3133,7 +3133,7 @@ window.HBSTV_TEAMS = [
         "roster": [
           "RN",
           "Mary",
-          "Felps",
+          "Felpera",
           "Roggers",
           "Whezz",
           "SharP",
@@ -3154,7 +3154,7 @@ window.HBSTV_TEAMS = [
         "roster": [
           "RN",
           "Mary",
-          "Felps",
+          "Felpera",
           "Roggers",
           "Whezz",
           "SharP",
@@ -3183,16 +3183,7 @@ window.HBSTV_TEAMS = [
           2021
         ],
         "sources": [
-          "Passagem pela LUVV confirmada pelo responsável pelo site."
-        ]
-      },
-      {
-        "id": "felps",
-        "name": "Felps",
-        "years": [
-          2021
-        ],
-        "sources": [
+          "Passagem pela LUVV confirmada pelo responsável pelo site.",
           "Títulos e elenco da LUVV em 2021 informados pelo responsável pelo site."
         ]
       },

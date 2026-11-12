@@ -5297,51 +5297,6 @@ window.HBSTV_DATABASE = {
           ]
         }
       ],
-      "titles": [],
-      "mvps": [],
-      "evps": [],
-      "rankings": [],
-      "awards": [],
-      "topFiveTeams": [
-        {
-          "teamId": "luvv",
-          "name": "LUVV",
-          "year": 2021,
-          "rank": 4
-        }
-      ]
-    },
-    {
-      "id": "felps",
-      "name": "Felps",
-      "aliases": [
-        "Felps",
-        "FELPS"
-      ],
-      "realNames": [],
-      "teams": [
-        {
-          "id": "luvv",
-          "name": "LUVV",
-          "years": [
-            2021
-          ]
-        },
-        {
-          "id": "gc2019",
-          "name": "GC 2019",
-          "years": [
-            2019
-          ]
-        },
-        {
-          "id": "gc2018",
-          "name": "GC 2018",
-          "years": [
-            2018
-          ]
-        }
-      ],
       "titles": [
         {
           "id": "2021:clutcherssone",
@@ -5387,7 +5342,46 @@ window.HBSTV_DATABASE = {
           "team": "LUVV",
           "major": false,
           "source": "owner-confirmed"
+        }
+      ],
+      "mvps": [],
+      "evps": [],
+      "rankings": [],
+      "awards": [],
+      "topFiveTeams": [
+        {
+          "teamId": "luvv",
+          "name": "LUVV",
+          "year": 2021,
+          "rank": 4
+        }
+      ]
+    },
+    {
+      "id": "felps",
+      "name": "FELPS",
+      "aliases": [
+        "FELPS",
+        "Felps"
+      ],
+      "realNames": [],
+      "teams": [
+        {
+          "id": "gc2019",
+          "name": "GC 2019",
+          "years": [
+            2019
+          ]
         },
+        {
+          "id": "gc2018",
+          "name": "GC 2018",
+          "years": [
+            2018
+          ]
+        }
+      ],
+      "titles": [
         {
           "id": "major:188f48896736e07cbe4d",
           "title": "TSL | MAJOR PREMIERE 2.0",
@@ -5423,12 +5417,6 @@ window.HBSTV_DATABASE = {
       ],
       "awards": [],
       "topFiveTeams": [
-        {
-          "teamId": "luvv",
-          "name": "LUVV",
-          "year": 2021,
-          "rank": 4
-        },
         {
           "teamId": "gc2018",
           "name": "GC 2018",
@@ -22647,7 +22635,7 @@ window.HBSTV_DATABASE = {
       "roster": [
         "rn",
         "mary",
-        "felps",
+        "felpera",
         "roggers",
         "whezz",
         "sharp",
@@ -22822,7 +22810,7 @@ window.HBSTV_DATABASE = {
       "roster": [
         "rn",
         "mary",
-        "felps",
+        "felpera",
         "roggers",
         "whezz",
         "sharp",
@@ -22899,7 +22887,7 @@ window.HBSTV_DATABASE = {
       "roster": [
         "rn",
         "mary",
-        "felps",
+        "felpera",
         "roggers",
         "whezz",
         "sharp",
@@ -22930,7 +22918,7 @@ window.HBSTV_DATABASE = {
       "roster": [
         "rn",
         "mary",
-        "felps",
+        "felpera",
         "roggers",
         "whezz",
         "sharp",
@@ -22961,7 +22949,7 @@ window.HBSTV_DATABASE = {
       "roster": [
         "rn",
         "mary",
-        "felps",
+        "felpera",
         "roggers",
         "whezz",
         "sharp",
@@ -27370,7 +27358,7 @@ window.HBSTV_DATABASE = {
           "roster": [
             "RN",
             "Mary",
-            "Felps",
+            "Felpera",
             "Roggers",
             "Whezz",
             "SharP",
@@ -27391,7 +27379,7 @@ window.HBSTV_DATABASE = {
           "roster": [
             "RN",
             "Mary",
-            "Felps",
+            "Felpera",
             "Roggers",
             "Whezz",
             "SharP",
@@ -27412,7 +27400,7 @@ window.HBSTV_DATABASE = {
           "roster": [
             "RN",
             "Mary",
-            "Felps",
+            "Felpera",
             "Roggers",
             "Whezz",
             "SharP",
@@ -27433,7 +27421,7 @@ window.HBSTV_DATABASE = {
           "roster": [
             "RN",
             "Mary",
-            "Felps",
+            "Felpera",
             "Roggers",
             "Whezz",
             "SharP",
@@ -27454,7 +27442,7 @@ window.HBSTV_DATABASE = {
           "roster": [
             "RN",
             "Mary",
-            "Felps",
+            "Felpera",
             "Roggers",
             "Whezz",
             "SharP",
@@ -27483,16 +27471,7 @@ window.HBSTV_DATABASE = {
             2021
           ],
           "sources": [
-            "Passagem pela LUVV confirmada pelo responsável pelo site."
-          ]
-        },
-        {
-          "id": "felps",
-          "name": "Felps",
-          "years": [
-            2021
-          ],
-          "sources": [
+            "Passagem pela LUVV confirmada pelo responsável pelo site.",
             "Títulos e elenco da LUVV em 2021 informados pelo responsável pelo site."
           ]
         },
