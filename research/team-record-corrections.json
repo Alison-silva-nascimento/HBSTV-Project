@@ -125,7 +125,6 @@
     "team": "GT 2021",
     "year": 2021,
     "titles": [
-      "SUVOH | LOFTUS CUP",
       "GLBS | GAME LEAGUE",
       "TSL | SMACK",
       "TSL | SEASON ONE"
@@ -133,5 +132,25 @@
     "players": [],
     "rosterConfirmed": false,
     "source": "Títulos da GT em 2021 confirmados pelo responsável pelo site."
+  },
+  {
+    "team": "LUVV",
+    "year": 2021,
+    "titles": [
+      "SEL | TOURNAMENT",
+      "SUVOH | LOFTUS CUP",
+      "LLP | STRIKE ONE SEASON FIVE",
+      "CLUTCHERS | SEASON ONE",
+      "RISE LEADERS | SEASON ONE"
+    ],
+    "players": [
+      "RN",
+      "SharP",
+      "Mary",
+      "Roggers",
+      "Felpera"
+    ],
+    "rosterConfirmed": true,
+    "source": "Títulos e elenco da LUVV em 2021 informados pelo responsável pelo site."
   }
 ]

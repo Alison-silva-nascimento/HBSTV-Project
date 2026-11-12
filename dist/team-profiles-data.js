@@ -2867,190 +2867,161 @@ window.HBSTV_TEAMS = [
     }
   },
   {
-    "id": "gt2021",
-    "name": "GT 2021",
+    "id": "luvv",
+    "name": "LUVV",
     "aliases": [
-      "GT 2021",
-      "Legendary TeaM"
+      "LUVV"
     ],
     "titles": [
       {
-        "id": "2021:glbsgameleague",
-        "title": "GLBS | GAME LEAGUE",
+        "id": "2021:clutcherssone",
+        "title": "CLUTCHERS | SEASON ONE",
         "year": 2021,
         "source": "owner-confirmed",
-        "sourceNote": "Títulos da GT em 2021 confirmados pelo responsável pelo site.",
+        "sourceNote": "Títulos e elenco da LUVV em 2021 informados pelo responsável pelo site.",
         "manual": true,
         "major": false,
-        "roster": []
+        "roster": [
+          "RN",
+          "SharP",
+          "Mary",
+          "Roggers",
+          "Felpera"
+        ]
+      },
+      {
+        "id": "2021:llpstrikeonesfive",
+        "title": "LLP | STRIKE ONE SEASON FIVE",
+        "year": 2021,
+        "source": "owner-confirmed",
+        "sourceNote": "Títulos e elenco da LUVV em 2021 informados pelo responsável pelo site.",
+        "manual": true,
+        "major": false,
+        "roster": [
+          "RN",
+          "SharP",
+          "Mary",
+          "Roggers",
+          "Felpera"
+        ]
+      },
+      {
+        "id": "2021:riseleaderssone",
+        "title": "RISE LEADERS | SEASON ONE",
+        "year": 2021,
+        "source": "owner-confirmed",
+        "sourceNote": "Títulos e elenco da LUVV em 2021 informados pelo responsável pelo site.",
+        "manual": true,
+        "major": false,
+        "roster": [
+          "RN",
+          "SharP",
+          "Mary",
+          "Roggers",
+          "Felpera"
+        ]
+      },
+      {
+        "id": "2021:seltournament",
+        "title": "SEL | TOURNAMENT",
+        "year": 2021,
+        "source": "owner-confirmed",
+        "sourceNote": "Títulos e elenco da LUVV em 2021 informados pelo responsável pelo site.",
+        "manual": true,
+        "major": false,
+        "roster": [
+          "RN",
+          "SharP",
+          "Mary",
+          "Roggers",
+          "Felpera"
+        ]
       },
       {
         "id": "2021:suvohloftuscup",
         "title": "SUVOH | LOFTUS CUP",
         "year": 2021,
         "source": "owner-confirmed",
-        "sourceNote": "Títulos da GT em 2021 confirmados pelo responsável pelo site.",
+        "sourceNote": "Títulos e elenco da LUVV em 2021 informados pelo responsável pelo site.",
         "manual": true,
         "major": false,
-        "roster": []
-      },
-      {
-        "id": "major:86ed67893904be137a59",
-        "title": "TSL | MAJOR",
-        "year": 2021,
-        "source": "major-history",
-        "major": true,
         "roster": [
-          "4i20",
-          "NIKO",
-          "Ezeq",
-          "Zenn",
-          "Valknut",
-          "Alfa"
-        ],
-        "blocks": [
-          {
-            "type": "heading",
-            "text": "TSL | MAJOR [2021]",
-            "level": 4
-          },
-          {
-            "type": "heading",
-            "text": "SUVOH | MAJOR [2021]",
-            "level": 4
-          },
-          {
-            "type": "image",
-            "src": "assets/archive/86ed67893904be137a59.jpeg",
-            "originalSrc": "https://img1.wsimg.com/isteam/ip/59989400-dfc1-4501-91c3-d5c38a10d7c1/WhatsApp%20Image%202024-02-23%20at%2019.18.43.jpeg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:388,cg:true",
-            "alt": ""
-          },
-          {
-            "type": "text",
-            "text": "CAMPEÃO [Legendary TeaM]"
-          },
-          {
-            "type": "text",
-            "text": "FINAL [GT Vs QNTS]"
-          }
-        ],
-        "legacyEventId": "2021:tslmajor",
-        "rosterSourceImage": "assets/archive/86ed67893904be137a59.jpeg"
-      },
-      {
-        "id": "2021:tslsone",
-        "title": "TSL | SEASON ONE",
-        "year": 2021,
-        "source": "owner-confirmed",
-        "sourceNote": "Títulos da GT em 2021 confirmados pelo responsável pelo site.",
-        "manual": true,
-        "major": false,
-        "roster": []
-      },
-      {
-        "id": "2021:tslsmack",
-        "title": "TSL | SMACK",
-        "year": 2021,
-        "source": "owner-confirmed",
-        "sourceNote": "Títulos da GT em 2021 confirmados pelo responsável pelo site.",
-        "manual": true,
-        "major": false,
-        "roster": []
+          "RN",
+          "SharP",
+          "Mary",
+          "Roggers",
+          "Felpera"
+        ]
       }
     ],
     "members": [
       {
-        "id": "4i2o",
-        "name": "4i20",
+        "id": "felpera",
+        "name": "Felpera",
         "years": [
           2021
         ],
         "sources": [
-          "major-history"
+          "Títulos e elenco da LUVV em 2021 informados pelo responsável pelo site."
         ]
       },
       {
-        "id": "4kkp",
-        "name": "4kkp",
+        "id": "mary",
+        "name": "Mary",
         "years": [
           2021
         ],
         "sources": [
-          "Passagem pela GT 2021 confirmada pelo proprietário do site."
+          "Títulos e elenco da LUVV em 2021 informados pelo responsável pelo site."
         ]
       },
       {
-        "id": "alfa",
-        "name": "Alfa",
+        "id": "rn",
+        "name": "RN",
         "years": [
           2021
         ],
         "sources": [
-          "major-history"
+          "Títulos e elenco da LUVV em 2021 informados pelo responsável pelo site."
         ]
       },
       {
-        "id": "ezeq",
-        "name": "Ezeq",
+        "id": "roggers",
+        "name": "Roggers",
         "years": [
           2021
         ],
         "sources": [
-          "major-history"
+          "Títulos e elenco da LUVV em 2021 informados pelo responsável pelo site."
         ]
       },
       {
-        "id": "niko",
-        "name": "NIKO",
+        "id": "sharp",
+        "name": "SharP",
         "years": [
           2021
         ],
         "sources": [
-          "major-history"
-        ]
-      },
-      {
-        "id": "valknut",
-        "name": "Valknut",
-        "years": [
-          2021
-        ],
-        "sources": [
-          "major-history"
-        ]
-      },
-      {
-        "id": "zenn",
-        "name": "zenn",
-        "years": [
-          2021
-        ],
-        "sources": [
-          "major-history"
+          "Títulos e elenco da LUVV em 2021 informados pelo responsável pelo site."
         ]
       }
     ],
     "rankings": [
       {
         "year": 2021,
-        "rank": 2
+        "rank": 4
       }
     ],
     "logo": {
       "src": "assets/archive/fe536df0c4f9d35c5061.jpg",
       "crop": {
         "x": 0.17274167987321712,
-        "y": 0.2315202231520223,
+        "y": 0.6234309623430963,
         "w": 0.1774960380348653,
         "h": 0.15620641562064155
       }
     },
-    "searchAliases": [
-      "gt",
-      "legendaryteam",
-      "gt2021",
-      "legendaryteam2021"
-    ]
+    "searchAliases": []
   },
   {
     "id": "teaminfinity",
@@ -3439,6 +3410,182 @@ window.HBSTV_TEAMS = [
       }
     },
     "searchAliases": []
+  },
+  {
+    "id": "gt2021",
+    "name": "GT 2021",
+    "aliases": [
+      "GT 2021",
+      "Legendary TeaM"
+    ],
+    "titles": [
+      {
+        "id": "2021:glbsgameleague",
+        "title": "GLBS | GAME LEAGUE",
+        "year": 2021,
+        "source": "owner-confirmed",
+        "sourceNote": "Títulos da GT em 2021 confirmados pelo responsável pelo site.",
+        "manual": true,
+        "major": false,
+        "roster": []
+      },
+      {
+        "id": "major:86ed67893904be137a59",
+        "title": "TSL | MAJOR",
+        "year": 2021,
+        "source": "major-history",
+        "major": true,
+        "roster": [
+          "4i20",
+          "NIKO",
+          "Ezeq",
+          "Zenn",
+          "Valknut",
+          "Alfa"
+        ],
+        "blocks": [
+          {
+            "type": "heading",
+            "text": "TSL | MAJOR [2021]",
+            "level": 4
+          },
+          {
+            "type": "heading",
+            "text": "SUVOH | MAJOR [2021]",
+            "level": 4
+          },
+          {
+            "type": "image",
+            "src": "assets/archive/86ed67893904be137a59.jpeg",
+            "originalSrc": "https://img1.wsimg.com/isteam/ip/59989400-dfc1-4501-91c3-d5c38a10d7c1/WhatsApp%20Image%202024-02-23%20at%2019.18.43.jpeg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:388,cg:true",
+            "alt": ""
+          },
+          {
+            "type": "text",
+            "text": "CAMPEÃO [Legendary TeaM]"
+          },
+          {
+            "type": "text",
+            "text": "FINAL [GT Vs QNTS]"
+          }
+        ],
+        "legacyEventId": "2021:tslmajor",
+        "rosterSourceImage": "assets/archive/86ed67893904be137a59.jpeg"
+      },
+      {
+        "id": "2021:tslsone",
+        "title": "TSL | SEASON ONE",
+        "year": 2021,
+        "source": "owner-confirmed",
+        "sourceNote": "Títulos da GT em 2021 confirmados pelo responsável pelo site.",
+        "manual": true,
+        "major": false,
+        "roster": []
+      },
+      {
+        "id": "2021:tslsmack",
+        "title": "TSL | SMACK",
+        "year": 2021,
+        "source": "owner-confirmed",
+        "sourceNote": "Títulos da GT em 2021 confirmados pelo responsável pelo site.",
+        "manual": true,
+        "major": false,
+        "roster": []
+      }
+    ],
+    "members": [
+      {
+        "id": "4i2o",
+        "name": "4i20",
+        "years": [
+          2021
+        ],
+        "sources": [
+          "major-history"
+        ]
+      },
+      {
+        "id": "4kkp",
+        "name": "4kkp",
+        "years": [
+          2021
+        ],
+        "sources": [
+          "Passagem pela GT 2021 confirmada pelo proprietário do site."
+        ]
+      },
+      {
+        "id": "alfa",
+        "name": "Alfa",
+        "years": [
+          2021
+        ],
+        "sources": [
+          "major-history"
+        ]
+      },
+      {
+        "id": "ezeq",
+        "name": "Ezeq",
+        "years": [
+          2021
+        ],
+        "sources": [
+          "major-history"
+        ]
+      },
+      {
+        "id": "niko",
+        "name": "NIKO",
+        "years": [
+          2021
+        ],
+        "sources": [
+          "major-history"
+        ]
+      },
+      {
+        "id": "valknut",
+        "name": "Valknut",
+        "years": [
+          2021
+        ],
+        "sources": [
+          "major-history"
+        ]
+      },
+      {
+        "id": "zenn",
+        "name": "zenn",
+        "years": [
+          2021
+        ],
+        "sources": [
+          "major-history"
+        ]
+      }
+    ],
+    "rankings": [
+      {
+        "year": 2021,
+        "rank": 2
+      }
+    ],
+    "logo": {
+      "src": "assets/archive/fe536df0c4f9d35c5061.jpg",
+      "crop": {
+        "x": 0.17274167987321712,
+        "y": 0.2315202231520223,
+        "w": 0.1774960380348653,
+        "h": 0.15620641562064155
+      }
+    },
+    "searchAliases": [
+      "gt",
+      "legendaryteam",
+      "gt2021",
+      "legendaryteam2021"
+    ]
   },
   {
     "id": "miracle",
@@ -9975,31 +10122,6 @@ window.HBSTV_TEAMS = [
         "h": 1
       }
     }
-  },
-  {
-    "id": "luvv",
-    "name": "LUVV",
-    "aliases": [
-      "LUVV"
-    ],
-    "titles": [],
-    "members": [],
-    "rankings": [
-      {
-        "year": 2021,
-        "rank": 4
-      }
-    ],
-    "logo": {
-      "src": "assets/archive/fe536df0c4f9d35c5061.jpg",
-      "crop": {
-        "x": 0.17274167987321712,
-        "y": 0.6234309623430963,
-        "w": 0.1774960380348653,
-        "h": 0.15620641562064155
-      }
-    },
-    "searchAliases": []
   },
   {
     "id": "mouz",
