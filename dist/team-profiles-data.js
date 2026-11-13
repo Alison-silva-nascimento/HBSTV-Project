@@ -10563,6 +10563,14 @@ window.HBSTV_TEAMS = [
         "sources": [
           "Passagem pela REAL confirmada pelo responsável pelo site."
         ]
+      },
+      {
+        "id": "zenn",
+        "name": "zenn",
+        "years": [],
+        "sources": [
+          "Passagem registrada no Hall of Fame. Temporada não informada."
+        ]
       }
     ],
     "rankings": [

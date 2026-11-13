@@ -43,7 +43,9 @@ window.HBSTV_PLAYER_INDEX = {
     "reidogame": "RN",
     "realnoob": "RN",
     "tenz": "TENZ",
-    "downbad": "TENZ"
+    "downbad": "TENZ",
+    "pedrinn": "Pedrin",
+    "fwa": "Fway"
   },
   "players": [
     {
@@ -3347,7 +3349,8 @@ window.HBSTV_PLAYER_INDEX = {
       "name": "Enfer",
       "aliases": [
         "Enfer",
-        "ENFER"
+        "ENFER",
+        "enfer"
       ],
       "realNames": [],
       "teams": [
@@ -4081,7 +4084,8 @@ window.HBSTV_PLAYER_INDEX = {
       "name": "Force",
       "aliases": [
         "Force",
-        "FORCE"
+        "FORCE",
+        "force"
       ],
       "realNames": [],
       "teams": [
@@ -4317,7 +4321,9 @@ window.HBSTV_PLAYER_INDEX = {
         "Fway",
         "fway"
       ],
-      "realNames": [],
+      "realNames": [
+        "Emerson"
+      ],
       "teams": [
         {
           "id": "sdpinterlude",
@@ -7064,7 +7070,8 @@ window.HBSTV_PLAYER_INDEX = {
       "name": "Mary",
       "aliases": [
         "Mary",
-        "MARY"
+        "MARY",
+        "mary"
       ],
       "realNames": [],
       "teams": [
@@ -9206,7 +9213,8 @@ window.HBSTV_PLAYER_INDEX = {
       "id": "pedrin",
       "name": "Pedrin",
       "aliases": [
-        "Pedrin"
+        "Pedrin",
+        "Pedrinn"
       ],
       "realNames": [],
       "teams": [
@@ -9297,20 +9305,6 @@ window.HBSTV_PLAYER_INDEX = {
           "source": "events-2024"
         }
       ],
-      "rankings": [],
-      "awards": []
-    },
-    {
-      "id": "pedrinn",
-      "name": "Pedrinn",
-      "aliases": [
-        "Pedrinn"
-      ],
-      "realNames": [],
-      "teams": [],
-      "titles": [],
-      "mvps": [],
-      "evps": [],
       "rankings": [
         {
           "year": 2024,
@@ -9324,7 +9318,8 @@ window.HBSTV_PLAYER_INDEX = {
       "id": "pedro",
       "name": "PEDRO",
       "aliases": [
-        "PEDRO"
+        "PEDRO",
+        "pedro"
       ],
       "realNames": [],
       "teams": [],
@@ -10341,7 +10336,8 @@ window.HBSTV_PLAYER_INDEX = {
         "RyOta",
         "Ryota",
         "ry0ta",
-        "RYOTA"
+        "RYOTA",
+        "ryota"
       ],
       "realNames": [],
       "teams": [
@@ -10970,7 +10966,8 @@ window.HBSTV_PLAYER_INDEX = {
       "aliases": [
         "ScreaM",
         "Kscerato",
-        "SCREAM"
+        "SCREAM",
+        "scream"
       ],
       "realNames": [],
       "teams": [
@@ -11122,7 +11119,8 @@ window.HBSTV_PLAYER_INDEX = {
       "name": "Scuba",
       "aliases": [
         "Scuba",
-        "SCUBA"
+        "SCUBA",
+        "scuba"
       ],
       "realNames": [],
       "teams": [
@@ -14748,6 +14746,11 @@ window.HBSTV_PLAYER_INDEX = {
           "years": [
             2017
           ]
+        },
+        {
+          "id": "real",
+          "name": "REAL",
+          "years": []
         }
       ],
       "titles": [

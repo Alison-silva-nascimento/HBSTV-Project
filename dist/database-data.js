@@ -3462,9 +3462,8 @@ window.HBSTV_DATABASE = {
           "id": "major:4ed7f41456f8697e77c6",
           "title": "GSE | MAJOR Adrenaline",
           "year": 2020,
-          "source": "major-history",
-          "sourceImage": "assets/archive/4ed7f41456f8697e77c6.jpg",
-          "major": true
+          "major": true,
+          "source": "owner-confirmed"
         }
       ],
       "rankings": [
@@ -4593,7 +4592,8 @@ window.HBSTV_DATABASE = {
       "name": "Enfer",
       "aliases": [
         "Enfer",
-        "ENFER"
+        "ENFER",
+        "enfer"
       ],
       "realNames": [],
       "teams": [
@@ -4622,9 +4622,8 @@ window.HBSTV_DATABASE = {
           "id": "major:4ed7f41456f8697e77c6",
           "title": "GSE | MAJOR Adrenaline",
           "year": 2020,
-          "source": "major-history",
-          "sourceImage": "assets/archive/4ed7f41456f8697e77c6.jpg",
-          "major": true
+          "major": true,
+          "source": "owner-confirmed"
         }
       ],
       "rankings": [
@@ -5751,7 +5750,8 @@ window.HBSTV_DATABASE = {
       "name": "Force",
       "aliases": [
         "Force",
-        "FORCE"
+        "FORCE",
+        "force"
       ],
       "realNames": [],
       "teams": [
@@ -5837,9 +5837,8 @@ window.HBSTV_DATABASE = {
           "id": "major:4ed7f41456f8697e77c6",
           "title": "GSE | MAJOR Adrenaline",
           "year": 2020,
-          "source": "major-history",
-          "sourceImage": "assets/archive/4ed7f41456f8697e77c6.jpg",
-          "major": true
+          "major": true,
+          "source": "owner-confirmed"
         }
       ],
       "rankings": [
@@ -6115,7 +6114,9 @@ window.HBSTV_DATABASE = {
         "Fway",
         "fway"
       ],
-      "realNames": [],
+      "realNames": [
+        "Emerson"
+      ],
       "teams": [
         {
           "id": "sdpinterlude",
@@ -9695,7 +9696,8 @@ window.HBSTV_DATABASE = {
       "name": "Mary",
       "aliases": [
         "Mary",
-        "MARY"
+        "MARY",
+        "mary"
       ],
       "realNames": [],
       "teams": [
@@ -9760,9 +9762,8 @@ window.HBSTV_DATABASE = {
           "id": "major:4ed7f41456f8697e77c6",
           "title": "GSE | MAJOR Adrenaline",
           "year": 2020,
-          "source": "major-history",
-          "sourceImage": "assets/archive/4ed7f41456f8697e77c6.jpg",
-          "major": true
+          "major": true,
+          "source": "owner-confirmed"
         }
       ],
       "rankings": [],
@@ -12037,9 +12038,8 @@ window.HBSTV_DATABASE = {
           "id": "major:4ed7f41456f8697e77c6",
           "title": "GSE | MAJOR Adrenaline",
           "year": 2020,
-          "source": "major-history",
-          "sourceImage": "assets/archive/4ed7f41456f8697e77c6.jpg",
-          "major": true
+          "major": true,
+          "source": "owner-confirmed"
         }
       ],
       "rankings": [
@@ -12585,7 +12585,8 @@ window.HBSTV_DATABASE = {
       "id": "pedrin",
       "name": "Pedrin",
       "aliases": [
-        "Pedrin"
+        "Pedrin",
+        "Pedrinn"
       ],
       "realNames": [],
       "teams": [
@@ -12676,7 +12677,13 @@ window.HBSTV_DATABASE = {
           "source": "events-2024"
         }
       ],
-      "rankings": [],
+      "rankings": [
+        {
+          "year": 2024,
+          "rank": 13,
+          "country": "BR"
+        }
+      ],
       "awards": [],
       "topFiveTeams": [
         {
@@ -12700,31 +12707,11 @@ window.HBSTV_DATABASE = {
       ]
     },
     {
-      "id": "pedrinn",
-      "name": "Pedrinn",
-      "aliases": [
-        "Pedrinn"
-      ],
-      "realNames": [],
-      "teams": [],
-      "titles": [],
-      "mvps": [],
-      "evps": [],
-      "rankings": [
-        {
-          "year": 2024,
-          "rank": 13,
-          "country": "BR"
-        }
-      ],
-      "awards": [],
-      "topFiveTeams": []
-    },
-    {
       "id": "pedro",
       "name": "PEDRO",
       "aliases": [
-        "PEDRO"
+        "PEDRO",
+        "pedro"
       ],
       "realNames": [],
       "teams": [],
@@ -12735,9 +12722,8 @@ window.HBSTV_DATABASE = {
           "id": "major:4ed7f41456f8697e77c6",
           "title": "GSE | MAJOR Adrenaline",
           "year": 2020,
-          "source": "major-history",
-          "sourceImage": "assets/archive/4ed7f41456f8697e77c6.jpg",
-          "major": true
+          "major": true,
+          "source": "owner-confirmed"
         }
       ],
       "rankings": [],
@@ -14096,7 +14082,8 @@ window.HBSTV_DATABASE = {
         "RyOta",
         "Ryota",
         "ry0ta",
-        "RYOTA"
+        "RYOTA",
+        "ryota"
       ],
       "realNames": [],
       "teams": [
@@ -14161,9 +14148,8 @@ window.HBSTV_DATABASE = {
           "id": "major:4ed7f41456f8697e77c6",
           "title": "GSE | MAJOR Adrenaline",
           "year": 2020,
-          "source": "major-history",
-          "sourceImage": "assets/archive/4ed7f41456f8697e77c6.jpg",
-          "major": true
+          "major": true,
+          "source": "owner-confirmed"
         }
       ],
       "rankings": [
@@ -14944,7 +14930,8 @@ window.HBSTV_DATABASE = {
       "aliases": [
         "ScreaM",
         "Kscerato",
-        "SCREAM"
+        "SCREAM",
+        "scream"
       ],
       "realNames": [],
       "teams": [
@@ -15096,9 +15083,8 @@ window.HBSTV_DATABASE = {
           "id": "major:4ed7f41456f8697e77c6",
           "title": "GSE | MAJOR Adrenaline",
           "year": 2020,
-          "source": "major-history",
-          "sourceImage": "assets/archive/4ed7f41456f8697e77c6.jpg",
-          "major": true
+          "major": true,
+          "source": "owner-confirmed"
         }
       ],
       "rankings": [
@@ -15305,7 +15291,8 @@ window.HBSTV_DATABASE = {
       "name": "Scuba",
       "aliases": [
         "Scuba",
-        "SCUBA"
+        "SCUBA",
+        "scuba"
       ],
       "realNames": [],
       "teams": [
@@ -15423,9 +15410,8 @@ window.HBSTV_DATABASE = {
           "id": "major:4ed7f41456f8697e77c6",
           "title": "GSE | MAJOR Adrenaline",
           "year": 2020,
-          "source": "major-history",
-          "sourceImage": "assets/archive/4ed7f41456f8697e77c6.jpg",
-          "major": true
+          "major": true,
+          "source": "owner-confirmed"
         }
       ],
       "rankings": [
@@ -20233,6 +20219,11 @@ window.HBSTV_DATABASE = {
           "years": [
             2017
           ]
+        },
+        {
+          "id": "real",
+          "name": "REAL",
+          "years": []
         }
       ],
       "titles": [
@@ -20318,6 +20309,13 @@ window.HBSTV_DATABASE = {
           "title": "PNL | Peninsula Cup",
           "year": 2021,
           "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "major:4ed7f41456f8697e77c6",
+          "title": "GSE | MAJOR Adrenaline",
+          "year": 2020,
+          "major": true,
           "source": "owner-confirmed"
         },
         {
@@ -20684,7 +20682,9 @@ window.HBSTV_DATABASE = {
     "reidogame": "RN",
     "realnoob": "RN",
     "tenz": "TENZ",
-    "downbad": "TENZ"
+    "downbad": "TENZ",
+    "pedrinn": "Pedrin",
+    "fwa": "Fway"
   },
   "events": [
     {
@@ -23380,15 +23380,20 @@ window.HBSTV_DATABASE = {
         "pedro",
         "ryota",
         "scream",
-        "scuba"
+        "scuba",
+        "zenn"
       ],
       "sources": [
-        "major-history"
+        "major-history",
+        "owner-confirmed"
       ],
-      "notes": [],
+      "notes": [
+        "Premiações individuais confirmadas pelo responsável pelo site."
+      ],
       "images": [
         "assets/archive/4ed7f41456f8697e77c6.jpg"
-      ]
+      ],
+      "mvs": []
     },
     {
       "id": "2020:gseproleague",
@@ -35007,6 +35012,14 @@ window.HBSTV_DATABASE = {
           ],
           "sources": [
             "Passagem pela REAL confirmada pelo responsável pelo site."
+          ]
+        },
+        {
+          "id": "zenn",
+          "name": "zenn",
+          "years": [],
+          "sources": [
+            "Passagem registrada no Hall of Fame. Temporada não informada."
           ]
         }
       ],
