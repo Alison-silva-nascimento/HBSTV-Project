@@ -4,7 +4,6 @@
     "year": 2020,
     "titles": [
       "GSE | Evolution Championship 2020",
-      "TSL | CBBS 4.0 2020",
       "GSE | TUES CUP 2020",
       "SUVOH | Loftus Cup 2020",
       "? | Elite Strike 2020"
@@ -19,6 +18,22 @@
       "iNovate"
     ],
     "source": "Títulos e elenco de 2020 informados pelo responsável pelo site.",
+    "rosterConfirmed": true
+  },
+  {
+    "team": "CHAOS 2020",
+    "year": 2020,
+    "titles": [],
+    "players": [
+      "Bale",
+      "Force",
+      "iNovate",
+      "Oskar",
+      "Scuba",
+      "SpinarD",
+      "zMAT"
+    ],
+    "source": "Elenco da CHAOS 2020 confirmado pelo responsável pelo site.",
     "rosterConfirmed": true
   },
   {

@@ -1143,13 +1143,6 @@ window.HBSTV_PLAYER_INDEX = {
           ]
         },
         {
-          "id": "vanx",
-          "name": "VANX",
-          "years": [
-            2020
-          ]
-        },
-        {
           "id": "gc2019",
           "name": "GC 2019",
           "years": [
@@ -1600,6 +1593,13 @@ window.HBSTV_PLAYER_INDEX = {
           "years": [
             2020
           ]
+        },
+        {
+          "id": "chaos2020",
+          "name": "CHAOS 2020",
+          "years": [
+            2020
+          ]
         }
       ],
       "titles": [
@@ -1633,15 +1633,6 @@ window.HBSTV_PLAYER_INDEX = {
         {
           "id": "2020:suvohloftuscup",
           "title": "SUVOH | Loftus Cup 2020",
-          "year": 2020,
-          "teamId": "vanx",
-          "team": "VANX",
-          "major": false,
-          "source": "owner-confirmed"
-        },
-        {
-          "id": "2020:tslcbbs40",
-          "title": "TSL | CBBS 4.0 2020",
           "year": 2020,
           "teamId": "vanx",
           "team": "VANX",
@@ -4102,6 +4093,13 @@ window.HBSTV_PLAYER_INDEX = {
           "years": [
             2020
           ]
+        },
+        {
+          "id": "chaos2020",
+          "name": "CHAOS 2020",
+          "years": [
+            2020
+          ]
         }
       ],
       "titles": [
@@ -4135,15 +4133,6 @@ window.HBSTV_PLAYER_INDEX = {
         {
           "id": "2020:suvohloftuscup",
           "title": "SUVOH | Loftus Cup 2020",
-          "year": 2020,
-          "teamId": "vanx",
-          "team": "VANX",
-          "major": false,
-          "source": "owner-confirmed"
-        },
-        {
-          "id": "2020:tslcbbs40",
-          "title": "TSL | CBBS 4.0 2020",
           "year": 2020,
           "teamId": "vanx",
           "team": "VANX",
@@ -5322,6 +5311,13 @@ window.HBSTV_PLAYER_INDEX = {
           "years": [
             2020
           ]
+        },
+        {
+          "id": "chaos2020",
+          "name": "CHAOS 2020",
+          "years": [
+            2020
+          ]
         }
       ],
       "titles": [
@@ -5364,15 +5360,6 @@ window.HBSTV_PLAYER_INDEX = {
         {
           "id": "2020:suvohloftuscup",
           "title": "SUVOH | Loftus Cup 2020",
-          "year": 2020,
-          "teamId": "vanx",
-          "team": "VANX",
-          "major": false,
-          "source": "owner-confirmed"
-        },
-        {
-          "id": "2020:tslcbbs40",
-          "title": "TSL | CBBS 4.0 2020",
           "year": 2020,
           "teamId": "vanx",
           "team": "VANX",
@@ -8674,6 +8661,13 @@ window.HBSTV_PLAYER_INDEX = {
           "years": [
             2020
           ]
+        },
+        {
+          "id": "chaos2020",
+          "name": "CHAOS 2020",
+          "years": [
+            2020
+          ]
         }
       ],
       "titles": [
@@ -8761,15 +8755,6 @@ window.HBSTV_PLAYER_INDEX = {
         {
           "id": "2020:suvohloftuscup",
           "title": "SUVOH | Loftus Cup 2020",
-          "year": 2020,
-          "teamId": "vanx",
-          "team": "VANX",
-          "major": false,
-          "source": "owner-confirmed"
-        },
-        {
-          "id": "2020:tslcbbs40",
-          "title": "TSL | CBBS 4.0 2020",
           "year": 2020,
           "teamId": "vanx",
           "team": "VANX",
@@ -11158,6 +11143,13 @@ window.HBSTV_PLAYER_INDEX = {
           "years": [
             2020
           ]
+        },
+        {
+          "id": "chaos2020",
+          "name": "CHAOS 2020",
+          "years": [
+            2020
+          ]
         }
       ],
       "titles": [
@@ -11200,15 +11192,6 @@ window.HBSTV_PLAYER_INDEX = {
         {
           "id": "2020:suvohloftuscup",
           "title": "SUVOH | Loftus Cup 2020",
-          "year": 2020,
-          "teamId": "vanx",
-          "team": "VANX",
-          "major": false,
-          "source": "owner-confirmed"
-        },
-        {
-          "id": "2020:tslcbbs40",
-          "title": "TSL | CBBS 4.0 2020",
           "year": 2020,
           "teamId": "vanx",
           "team": "VANX",
@@ -11944,6 +11927,13 @@ window.HBSTV_PLAYER_INDEX = {
           "years": [
             2020
           ]
+        },
+        {
+          "id": "chaos2020",
+          "name": "CHAOS 2020",
+          "years": [
+            2020
+          ]
         }
       ],
       "titles": [
@@ -11977,15 +11967,6 @@ window.HBSTV_PLAYER_INDEX = {
         {
           "id": "2020:suvohloftuscup",
           "title": "SUVOH | Loftus Cup 2020",
-          "year": 2020,
-          "teamId": "vanx",
-          "team": "VANX",
-          "major": false,
-          "source": "owner-confirmed"
-        },
-        {
-          "id": "2020:tslcbbs40",
-          "title": "TSL | CBBS 4.0 2020",
           "year": 2020,
           "teamId": "vanx",
           "team": "VANX",
@@ -14848,6 +14829,13 @@ window.HBSTV_PLAYER_INDEX = {
           "years": [
             2020
           ]
+        },
+        {
+          "id": "chaos2020",
+          "name": "CHAOS 2020",
+          "years": [
+            2020
+          ]
         }
       ],
       "titles": [
@@ -14881,15 +14869,6 @@ window.HBSTV_PLAYER_INDEX = {
         {
           "id": "2020:suvohloftuscup",
           "title": "SUVOH | Loftus Cup 2020",
-          "year": 2020,
-          "teamId": "vanx",
-          "team": "VANX",
-          "major": false,
-          "source": "owner-confirmed"
-        },
-        {
-          "id": "2020:tslcbbs40",
-          "title": "TSL | CBBS 4.0 2020",
           "year": 2020,
           "teamId": "vanx",
           "team": "VANX",

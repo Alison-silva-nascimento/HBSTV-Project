@@ -55,6 +55,7 @@ if (teams.has('ntc')) teams.get('ntc').logo = {src:'assets/ntc-logo.svg', crop:{
 if (teams.has('sx')) teams.get('sx').logo = {src:'assets/sx-logo.png', crop:{x:0,y:0,w:1,h:1}};
 if (teams.has('g2')) teams.get('g2').logo = {src:'assets/g2-logo.png', crop:{x:0,y:0,w:1,h:1}};
 if (teams.has('fanatic')) teams.get('fanatic').logo = {src:'assets/fanatic-logo.png', crop:{x:0,y:0,w:1,h:1}};
+if (teams.has('chaos2020') && teams.has('chaos')) teams.get('chaos2020').logo = teams.get('chaos').logo;
 const goblins2019 = teams.get('gc2019');
 const hardnessSeason2 = goblins2019.titles.find(title => title.id === '2019:gsehardnessproleagues2');
 hardnessSeason2.title = 'GSE | Hardness Pro League Season 2';

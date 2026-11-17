@@ -3502,203 +3502,6 @@ window.HBSTV_TEAMS = [
     ]
   },
   {
-    "id": "vanx",
-    "name": "VANX",
-    "aliases": [
-      "VANX"
-    ],
-    "titles": [
-      {
-        "id": "2020:elitestrike",
-        "title": "? | Elite Strike 2020",
-        "year": 2020,
-        "source": "owner-confirmed",
-        "sourceNote": "Títulos e elenco de 2020 informados pelo responsável pelo site.",
-        "manual": true,
-        "major": false,
-        "roster": [
-          "Oskar",
-          "Scuba",
-          "Force",
-          "Bale",
-          "SpinarD",
-          "zMAT",
-          "iNovate"
-        ]
-      },
-      {
-        "id": "2020:gseevolutionchampionship",
-        "title": "GSE | Evolution Championship 2020",
-        "year": 2020,
-        "source": "owner-confirmed",
-        "sourceNote": "Títulos e elenco de 2020 informados pelo responsável pelo site.",
-        "manual": true,
-        "major": false,
-        "roster": [
-          "Oskar",
-          "Scuba",
-          "Force",
-          "Bale",
-          "SpinarD",
-          "zMAT",
-          "iNovate"
-        ]
-      },
-      {
-        "id": "2020:gsetuescup",
-        "title": "GSE | TUES CUP 2020",
-        "year": 2020,
-        "source": "owner-confirmed",
-        "sourceNote": "Títulos e elenco de 2020 informados pelo responsável pelo site.",
-        "manual": true,
-        "major": false,
-        "roster": [
-          "Oskar",
-          "Scuba",
-          "Force",
-          "Bale",
-          "SpinarD",
-          "zMAT",
-          "iNovate"
-        ]
-      },
-      {
-        "id": "2020:suvohloftuscup",
-        "title": "SUVOH | Loftus Cup 2020",
-        "year": 2020,
-        "source": "owner-confirmed",
-        "sourceNote": "Títulos e elenco de 2020 informados pelo responsável pelo site.",
-        "manual": true,
-        "major": false,
-        "roster": [
-          "Oskar",
-          "Scuba",
-          "Force",
-          "Bale",
-          "SpinarD",
-          "zMAT",
-          "iNovate"
-        ]
-      },
-      {
-        "id": "2020:tslcbbs40",
-        "title": "TSL | CBBS 4.0 2020",
-        "year": 2020,
-        "source": "owner-confirmed",
-        "sourceNote": "Títulos e elenco de 2020 informados pelo responsável pelo site.",
-        "manual": true,
-        "major": false,
-        "roster": [
-          "Oskar",
-          "Scuba",
-          "Force",
-          "Bale",
-          "SpinarD",
-          "zMAT",
-          "iNovate"
-        ]
-      }
-    ],
-    "members": [
-      {
-        "id": "amz",
-        "name": "Amz",
-        "years": [
-          2020
-        ],
-        "sources": [
-          "Passagem registrada no Hall of Fame. Temporada confirmada pelo responsável pelo site."
-        ]
-      },
-      {
-        "id": "bale",
-        "name": "Bale",
-        "years": [
-          2020
-        ],
-        "sources": [
-          "Títulos e elenco de 2020 informados pelo responsável pelo site."
-        ]
-      },
-      {
-        "id": "force",
-        "name": "Force",
-        "years": [
-          2020
-        ],
-        "sources": [
-          "Títulos e elenco de 2020 informados pelo responsável pelo site."
-        ]
-      },
-      {
-        "id": "inovate",
-        "name": "iNovate",
-        "years": [
-          2020
-        ],
-        "sources": [
-          "Títulos e elenco de 2020 informados pelo responsável pelo site."
-        ]
-      },
-      {
-        "id": "oskar",
-        "name": "Oskar",
-        "years": [
-          2020
-        ],
-        "sources": [
-          "Títulos e elenco de 2020 informados pelo responsável pelo site."
-        ]
-      },
-      {
-        "id": "scuba",
-        "name": "Scuba",
-        "years": [
-          2020
-        ],
-        "sources": [
-          "Títulos e elenco de 2020 informados pelo responsável pelo site."
-        ]
-      },
-      {
-        "id": "spinard",
-        "name": "SpinarD",
-        "years": [
-          2020
-        ],
-        "sources": [
-          "Títulos e elenco de 2020 informados pelo responsável pelo site."
-        ]
-      },
-      {
-        "id": "zmat",
-        "name": "zMAT",
-        "years": [
-          2020
-        ],
-        "sources": [
-          "Títulos e elenco de 2020 informados pelo responsável pelo site."
-        ]
-      }
-    ],
-    "rankings": [
-      {
-        "year": 2020,
-        "rank": 2
-      }
-    ],
-    "logo": {
-      "src": "assets/archive/dfd80ec13b6069c38926.jpg",
-      "crop": {
-        "x": 0.16185897435897437,
-        "y": 0.22695035460992907,
-        "w": 0.1794871794871795,
-        "h": 0.15886524822695036
-      }
-    },
-    "searchAliases": []
-  },
-  {
     "id": "miracle",
     "name": "Miracle",
     "aliases": [
@@ -4974,6 +4777,175 @@ window.HBSTV_TEAMS = [
       "sdp",
       "sdpinterlude"
     ]
+  },
+  {
+    "id": "vanx",
+    "name": "VANX",
+    "aliases": [
+      "VANX"
+    ],
+    "titles": [
+      {
+        "id": "2020:elitestrike",
+        "title": "? | Elite Strike 2020",
+        "year": 2020,
+        "source": "owner-confirmed",
+        "sourceNote": "Títulos e elenco de 2020 informados pelo responsável pelo site.",
+        "manual": true,
+        "major": false,
+        "roster": [
+          "Oskar",
+          "Scuba",
+          "Force",
+          "Bale",
+          "SpinarD",
+          "zMAT",
+          "iNovate"
+        ]
+      },
+      {
+        "id": "2020:gseevolutionchampionship",
+        "title": "GSE | Evolution Championship 2020",
+        "year": 2020,
+        "source": "owner-confirmed",
+        "sourceNote": "Títulos e elenco de 2020 informados pelo responsável pelo site.",
+        "manual": true,
+        "major": false,
+        "roster": [
+          "Oskar",
+          "Scuba",
+          "Force",
+          "Bale",
+          "SpinarD",
+          "zMAT",
+          "iNovate"
+        ]
+      },
+      {
+        "id": "2020:gsetuescup",
+        "title": "GSE | TUES CUP 2020",
+        "year": 2020,
+        "source": "owner-confirmed",
+        "sourceNote": "Títulos e elenco de 2020 informados pelo responsável pelo site.",
+        "manual": true,
+        "major": false,
+        "roster": [
+          "Oskar",
+          "Scuba",
+          "Force",
+          "Bale",
+          "SpinarD",
+          "zMAT",
+          "iNovate"
+        ]
+      },
+      {
+        "id": "2020:suvohloftuscup",
+        "title": "SUVOH | Loftus Cup 2020",
+        "year": 2020,
+        "source": "owner-confirmed",
+        "sourceNote": "Títulos e elenco de 2020 informados pelo responsável pelo site.",
+        "manual": true,
+        "major": false,
+        "roster": [
+          "Oskar",
+          "Scuba",
+          "Force",
+          "Bale",
+          "SpinarD",
+          "zMAT",
+          "iNovate"
+        ]
+      }
+    ],
+    "members": [
+      {
+        "id": "bale",
+        "name": "Bale",
+        "years": [
+          2020
+        ],
+        "sources": [
+          "Títulos e elenco de 2020 informados pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "force",
+        "name": "Force",
+        "years": [
+          2020
+        ],
+        "sources": [
+          "Títulos e elenco de 2020 informados pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "inovate",
+        "name": "iNovate",
+        "years": [
+          2020
+        ],
+        "sources": [
+          "Títulos e elenco de 2020 informados pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "oskar",
+        "name": "Oskar",
+        "years": [
+          2020
+        ],
+        "sources": [
+          "Títulos e elenco de 2020 informados pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "scuba",
+        "name": "Scuba",
+        "years": [
+          2020
+        ],
+        "sources": [
+          "Títulos e elenco de 2020 informados pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "spinard",
+        "name": "SpinarD",
+        "years": [
+          2020
+        ],
+        "sources": [
+          "Títulos e elenco de 2020 informados pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "zmat",
+        "name": "zMAT",
+        "years": [
+          2020
+        ],
+        "sources": [
+          "Títulos e elenco de 2020 informados pelo responsável pelo site."
+        ]
+      }
+    ],
+    "rankings": [
+      {
+        "year": 2020,
+        "rank": 2
+      }
+    ],
+    "logo": {
+      "src": "assets/archive/dfd80ec13b6069c38926.jpg",
+      "crop": {
+        "x": 0.16185897435897437,
+        "y": 0.22695035460992907,
+        "w": 0.1794871794871795,
+        "h": 0.15886524822695036
+      }
+    },
+    "searchAliases": []
   },
   {
     "id": "controlz",
@@ -10048,6 +10020,97 @@ window.HBSTV_TEAMS = [
     ],
     "rankings": [],
     "searchAliases": []
+  },
+  {
+    "id": "chaos2020",
+    "name": "CHAOS 2020",
+    "aliases": [
+      "CHAOS 2020"
+    ],
+    "titles": [],
+    "members": [
+      {
+        "id": "bale",
+        "name": "Bale",
+        "years": [
+          2020
+        ],
+        "sources": [
+          "Elenco da CHAOS 2020 confirmado pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "force",
+        "name": "Force",
+        "years": [
+          2020
+        ],
+        "sources": [
+          "Elenco da CHAOS 2020 confirmado pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "inovate",
+        "name": "iNovate",
+        "years": [
+          2020
+        ],
+        "sources": [
+          "Elenco da CHAOS 2020 confirmado pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "oskar",
+        "name": "Oskar",
+        "years": [
+          2020
+        ],
+        "sources": [
+          "Elenco da CHAOS 2020 confirmado pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "scuba",
+        "name": "Scuba",
+        "years": [
+          2020
+        ],
+        "sources": [
+          "Elenco da CHAOS 2020 confirmado pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "spinard",
+        "name": "SpinarD",
+        "years": [
+          2020
+        ],
+        "sources": [
+          "Elenco da CHAOS 2020 confirmado pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "zmat",
+        "name": "zMAT",
+        "years": [
+          2020
+        ],
+        "sources": [
+          "Elenco da CHAOS 2020 confirmado pelo responsável pelo site."
+        ]
+      }
+    ],
+    "rankings": [],
+    "searchAliases": [],
+    "logo": {
+      "src": "assets/archive/1820aa6462d811fec48e.jpg",
+      "crop": {
+        "x": 0.043689320388349516,
+        "y": 0.03463203463203463,
+        "w": 0.1766990291262136,
+        "h": 0.15757575757575756
+      }
+    }
   },
   {
     "id": "crazyshadows",
