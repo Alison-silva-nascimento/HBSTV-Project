@@ -1,288 +1,5 @@
 window.HBSTV_TEAMS = [
   {
-    "id": "pentaesports",
-    "name": "PENTA eSports",
-    "aliases": [
-      "PENTA",
-      "Penta E-sports",
-      "PENTA SPORTS"
-    ],
-    "titles": [
-      {
-        "id": "2020:acecup",
-        "title": "ACE Cup",
-        "year": 2020,
-        "source": "top-1-teams-of-years",
-        "major": false,
-        "roster": [],
-        "summary": true
-      },
-      {
-        "id": "2020:gseproleague",
-        "title": "GSE Pro League",
-        "year": 2020,
-        "source": "top-1-teams-of-years",
-        "major": false,
-        "roster": [],
-        "summary": true
-      },
-      {
-        "id": "2020:gsetour",
-        "title": "GSE Tour",
-        "year": 2020,
-        "source": "top-1-teams-of-years",
-        "major": false,
-        "roster": [],
-        "summary": true
-      },
-      {
-        "id": "2020:lcbproleague",
-        "title": "LCB Pro League",
-        "year": 2020,
-        "source": "top-1-teams-of-years",
-        "major": false,
-        "roster": [],
-        "summary": true
-      },
-      {
-        "id": "2020:mawares",
-        "title": "MAWARE Season",
-        "year": 2020,
-        "source": "top-1-teams-of-years",
-        "major": false,
-        "roster": [],
-        "summary": true
-      },
-      {
-        "id": "2020:tslmjonircup",
-        "title": "TSL Mjonir Cup",
-        "year": 2020,
-        "source": "top-1-teams-of-years",
-        "major": false,
-        "roster": [],
-        "summary": true
-      },
-      {
-        "id": "2020:tslnodus",
-        "title": "TSL Nodus",
-        "year": 2020,
-        "source": "top-1-teams-of-years",
-        "major": false,
-        "roster": [],
-        "summary": true
-      },
-      {
-        "id": "2020:tslrenovatedgameleague",
-        "title": "TSL Renovated Game League",
-        "year": 2020,
-        "source": "top-1-teams-of-years",
-        "major": false,
-        "roster": [],
-        "summary": true
-      },
-      {
-        "id": "2018:tslproleague",
-        "title": "TSL | PRO LEAGUE",
-        "year": 2018,
-        "source": "owner-confirmed",
-        "sourceNote": "Título e escalação informados pelo responsável pelo site.",
-        "manual": true,
-        "major": false,
-        "roster": [
-          "ShelzZ",
-          "4KKp",
-          "StronG",
-          "Pasha",
-          "KNS",
-          "SoniC",
-          "PaiN"
-        ]
-      }
-    ],
-    "members": [
-      {
-        "id": "adren",
-        "name": "AdreN",
-        "years": [
-          2020
-        ],
-        "sources": [
-          "top-1-teams-of-years"
-        ]
-      },
-      {
-        "id": "conjure",
-        "name": "c0njure",
-        "years": [
-          2020
-        ],
-        "sources": [
-          "top-1-teams-of-years"
-        ]
-      },
-      {
-        "id": "fugly",
-        "name": "FugLY",
-        "years": [
-          2020
-        ],
-        "sources": [
-          "top-1-teams-of-years"
-        ]
-      },
-      {
-        "id": "nescau",
-        "name": "Nescau",
-        "years": [
-          2020
-        ],
-        "sources": [
-          "top-1-teams-of-years"
-        ]
-      },
-      {
-        "id": "rn",
-        "name": "RN",
-        "years": [
-          2020
-        ],
-        "sources": [
-          "top-1-teams-of-years"
-        ]
-      },
-      {
-        "id": "ryota",
-        "name": "ry0ta",
-        "years": [
-          2020
-        ],
-        "sources": [
-          "top-1-teams-of-years"
-        ]
-      },
-      {
-        "id": "scream",
-        "name": "ScreaM",
-        "years": [
-          2020
-        ],
-        "sources": [
-          "top-1-teams-of-years"
-        ]
-      },
-      {
-        "id": "shelzz",
-        "name": "ShelzZ",
-        "years": [
-          2020,
-          2018
-        ],
-        "sources": [
-          "top-1-teams-of-years",
-          "Elenco da PENTA SPORTS na TSL Pro League 2018 informado pelo responsável pelo site.",
-          "Título e escalação informados pelo responsável pelo site."
-        ]
-      },
-      {
-        "id": "zenn",
-        "name": "zenn",
-        "years": [
-          2020
-        ],
-        "sources": [
-          "top-1-teams-of-years"
-        ]
-      },
-      {
-        "id": "4kkp",
-        "name": "4KKp",
-        "years": [
-          2018
-        ],
-        "sources": [
-          "Elenco da PENTA SPORTS na TSL Pro League 2018 informado pelo responsável pelo site.",
-          "Título e escalação informados pelo responsável pelo site."
-        ]
-      },
-      {
-        "id": "kns",
-        "name": "KNS",
-        "years": [
-          2018
-        ],
-        "sources": [
-          "Elenco da PENTA SPORTS na TSL Pro League 2018 informado pelo responsável pelo site.",
-          "Título e escalação informados pelo responsável pelo site."
-        ]
-      },
-      {
-        "id": "pain",
-        "name": "PaiN",
-        "years": [
-          2018
-        ],
-        "sources": [
-          "Elenco da PENTA SPORTS na TSL Pro League 2018 informado pelo responsável pelo site.",
-          "Título e escalação informados pelo responsável pelo site."
-        ]
-      },
-      {
-        "id": "pasha",
-        "name": "Pasha",
-        "years": [
-          2018
-        ],
-        "sources": [
-          "Elenco da PENTA SPORTS na TSL Pro League 2018 informado pelo responsável pelo site.",
-          "Título e escalação informados pelo responsável pelo site."
-        ]
-      },
-      {
-        "id": "sonic",
-        "name": "SoniC",
-        "years": [
-          2018
-        ],
-        "sources": [
-          "Elenco da PENTA SPORTS na TSL Pro League 2018 informado pelo responsável pelo site.",
-          "Título e escalação informados pelo responsável pelo site."
-        ]
-      },
-      {
-        "id": "strong",
-        "name": "StronG",
-        "years": [
-          2018
-        ],
-        "sources": [
-          "Elenco da PENTA SPORTS na TSL Pro League 2018 informado pelo responsável pelo site.",
-          "Título e escalação informados pelo responsável pelo site."
-        ]
-      }
-    ],
-    "rankings": [
-      {
-        "year": 2020,
-        "rank": 1
-      }
-    ],
-    "logo": {
-      "src": "assets/archive/dfd80ec13b6069c38926.jpg",
-      "crop": {
-        "x": 0.02403846153846154,
-        "y": 0.029787234042553193,
-        "w": 0.1794871794871795,
-        "h": 0.15886524822695036
-      }
-    },
-    "searchAliases": [
-      "pentasports",
-      "penta",
-      "pentaesports",
-      "pnt"
-    ]
-  },
-  {
     "id": "chaos",
     "name": "Chaos",
     "aliases": [
@@ -968,6 +685,201 @@ window.HBSTV_TEAMS = [
       "chaos",
       "chaossportsclub",
       "chs"
+    ]
+  },
+  {
+    "id": "pentaesports",
+    "name": "PENTA eSports",
+    "aliases": [
+      "PENTA",
+      "Penta E-sports"
+    ],
+    "titles": [
+      {
+        "id": "2020:acecup",
+        "title": "ACE Cup",
+        "year": 2020,
+        "source": "top-1-teams-of-years",
+        "major": false,
+        "roster": [],
+        "summary": true
+      },
+      {
+        "id": "2020:gseproleague",
+        "title": "GSE Pro League",
+        "year": 2020,
+        "source": "top-1-teams-of-years",
+        "major": false,
+        "roster": [],
+        "summary": true
+      },
+      {
+        "id": "2020:gsetour",
+        "title": "GSE Tour",
+        "year": 2020,
+        "source": "top-1-teams-of-years",
+        "major": false,
+        "roster": [],
+        "summary": true
+      },
+      {
+        "id": "2020:lcbproleague",
+        "title": "LCB Pro League",
+        "year": 2020,
+        "source": "top-1-teams-of-years",
+        "major": false,
+        "roster": [],
+        "summary": true
+      },
+      {
+        "id": "2020:mawares",
+        "title": "MAWARE Season",
+        "year": 2020,
+        "source": "top-1-teams-of-years",
+        "major": false,
+        "roster": [],
+        "summary": true
+      },
+      {
+        "id": "2020:tslmjonircup",
+        "title": "TSL Mjonir Cup",
+        "year": 2020,
+        "source": "top-1-teams-of-years",
+        "major": false,
+        "roster": [],
+        "summary": true
+      },
+      {
+        "id": "2020:tslnodus",
+        "title": "TSL Nodus",
+        "year": 2020,
+        "source": "top-1-teams-of-years",
+        "major": false,
+        "roster": [],
+        "summary": true
+      },
+      {
+        "id": "2020:tslrenovatedgameleague",
+        "title": "TSL Renovated Game League",
+        "year": 2020,
+        "source": "top-1-teams-of-years",
+        "major": false,
+        "roster": [],
+        "summary": true
+      }
+    ],
+    "members": [
+      {
+        "id": "adren",
+        "name": "AdreN",
+        "years": [
+          2020
+        ],
+        "sources": [
+          "top-1-teams-of-years"
+        ]
+      },
+      {
+        "id": "conjure",
+        "name": "c0njure",
+        "years": [
+          2020
+        ],
+        "sources": [
+          "top-1-teams-of-years"
+        ]
+      },
+      {
+        "id": "fugly",
+        "name": "FugLY",
+        "years": [
+          2020
+        ],
+        "sources": [
+          "top-1-teams-of-years"
+        ]
+      },
+      {
+        "id": "nescau",
+        "name": "Nescau",
+        "years": [
+          2020
+        ],
+        "sources": [
+          "top-1-teams-of-years"
+        ]
+      },
+      {
+        "id": "rn",
+        "name": "RN",
+        "years": [
+          2020
+        ],
+        "sources": [
+          "top-1-teams-of-years"
+        ]
+      },
+      {
+        "id": "ryota",
+        "name": "ry0ta",
+        "years": [
+          2020
+        ],
+        "sources": [
+          "top-1-teams-of-years"
+        ]
+      },
+      {
+        "id": "scream",
+        "name": "ScreaM",
+        "years": [
+          2020
+        ],
+        "sources": [
+          "top-1-teams-of-years"
+        ]
+      },
+      {
+        "id": "shelzz",
+        "name": "ShelzZ",
+        "years": [
+          2020
+        ],
+        "sources": [
+          "top-1-teams-of-years"
+        ]
+      },
+      {
+        "id": "zenn",
+        "name": "zenn",
+        "years": [
+          2020
+        ],
+        "sources": [
+          "top-1-teams-of-years"
+        ]
+      }
+    ],
+    "rankings": [
+      {
+        "year": 2020,
+        "rank": 1
+      }
+    ],
+    "logo": {
+      "src": "assets/archive/dfd80ec13b6069c38926.jpg",
+      "crop": {
+        "x": 0.02403846153846154,
+        "y": 0.029787234042553193,
+        "w": 0.1794871794871795,
+        "h": 0.15886524822695036
+      }
+    },
+    "searchAliases": [
+      "pentasports",
+      "penta",
+      "pentaesports",
+      "pnt"
     ]
   },
   {
@@ -8309,6 +8221,116 @@ window.HBSTV_TEAMS = [
     "searchAliases": []
   },
   {
+    "id": "chaos2020",
+    "name": "CHAOS 2020",
+    "aliases": [
+      "CHAOS 2020"
+    ],
+    "titles": [
+      {
+        "id": "2020:tslcbbs40",
+        "title": "TSL | CBBS 4.0 2020",
+        "year": 2020,
+        "source": "owner-confirmed",
+        "sourceNote": "Título da TSL CBBS 4.0 e elenco da CHAOS 2020 confirmados pelo responsável pelo site.",
+        "manual": true,
+        "major": false,
+        "roster": [
+          "Bale",
+          "Force",
+          "iNovate",
+          "Oskar",
+          "Scuba",
+          "SpinarD",
+          "zMAT"
+        ]
+      }
+    ],
+    "members": [
+      {
+        "id": "bale",
+        "name": "Bale",
+        "years": [
+          2020
+        ],
+        "sources": [
+          "Título da TSL CBBS 4.0 e elenco da CHAOS 2020 confirmados pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "force",
+        "name": "Force",
+        "years": [
+          2020
+        ],
+        "sources": [
+          "Título da TSL CBBS 4.0 e elenco da CHAOS 2020 confirmados pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "inovate",
+        "name": "iNovate",
+        "years": [
+          2020
+        ],
+        "sources": [
+          "Título da TSL CBBS 4.0 e elenco da CHAOS 2020 confirmados pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "oskar",
+        "name": "Oskar",
+        "years": [
+          2020
+        ],
+        "sources": [
+          "Título da TSL CBBS 4.0 e elenco da CHAOS 2020 confirmados pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "scuba",
+        "name": "Scuba",
+        "years": [
+          2020
+        ],
+        "sources": [
+          "Título da TSL CBBS 4.0 e elenco da CHAOS 2020 confirmados pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "spinard",
+        "name": "SpinarD",
+        "years": [
+          2020
+        ],
+        "sources": [
+          "Título da TSL CBBS 4.0 e elenco da CHAOS 2020 confirmados pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "zmat",
+        "name": "zMAT",
+        "years": [
+          2020
+        ],
+        "sources": [
+          "Título da TSL CBBS 4.0 e elenco da CHAOS 2020 confirmados pelo responsável pelo site."
+        ]
+      }
+    ],
+    "rankings": [],
+    "searchAliases": [],
+    "logo": {
+      "src": "assets/archive/1820aa6462d811fec48e.jpg",
+      "crop": {
+        "x": 0.043689320388349516,
+        "y": 0.03463203463203463,
+        "w": 0.1766990291262136,
+        "h": 0.15757575757575756
+      }
+    }
+  },
+  {
     "id": "csl",
     "name": "CSL",
     "aliases": [
@@ -8993,6 +9015,123 @@ window.HBSTV_TEAMS = [
         "y": 0,
         "w": 1,
         "h": 1
+      }
+    }
+  },
+  {
+    "id": "pentaesports2018",
+    "name": "PENTA eSports 2018",
+    "aliases": [
+      "PENTA eSports 2018"
+    ],
+    "titles": [
+      {
+        "id": "2018:tslproleague",
+        "title": "TSL | PRO LEAGUE",
+        "year": 2018,
+        "source": "owner-confirmed",
+        "sourceNote": "Título e escalação informados pelo responsável pelo site.",
+        "manual": true,
+        "major": false,
+        "roster": [
+          "ShelzZ",
+          "4KKp",
+          "StronG",
+          "Pasha",
+          "KNS",
+          "SoniC",
+          "PaiN"
+        ]
+      }
+    ],
+    "members": [
+      {
+        "id": "4kkp",
+        "name": "4KKp",
+        "years": [
+          2018
+        ],
+        "sources": [
+          "Elenco da PENTA SPORTS na TSL Pro League 2018 informado pelo responsável pelo site.",
+          "Título e escalação informados pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "kns",
+        "name": "KNS",
+        "years": [
+          2018
+        ],
+        "sources": [
+          "Elenco da PENTA SPORTS na TSL Pro League 2018 informado pelo responsável pelo site.",
+          "Título e escalação informados pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "pain",
+        "name": "PaiN",
+        "years": [
+          2018
+        ],
+        "sources": [
+          "Elenco da PENTA SPORTS na TSL Pro League 2018 informado pelo responsável pelo site.",
+          "Título e escalação informados pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "pasha",
+        "name": "Pasha",
+        "years": [
+          2018
+        ],
+        "sources": [
+          "Elenco da PENTA SPORTS na TSL Pro League 2018 informado pelo responsável pelo site.",
+          "Título e escalação informados pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "shelzz",
+        "name": "ShelzZ",
+        "years": [
+          2018
+        ],
+        "sources": [
+          "Elenco da PENTA SPORTS na TSL Pro League 2018 informado pelo responsável pelo site.",
+          "Título e escalação informados pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "sonic",
+        "name": "SoniC",
+        "years": [
+          2018
+        ],
+        "sources": [
+          "Elenco da PENTA SPORTS na TSL Pro League 2018 informado pelo responsável pelo site.",
+          "Título e escalação informados pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "strong",
+        "name": "StronG",
+        "years": [
+          2018
+        ],
+        "sources": [
+          "Elenco da PENTA SPORTS na TSL Pro League 2018 informado pelo responsável pelo site.",
+          "Título e escalação informados pelo responsável pelo site."
+        ]
+      }
+    ],
+    "rankings": [],
+    "searchAliases": [],
+    "logo": {
+      "src": "assets/archive/dfd80ec13b6069c38926.jpg",
+      "crop": {
+        "x": 0.02403846153846154,
+        "y": 0.029787234042553193,
+        "w": 0.1794871794871795,
+        "h": 0.15886524822695036
       }
     }
   },
@@ -10020,97 +10159,6 @@ window.HBSTV_TEAMS = [
     ],
     "rankings": [],
     "searchAliases": []
-  },
-  {
-    "id": "chaos2020",
-    "name": "CHAOS 2020",
-    "aliases": [
-      "CHAOS 2020"
-    ],
-    "titles": [],
-    "members": [
-      {
-        "id": "bale",
-        "name": "Bale",
-        "years": [
-          2020
-        ],
-        "sources": [
-          "Elenco da CHAOS 2020 confirmado pelo responsável pelo site."
-        ]
-      },
-      {
-        "id": "force",
-        "name": "Force",
-        "years": [
-          2020
-        ],
-        "sources": [
-          "Elenco da CHAOS 2020 confirmado pelo responsável pelo site."
-        ]
-      },
-      {
-        "id": "inovate",
-        "name": "iNovate",
-        "years": [
-          2020
-        ],
-        "sources": [
-          "Elenco da CHAOS 2020 confirmado pelo responsável pelo site."
-        ]
-      },
-      {
-        "id": "oskar",
-        "name": "Oskar",
-        "years": [
-          2020
-        ],
-        "sources": [
-          "Elenco da CHAOS 2020 confirmado pelo responsável pelo site."
-        ]
-      },
-      {
-        "id": "scuba",
-        "name": "Scuba",
-        "years": [
-          2020
-        ],
-        "sources": [
-          "Elenco da CHAOS 2020 confirmado pelo responsável pelo site."
-        ]
-      },
-      {
-        "id": "spinard",
-        "name": "SpinarD",
-        "years": [
-          2020
-        ],
-        "sources": [
-          "Elenco da CHAOS 2020 confirmado pelo responsável pelo site."
-        ]
-      },
-      {
-        "id": "zmat",
-        "name": "zMAT",
-        "years": [
-          2020
-        ],
-        "sources": [
-          "Elenco da CHAOS 2020 confirmado pelo responsável pelo site."
-        ]
-      }
-    ],
-    "rankings": [],
-    "searchAliases": [],
-    "logo": {
-      "src": "assets/archive/1820aa6462d811fec48e.jpg",
-      "crop": {
-        "x": 0.043689320388349516,
-        "y": 0.03463203463203463,
-        "w": 0.1766990291262136,
-        "h": 0.15757575757575756
-      }
-    }
   },
   {
     "id": "crazyshadows",

@@ -568,10 +568,10 @@ window.HBSTV_PLAYER_INDEX = {
     },
     {
       "id": "4kkp",
-      "name": "4KKp",
+      "name": "4kkp",
       "aliases": [
-        "4KKp",
         "4kkp",
+        "4KKp",
         "4Kpp"
       ],
       "realNames": [],
@@ -591,15 +591,15 @@ window.HBSTV_PLAYER_INDEX = {
           ]
         },
         {
-          "id": "pentaesports",
-          "name": "PENTA eSports",
+          "id": "razer",
+          "name": "RAZER",
           "years": [
             2018
           ]
         },
         {
-          "id": "razer",
-          "name": "RAZER",
+          "id": "pentaesports2018",
+          "name": "PENTA eSports 2018",
           "years": [
             2018
           ]
@@ -628,15 +628,6 @@ window.HBSTV_PLAYER_INDEX = {
       ],
       "titles": [
         {
-          "id": "2018:tslproleague",
-          "title": "TSL | PRO LEAGUE",
-          "year": 2018,
-          "teamId": "pentaesports",
-          "team": "PENTA eSports",
-          "major": false,
-          "source": "owner-confirmed"
-        },
-        {
           "id": "major:ba4b48dba7cb6e5526a7",
           "title": "TSL | MAJOR PREMIERE",
           "year": 2018,
@@ -644,6 +635,15 @@ window.HBSTV_PLAYER_INDEX = {
           "team": "RAZER",
           "major": true,
           "source": "major-history"
+        },
+        {
+          "id": "2018:tslproleague",
+          "title": "TSL | PRO LEAGUE",
+          "year": 2018,
+          "teamId": "pentaesports2018",
+          "team": "PENTA eSports 2018",
+          "major": false,
+          "source": "owner-confirmed"
         },
         {
           "id": "2017:tslmajorcup",
@@ -1636,6 +1636,15 @@ window.HBSTV_PLAYER_INDEX = {
           "year": 2020,
           "teamId": "vanx",
           "team": "VANX",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:tslcbbs40",
+          "title": "TSL | CBBS 4.0 2020",
+          "year": 2020,
+          "teamId": "chaos2020",
+          "team": "CHAOS 2020",
           "major": false,
           "source": "owner-confirmed"
         }
@@ -4138,6 +4147,15 @@ window.HBSTV_PLAYER_INDEX = {
           "team": "VANX",
           "major": false,
           "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:tslcbbs40",
+          "title": "TSL | CBBS 4.0 2020",
+          "year": 2020,
+          "teamId": "chaos2020",
+          "team": "CHAOS 2020",
+          "major": false,
+          "source": "owner-confirmed"
         }
       ],
       "mvps": [],
@@ -5365,6 +5383,15 @@ window.HBSTV_PLAYER_INDEX = {
           "team": "VANX",
           "major": false,
           "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:tslcbbs40",
+          "title": "TSL | CBBS 4.0 2020",
+          "year": 2020,
+          "teamId": "chaos2020",
+          "team": "CHAOS 2020",
+          "major": false,
+          "source": "owner-confirmed"
         }
       ],
       "mvps": [],
@@ -6331,38 +6358,29 @@ window.HBSTV_PLAYER_INDEX = {
     },
     {
       "id": "kns",
-      "name": "KNS",
+      "name": "Kns",
       "aliases": [
-        "KNS",
-        "Kns"
+        "Kns",
+        "KNS"
       ],
       "realNames": [],
       "teams": [
-        {
-          "id": "pentaesports",
-          "name": "PENTA eSports",
-          "years": [
-            2018
-          ]
-        },
         {
           "id": "razer",
           "name": "RAZER",
           "years": [
             2018
           ]
+        },
+        {
+          "id": "pentaesports2018",
+          "name": "PENTA eSports 2018",
+          "years": [
+            2018
+          ]
         }
       ],
       "titles": [
-        {
-          "id": "2018:tslproleague",
-          "title": "TSL | PRO LEAGUE",
-          "year": 2018,
-          "teamId": "pentaesports",
-          "team": "PENTA eSports",
-          "major": false,
-          "source": "owner-confirmed"
-        },
         {
           "id": "major:ba4b48dba7cb6e5526a7",
           "title": "TSL | MAJOR PREMIERE",
@@ -6371,6 +6389,15 @@ window.HBSTV_PLAYER_INDEX = {
           "team": "RAZER",
           "major": true,
           "source": "major-history"
+        },
+        {
+          "id": "2018:tslproleague",
+          "title": "TSL | PRO LEAGUE",
+          "year": 2018,
+          "teamId": "pentaesports2018",
+          "team": "PENTA eSports 2018",
+          "major": false,
+          "source": "owner-confirmed"
         }
       ],
       "mvps": [],
@@ -8760,6 +8787,15 @@ window.HBSTV_PLAYER_INDEX = {
           "team": "VANX",
           "major": false,
           "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:tslcbbs40",
+          "title": "TSL | CBBS 4.0 2020",
+          "year": 2020,
+          "teamId": "chaos2020",
+          "team": "CHAOS 2020",
+          "major": false,
+          "source": "owner-confirmed"
         }
       ],
       "mvps": [
@@ -9046,8 +9082,8 @@ window.HBSTV_PLAYER_INDEX = {
       "realNames": [],
       "teams": [
         {
-          "id": "pentaesports",
-          "name": "PENTA eSports",
+          "id": "pentaesports2018",
+          "name": "PENTA eSports 2018",
           "years": [
             2018
           ]
@@ -9058,8 +9094,8 @@ window.HBSTV_PLAYER_INDEX = {
           "id": "2018:tslproleague",
           "title": "TSL | PRO LEAGUE",
           "year": 2018,
-          "teamId": "pentaesports",
-          "team": "PENTA eSports",
+          "teamId": "pentaesports2018",
+          "team": "PENTA eSports 2018",
           "major": false,
           "source": "owner-confirmed"
         }
@@ -9132,30 +9168,21 @@ window.HBSTV_PLAYER_INDEX = {
       "realNames": [],
       "teams": [
         {
-          "id": "pentaesports",
-          "name": "PENTA eSports",
+          "id": "razer",
+          "name": "RAZER",
           "years": [
             2018
           ]
         },
         {
-          "id": "razer",
-          "name": "RAZER",
+          "id": "pentaesports2018",
+          "name": "PENTA eSports 2018",
           "years": [
             2018
           ]
         }
       ],
       "titles": [
-        {
-          "id": "2018:tslproleague",
-          "title": "TSL | PRO LEAGUE",
-          "year": 2018,
-          "teamId": "pentaesports",
-          "team": "PENTA eSports",
-          "major": false,
-          "source": "owner-confirmed"
-        },
         {
           "id": "major:ba4b48dba7cb6e5526a7",
           "title": "TSL | MAJOR PREMIERE",
@@ -9164,6 +9191,15 @@ window.HBSTV_PLAYER_INDEX = {
           "team": "RAZER",
           "major": true,
           "source": "major-history"
+        },
+        {
+          "id": "2018:tslproleague",
+          "title": "TSL | PRO LEAGUE",
+          "year": 2018,
+          "teamId": "pentaesports2018",
+          "team": "PENTA eSports 2018",
+          "major": false,
+          "source": "owner-confirmed"
         }
       ],
       "mvps": [],
@@ -11206,6 +11242,15 @@ window.HBSTV_PLAYER_INDEX = {
           "team": "ASTRALIS",
           "major": true,
           "source": "major-history"
+        },
+        {
+          "id": "2020:tslcbbs40",
+          "title": "TSL | CBBS 4.0 2020",
+          "year": 2020,
+          "teamId": "chaos2020",
+          "team": "CHAOS 2020",
+          "major": false,
+          "source": "owner-confirmed"
         }
       ],
       "mvps": [],
@@ -11492,13 +11537,19 @@ window.HBSTV_PLAYER_INDEX = {
           "id": "pentaesports",
           "name": "PENTA eSports",
           "years": [
-            2020,
-            2018
+            2020
           ]
         },
         {
           "id": "razer",
           "name": "RAZER",
+          "years": [
+            2018
+          ]
+        },
+        {
+          "id": "pentaesports2018",
+          "name": "PENTA eSports 2018",
           "years": [
             2018
           ]
@@ -11565,15 +11616,6 @@ window.HBSTV_PLAYER_INDEX = {
           "source": "major-history"
         },
         {
-          "id": "2018:tslproleague",
-          "title": "TSL | PRO LEAGUE",
-          "year": 2018,
-          "teamId": "pentaesports",
-          "team": "PENTA eSports",
-          "major": false,
-          "source": "owner-confirmed"
-        },
-        {
           "id": "major:ba4b48dba7cb6e5526a7",
           "title": "TSL | MAJOR PREMIERE",
           "year": 2018,
@@ -11581,6 +11623,15 @@ window.HBSTV_PLAYER_INDEX = {
           "team": "RAZER",
           "major": true,
           "source": "major-history"
+        },
+        {
+          "id": "2018:tslproleague",
+          "title": "TSL | PRO LEAGUE",
+          "year": 2018,
+          "teamId": "pentaesports2018",
+          "team": "PENTA eSports 2018",
+          "major": false,
+          "source": "owner-confirmed"
         },
         {
           "id": "2017:tslmajorcup",
@@ -11888,8 +11939,8 @@ window.HBSTV_PLAYER_INDEX = {
       "realNames": [],
       "teams": [
         {
-          "id": "pentaesports",
-          "name": "PENTA eSports",
+          "id": "pentaesports2018",
+          "name": "PENTA eSports 2018",
           "years": [
             2018
           ]
@@ -11900,8 +11951,8 @@ window.HBSTV_PLAYER_INDEX = {
           "id": "2018:tslproleague",
           "title": "TSL | PRO LEAGUE",
           "year": 2018,
-          "teamId": "pentaesports",
-          "team": "PENTA eSports",
+          "teamId": "pentaesports2018",
+          "team": "PENTA eSports 2018",
           "major": false,
           "source": "owner-confirmed"
         }
@@ -11972,6 +12023,15 @@ window.HBSTV_PLAYER_INDEX = {
           "team": "VANX",
           "major": false,
           "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:tslcbbs40",
+          "title": "TSL | CBBS 4.0 2020",
+          "year": 2020,
+          "teamId": "chaos2020",
+          "team": "CHAOS 2020",
+          "major": false,
+          "source": "owner-confirmed"
         }
       ],
       "mvps": [],
@@ -12005,15 +12065,15 @@ window.HBSTV_PLAYER_INDEX = {
       "realNames": [],
       "teams": [
         {
-          "id": "pentaesports",
-          "name": "PENTA eSports",
+          "id": "razer",
+          "name": "RAZER",
           "years": [
             2018
           ]
         },
         {
-          "id": "razer",
-          "name": "RAZER",
+          "id": "pentaesports2018",
+          "name": "PENTA eSports 2018",
           "years": [
             2018
           ]
@@ -12033,15 +12093,6 @@ window.HBSTV_PLAYER_INDEX = {
       ],
       "titles": [
         {
-          "id": "2018:tslproleague",
-          "title": "TSL | PRO LEAGUE",
-          "year": 2018,
-          "teamId": "pentaesports",
-          "team": "PENTA eSports",
-          "major": false,
-          "source": "owner-confirmed"
-        },
-        {
           "id": "major:ba4b48dba7cb6e5526a7",
           "title": "TSL | MAJOR PREMIERE",
           "year": 2018,
@@ -12049,6 +12100,15 @@ window.HBSTV_PLAYER_INDEX = {
           "team": "RAZER",
           "major": true,
           "source": "major-history"
+        },
+        {
+          "id": "2018:tslproleague",
+          "title": "TSL | PRO LEAGUE",
+          "year": 2018,
+          "teamId": "pentaesports2018",
+          "team": "PENTA eSports 2018",
+          "major": false,
+          "source": "owner-confirmed"
         }
       ],
       "mvps": [
@@ -14872,6 +14932,15 @@ window.HBSTV_PLAYER_INDEX = {
           "year": 2020,
           "teamId": "vanx",
           "team": "VANX",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:tslcbbs40",
+          "title": "TSL | CBBS 4.0 2020",
+          "year": 2020,
+          "teamId": "chaos2020",
+          "team": "CHAOS 2020",
           "major": false,
           "source": "owner-confirmed"
         }

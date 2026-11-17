@@ -23,7 +23,9 @@
   {
     "team": "CHAOS 2020",
     "year": 2020,
-    "titles": [],
+    "titles": [
+      "TSL | CBBS 4.0 2020"
+    ],
     "players": [
       "Bale",
       "Force",
@@ -33,7 +35,7 @@
       "SpinarD",
       "zMAT"
     ],
-    "source": "Elenco da CHAOS 2020 confirmado pelo responsável pelo site.",
+    "source": "Título da TSL CBBS 4.0 e elenco da CHAOS 2020 confirmados pelo responsável pelo site.",
     "rosterConfirmed": true
   },
   {
@@ -120,7 +122,7 @@
     "source": "Campeã e escalação confirmadas pelo responsável pelo site."
   },
   {
-    "team": "PENTA SPORTS",
+    "team": "PENTA eSports 2018",
     "year": 2018,
     "titles": [
       "TSL | PRO LEAGUE"
