@@ -9664,8 +9664,129 @@ window.HBSTV_TEAMS = [
     "searchAliases": []
   },
   {
-    "id": "selecaobr",
-    "name": "SELEÇÃO BR",
+    "id": "selecaobr2018",
+    "name": "SELEÇÃO BR 2018",
+    "aliases": [
+      "SELEÇÃO BR"
+    ],
+    "titles": [
+      {
+        "id": "2018:tslmundial",
+        "title": "TSL | MUNDIAL 2018",
+        "year": 2018,
+        "source": "owner-confirmed",
+        "sourceNote": "Campeã e elenco da TSL Mundial 2018 confirmados pelo responsável pelo site.",
+        "manual": true,
+        "major": false,
+        "roster": [
+          "ShelzZ",
+          "4i20",
+          "StronG",
+          "Pasha",
+          "Fabri",
+          "Hardzera",
+          "Kmblack",
+          "Andr3"
+        ]
+      }
+    ],
+    "members": [
+      {
+        "id": "4i2o",
+        "name": "4i20",
+        "years": [
+          2018
+        ],
+        "sources": [
+          "Campeã e elenco da TSL Mundial 2018 confirmados pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "andr3",
+        "name": "Andr3",
+        "years": [
+          2018
+        ],
+        "sources": [
+          "Campeã e elenco da TSL Mundial 2018 confirmados pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "fabri",
+        "name": "Fabri",
+        "years": [
+          2018
+        ],
+        "sources": [
+          "Campeã e elenco da TSL Mundial 2018 confirmados pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "hardzera",
+        "name": "Hardzera",
+        "years": [
+          2018
+        ],
+        "sources": [
+          "Campeã e elenco da TSL Mundial 2018 confirmados pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "kmblack",
+        "name": "Kmblack",
+        "years": [
+          2018
+        ],
+        "sources": [
+          "Campeã e elenco da TSL Mundial 2018 confirmados pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "pasha",
+        "name": "Pasha",
+        "years": [
+          2018
+        ],
+        "sources": [
+          "Campeã e elenco da TSL Mundial 2018 confirmados pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "shelzz",
+        "name": "ShelzZ",
+        "years": [
+          2018
+        ],
+        "sources": [
+          "Campeã e elenco da TSL Mundial 2018 confirmados pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "strong",
+        "name": "StronG",
+        "years": [
+          2018
+        ],
+        "sources": [
+          "Campeã e elenco da TSL Mundial 2018 confirmados pelo responsável pelo site."
+        ]
+      }
+    ],
+    "rankings": [],
+    "searchAliases": [],
+    "logo": {
+      "src": "assets/selecao-br-logo.png",
+      "crop": {
+        "x": 0,
+        "y": 0,
+        "w": 1,
+        "h": 1
+      }
+    }
+  },
+  {
+    "id": "selecaobr2020",
+    "name": "SELEÇÃO BR 2020",
     "aliases": [
       "SELEÇÃO BR"
     ],
@@ -9758,6 +9879,94 @@ window.HBSTV_TEAMS = [
         ],
         "sources": [
           "Campeã e elenco da TSL Mundial 2020 confirmados pelo responsável pelo site."
+        ]
+      }
+    ],
+    "rankings": [],
+    "searchAliases": [],
+    "logo": {
+      "src": "assets/selecao-br-logo.png",
+      "crop": {
+        "x": 0,
+        "y": 0,
+        "w": 1,
+        "h": 1
+      }
+    }
+  },
+  {
+    "id": "selecaobr2021",
+    "name": "SELEÇÃO BR 2021",
+    "aliases": [
+      "SELEÇÃO BR"
+    ],
+    "titles": [
+      {
+        "id": "2021:mundial",
+        "title": "MUNDIAL 2021",
+        "year": 2021,
+        "source": "owner-confirmed",
+        "sourceNote": "Campeã e elenco do Mundial 2021 confirmados pelo responsável pelo site; torneio sem vínculo com a TSL.",
+        "manual": true,
+        "major": false,
+        "roster": [
+          "RN",
+          "Mary",
+          "Roggers",
+          "ScreaM",
+          "ry0ta"
+        ]
+      }
+    ],
+    "members": [
+      {
+        "id": "mary",
+        "name": "Mary",
+        "years": [
+          2021
+        ],
+        "sources": [
+          "Campeã e elenco do Mundial 2021 confirmados pelo responsável pelo site; torneio sem vínculo com a TSL."
+        ]
+      },
+      {
+        "id": "rn",
+        "name": "RN",
+        "years": [
+          2021
+        ],
+        "sources": [
+          "Campeã e elenco do Mundial 2021 confirmados pelo responsável pelo site; torneio sem vínculo com a TSL."
+        ]
+      },
+      {
+        "id": "roggers",
+        "name": "Roggers",
+        "years": [
+          2021
+        ],
+        "sources": [
+          "Campeã e elenco do Mundial 2021 confirmados pelo responsável pelo site; torneio sem vínculo com a TSL."
+        ]
+      },
+      {
+        "id": "ryota",
+        "name": "ry0ta",
+        "years": [
+          2021
+        ],
+        "sources": [
+          "Campeã e elenco do Mundial 2021 confirmados pelo responsável pelo site; torneio sem vínculo com a TSL."
+        ]
+      },
+      {
+        "id": "scream",
+        "name": "ScreaM",
+        "years": [
+          2021
+        ],
+        "sources": [
+          "Campeã e elenco do Mundial 2021 confirmados pelo responsável pelo site; torneio sem vínculo com a TSL."
         ]
       }
     ],

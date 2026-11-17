@@ -132,6 +132,13 @@ window.HBSTV_DATABASE = {
           ]
         },
         {
+          "id": "selecaobr2018",
+          "name": "SELEÇÃO BR 2018",
+          "years": [
+            2018
+          ]
+        },
+        {
           "id": "pir4tas",
           "name": "PIR4TAS",
           "years": [
@@ -283,6 +290,15 @@ window.HBSTV_DATABASE = {
           "team": "RAZER",
           "major": true,
           "source": "major-history"
+        },
+        {
+          "id": "2018:tslmundial",
+          "title": "TSL | MUNDIAL 2018",
+          "year": 2018,
+          "teamId": "selecaobr2018",
+          "team": "SELEÇÃO BR 2018",
+          "major": false,
+          "source": "owner-confirmed"
         },
         {
           "id": "2017:tslmajorcup",
@@ -563,8 +579,8 @@ window.HBSTV_DATABASE = {
           "source": "hall-of-fame"
         },
         {
-          "id": "hof:2018:TSL:mundial",
-          "title": "TSL I MUNDIAL 2018",
+          "id": "2018:tslmundial",
+          "title": "TSL | MUNDIAL 2018",
           "year": 2018,
           "organizer": "TSL",
           "major": false,
@@ -1961,8 +1977,26 @@ window.HBSTV_DATABASE = {
         "Andr3"
       ],
       "realNames": [],
-      "teams": [],
-      "titles": [],
+      "teams": [
+        {
+          "id": "selecaobr2018",
+          "name": "SELEÇÃO BR 2018",
+          "years": [
+            2018
+          ]
+        }
+      ],
+      "titles": [
+        {
+          "id": "2018:tslmundial",
+          "title": "TSL | MUNDIAL 2018",
+          "year": 2018,
+          "teamId": "selecaobr2018",
+          "team": "SELEÇÃO BR 2018",
+          "major": false,
+          "source": "owner-confirmed"
+        }
+      ],
       "mvps": [],
       "evps": [],
       "rankings": [
@@ -3302,8 +3336,8 @@ window.HBSTV_DATABASE = {
           ]
         },
         {
-          "id": "selecaobr",
-          "name": "SELEÇÃO BR",
+          "id": "selecaobr2020",
+          "name": "SELEÇÃO BR 2020",
           "years": [
             2020
           ]
@@ -3311,6 +3345,13 @@ window.HBSTV_DATABASE = {
         {
           "id": "pentaesports",
           "name": "PENTA eSports",
+          "years": [
+            2020
+          ]
+        },
+        {
+          "id": "selecaobr2018",
+          "name": "SELEÇÃO BR 2018",
           "years": [
             2020
           ]
@@ -3411,8 +3452,8 @@ window.HBSTV_DATABASE = {
           "id": "2020:tslmundial",
           "title": "TSL | MUNDIAL 2020",
           "year": 2020,
-          "teamId": "selecaobr",
-          "team": "SELEÇÃO BR",
+          "teamId": "selecaobr2020",
+          "team": "SELEÇÃO BR 2020",
           "major": false,
           "source": "owner-confirmed"
         }
@@ -5043,6 +5084,13 @@ window.HBSTV_DATABASE = {
           ]
         },
         {
+          "id": "selecaobr2018",
+          "name": "SELEÇÃO BR 2018",
+          "years": [
+            2018
+          ]
+        },
+        {
           "id": "razer",
           "name": "RAZER",
           "years": [
@@ -5148,6 +5196,15 @@ window.HBSTV_DATABASE = {
           "teamId": "razer",
           "team": "RAZER",
           "major": true,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2018:tslmundial",
+          "title": "TSL | MUNDIAL 2018",
+          "year": 2018,
+          "teamId": "selecaobr2018",
+          "team": "SELEÇÃO BR 2018",
+          "major": false,
           "source": "owner-confirmed"
         }
       ],
@@ -5822,8 +5879,15 @@ window.HBSTV_DATABASE = {
           ]
         },
         {
-          "id": "selecaobr",
-          "name": "SELEÇÃO BR",
+          "id": "selecaobr2020",
+          "name": "SELEÇÃO BR 2020",
+          "years": [
+            2020
+          ]
+        },
+        {
+          "id": "selecaobr2018",
+          "name": "SELEÇÃO BR 2018",
           "years": [
             2020
           ]
@@ -5879,8 +5943,8 @@ window.HBSTV_DATABASE = {
           "id": "2020:tslmundial",
           "title": "TSL | MUNDIAL 2020",
           "year": 2020,
-          "teamId": "selecaobr",
-          "team": "SELEÇÃO BR",
+          "teamId": "selecaobr2020",
+          "team": "SELEÇÃO BR 2020",
           "major": false,
           "source": "owner-confirmed"
         }
@@ -6951,6 +7015,13 @@ window.HBSTV_DATABASE = {
           ]
         },
         {
+          "id": "selecaobr2018",
+          "name": "SELEÇÃO BR 2018",
+          "years": [
+            2018
+          ]
+        },
+        {
           "id": "stompatopteam",
           "name": "STOMPA TOP TEAM",
           "years": [
@@ -7015,6 +7086,15 @@ window.HBSTV_DATABASE = {
           "year": 2018,
           "teamId": "stompatopteam",
           "team": "STOMPA TOP TEAM",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2018:tslmundial",
+          "title": "TSL | MUNDIAL 2018",
+          "year": 2018,
+          "teamId": "selecaobr2018",
+          "team": "SELEÇÃO BR 2018",
           "major": false,
           "source": "owner-confirmed"
         }
@@ -7096,7 +7176,7 @@ window.HBSTV_DATABASE = {
           "source": "hall-of-fame"
         },
         {
-          "id": "hof:2018:TSL:mundial",
+          "id": "2018:tslmundial",
           "title": "TSL | MUNDIAL 2018",
           "year": 2018,
           "organizer": "TSL",
@@ -8795,14 +8875,32 @@ window.HBSTV_DATABASE = {
     },
     {
       "id": "kmblack",
-      "name": "KMBLACK",
+      "name": "Kmblack",
       "aliases": [
-        "KMBLACK",
-        "Kmblack"
+        "Kmblack",
+        "KMBLACK"
       ],
       "realNames": [],
-      "teams": [],
-      "titles": [],
+      "teams": [
+        {
+          "id": "selecaobr2018",
+          "name": "SELEÇÃO BR 2018",
+          "years": [
+            2018
+          ]
+        }
+      ],
+      "titles": [
+        {
+          "id": "2018:tslmundial",
+          "title": "TSL | MUNDIAL 2018",
+          "year": 2018,
+          "teamId": "selecaobr2018",
+          "team": "SELEÇÃO BR 2018",
+          "major": false,
+          "source": "owner-confirmed"
+        }
+      ],
       "mvps": [],
       "evps": [
         {
@@ -9802,6 +9900,20 @@ window.HBSTV_DATABASE = {
             2022,
             2021
           ]
+        },
+        {
+          "id": "selecaobr2021",
+          "name": "SELEÇÃO BR 2021",
+          "years": [
+            2021
+          ]
+        },
+        {
+          "id": "selecaobr2018",
+          "name": "SELEÇÃO BR 2018",
+          "years": [
+            2021
+          ]
         }
       ],
       "titles": [
@@ -9829,6 +9941,15 @@ window.HBSTV_DATABASE = {
           "year": 2021,
           "teamId": "luvv",
           "team": "LUVV",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2021:mundial",
+          "title": "MUNDIAL 2021",
+          "year": 2021,
+          "teamId": "selecaobr2021",
+          "team": "SELEÇÃO BR 2021",
           "major": false,
           "source": "owner-confirmed"
         },
@@ -10889,8 +11010,8 @@ window.HBSTV_DATABASE = {
       ],
       "teams": [
         {
-          "id": "selecaobr",
-          "name": "SELEÇÃO BR",
+          "id": "selecaobr2020",
+          "name": "SELEÇÃO BR 2020",
           "years": [
             2020
           ]
@@ -10898,6 +11019,13 @@ window.HBSTV_DATABASE = {
         {
           "id": "pentaesports",
           "name": "PENTA eSports",
+          "years": [
+            2020
+          ]
+        },
+        {
+          "id": "selecaobr2018",
+          "name": "SELEÇÃO BR 2018",
           "years": [
             2020
           ]
@@ -10924,8 +11052,8 @@ window.HBSTV_DATABASE = {
           "id": "2020:tslmundial",
           "title": "TSL | MUNDIAL 2020",
           "year": 2020,
-          "teamId": "selecaobr",
-          "team": "SELEÇÃO BR",
+          "teamId": "selecaobr2020",
+          "team": "SELEÇÃO BR 2020",
           "major": false,
           "source": "owner-confirmed"
         }
@@ -12690,6 +12818,13 @@ window.HBSTV_DATABASE = {
           "years": [
             2018
           ]
+        },
+        {
+          "id": "selecaobr2018",
+          "name": "SELEÇÃO BR 2018",
+          "years": [
+            2018
+          ]
         }
       ],
       "titles": [
@@ -12701,6 +12836,15 @@ window.HBSTV_DATABASE = {
           "team": "RAZER",
           "major": true,
           "source": "major-history"
+        },
+        {
+          "id": "2018:tslmundial",
+          "title": "TSL | MUNDIAL 2018",
+          "year": 2018,
+          "teamId": "selecaobr2018",
+          "team": "SELEÇÃO BR 2018",
+          "major": false,
+          "source": "owner-confirmed"
         },
         {
           "id": "2018:tslproleague",
@@ -13661,8 +13805,23 @@ window.HBSTV_DATABASE = {
           ]
         },
         {
-          "id": "selecaobr",
-          "name": "SELEÇÃO BR",
+          "id": "selecaobr2021",
+          "name": "SELEÇÃO BR 2021",
+          "years": [
+            2021
+          ]
+        },
+        {
+          "id": "selecaobr2018",
+          "name": "SELEÇÃO BR 2018",
+          "years": [
+            2021,
+            2020
+          ]
+        },
+        {
+          "id": "selecaobr2020",
+          "name": "SELEÇÃO BR 2020",
           "years": [
             2020
           ]
@@ -13761,6 +13920,15 @@ window.HBSTV_DATABASE = {
           "source": "owner-confirmed"
         },
         {
+          "id": "2021:mundial",
+          "title": "MUNDIAL 2021",
+          "year": 2021,
+          "teamId": "selecaobr2021",
+          "team": "SELEÇÃO BR 2021",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
           "id": "2021:riseleaderssone",
           "title": "RISE LEADERS | SEASON ONE",
           "year": 2021,
@@ -13791,8 +13959,8 @@ window.HBSTV_DATABASE = {
           "id": "2020:tslmundial",
           "title": "TSL | MUNDIAL 2020",
           "year": 2020,
-          "teamId": "selecaobr",
-          "team": "SELEÇÃO BR",
+          "teamId": "selecaobr2020",
+          "team": "SELEÇÃO BR 2020",
           "major": false,
           "source": "owner-confirmed"
         },
@@ -14195,6 +14363,20 @@ window.HBSTV_DATABASE = {
           ]
         },
         {
+          "id": "selecaobr2021",
+          "name": "SELEÇÃO BR 2021",
+          "years": [
+            2021
+          ]
+        },
+        {
+          "id": "selecaobr2018",
+          "name": "SELEÇÃO BR 2018",
+          "years": [
+            2021
+          ]
+        },
+        {
           "id": "ibp",
           "name": "IBP",
           "years": [
@@ -14245,6 +14427,15 @@ window.HBSTV_DATABASE = {
           "year": 2021,
           "teamId": "luvv",
           "team": "LUVV",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2021:mundial",
+          "title": "MUNDIAL 2021",
+          "year": 2021,
+          "teamId": "selecaobr2021",
+          "team": "SELEÇÃO BR 2021",
           "major": false,
           "source": "owner-confirmed"
         },
@@ -14329,6 +14520,13 @@ window.HBSTV_DATABASE = {
           ]
         },
         {
+          "id": "selecaobr2021",
+          "name": "SELEÇÃO BR 2021",
+          "years": [
+            2021
+          ]
+        },
+        {
           "id": "ntc",
           "name": "NTC",
           "years": [
@@ -14336,8 +14534,16 @@ window.HBSTV_DATABASE = {
           ]
         },
         {
-          "id": "selecaobr",
-          "name": "SELEÇÃO BR",
+          "id": "selecaobr2018",
+          "name": "SELEÇÃO BR 2018",
+          "years": [
+            2021,
+            2020
+          ]
+        },
+        {
+          "id": "selecaobr2020",
+          "name": "SELEÇÃO BR 2020",
           "years": [
             2020
           ]
@@ -14359,6 +14565,15 @@ window.HBSTV_DATABASE = {
       ],
       "titles": [
         {
+          "id": "2021:mundial",
+          "title": "MUNDIAL 2021",
+          "year": 2021,
+          "teamId": "selecaobr2021",
+          "team": "SELEÇÃO BR 2021",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
           "id": "major:007759b02a7d7543b0a1",
           "title": "SUVOH | MAJOR",
           "year": 2021,
@@ -14371,8 +14586,8 @@ window.HBSTV_DATABASE = {
           "id": "2020:tslmundial",
           "title": "TSL | MUNDIAL 2020",
           "year": 2020,
-          "teamId": "selecaobr",
-          "team": "SELEÇÃO BR",
+          "teamId": "selecaobr2020",
+          "team": "SELEÇÃO BR 2020",
           "major": false,
           "source": "owner-confirmed"
         }
@@ -15265,6 +15480,13 @@ window.HBSTV_DATABASE = {
           ]
         },
         {
+          "id": "selecaobr2021",
+          "name": "SELEÇÃO BR 2021",
+          "years": [
+            2021
+          ]
+        },
+        {
           "id": "ntc",
           "name": "NTC",
           "years": [
@@ -15272,8 +15494,16 @@ window.HBSTV_DATABASE = {
           ]
         },
         {
-          "id": "selecaobr",
-          "name": "SELEÇÃO BR",
+          "id": "selecaobr2018",
+          "name": "SELEÇÃO BR 2018",
+          "years": [
+            2021,
+            2020
+          ]
+        },
+        {
+          "id": "selecaobr2020",
+          "name": "SELEÇÃO BR 2020",
           "years": [
             2020
           ]
@@ -15332,6 +15562,15 @@ window.HBSTV_DATABASE = {
           "source": "owner-confirmed"
         },
         {
+          "id": "2021:mundial",
+          "title": "MUNDIAL 2021",
+          "year": 2021,
+          "teamId": "selecaobr2021",
+          "team": "SELEÇÃO BR 2021",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
           "id": "major:007759b02a7d7543b0a1",
           "title": "SUVOH | MAJOR",
           "year": 2021,
@@ -15344,8 +15583,8 @@ window.HBSTV_DATABASE = {
           "id": "2020:tslmundial",
           "title": "TSL | MUNDIAL 2020",
           "year": 2020,
-          "teamId": "selecaobr",
-          "team": "SELEÇÃO BR",
+          "teamId": "selecaobr2020",
+          "team": "SELEÇÃO BR 2020",
           "major": false,
           "source": "owner-confirmed"
         }
@@ -15875,8 +16114,8 @@ window.HBSTV_DATABASE = {
           ]
         },
         {
-          "id": "selecaobr",
-          "name": "SELEÇÃO BR",
+          "id": "selecaobr2020",
+          "name": "SELEÇÃO BR 2020",
           "years": [
             2020
           ]
@@ -15884,6 +16123,13 @@ window.HBSTV_DATABASE = {
         {
           "id": "st",
           "name": "ST",
+          "years": [
+            2020
+          ]
+        },
+        {
+          "id": "selecaobr2018",
+          "name": "SELEÇÃO BR 2018",
           "years": [
             2020
           ]
@@ -15939,8 +16185,8 @@ window.HBSTV_DATABASE = {
           "id": "2020:tslmundial",
           "title": "TSL | MUNDIAL 2020",
           "year": 2020,
-          "teamId": "selecaobr",
-          "team": "SELEÇÃO BR",
+          "teamId": "selecaobr2020",
+          "team": "SELEÇÃO BR 2020",
           "major": false,
           "source": "owner-confirmed"
         },
@@ -16174,6 +16420,13 @@ window.HBSTV_DATABASE = {
           ]
         },
         {
+          "id": "selecaobr2018",
+          "name": "SELEÇÃO BR 2018",
+          "years": [
+            2018
+          ]
+        },
+        {
           "id": "pir4tas",
           "name": "PIR4TAS",
           "years": [
@@ -16242,6 +16495,15 @@ window.HBSTV_DATABASE = {
           "team": "RAZER",
           "major": true,
           "source": "major-history"
+        },
+        {
+          "id": "2018:tslmundial",
+          "title": "TSL | MUNDIAL 2018",
+          "year": 2018,
+          "teamId": "selecaobr2018",
+          "team": "SELEÇÃO BR 2018",
+          "major": false,
+          "source": "owner-confirmed"
         },
         {
           "id": "2018:tslproleague",
@@ -16394,7 +16656,7 @@ window.HBSTV_DATABASE = {
           "source": "hall-of-fame"
         },
         {
-          "id": "hof:2018:TSL:mundial",
+          "id": "2018:tslmundial",
           "title": "TSL | MUNDIAL 2018",
           "year": 2018,
           "organizer": "TSL",
@@ -17015,6 +17277,13 @@ window.HBSTV_DATABASE = {
           ]
         },
         {
+          "id": "selecaobr2018",
+          "name": "SELEÇÃO BR 2018",
+          "years": [
+            2018
+          ]
+        },
+        {
           "id": "yeah",
           "name": "YeaH",
           "years": [
@@ -17036,6 +17305,15 @@ window.HBSTV_DATABASE = {
           "team": "RAZER",
           "major": true,
           "source": "major-history"
+        },
+        {
+          "id": "2018:tslmundial",
+          "title": "TSL | MUNDIAL 2018",
+          "year": 2018,
+          "teamId": "selecaobr2018",
+          "team": "SELEÇÃO BR 2018",
+          "major": false,
+          "source": "owner-confirmed"
         },
         {
           "id": "2018:tslproleague",
@@ -17118,7 +17396,7 @@ window.HBSTV_DATABASE = {
           "source": "hall-of-fame"
         },
         {
-          "id": "hof:2018:TSL:mundial",
+          "id": "2018:tslmundial",
           "title": "TSL | MUNDIAL 2018",
           "year": 2018,
           "organizer": "TSL",
@@ -23316,6 +23594,32 @@ window.HBSTV_DATABASE = {
       }
     },
     {
+      "id": "2021:mundial",
+      "title": "MUNDIAL 2021",
+      "year": 2021,
+      "organizer": "Não informada",
+      "major": false,
+      "winners": [
+        "selecaobr2021"
+      ],
+      "roster": [
+        "rn",
+        "mary",
+        "roggers",
+        "scream",
+        "ryota"
+      ],
+      "mvps": [],
+      "evps": [],
+      "sources": [
+        "owner-confirmed"
+      ],
+      "notes": [
+        "Campeã e elenco do Mundial 2021 confirmados pelo responsável pelo site; torneio sem vínculo com a TSL."
+      ],
+      "images": []
+    },
+    {
       "id": "2021:pnlpeninsulacup",
       "title": "PNL | Peninsula Cup",
       "year": 2021,
@@ -24057,7 +24361,7 @@ window.HBSTV_DATABASE = {
       "organizer": "TSL",
       "major": false,
       "winners": [
-        "selecaobr"
+        "selecaobr2020"
       ],
       "roster": [
         "rn",
@@ -24744,6 +25048,35 @@ window.HBSTV_DATABASE = {
       "images": [
         "assets/archive/188f48896736e07cbe4d.jpeg"
       ]
+    },
+    {
+      "id": "2018:tslmundial",
+      "title": "TSL | MUNDIAL 2018",
+      "year": 2018,
+      "organizer": "TSL",
+      "major": false,
+      "winners": [
+        "selecaobr2018"
+      ],
+      "roster": [
+        "shelzz",
+        "4i2o",
+        "strong",
+        "pasha",
+        "fabri",
+        "hardzera",
+        "kmblack",
+        "andr3"
+      ],
+      "mvps": [],
+      "evps": [],
+      "sources": [
+        "owner-confirmed"
+      ],
+      "notes": [
+        "Campeã e elenco da TSL Mundial 2018 confirmados pelo responsável pelo site."
+      ],
+      "images": []
     },
     {
       "id": "2018:tslproleague",
@@ -34554,8 +34887,129 @@ window.HBSTV_DATABASE = {
       "searchAliases": []
     },
     {
-      "id": "selecaobr",
-      "name": "SELEÇÃO BR",
+      "id": "selecaobr2018",
+      "name": "SELEÇÃO BR 2018",
+      "aliases": [
+        "SELEÇÃO BR"
+      ],
+      "titles": [
+        {
+          "id": "2018:tslmundial",
+          "title": "TSL | MUNDIAL 2018",
+          "year": 2018,
+          "source": "owner-confirmed",
+          "sourceNote": "Campeã e elenco da TSL Mundial 2018 confirmados pelo responsável pelo site.",
+          "manual": true,
+          "major": false,
+          "roster": [
+            "ShelzZ",
+            "4i20",
+            "StronG",
+            "Pasha",
+            "Fabri",
+            "Hardzera",
+            "Kmblack",
+            "Andr3"
+          ]
+        }
+      ],
+      "members": [
+        {
+          "id": "4i2o",
+          "name": "4i20",
+          "years": [
+            2018
+          ],
+          "sources": [
+            "Campeã e elenco da TSL Mundial 2018 confirmados pelo responsável pelo site."
+          ]
+        },
+        {
+          "id": "andr3",
+          "name": "Andr3",
+          "years": [
+            2018
+          ],
+          "sources": [
+            "Campeã e elenco da TSL Mundial 2018 confirmados pelo responsável pelo site."
+          ]
+        },
+        {
+          "id": "fabri",
+          "name": "Fabri",
+          "years": [
+            2018
+          ],
+          "sources": [
+            "Campeã e elenco da TSL Mundial 2018 confirmados pelo responsável pelo site."
+          ]
+        },
+        {
+          "id": "hardzera",
+          "name": "Hardzera",
+          "years": [
+            2018
+          ],
+          "sources": [
+            "Campeã e elenco da TSL Mundial 2018 confirmados pelo responsável pelo site."
+          ]
+        },
+        {
+          "id": "kmblack",
+          "name": "Kmblack",
+          "years": [
+            2018
+          ],
+          "sources": [
+            "Campeã e elenco da TSL Mundial 2018 confirmados pelo responsável pelo site."
+          ]
+        },
+        {
+          "id": "pasha",
+          "name": "Pasha",
+          "years": [
+            2018
+          ],
+          "sources": [
+            "Campeã e elenco da TSL Mundial 2018 confirmados pelo responsável pelo site."
+          ]
+        },
+        {
+          "id": "shelzz",
+          "name": "ShelzZ",
+          "years": [
+            2018
+          ],
+          "sources": [
+            "Campeã e elenco da TSL Mundial 2018 confirmados pelo responsável pelo site."
+          ]
+        },
+        {
+          "id": "strong",
+          "name": "StronG",
+          "years": [
+            2018
+          ],
+          "sources": [
+            "Campeã e elenco da TSL Mundial 2018 confirmados pelo responsável pelo site."
+          ]
+        }
+      ],
+      "rankings": [],
+      "searchAliases": [],
+      "logo": {
+        "src": "assets/selecao-br-logo.png",
+        "crop": {
+          "x": 0,
+          "y": 0,
+          "w": 1,
+          "h": 1
+        }
+      }
+    },
+    {
+      "id": "selecaobr2020",
+      "name": "SELEÇÃO BR 2020",
       "aliases": [
         "SELEÇÃO BR"
       ],
@@ -34648,6 +35102,94 @@ window.HBSTV_DATABASE = {
           ],
           "sources": [
             "Campeã e elenco da TSL Mundial 2020 confirmados pelo responsável pelo site."
+          ]
+        }
+      ],
+      "rankings": [],
+      "searchAliases": [],
+      "logo": {
+        "src": "assets/selecao-br-logo.png",
+        "crop": {
+          "x": 0,
+          "y": 0,
+          "w": 1,
+          "h": 1
+        }
+      }
+    },
+    {
+      "id": "selecaobr2021",
+      "name": "SELEÇÃO BR 2021",
+      "aliases": [
+        "SELEÇÃO BR"
+      ],
+      "titles": [
+        {
+          "id": "2021:mundial",
+          "title": "MUNDIAL 2021",
+          "year": 2021,
+          "source": "owner-confirmed",
+          "sourceNote": "Campeã e elenco do Mundial 2021 confirmados pelo responsável pelo site; torneio sem vínculo com a TSL.",
+          "manual": true,
+          "major": false,
+          "roster": [
+            "RN",
+            "Mary",
+            "Roggers",
+            "ScreaM",
+            "ry0ta"
+          ]
+        }
+      ],
+      "members": [
+        {
+          "id": "mary",
+          "name": "Mary",
+          "years": [
+            2021
+          ],
+          "sources": [
+            "Campeã e elenco do Mundial 2021 confirmados pelo responsável pelo site; torneio sem vínculo com a TSL."
+          ]
+        },
+        {
+          "id": "rn",
+          "name": "RN",
+          "years": [
+            2021
+          ],
+          "sources": [
+            "Campeã e elenco do Mundial 2021 confirmados pelo responsável pelo site; torneio sem vínculo com a TSL."
+          ]
+        },
+        {
+          "id": "roggers",
+          "name": "Roggers",
+          "years": [
+            2021
+          ],
+          "sources": [
+            "Campeã e elenco do Mundial 2021 confirmados pelo responsável pelo site; torneio sem vínculo com a TSL."
+          ]
+        },
+        {
+          "id": "ryota",
+          "name": "ry0ta",
+          "years": [
+            2021
+          ],
+          "sources": [
+            "Campeã e elenco do Mundial 2021 confirmados pelo responsável pelo site; torneio sem vínculo com a TSL."
+          ]
+        },
+        {
+          "id": "scream",
+          "name": "ScreaM",
+          "years": [
+            2021
+          ],
+          "sources": [
+            "Campeã e elenco do Mundial 2021 confirmados pelo responsável pelo site; torneio sem vínculo com a TSL."
           ]
         }
       ],

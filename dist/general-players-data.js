@@ -177,6 +177,13 @@ window.HBSTV_PLAYER_INDEX = {
           ]
         },
         {
+          "id": "selecaobr2018",
+          "name": "SELEÇÃO BR 2018",
+          "years": [
+            2018
+          ]
+        },
+        {
           "id": "pir4tas",
           "name": "PIR4TAS",
           "years": [
@@ -328,6 +335,15 @@ window.HBSTV_PLAYER_INDEX = {
           "team": "RAZER",
           "major": true,
           "source": "major-history"
+        },
+        {
+          "id": "2018:tslmundial",
+          "title": "TSL | MUNDIAL 2018",
+          "year": 2018,
+          "teamId": "selecaobr2018",
+          "team": "SELEÇÃO BR 2018",
+          "major": false,
+          "source": "owner-confirmed"
         },
         {
           "id": "2017:tslmajorcup",
@@ -1336,8 +1352,26 @@ window.HBSTV_PLAYER_INDEX = {
         "Andr3"
       ],
       "realNames": [],
-      "teams": [],
-      "titles": [],
+      "teams": [
+        {
+          "id": "selecaobr2018",
+          "name": "SELEÇÃO BR 2018",
+          "years": [
+            2018
+          ]
+        }
+      ],
+      "titles": [
+        {
+          "id": "2018:tslmundial",
+          "title": "TSL | MUNDIAL 2018",
+          "year": 2018,
+          "teamId": "selecaobr2018",
+          "team": "SELEÇÃO BR 2018",
+          "major": false,
+          "source": "owner-confirmed"
+        }
+      ],
       "mvps": [],
       "evps": [],
       "rankings": [
@@ -2417,8 +2451,8 @@ window.HBSTV_PLAYER_INDEX = {
           ]
         },
         {
-          "id": "selecaobr",
-          "name": "SELEÇÃO BR",
+          "id": "selecaobr2020",
+          "name": "SELEÇÃO BR 2020",
           "years": [
             2020
           ]
@@ -2426,6 +2460,13 @@ window.HBSTV_PLAYER_INDEX = {
         {
           "id": "pentaesports",
           "name": "PENTA eSports",
+          "years": [
+            2020
+          ]
+        },
+        {
+          "id": "selecaobr2018",
+          "name": "SELEÇÃO BR 2018",
           "years": [
             2020
           ]
@@ -2526,8 +2567,8 @@ window.HBSTV_PLAYER_INDEX = {
           "id": "2020:tslmundial",
           "title": "TSL | MUNDIAL 2020",
           "year": 2020,
-          "teamId": "selecaobr",
-          "team": "SELEÇÃO BR",
+          "teamId": "selecaobr2020",
+          "team": "SELEÇÃO BR 2020",
           "major": false,
           "source": "owner-confirmed"
         }
@@ -3702,6 +3743,13 @@ window.HBSTV_PLAYER_INDEX = {
           ]
         },
         {
+          "id": "selecaobr2018",
+          "name": "SELEÇÃO BR 2018",
+          "years": [
+            2018
+          ]
+        },
+        {
           "id": "razer",
           "name": "RAZER",
           "years": [
@@ -3709,7 +3757,17 @@ window.HBSTV_PLAYER_INDEX = {
           ]
         }
       ],
-      "titles": [],
+      "titles": [
+        {
+          "id": "2018:tslmundial",
+          "title": "TSL | MUNDIAL 2018",
+          "year": 2018,
+          "teamId": "selecaobr2018",
+          "team": "SELEÇÃO BR 2018",
+          "major": false,
+          "source": "owner-confirmed"
+        }
+      ],
       "mvps": [],
       "evps": [
         {
@@ -4162,8 +4220,15 @@ window.HBSTV_PLAYER_INDEX = {
           ]
         },
         {
-          "id": "selecaobr",
-          "name": "SELEÇÃO BR",
+          "id": "selecaobr2020",
+          "name": "SELEÇÃO BR 2020",
+          "years": [
+            2020
+          ]
+        },
+        {
+          "id": "selecaobr2018",
+          "name": "SELEÇÃO BR 2018",
           "years": [
             2020
           ]
@@ -4219,8 +4284,8 @@ window.HBSTV_PLAYER_INDEX = {
           "id": "2020:tslmundial",
           "title": "TSL | MUNDIAL 2020",
           "year": 2020,
-          "teamId": "selecaobr",
-          "team": "SELEÇÃO BR",
+          "teamId": "selecaobr2020",
+          "team": "SELEÇÃO BR 2020",
           "major": false,
           "source": "owner-confirmed"
         }
@@ -4974,6 +5039,13 @@ window.HBSTV_PLAYER_INDEX = {
           ]
         },
         {
+          "id": "selecaobr2018",
+          "name": "SELEÇÃO BR 2018",
+          "years": [
+            2018
+          ]
+        },
+        {
           "id": "stompatopteam",
           "name": "STOMPA TOP TEAM",
           "years": [
@@ -5031,6 +5103,15 @@ window.HBSTV_PLAYER_INDEX = {
           "team": "D2W",
           "major": false,
           "source": "events-2024"
+        },
+        {
+          "id": "2018:tslmundial",
+          "title": "TSL | MUNDIAL 2018",
+          "year": 2018,
+          "teamId": "selecaobr2018",
+          "team": "SELEÇÃO BR 2018",
+          "major": false,
+          "source": "owner-confirmed"
         },
         {
           "id": "2018:tslcbbs20",
@@ -6283,14 +6364,32 @@ window.HBSTV_PLAYER_INDEX = {
     },
     {
       "id": "kmblack",
-      "name": "KMBLACK",
+      "name": "Kmblack",
       "aliases": [
-        "KMBLACK",
-        "Kmblack"
+        "Kmblack",
+        "KMBLACK"
       ],
       "realNames": [],
-      "teams": [],
-      "titles": [],
+      "teams": [
+        {
+          "id": "selecaobr2018",
+          "name": "SELEÇÃO BR 2018",
+          "years": [
+            2018
+          ]
+        }
+      ],
+      "titles": [
+        {
+          "id": "2018:tslmundial",
+          "title": "TSL | MUNDIAL 2018",
+          "year": 2018,
+          "teamId": "selecaobr2018",
+          "team": "SELEÇÃO BR 2018",
+          "major": false,
+          "source": "owner-confirmed"
+        }
+      ],
       "mvps": [],
       "evps": [
         {
@@ -7182,6 +7281,20 @@ window.HBSTV_PLAYER_INDEX = {
             2022,
             2021
           ]
+        },
+        {
+          "id": "selecaobr2021",
+          "name": "SELEÇÃO BR 2021",
+          "years": [
+            2021
+          ]
+        },
+        {
+          "id": "selecaobr2018",
+          "name": "SELEÇÃO BR 2018",
+          "years": [
+            2021
+          ]
         }
       ],
       "titles": [
@@ -7227,6 +7340,15 @@ window.HBSTV_PLAYER_INDEX = {
           "year": 2021,
           "teamId": "luvv",
           "team": "LUVV",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2021:mundial",
+          "title": "MUNDIAL 2021",
+          "year": 2021,
+          "teamId": "selecaobr2021",
+          "team": "SELEÇÃO BR 2021",
           "major": false,
           "source": "owner-confirmed"
         }
@@ -8076,8 +8198,8 @@ window.HBSTV_PLAYER_INDEX = {
       ],
       "teams": [
         {
-          "id": "selecaobr",
-          "name": "SELEÇÃO BR",
+          "id": "selecaobr2020",
+          "name": "SELEÇÃO BR 2020",
           "years": [
             2020
           ]
@@ -8088,6 +8210,13 @@ window.HBSTV_PLAYER_INDEX = {
           "years": [
             2020
           ]
+        },
+        {
+          "id": "selecaobr2018",
+          "name": "SELEÇÃO BR 2018",
+          "years": [
+            2020
+          ]
         }
       ],
       "titles": [
@@ -8095,8 +8224,8 @@ window.HBSTV_PLAYER_INDEX = {
           "id": "2020:tslmundial",
           "title": "TSL | MUNDIAL 2020",
           "year": 2020,
-          "teamId": "selecaobr",
-          "team": "SELEÇÃO BR",
+          "teamId": "selecaobr2020",
+          "team": "SELEÇÃO BR 2020",
           "major": false,
           "source": "owner-confirmed"
         }
@@ -9332,6 +9461,13 @@ window.HBSTV_PLAYER_INDEX = {
           "years": [
             2018
           ]
+        },
+        {
+          "id": "selecaobr2018",
+          "name": "SELEÇÃO BR 2018",
+          "years": [
+            2018
+          ]
         }
       ],
       "titles": [
@@ -9350,6 +9486,15 @@ window.HBSTV_PLAYER_INDEX = {
           "year": 2018,
           "teamId": "pentaesports2018",
           "team": "PENTA eSports 2018",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2018:tslmundial",
+          "title": "TSL | MUNDIAL 2018",
+          "year": 2018,
+          "teamId": "selecaobr2018",
+          "team": "SELEÇÃO BR 2018",
           "major": false,
           "source": "owner-confirmed"
         }
@@ -10206,8 +10351,23 @@ window.HBSTV_PLAYER_INDEX = {
           ]
         },
         {
-          "id": "selecaobr",
-          "name": "SELEÇÃO BR",
+          "id": "selecaobr2021",
+          "name": "SELEÇÃO BR 2021",
+          "years": [
+            2021
+          ]
+        },
+        {
+          "id": "selecaobr2018",
+          "name": "SELEÇÃO BR 2018",
+          "years": [
+            2021,
+            2020
+          ]
+        },
+        {
+          "id": "selecaobr2020",
+          "name": "SELEÇÃO BR 2020",
           "years": [
             2020
           ]
@@ -10317,11 +10477,20 @@ window.HBSTV_PLAYER_INDEX = {
           "source": "major-history"
         },
         {
+          "id": "2021:mundial",
+          "title": "MUNDIAL 2021",
+          "year": 2021,
+          "teamId": "selecaobr2021",
+          "team": "SELEÇÃO BR 2021",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
           "id": "2020:tslmundial",
           "title": "TSL | MUNDIAL 2020",
           "year": 2020,
-          "teamId": "selecaobr",
-          "team": "SELEÇÃO BR",
+          "teamId": "selecaobr2020",
+          "team": "SELEÇÃO BR 2020",
           "major": false,
           "source": "owner-confirmed"
         },
@@ -10469,6 +10638,20 @@ window.HBSTV_PLAYER_INDEX = {
           ]
         },
         {
+          "id": "selecaobr2021",
+          "name": "SELEÇÃO BR 2021",
+          "years": [
+            2021
+          ]
+        },
+        {
+          "id": "selecaobr2018",
+          "name": "SELEÇÃO BR 2018",
+          "years": [
+            2021
+          ]
+        },
+        {
           "id": "ibp",
           "name": "IBP",
           "years": [
@@ -10541,6 +10724,15 @@ window.HBSTV_PLAYER_INDEX = {
           "source": "owner-confirmed"
         },
         {
+          "id": "2021:mundial",
+          "title": "MUNDIAL 2021",
+          "year": 2021,
+          "teamId": "selecaobr2021",
+          "team": "SELEÇÃO BR 2021",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
           "id": "2020:ebss1",
           "title": "EBS | SEASON 1 2020",
           "year": 2020,
@@ -10588,6 +10780,13 @@ window.HBSTV_PLAYER_INDEX = {
           ]
         },
         {
+          "id": "selecaobr2021",
+          "name": "SELEÇÃO BR 2021",
+          "years": [
+            2021
+          ]
+        },
+        {
           "id": "ntc",
           "name": "NTC",
           "years": [
@@ -10595,8 +10794,16 @@ window.HBSTV_PLAYER_INDEX = {
           ]
         },
         {
-          "id": "selecaobr",
-          "name": "SELEÇÃO BR",
+          "id": "selecaobr2018",
+          "name": "SELEÇÃO BR 2018",
+          "years": [
+            2021,
+            2020
+          ]
+        },
+        {
+          "id": "selecaobr2020",
+          "name": "SELEÇÃO BR 2020",
           "years": [
             2020
           ]
@@ -10627,11 +10834,20 @@ window.HBSTV_PLAYER_INDEX = {
           "source": "major-history"
         },
         {
+          "id": "2021:mundial",
+          "title": "MUNDIAL 2021",
+          "year": 2021,
+          "teamId": "selecaobr2021",
+          "team": "SELEÇÃO BR 2021",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
           "id": "2020:tslmundial",
           "title": "TSL | MUNDIAL 2020",
           "year": 2020,
-          "teamId": "selecaobr",
-          "team": "SELEÇÃO BR",
+          "teamId": "selecaobr2020",
+          "team": "SELEÇÃO BR 2020",
           "major": false,
           "source": "owner-confirmed"
         }
@@ -11305,6 +11521,13 @@ window.HBSTV_PLAYER_INDEX = {
           ]
         },
         {
+          "id": "selecaobr2021",
+          "name": "SELEÇÃO BR 2021",
+          "years": [
+            2021
+          ]
+        },
+        {
           "id": "ntc",
           "name": "NTC",
           "years": [
@@ -11312,8 +11535,16 @@ window.HBSTV_PLAYER_INDEX = {
           ]
         },
         {
-          "id": "selecaobr",
-          "name": "SELEÇÃO BR",
+          "id": "selecaobr2018",
+          "name": "SELEÇÃO BR 2018",
+          "years": [
+            2021,
+            2020
+          ]
+        },
+        {
+          "id": "selecaobr2020",
+          "name": "SELEÇÃO BR 2020",
           "years": [
             2020
           ]
@@ -11381,11 +11612,20 @@ window.HBSTV_PLAYER_INDEX = {
           "source": "major-history"
         },
         {
+          "id": "2021:mundial",
+          "title": "MUNDIAL 2021",
+          "year": 2021,
+          "teamId": "selecaobr2021",
+          "team": "SELEÇÃO BR 2021",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
           "id": "2020:tslmundial",
           "title": "TSL | MUNDIAL 2020",
           "year": 2020,
-          "teamId": "selecaobr",
-          "team": "SELEÇÃO BR",
+          "teamId": "selecaobr2020",
+          "team": "SELEÇÃO BR 2020",
           "major": false,
           "source": "owner-confirmed"
         }
@@ -11672,8 +11912,8 @@ window.HBSTV_PLAYER_INDEX = {
           ]
         },
         {
-          "id": "selecaobr",
-          "name": "SELEÇÃO BR",
+          "id": "selecaobr2020",
+          "name": "SELEÇÃO BR 2020",
           "years": [
             2020
           ]
@@ -11681,6 +11921,13 @@ window.HBSTV_PLAYER_INDEX = {
         {
           "id": "st",
           "name": "ST",
+          "years": [
+            2020
+          ]
+        },
+        {
+          "id": "selecaobr2018",
+          "name": "SELEÇÃO BR 2018",
           "years": [
             2020
           ]
@@ -11736,8 +11983,8 @@ window.HBSTV_PLAYER_INDEX = {
           "id": "2020:tslmundial",
           "title": "TSL | MUNDIAL 2020",
           "year": 2020,
-          "teamId": "selecaobr",
-          "team": "SELEÇÃO BR",
+          "teamId": "selecaobr2020",
+          "team": "SELEÇÃO BR 2020",
           "major": false,
           "source": "owner-confirmed"
         },
@@ -11873,6 +12120,13 @@ window.HBSTV_PLAYER_INDEX = {
           ]
         },
         {
+          "id": "selecaobr2018",
+          "name": "SELEÇÃO BR 2018",
+          "years": [
+            2018
+          ]
+        },
+        {
           "id": "pir4tas",
           "name": "PIR4TAS",
           "years": [
@@ -11948,6 +12202,15 @@ window.HBSTV_PLAYER_INDEX = {
           "year": 2018,
           "teamId": "pentaesports2018",
           "team": "PENTA eSports 2018",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2018:tslmundial",
+          "title": "TSL | MUNDIAL 2018",
+          "year": 2018,
+          "teamId": "selecaobr2018",
+          "team": "SELEÇÃO BR 2018",
           "major": false,
           "source": "owner-confirmed"
         },
@@ -12397,6 +12660,13 @@ window.HBSTV_PLAYER_INDEX = {
           ]
         },
         {
+          "id": "selecaobr2018",
+          "name": "SELEÇÃO BR 2018",
+          "years": [
+            2018
+          ]
+        },
+        {
           "id": "yeah",
           "name": "YeaH",
           "years": [
@@ -12425,6 +12695,15 @@ window.HBSTV_PLAYER_INDEX = {
           "year": 2018,
           "teamId": "pentaesports2018",
           "team": "PENTA eSports 2018",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2018:tslmundial",
+          "title": "TSL | MUNDIAL 2018",
+          "year": 2018,
+          "teamId": "selecaobr2018",
+          "team": "SELEÇÃO BR 2018",
           "major": false,
           "source": "owner-confirmed"
         }

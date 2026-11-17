@@ -243,6 +243,41 @@
     "source": "Campeã e elenco da TSL Mundial 2020 confirmados pelo responsável pelo site."
   },
   {
+    "team": "SELEÇÃO BR",
+    "year": 2021,
+    "titles": [
+      "MUNDIAL 2021"
+    ],
+    "players": [
+      "RN",
+      "Mary",
+      "Roggers",
+      "ScreaM",
+      "ry0ta"
+    ],
+    "rosterConfirmed": true,
+    "source": "Campeã e elenco do Mundial 2021 confirmados pelo responsável pelo site; torneio sem vínculo com a TSL."
+  },
+  {
+    "team": "SELEÇÃO BR",
+    "year": 2018,
+    "titles": [
+      "TSL | MUNDIAL 2018"
+    ],
+    "players": [
+      "ShelzZ",
+      "4i20",
+      "StronG",
+      "Pasha",
+      "Fabri",
+      "Hardzera",
+      "Kmblack",
+      "Andr3"
+    ],
+    "rosterConfirmed": true,
+    "source": "Campeã e elenco da TSL Mundial 2018 confirmados pelo responsável pelo site."
+  },
+  {
     "team": "ST",
     "year": 2020,
     "titles": [
