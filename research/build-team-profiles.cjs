@@ -57,6 +57,8 @@ if (teams.has('g2')) teams.get('g2').logo = {src:'assets/g2-logo.png', crop:{x:0
 if (teams.has('fanatic')) teams.get('fanatic').logo = {src:'assets/fanatic-logo.png', crop:{x:0,y:0,w:1,h:1}};
 if (teams.has('chaos2020') && teams.has('chaos')) teams.get('chaos2020').logo = teams.get('chaos').logo;
 if (teams.has('pentaesports2018') && teams.has('pentaesports')) teams.get('pentaesports2018').logo = teams.get('pentaesports').logo;
+if (teams.has('ibp')) teams.get('ibp').logo = {src:'assets/ibp-logo.png', crop:{x:0,y:0,w:1,h:1}};
+if (teams.has('selecaobr')) teams.get('selecaobr').logo = {src:'assets/selecao-br-logo.png', crop:{x:0,y:0,w:1,h:1}};
 const goblins2019 = teams.get('gc2019');
 const hardnessSeason2 = goblins2019.titles.find(title => title.id === '2019:gsehardnessproleagues2');
 hardnessSeason2.title = 'GSE | Hardness Pro League Season 2';

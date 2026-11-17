@@ -156,9 +156,7 @@
     "team": "LUVV",
     "year": 2021,
     "titles": [
-      "SEL | TOURNAMENT",
       "SUVOH | LOFTUS CUP S2",
-      "LLP | STRIKE ONE SEASON FIVE",
       "CLUTCHERS | SEASON ONE",
       "RISE LEADERS | SEASON ONE"
     ],
@@ -171,11 +169,31 @@
       "SharP",
       "Helix",
       "Surf",
-      "T10",
       "Ezeq"
     ],
     "rosterConfirmed": true,
     "source": "Títulos e elenco da LUVV em 2021 informados pelo responsável pelo site."
+  },
+  {
+    "team": "LUVV",
+    "year": 2022,
+    "titles": [
+      "SEL | TOURNAMENT",
+      "LLP | STRIKE ONE SEASON FIVE"
+    ],
+    "players": [
+      "RN",
+      "Mary",
+      "Felpera",
+      "Roggers",
+      "Whezz",
+      "SharP",
+      "Helix",
+      "Surf",
+      "Ezeq"
+    ],
+    "rosterConfirmed": true,
+    "source": "Títulos da SEL Tournament e LLP Strike One Season Five atribuídos à LUVV em 2022 pelo responsável pelo site."
   },
   {
     "team": "AURA",
@@ -189,5 +207,56 @@
     ],
     "rosterConfirmed": true,
     "source": "Perfect e KMX incluídos na escalação campeã por confirmação do responsável pelo site."
+  },
+  {
+    "team": "IBP",
+    "year": 2020,
+    "titles": [
+      "EBS | SEASON 1 2020"
+    ],
+    "players": [
+      "Roggers",
+      "Sun",
+      "Madara",
+      "Pão",
+      "sadzera"
+    ],
+    "rosterConfirmed": true,
+    "source": "Título, elenco e campeã da EBS Season 1 2020 confirmados pelo responsável pelo site."
+  },
+  {
+    "team": "SELEÇÃO BR",
+    "year": 2020,
+    "titles": [
+      "TSL | MUNDIAL 2020"
+    ],
+    "players": [
+      "RN",
+      "SharP",
+      "ScreaM",
+      "Force",
+      "Nescau",
+      "ry0ta",
+      "c0njure"
+    ],
+    "rosterConfirmed": true,
+    "source": "Campeã e elenco da TSL Mundial 2020 confirmados pelo responsável pelo site."
+  },
+  {
+    "team": "ST",
+    "year": 2020,
+    "titles": [
+      "TSL | MUNDIAL CLUBS 2020"
+    ],
+    "players": [
+      "Yoda",
+      "SharP",
+      "Oskar",
+      "Passarin",
+      "Badzera",
+      "Sadzera"
+    ],
+    "rosterConfirmed": true,
+    "source": "Nome corrigido, campeã e elenco da TSL Mundial Clubs 2020 confirmados pelo responsável pelo site."
   }
 ]

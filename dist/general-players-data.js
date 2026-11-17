@@ -45,7 +45,8 @@ window.HBSTV_PLAYER_INDEX = {
     "tenz": "TENZ",
     "downbad": "TENZ",
     "pedrinn": "Pedrin",
-    "fwa": "Fway"
+    "fwa": "Fway",
+    "sharp1": "SharP"
   },
   "players": [
     {
@@ -1541,6 +1542,38 @@ window.HBSTV_PLAYER_INDEX = {
       "awards": []
     },
     {
+      "id": "badzera",
+      "name": "Badzera",
+      "aliases": [
+        "Badzera"
+      ],
+      "realNames": [],
+      "teams": [
+        {
+          "id": "st",
+          "name": "ST",
+          "years": [
+            2020
+          ]
+        }
+      ],
+      "titles": [
+        {
+          "id": "2020:tslmundialclubs",
+          "title": "TSL | MUNDIAL CLUBS 2020",
+          "year": 2020,
+          "teamId": "st",
+          "team": "ST",
+          "major": false,
+          "source": "owner-confirmed"
+        }
+      ],
+      "mvps": [],
+      "evps": [],
+      "rankings": [],
+      "awards": []
+    },
+    {
       "id": "balboa",
       "name": "Balboa",
       "aliases": [
@@ -2384,6 +2417,13 @@ window.HBSTV_PLAYER_INDEX = {
           ]
         },
         {
+          "id": "selecaobr",
+          "name": "SELEÇÃO BR",
+          "years": [
+            2020
+          ]
+        },
+        {
           "id": "pentaesports",
           "name": "PENTA eSports",
           "years": [
@@ -2481,6 +2521,15 @@ window.HBSTV_PLAYER_INDEX = {
           "team": "Team Infinity",
           "major": true,
           "source": "major-history"
+        },
+        {
+          "id": "2020:tslmundial",
+          "title": "TSL | MUNDIAL 2020",
+          "year": 2020,
+          "teamId": "selecaobr",
+          "team": "SELEÇÃO BR",
+          "major": false,
+          "source": "owner-confirmed"
         }
       ],
       "mvps": [
@@ -3516,15 +3565,16 @@ window.HBSTV_PLAYER_INDEX = {
           ]
         },
         {
-          "id": "gt2021",
-          "name": "GT 2021",
+          "id": "luvv",
+          "name": "LUVV",
           "years": [
+            2022,
             2021
           ]
         },
         {
-          "id": "luvv",
-          "name": "LUVV",
+          "id": "gt2021",
+          "name": "GT 2021",
           "years": [
             2021
           ]
@@ -3550,6 +3600,24 @@ window.HBSTV_PLAYER_INDEX = {
           "source": "events-2023"
         },
         {
+          "id": "2022:llpstrikeonesfive",
+          "title": "LLP | STRIKE ONE SEASON FIVE",
+          "year": 2022,
+          "teamId": "luvv",
+          "team": "LUVV",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2022:seltournament",
+          "title": "SEL | TOURNAMENT",
+          "year": 2022,
+          "teamId": "luvv",
+          "team": "LUVV",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
           "id": "major:86ed67893904be137a59",
           "title": "TSL | MAJOR",
           "year": 2021,
@@ -3568,26 +3636,8 @@ window.HBSTV_PLAYER_INDEX = {
           "source": "owner-confirmed"
         },
         {
-          "id": "2021:llpstrikeonesfive",
-          "title": "LLP | STRIKE ONE SEASON FIVE",
-          "year": 2021,
-          "teamId": "luvv",
-          "team": "LUVV",
-          "major": false,
-          "source": "owner-confirmed"
-        },
-        {
           "id": "2021:riseleaderssone",
           "title": "RISE LEADERS | SEASON ONE",
-          "year": 2021,
-          "teamId": "luvv",
-          "team": "LUVV",
-          "major": false,
-          "source": "owner-confirmed"
-        },
-        {
-          "id": "2021:seltournament",
-          "title": "SEL | TOURNAMENT",
           "year": 2021,
           "teamId": "luvv",
           "team": "LUVV",
@@ -3737,11 +3787,30 @@ window.HBSTV_PLAYER_INDEX = {
           "id": "luvv",
           "name": "LUVV",
           "years": [
+            2022,
             2021
           ]
         }
       ],
       "titles": [
+        {
+          "id": "2022:llpstrikeonesfive",
+          "title": "LLP | STRIKE ONE SEASON FIVE",
+          "year": 2022,
+          "teamId": "luvv",
+          "team": "LUVV",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2022:seltournament",
+          "title": "SEL | TOURNAMENT",
+          "year": 2022,
+          "teamId": "luvv",
+          "team": "LUVV",
+          "major": false,
+          "source": "owner-confirmed"
+        },
         {
           "id": "2021:clutcherssone",
           "title": "CLUTCHERS | SEASON ONE",
@@ -3752,26 +3821,8 @@ window.HBSTV_PLAYER_INDEX = {
           "source": "owner-confirmed"
         },
         {
-          "id": "2021:llpstrikeonesfive",
-          "title": "LLP | STRIKE ONE SEASON FIVE",
-          "year": 2021,
-          "teamId": "luvv",
-          "team": "LUVV",
-          "major": false,
-          "source": "owner-confirmed"
-        },
-        {
           "id": "2021:riseleaderssone",
           "title": "RISE LEADERS | SEASON ONE",
-          "year": 2021,
-          "teamId": "luvv",
-          "team": "LUVV",
-          "major": false,
-          "source": "owner-confirmed"
-        },
-        {
-          "id": "2021:seltournament",
-          "title": "SEL | TOURNAMENT",
           "year": 2021,
           "teamId": "luvv",
           "team": "LUVV",
@@ -4109,6 +4160,13 @@ window.HBSTV_PLAYER_INDEX = {
           "years": [
             2020
           ]
+        },
+        {
+          "id": "selecaobr",
+          "name": "SELEÇÃO BR",
+          "years": [
+            2020
+          ]
         }
       ],
       "titles": [
@@ -4154,6 +4212,15 @@ window.HBSTV_PLAYER_INDEX = {
           "year": 2020,
           "teamId": "chaos2020",
           "team": "CHAOS 2020",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:tslmundial",
+          "title": "TSL | MUNDIAL 2020",
+          "year": 2020,
+          "teamId": "selecaobr",
+          "team": "SELEÇÃO BR",
           "major": false,
           "source": "owner-confirmed"
         }
@@ -5071,6 +5138,7 @@ window.HBSTV_PLAYER_INDEX = {
           "id": "luvv",
           "name": "LUVV",
           "years": [
+            2022,
             2021
           ]
         },
@@ -5129,6 +5197,24 @@ window.HBSTV_PLAYER_INDEX = {
           "source": "events-2023"
         },
         {
+          "id": "2022:llpstrikeonesfive",
+          "title": "LLP | STRIKE ONE SEASON FIVE",
+          "year": 2022,
+          "teamId": "luvv",
+          "team": "LUVV",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2022:seltournament",
+          "title": "SEL | TOURNAMENT",
+          "year": 2022,
+          "teamId": "luvv",
+          "team": "LUVV",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
           "id": "2021:clutcherssone",
           "title": "CLUTCHERS | SEASON ONE",
           "year": 2021,
@@ -5138,26 +5224,8 @@ window.HBSTV_PLAYER_INDEX = {
           "source": "owner-confirmed"
         },
         {
-          "id": "2021:llpstrikeonesfive",
-          "title": "LLP | STRIKE ONE SEASON FIVE",
-          "year": 2021,
-          "teamId": "luvv",
-          "team": "LUVV",
-          "major": false,
-          "source": "owner-confirmed"
-        },
-        {
           "id": "2021:riseleaderssone",
           "title": "RISE LEADERS | SEASON ONE",
-          "year": 2021,
-          "teamId": "luvv",
-          "team": "LUVV",
-          "major": false,
-          "source": "owner-confirmed"
-        },
-        {
-          "id": "2021:seltournament",
-          "title": "SEL | TOURNAMENT",
           "year": 2021,
           "teamId": "luvv",
           "team": "LUVV",
@@ -6873,8 +6941,26 @@ window.HBSTV_PLAYER_INDEX = {
         "Madara"
       ],
       "realNames": [],
-      "teams": [],
-      "titles": [],
+      "teams": [
+        {
+          "id": "ibp",
+          "name": "IBP",
+          "years": [
+            2020
+          ]
+        }
+      ],
+      "titles": [
+        {
+          "id": "2020:ebss1",
+          "title": "EBS | SEASON 1 2020",
+          "year": 2020,
+          "teamId": "ibp",
+          "team": "IBP",
+          "major": false,
+          "source": "owner-confirmed"
+        }
+      ],
       "mvps": [],
       "evps": [
         {
@@ -7093,11 +7179,30 @@ window.HBSTV_PLAYER_INDEX = {
           "id": "luvv",
           "name": "LUVV",
           "years": [
+            2022,
             2021
           ]
         }
       ],
       "titles": [
+        {
+          "id": "2022:llpstrikeonesfive",
+          "title": "LLP | STRIKE ONE SEASON FIVE",
+          "year": 2022,
+          "teamId": "luvv",
+          "team": "LUVV",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2022:seltournament",
+          "title": "SEL | TOURNAMENT",
+          "year": 2022,
+          "teamId": "luvv",
+          "team": "LUVV",
+          "major": false,
+          "source": "owner-confirmed"
+        },
         {
           "id": "2021:clutcherssone",
           "title": "CLUTCHERS | SEASON ONE",
@@ -7108,26 +7213,8 @@ window.HBSTV_PLAYER_INDEX = {
           "source": "owner-confirmed"
         },
         {
-          "id": "2021:llpstrikeonesfive",
-          "title": "LLP | STRIKE ONE SEASON FIVE",
-          "year": 2021,
-          "teamId": "luvv",
-          "team": "LUVV",
-          "major": false,
-          "source": "owner-confirmed"
-        },
-        {
           "id": "2021:riseleaderssone",
           "title": "RISE LEADERS | SEASON ONE",
-          "year": 2021,
-          "teamId": "luvv",
-          "team": "LUVV",
-          "major": false,
-          "source": "owner-confirmed"
-        },
-        {
-          "id": "2021:seltournament",
-          "title": "SEL | TOURNAMENT",
           "year": 2021,
           "teamId": "luvv",
           "team": "LUVV",
@@ -7981,13 +8068,20 @@ window.HBSTV_PLAYER_INDEX = {
       "id": "nescau",
       "name": "Nescau",
       "aliases": [
-        "Kauan",
-        "Nescau"
+        "Nescau",
+        "Kauan"
       ],
       "realNames": [
         "Kauan"
       ],
       "teams": [
+        {
+          "id": "selecaobr",
+          "name": "SELEÇÃO BR",
+          "years": [
+            2020
+          ]
+        },
         {
           "id": "pentaesports",
           "name": "PENTA eSports",
@@ -7996,7 +8090,17 @@ window.HBSTV_PLAYER_INDEX = {
           ]
         }
       ],
-      "titles": [],
+      "titles": [
+        {
+          "id": "2020:tslmundial",
+          "title": "TSL | MUNDIAL 2020",
+          "year": 2020,
+          "teamId": "selecaobr",
+          "team": "SELEÇÃO BR",
+          "major": false,
+          "source": "owner-confirmed"
+        }
+      ],
       "mvps": [],
       "evps": [],
       "rankings": [
@@ -8695,6 +8799,13 @@ window.HBSTV_PLAYER_INDEX = {
           "years": [
             2020
           ]
+        },
+        {
+          "id": "st",
+          "name": "ST",
+          "years": [
+            2020
+          ]
         }
       ],
       "titles": [
@@ -8794,6 +8905,15 @@ window.HBSTV_PLAYER_INDEX = {
           "year": 2020,
           "teamId": "chaos2020",
           "team": "CHAOS 2020",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:tslmundialclubs",
+          "title": "TSL | MUNDIAL CLUBS 2020",
+          "year": 2020,
+          "teamId": "st",
+          "team": "ST",
           "major": false,
           "source": "owner-confirmed"
         }
@@ -9138,6 +9258,38 @@ window.HBSTV_PLAYER_INDEX = {
       "awards": []
     },
     {
+      "id": "pao",
+      "name": "Pão",
+      "aliases": [
+        "Pão"
+      ],
+      "realNames": [],
+      "teams": [
+        {
+          "id": "ibp",
+          "name": "IBP",
+          "years": [
+            2020
+          ]
+        }
+      ],
+      "titles": [
+        {
+          "id": "2020:ebss1",
+          "title": "EBS | SEASON 1 2020",
+          "year": 2020,
+          "teamId": "ibp",
+          "team": "IBP",
+          "major": false,
+          "source": "owner-confirmed"
+        }
+      ],
+      "mvps": [],
+      "evps": [],
+      "rankings": [],
+      "awards": []
+    },
+    {
       "id": "paqueta",
       "name": "Paqueta",
       "aliases": [
@@ -9228,6 +9380,38 @@ window.HBSTV_PLAYER_INDEX = {
           "country": "BR"
         }
       ],
+      "awards": []
+    },
+    {
+      "id": "passarin",
+      "name": "Passarin",
+      "aliases": [
+        "Passarin"
+      ],
+      "realNames": [],
+      "teams": [
+        {
+          "id": "st",
+          "name": "ST",
+          "years": [
+            2020
+          ]
+        }
+      ],
+      "titles": [
+        {
+          "id": "2020:tslmundialclubs",
+          "title": "TSL | MUNDIAL CLUBS 2020",
+          "year": 2020,
+          "teamId": "st",
+          "team": "ST",
+          "major": false,
+          "source": "owner-confirmed"
+        }
+      ],
+      "mvps": [],
+      "evps": [],
+      "rankings": [],
       "awards": []
     },
     {
@@ -10010,6 +10194,7 @@ window.HBSTV_PLAYER_INDEX = {
           "id": "luvv",
           "name": "LUVV",
           "years": [
+            2022,
             2021
           ]
         },
@@ -10018,6 +10203,13 @@ window.HBSTV_PLAYER_INDEX = {
           "name": "Team Infinity",
           "years": [
             2021
+          ]
+        },
+        {
+          "id": "selecaobr",
+          "name": "SELEÇÃO BR",
+          "years": [
+            2020
           ]
         },
         {
@@ -10071,6 +10263,24 @@ window.HBSTV_PLAYER_INDEX = {
           "source": "events-2023"
         },
         {
+          "id": "2022:llpstrikeonesfive",
+          "title": "LLP | STRIKE ONE SEASON FIVE",
+          "year": 2022,
+          "teamId": "luvv",
+          "team": "LUVV",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2022:seltournament",
+          "title": "SEL | TOURNAMENT",
+          "year": 2022,
+          "teamId": "luvv",
+          "team": "LUVV",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
           "id": "2021:clutcherssone",
           "title": "CLUTCHERS | SEASON ONE",
           "year": 2021,
@@ -10080,26 +10290,8 @@ window.HBSTV_PLAYER_INDEX = {
           "source": "owner-confirmed"
         },
         {
-          "id": "2021:llpstrikeonesfive",
-          "title": "LLP | STRIKE ONE SEASON FIVE",
-          "year": 2021,
-          "teamId": "luvv",
-          "team": "LUVV",
-          "major": false,
-          "source": "owner-confirmed"
-        },
-        {
           "id": "2021:riseleaderssone",
           "title": "RISE LEADERS | SEASON ONE",
-          "year": 2021,
-          "teamId": "luvv",
-          "team": "LUVV",
-          "major": false,
-          "source": "owner-confirmed"
-        },
-        {
-          "id": "2021:seltournament",
-          "title": "SEL | TOURNAMENT",
           "year": 2021,
           "teamId": "luvv",
           "team": "LUVV",
@@ -10123,6 +10315,15 @@ window.HBSTV_PLAYER_INDEX = {
           "team": "Team Infinity",
           "major": true,
           "source": "major-history"
+        },
+        {
+          "id": "2020:tslmundial",
+          "title": "TSL | MUNDIAL 2020",
+          "year": 2020,
+          "teamId": "selecaobr",
+          "team": "SELEÇÃO BR",
+          "major": false,
+          "source": "owner-confirmed"
         },
         {
           "id": "major:7713f3c1b8fa50d7e849",
@@ -10263,7 +10464,15 @@ window.HBSTV_PLAYER_INDEX = {
           "id": "luvv",
           "name": "LUVV",
           "years": [
+            2022,
             2021
+          ]
+        },
+        {
+          "id": "ibp",
+          "name": "IBP",
+          "years": [
+            2020
           ]
         }
       ],
@@ -10287,17 +10496,26 @@ window.HBSTV_PLAYER_INDEX = {
           "source": "events-2023"
         },
         {
-          "id": "2021:clutcherssone",
-          "title": "CLUTCHERS | SEASON ONE",
-          "year": 2021,
+          "id": "2022:llpstrikeonesfive",
+          "title": "LLP | STRIKE ONE SEASON FIVE",
+          "year": 2022,
           "teamId": "luvv",
           "team": "LUVV",
           "major": false,
           "source": "owner-confirmed"
         },
         {
-          "id": "2021:llpstrikeonesfive",
-          "title": "LLP | STRIKE ONE SEASON FIVE",
+          "id": "2022:seltournament",
+          "title": "SEL | TOURNAMENT",
+          "year": 2022,
+          "teamId": "luvv",
+          "team": "LUVV",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2021:clutcherssone",
+          "title": "CLUTCHERS | SEASON ONE",
           "year": 2021,
           "teamId": "luvv",
           "team": "LUVV",
@@ -10314,8 +10532,8 @@ window.HBSTV_PLAYER_INDEX = {
           "source": "owner-confirmed"
         },
         {
-          "id": "2021:seltournament",
-          "title": "SEL | TOURNAMENT",
+          "id": "2021:suvohloftuscups2",
+          "title": "SUVOH | LOFTUS CUP S2",
           "year": 2021,
           "teamId": "luvv",
           "team": "LUVV",
@@ -10323,11 +10541,11 @@ window.HBSTV_PLAYER_INDEX = {
           "source": "owner-confirmed"
         },
         {
-          "id": "2021:suvohloftuscups2",
-          "title": "SUVOH | LOFTUS CUP S2",
-          "year": 2021,
-          "teamId": "luvv",
-          "team": "LUVV",
+          "id": "2020:ebss1",
+          "title": "EBS | SEASON 1 2020",
+          "year": 2020,
+          "teamId": "ibp",
+          "team": "IBP",
           "major": false,
           "source": "owner-confirmed"
         }
@@ -10355,8 +10573,8 @@ window.HBSTV_PLAYER_INDEX = {
       "name": "ry0ta",
       "aliases": [
         "RyOta",
-        "Ryota",
         "ry0ta",
+        "Ryota",
         "RYOTA",
         "ryota"
       ],
@@ -10374,6 +10592,13 @@ window.HBSTV_PLAYER_INDEX = {
           "name": "NTC",
           "years": [
             2021
+          ]
+        },
+        {
+          "id": "selecaobr",
+          "name": "SELEÇÃO BR",
+          "years": [
+            2020
           ]
         },
         {
@@ -10400,6 +10625,15 @@ window.HBSTV_PLAYER_INDEX = {
           "team": "Team Infinity",
           "major": true,
           "source": "major-history"
+        },
+        {
+          "id": "2020:tslmundial",
+          "title": "TSL | MUNDIAL 2020",
+          "year": 2020,
+          "teamId": "selecaobr",
+          "team": "SELEÇÃO BR",
+          "major": false,
+          "source": "owner-confirmed"
         }
       ],
       "mvps": [],
@@ -10537,6 +10771,55 @@ window.HBSTV_PLAYER_INDEX = {
           "major": true
         }
       ],
+      "rankings": [],
+      "awards": []
+    },
+    {
+      "id": "sadzera",
+      "name": "sadzera",
+      "aliases": [
+        "sadzera",
+        "Sadzera"
+      ],
+      "realNames": [],
+      "teams": [
+        {
+          "id": "ibp",
+          "name": "IBP",
+          "years": [
+            2020
+          ]
+        },
+        {
+          "id": "st",
+          "name": "ST",
+          "years": [
+            2020
+          ]
+        }
+      ],
+      "titles": [
+        {
+          "id": "2020:ebss1",
+          "title": "EBS | SEASON 1 2020",
+          "year": 2020,
+          "teamId": "ibp",
+          "team": "IBP",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:tslmundialclubs",
+          "title": "TSL | MUNDIAL CLUBS 2020",
+          "year": 2020,
+          "teamId": "st",
+          "team": "ST",
+          "major": false,
+          "source": "owner-confirmed"
+        }
+      ],
+      "mvps": [],
+      "evps": [],
       "rankings": [],
       "awards": []
     },
@@ -11029,6 +11312,13 @@ window.HBSTV_PLAYER_INDEX = {
           ]
         },
         {
+          "id": "selecaobr",
+          "name": "SELEÇÃO BR",
+          "years": [
+            2020
+          ]
+        },
+        {
           "id": "pentaesports",
           "name": "PENTA eSports",
           "years": [
@@ -11089,6 +11379,15 @@ window.HBSTV_PLAYER_INDEX = {
           "team": "Team Infinity",
           "major": true,
           "source": "major-history"
+        },
+        {
+          "id": "2020:tslmundial",
+          "title": "TSL | MUNDIAL 2020",
+          "year": 2020,
+          "teamId": "selecaobr",
+          "team": "SELEÇÃO BR",
+          "major": false,
+          "source": "owner-confirmed"
         }
       ],
       "mvps": [],
@@ -11368,23 +11667,47 @@ window.HBSTV_PLAYER_INDEX = {
           "id": "luvv",
           "name": "LUVV",
           "years": [
+            2022,
             2021
+          ]
+        },
+        {
+          "id": "selecaobr",
+          "name": "SELEÇÃO BR",
+          "years": [
+            2020
+          ]
+        },
+        {
+          "id": "st",
+          "name": "ST",
+          "years": [
+            2020
           ]
         }
       ],
       "titles": [
         {
-          "id": "2021:clutcherssone",
-          "title": "CLUTCHERS | SEASON ONE",
-          "year": 2021,
+          "id": "2022:llpstrikeonesfive",
+          "title": "LLP | STRIKE ONE SEASON FIVE",
+          "year": 2022,
           "teamId": "luvv",
           "team": "LUVV",
           "major": false,
           "source": "owner-confirmed"
         },
         {
-          "id": "2021:llpstrikeonesfive",
-          "title": "LLP | STRIKE ONE SEASON FIVE",
+          "id": "2022:seltournament",
+          "title": "SEL | TOURNAMENT",
+          "year": 2022,
+          "teamId": "luvv",
+          "team": "LUVV",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2021:clutcherssone",
+          "title": "CLUTCHERS | SEASON ONE",
           "year": 2021,
           "teamId": "luvv",
           "team": "LUVV",
@@ -11401,8 +11724,8 @@ window.HBSTV_PLAYER_INDEX = {
           "source": "owner-confirmed"
         },
         {
-          "id": "2021:seltournament",
-          "title": "SEL | TOURNAMENT",
+          "id": "2021:suvohloftuscups2",
+          "title": "SUVOH | LOFTUS CUP S2",
           "year": 2021,
           "teamId": "luvv",
           "team": "LUVV",
@@ -11410,11 +11733,20 @@ window.HBSTV_PLAYER_INDEX = {
           "source": "owner-confirmed"
         },
         {
-          "id": "2021:suvohloftuscups2",
-          "title": "SUVOH | LOFTUS CUP S2",
-          "year": 2021,
-          "teamId": "luvv",
-          "team": "LUVV",
+          "id": "2020:tslmundial",
+          "title": "TSL | MUNDIAL 2020",
+          "year": 2020,
+          "teamId": "selecaobr",
+          "team": "SELEÇÃO BR",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:tslmundialclubs",
+          "title": "TSL | MUNDIAL CLUBS 2020",
+          "year": 2020,
+          "teamId": "st",
+          "team": "ST",
           "major": false,
           "source": "owner-confirmed"
         }
@@ -11452,20 +11784,6 @@ window.HBSTV_PLAYER_INDEX = {
           "source": "ak-de-ouro-awards"
         }
       ]
-    },
-    {
-      "id": "sharp1",
-      "name": "sharp1",
-      "aliases": [
-        "sharp1"
-      ],
-      "realNames": [],
-      "teams": [],
-      "titles": [],
-      "mvps": [],
-      "evps": [],
-      "rankings": [],
-      "awards": []
     },
     {
       "id": "shelzz",
@@ -12173,6 +12491,38 @@ window.HBSTV_PLAYER_INDEX = {
       "awards": []
     },
     {
+      "id": "sun",
+      "name": "Sun",
+      "aliases": [
+        "Sun"
+      ],
+      "realNames": [],
+      "teams": [
+        {
+          "id": "ibp",
+          "name": "IBP",
+          "years": [
+            2020
+          ]
+        }
+      ],
+      "titles": [
+        {
+          "id": "2020:ebss1",
+          "title": "EBS | SEASON 1 2020",
+          "year": 2020,
+          "teamId": "ibp",
+          "team": "IBP",
+          "major": false,
+          "source": "owner-confirmed"
+        }
+      ],
+      "mvps": [],
+      "evps": [],
+      "rankings": [],
+      "awards": []
+    },
+    {
       "id": "surf",
       "name": "Surf",
       "aliases": [
@@ -12184,11 +12534,30 @@ window.HBSTV_PLAYER_INDEX = {
           "id": "luvv",
           "name": "LUVV",
           "years": [
+            2022,
             2021
           ]
         }
       ],
       "titles": [
+        {
+          "id": "2022:llpstrikeonesfive",
+          "title": "LLP | STRIKE ONE SEASON FIVE",
+          "year": 2022,
+          "teamId": "luvv",
+          "team": "LUVV",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2022:seltournament",
+          "title": "SEL | TOURNAMENT",
+          "year": 2022,
+          "teamId": "luvv",
+          "team": "LUVV",
+          "major": false,
+          "source": "owner-confirmed"
+        },
         {
           "id": "2021:clutcherssone",
           "title": "CLUTCHERS | SEASON ONE",
@@ -12199,26 +12568,8 @@ window.HBSTV_PLAYER_INDEX = {
           "source": "owner-confirmed"
         },
         {
-          "id": "2021:llpstrikeonesfive",
-          "title": "LLP | STRIKE ONE SEASON FIVE",
-          "year": 2021,
-          "teamId": "luvv",
-          "team": "LUVV",
-          "major": false,
-          "source": "owner-confirmed"
-        },
-        {
           "id": "2021:riseleaderssone",
           "title": "RISE LEADERS | SEASON ONE",
-          "year": 2021,
-          "teamId": "luvv",
-          "team": "LUVV",
-          "major": false,
-          "source": "owner-confirmed"
-        },
-        {
-          "id": "2021:seltournament",
-          "title": "SEL | TOURNAMENT",
           "year": 2021,
           "teamId": "luvv",
           "team": "LUVV",
@@ -12357,13 +12708,6 @@ window.HBSTV_PLAYER_INDEX = {
           "years": [
             2023
           ]
-        },
-        {
-          "id": "luvv",
-          "name": "LUVV",
-          "years": [
-            2021
-          ]
         }
       ],
       "titles": [
@@ -12456,51 +12800,6 @@ window.HBSTV_PLAYER_INDEX = {
           "team": "GT 2023",
           "major": true,
           "source": "events-2023"
-        },
-        {
-          "id": "2021:clutcherssone",
-          "title": "CLUTCHERS | SEASON ONE",
-          "year": 2021,
-          "teamId": "luvv",
-          "team": "LUVV",
-          "major": false,
-          "source": "owner-confirmed"
-        },
-        {
-          "id": "2021:llpstrikeonesfive",
-          "title": "LLP | STRIKE ONE SEASON FIVE",
-          "year": 2021,
-          "teamId": "luvv",
-          "team": "LUVV",
-          "major": false,
-          "source": "owner-confirmed"
-        },
-        {
-          "id": "2021:riseleaderssone",
-          "title": "RISE LEADERS | SEASON ONE",
-          "year": 2021,
-          "teamId": "luvv",
-          "team": "LUVV",
-          "major": false,
-          "source": "owner-confirmed"
-        },
-        {
-          "id": "2021:seltournament",
-          "title": "SEL | TOURNAMENT",
-          "year": 2021,
-          "teamId": "luvv",
-          "team": "LUVV",
-          "major": false,
-          "source": "owner-confirmed"
-        },
-        {
-          "id": "2021:suvohloftuscups2",
-          "title": "SUVOH | LOFTUS CUP S2",
-          "year": 2021,
-          "teamId": "luvv",
-          "team": "LUVV",
-          "major": false,
-          "source": "owner-confirmed"
         }
       ],
       "mvps": [
@@ -14105,6 +14404,7 @@ window.HBSTV_PLAYER_INDEX = {
           "id": "luvv",
           "name": "LUVV",
           "years": [
+            2022,
             2021
           ]
         },
@@ -14125,6 +14425,24 @@ window.HBSTV_PLAYER_INDEX = {
       ],
       "titles": [
         {
+          "id": "2022:llpstrikeonesfive",
+          "title": "LLP | STRIKE ONE SEASON FIVE",
+          "year": 2022,
+          "teamId": "luvv",
+          "team": "LUVV",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2022:seltournament",
+          "title": "SEL | TOURNAMENT",
+          "year": 2022,
+          "teamId": "luvv",
+          "team": "LUVV",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
           "id": "2021:clutcherssone",
           "title": "CLUTCHERS | SEASON ONE",
           "year": 2021,
@@ -14134,26 +14452,8 @@ window.HBSTV_PLAYER_INDEX = {
           "source": "owner-confirmed"
         },
         {
-          "id": "2021:llpstrikeonesfive",
-          "title": "LLP | STRIKE ONE SEASON FIVE",
-          "year": 2021,
-          "teamId": "luvv",
-          "team": "LUVV",
-          "major": false,
-          "source": "owner-confirmed"
-        },
-        {
           "id": "2021:riseleaderssone",
           "title": "RISE LEADERS | SEASON ONE",
-          "year": 2021,
-          "teamId": "luvv",
-          "team": "LUVV",
-          "major": false,
-          "source": "owner-confirmed"
-        },
-        {
-          "id": "2021:seltournament",
-          "title": "SEL | TOURNAMENT",
           "year": 2021,
           "teamId": "luvv",
           "team": "LUVV",
@@ -14408,13 +14708,32 @@ window.HBSTV_PLAYER_INDEX = {
     },
     {
       "id": "yoda",
-      "name": "YODA",
+      "name": "Yoda",
       "aliases": [
+        "Yoda",
         "YODA"
       ],
       "realNames": [],
-      "teams": [],
-      "titles": [],
+      "teams": [
+        {
+          "id": "st",
+          "name": "ST",
+          "years": [
+            2020
+          ]
+        }
+      ],
+      "titles": [
+        {
+          "id": "2020:tslmundialclubs",
+          "title": "TSL | MUNDIAL CLUBS 2020",
+          "year": 2020,
+          "teamId": "st",
+          "team": "ST",
+          "major": false,
+          "source": "owner-confirmed"
+        }
+      ],
       "mvps": [],
       "evps": [],
       "rankings": [],

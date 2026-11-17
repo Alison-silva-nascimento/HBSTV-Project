@@ -2972,6 +2972,46 @@ window.HBSTV_TEAMS = [
     ],
     "titles": [
       {
+        "id": "2022:llpstrikeonesfive",
+        "title": "LLP | STRIKE ONE SEASON FIVE",
+        "year": 2022,
+        "source": "owner-confirmed",
+        "sourceNote": "Títulos da SEL Tournament e LLP Strike One Season Five atribuídos à LUVV em 2022 pelo responsável pelo site.",
+        "manual": true,
+        "major": false,
+        "roster": [
+          "RN",
+          "Mary",
+          "Felpera",
+          "Roggers",
+          "Whezz",
+          "SharP",
+          "Helix",
+          "Surf",
+          "Ezeq"
+        ]
+      },
+      {
+        "id": "2022:seltournament",
+        "title": "SEL | TOURNAMENT",
+        "year": 2022,
+        "source": "owner-confirmed",
+        "sourceNote": "Títulos da SEL Tournament e LLP Strike One Season Five atribuídos à LUVV em 2022 pelo responsável pelo site.",
+        "manual": true,
+        "major": false,
+        "roster": [
+          "RN",
+          "Mary",
+          "Felpera",
+          "Roggers",
+          "Whezz",
+          "SharP",
+          "Helix",
+          "Surf",
+          "Ezeq"
+        ]
+      },
+      {
         "id": "2021:clutcherssone",
         "title": "CLUTCHERS | SEASON ONE",
         "year": 2021,
@@ -2988,28 +3028,6 @@ window.HBSTV_TEAMS = [
           "SharP",
           "Helix",
           "Surf",
-          "T10",
-          "Ezeq"
-        ]
-      },
-      {
-        "id": "2021:llpstrikeonesfive",
-        "title": "LLP | STRIKE ONE SEASON FIVE",
-        "year": 2021,
-        "source": "owner-confirmed",
-        "sourceNote": "Títulos e elenco da LUVV em 2021 informados pelo responsável pelo site.",
-        "manual": true,
-        "major": false,
-        "roster": [
-          "RN",
-          "Mary",
-          "Felpera",
-          "Roggers",
-          "Whezz",
-          "SharP",
-          "Helix",
-          "Surf",
-          "T10",
           "Ezeq"
         ]
       },
@@ -3030,28 +3048,6 @@ window.HBSTV_TEAMS = [
           "SharP",
           "Helix",
           "Surf",
-          "T10",
-          "Ezeq"
-        ]
-      },
-      {
-        "id": "2021:seltournament",
-        "title": "SEL | TOURNAMENT",
-        "year": 2021,
-        "source": "owner-confirmed",
-        "sourceNote": "Títulos e elenco da LUVV em 2021 informados pelo responsável pelo site.",
-        "manual": true,
-        "major": false,
-        "roster": [
-          "RN",
-          "Mary",
-          "Felpera",
-          "Roggers",
-          "Whezz",
-          "SharP",
-          "Helix",
-          "Surf",
-          "T10",
           "Ezeq"
         ]
       },
@@ -3072,7 +3068,6 @@ window.HBSTV_TEAMS = [
           "SharP",
           "Helix",
           "Surf",
-          "T10",
           "Ezeq"
         ]
       }
@@ -3082,101 +3077,109 @@ window.HBSTV_TEAMS = [
         "id": "ezeq",
         "name": "Ezeq",
         "years": [
+          2022,
           2021
         ],
         "sources": [
-          "Títulos e elenco da LUVV em 2021 informados pelo responsável pelo site."
+          "Títulos e elenco da LUVV em 2021 informados pelo responsável pelo site.",
+          "Títulos da SEL Tournament e LLP Strike One Season Five atribuídos à LUVV em 2022 pelo responsável pelo site."
         ]
       },
       {
         "id": "felpera",
         "name": "Felpera",
         "years": [
+          2022,
           2021
         ],
         "sources": [
           "Passagem pela LUVV confirmada pelo responsável pelo site.",
-          "Títulos e elenco da LUVV em 2021 informados pelo responsável pelo site."
+          "Títulos e elenco da LUVV em 2021 informados pelo responsável pelo site.",
+          "Títulos da SEL Tournament e LLP Strike One Season Five atribuídos à LUVV em 2022 pelo responsável pelo site."
         ]
       },
       {
         "id": "helix",
         "name": "Helix",
         "years": [
+          2022,
           2021
         ],
         "sources": [
-          "Títulos e elenco da LUVV em 2021 informados pelo responsável pelo site."
+          "Títulos e elenco da LUVV em 2021 informados pelo responsável pelo site.",
+          "Títulos da SEL Tournament e LLP Strike One Season Five atribuídos à LUVV em 2022 pelo responsável pelo site."
         ]
       },
       {
         "id": "mary",
         "name": "Mary",
         "years": [
+          2022,
           2021
         ],
         "sources": [
-          "Títulos e elenco da LUVV em 2021 informados pelo responsável pelo site."
+          "Títulos e elenco da LUVV em 2021 informados pelo responsável pelo site.",
+          "Títulos da SEL Tournament e LLP Strike One Season Five atribuídos à LUVV em 2022 pelo responsável pelo site."
         ]
       },
       {
         "id": "rn",
         "name": "RN",
         "years": [
+          2022,
           2021
         ],
         "sources": [
-          "Títulos e elenco da LUVV em 2021 informados pelo responsável pelo site."
+          "Títulos e elenco da LUVV em 2021 informados pelo responsável pelo site.",
+          "Títulos da SEL Tournament e LLP Strike One Season Five atribuídos à LUVV em 2022 pelo responsável pelo site."
         ]
       },
       {
         "id": "roggers",
         "name": "Roggers",
         "years": [
+          2022,
           2021
         ],
         "sources": [
-          "Títulos e elenco da LUVV em 2021 informados pelo responsável pelo site."
+          "Títulos e elenco da LUVV em 2021 informados pelo responsável pelo site.",
+          "Títulos da SEL Tournament e LLP Strike One Season Five atribuídos à LUVV em 2022 pelo responsável pelo site."
         ]
       },
       {
         "id": "sharp",
         "name": "SharP",
         "years": [
+          2022,
           2021
         ],
         "sources": [
-          "Títulos e elenco da LUVV em 2021 informados pelo responsável pelo site."
+          "Títulos e elenco da LUVV em 2021 informados pelo responsável pelo site.",
+          "Títulos da SEL Tournament e LLP Strike One Season Five atribuídos à LUVV em 2022 pelo responsável pelo site."
         ]
       },
       {
         "id": "surf",
         "name": "Surf",
         "years": [
+          2022,
           2021
         ],
         "sources": [
-          "Títulos e elenco da LUVV em 2021 informados pelo responsável pelo site."
-        ]
-      },
-      {
-        "id": "t1o",
-        "name": "T10",
-        "years": [
-          2021
-        ],
-        "sources": [
-          "Títulos e elenco da LUVV em 2021 informados pelo responsável pelo site."
+          "Títulos e elenco da LUVV em 2021 informados pelo responsável pelo site.",
+          "Títulos da SEL Tournament e LLP Strike One Season Five atribuídos à LUVV em 2022 pelo responsável pelo site."
         ]
       },
       {
         "id": "whezz",
         "name": "Whezz",
         "years": [
+          2022,
           2021
         ],
         "sources": [
-          "Títulos e elenco da LUVV em 2021 informados pelo responsável pelo site."
+          "Títulos e elenco da LUVV em 2021 informados pelo responsável pelo site.",
+          "Títulos da SEL Tournament e LLP Strike One Season Five atribuídos à LUVV em 2022 pelo responsável pelo site."
         ]
       }
     ],
@@ -8829,6 +8832,94 @@ window.HBSTV_TEAMS = [
     "searchAliases": []
   },
   {
+    "id": "ibp",
+    "name": "IBP",
+    "aliases": [
+      "IBP"
+    ],
+    "titles": [
+      {
+        "id": "2020:ebss1",
+        "title": "EBS | SEASON 1 2020",
+        "year": 2020,
+        "source": "owner-confirmed",
+        "sourceNote": "Título, elenco e campeã da EBS Season 1 2020 confirmados pelo responsável pelo site.",
+        "manual": true,
+        "major": false,
+        "roster": [
+          "Roggers",
+          "Sun",
+          "Madara",
+          "Pão",
+          "sadzera"
+        ]
+      }
+    ],
+    "members": [
+      {
+        "id": "madara",
+        "name": "Madara",
+        "years": [
+          2020
+        ],
+        "sources": [
+          "Título, elenco e campeã da EBS Season 1 2020 confirmados pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "pao",
+        "name": "Pão",
+        "years": [
+          2020
+        ],
+        "sources": [
+          "Título, elenco e campeã da EBS Season 1 2020 confirmados pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "roggers",
+        "name": "Roggers",
+        "years": [
+          2020
+        ],
+        "sources": [
+          "Título, elenco e campeã da EBS Season 1 2020 confirmados pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "sadzera",
+        "name": "sadzera",
+        "years": [
+          2020
+        ],
+        "sources": [
+          "Título, elenco e campeã da EBS Season 1 2020 confirmados pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "sun",
+        "name": "Sun",
+        "years": [
+          2020
+        ],
+        "sources": [
+          "Título, elenco e campeã da EBS Season 1 2020 confirmados pelo responsável pelo site."
+        ]
+      }
+    ],
+    "rankings": [],
+    "searchAliases": [],
+    "logo": {
+      "src": "assets/ibp-logo.png",
+      "crop": {
+        "x": 0,
+        "y": 0,
+        "w": 1,
+        "h": 1
+      }
+    }
+  },
+  {
     "id": "kc",
     "name": "KC",
     "aliases": [
@@ -9566,6 +9657,206 @@ window.HBSTV_TEAMS = [
         ],
         "sources": [
           "events-2024"
+        ]
+      }
+    ],
+    "rankings": [],
+    "searchAliases": []
+  },
+  {
+    "id": "selecaobr",
+    "name": "SELEÇÃO BR",
+    "aliases": [
+      "SELEÇÃO BR"
+    ],
+    "titles": [
+      {
+        "id": "2020:tslmundial",
+        "title": "TSL | MUNDIAL 2020",
+        "year": 2020,
+        "source": "owner-confirmed",
+        "sourceNote": "Campeã e elenco da TSL Mundial 2020 confirmados pelo responsável pelo site.",
+        "manual": true,
+        "major": false,
+        "roster": [
+          "RN",
+          "SharP",
+          "ScreaM",
+          "Force",
+          "Nescau",
+          "ry0ta",
+          "c0njure"
+        ]
+      }
+    ],
+    "members": [
+      {
+        "id": "conjure",
+        "name": "c0njure",
+        "years": [
+          2020
+        ],
+        "sources": [
+          "Campeã e elenco da TSL Mundial 2020 confirmados pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "force",
+        "name": "Force",
+        "years": [
+          2020
+        ],
+        "sources": [
+          "Campeã e elenco da TSL Mundial 2020 confirmados pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "nescau",
+        "name": "Nescau",
+        "years": [
+          2020
+        ],
+        "sources": [
+          "Campeã e elenco da TSL Mundial 2020 confirmados pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "rn",
+        "name": "RN",
+        "years": [
+          2020
+        ],
+        "sources": [
+          "Campeã e elenco da TSL Mundial 2020 confirmados pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "ryota",
+        "name": "ry0ta",
+        "years": [
+          2020
+        ],
+        "sources": [
+          "Campeã e elenco da TSL Mundial 2020 confirmados pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "scream",
+        "name": "ScreaM",
+        "years": [
+          2020
+        ],
+        "sources": [
+          "Campeã e elenco da TSL Mundial 2020 confirmados pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "sharp",
+        "name": "SharP",
+        "years": [
+          2020
+        ],
+        "sources": [
+          "Campeã e elenco da TSL Mundial 2020 confirmados pelo responsável pelo site."
+        ]
+      }
+    ],
+    "rankings": [],
+    "searchAliases": [],
+    "logo": {
+      "src": "assets/selecao-br-logo.png",
+      "crop": {
+        "x": 0,
+        "y": 0,
+        "w": 1,
+        "h": 1
+      }
+    }
+  },
+  {
+    "id": "st",
+    "name": "ST",
+    "aliases": [
+      "ST"
+    ],
+    "titles": [
+      {
+        "id": "2020:tslmundialclubs",
+        "title": "TSL | MUNDIAL CLUBS 2020",
+        "year": 2020,
+        "source": "owner-confirmed",
+        "sourceNote": "Nome corrigido, campeã e elenco da TSL Mundial Clubs 2020 confirmados pelo responsável pelo site.",
+        "manual": true,
+        "major": false,
+        "roster": [
+          "Yoda",
+          "SharP",
+          "Oskar",
+          "Passarin",
+          "Badzera",
+          "Sadzera"
+        ]
+      }
+    ],
+    "members": [
+      {
+        "id": "badzera",
+        "name": "Badzera",
+        "years": [
+          2020
+        ],
+        "sources": [
+          "Nome corrigido, campeã e elenco da TSL Mundial Clubs 2020 confirmados pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "oskar",
+        "name": "Oskar",
+        "years": [
+          2020
+        ],
+        "sources": [
+          "Nome corrigido, campeã e elenco da TSL Mundial Clubs 2020 confirmados pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "passarin",
+        "name": "Passarin",
+        "years": [
+          2020
+        ],
+        "sources": [
+          "Nome corrigido, campeã e elenco da TSL Mundial Clubs 2020 confirmados pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "sadzera",
+        "name": "Sadzera",
+        "years": [
+          2020
+        ],
+        "sources": [
+          "Nome corrigido, campeã e elenco da TSL Mundial Clubs 2020 confirmados pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "sharp",
+        "name": "SharP",
+        "years": [
+          2020
+        ],
+        "sources": [
+          "Nome corrigido, campeã e elenco da TSL Mundial Clubs 2020 confirmados pelo responsável pelo site."
+        ]
+      },
+      {
+        "id": "yoda",
+        "name": "Yoda",
+        "years": [
+          2020
+        ],
+        "sources": [
+          "Nome corrigido, campeã e elenco da TSL Mundial Clubs 2020 confirmados pelo responsável pelo site."
         ]
       }
     ],

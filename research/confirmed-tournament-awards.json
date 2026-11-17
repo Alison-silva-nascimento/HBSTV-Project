@@ -9,7 +9,7 @@
     "evps": [
       "ReiDoGame",
       "ScreaM",
-      "sharp1",
+      "SharP",
       "Force",
       "Scuba",
       "AdreN",
@@ -223,5 +223,14 @@
       "scuba",
       "zenn"
     ]
+  },
+  {
+    "id": "2020:ebss1",
+    "title": "EBS | SEASON 1 2020",
+    "year": 2020,
+    "mvp": [
+      "Sun"
+    ],
+    "evps": []
   }
 ]
