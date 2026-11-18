@@ -2463,13 +2463,6 @@ window.HBSTV_PLAYER_INDEX = {
           "years": [
             2020
           ]
-        },
-        {
-          "id": "selecaobr2018",
-          "name": "SELEÇÃO BR 2018",
-          "years": [
-            2020
-          ]
         }
       ],
       "titles": [
@@ -4222,13 +4215,6 @@ window.HBSTV_PLAYER_INDEX = {
         {
           "id": "selecaobr2020",
           "name": "SELEÇÃO BR 2020",
-          "years": [
-            2020
-          ]
-        },
-        {
-          "id": "selecaobr2018",
-          "name": "SELEÇÃO BR 2018",
           "years": [
             2020
           ]
@@ -7288,13 +7274,6 @@ window.HBSTV_PLAYER_INDEX = {
           "years": [
             2021
           ]
-        },
-        {
-          "id": "selecaobr2018",
-          "name": "SELEÇÃO BR 2018",
-          "years": [
-            2021
-          ]
         }
       ],
       "titles": [
@@ -8207,13 +8186,6 @@ window.HBSTV_PLAYER_INDEX = {
         {
           "id": "pentaesports",
           "name": "PENTA eSports",
-          "years": [
-            2020
-          ]
-        },
-        {
-          "id": "selecaobr2018",
-          "name": "SELEÇÃO BR 2018",
           "years": [
             2020
           ]
@@ -10358,14 +10330,6 @@ window.HBSTV_PLAYER_INDEX = {
           ]
         },
         {
-          "id": "selecaobr2018",
-          "name": "SELEÇÃO BR 2018",
-          "years": [
-            2021,
-            2020
-          ]
-        },
-        {
           "id": "selecaobr2020",
           "name": "SELEÇÃO BR 2020",
           "years": [
@@ -10645,13 +10609,6 @@ window.HBSTV_PLAYER_INDEX = {
           ]
         },
         {
-          "id": "selecaobr2018",
-          "name": "SELEÇÃO BR 2018",
-          "years": [
-            2021
-          ]
-        },
-        {
           "id": "ibp",
           "name": "IBP",
           "years": [
@@ -10791,14 +10748,6 @@ window.HBSTV_PLAYER_INDEX = {
           "name": "NTC",
           "years": [
             2021
-          ]
-        },
-        {
-          "id": "selecaobr2018",
-          "name": "SELEÇÃO BR 2018",
-          "years": [
-            2021,
-            2020
           ]
         },
         {
@@ -11535,14 +11484,6 @@ window.HBSTV_PLAYER_INDEX = {
           ]
         },
         {
-          "id": "selecaobr2018",
-          "name": "SELEÇÃO BR 2018",
-          "years": [
-            2021,
-            2020
-          ]
-        },
-        {
           "id": "selecaobr2020",
           "name": "SELEÇÃO BR 2020",
           "years": [
@@ -11921,13 +11862,6 @@ window.HBSTV_PLAYER_INDEX = {
         {
           "id": "st",
           "name": "ST",
-          "years": [
-            2020
-          ]
-        },
-        {
-          "id": "selecaobr2018",
-          "name": "SELEÇÃO BR 2018",
           "years": [
             2020
           ]

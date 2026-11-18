@@ -5,6 +5,7 @@
    const text=String(title).normalize('NFKC').trim();
    let name=text.includes('|')?text.split('|')[0]:text.match(/^(.+?)\s+I\s+/)?.[1];
    if(!name){const keys=Object.keys(window.RANKS_ORGANIZATIONS||{}).sort((a,b)=>b.length-a.length);name=keys.find(key=>text.toUpperCase().startsWith(key+' '));}
+   if(!name)return {key:'',label:'Campeonato sem organizadora',short:'CAMPEONATO',logo:{src:'assets/generic-trophy.svg',name:'Troféu genérico'}};
    const key=name?canonical(name).replace(/^XMS [×&] BSTV$/,'XMS X BSTV'):'';
    const organization=window.RANKS_ORGANIZATIONS?.[key];
    const parts=key.split(/\s+[X×&]\s+/).filter(Boolean);

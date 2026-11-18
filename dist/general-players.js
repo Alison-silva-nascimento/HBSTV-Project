@@ -57,7 +57,12 @@ window.renderPlayerTeamCards = (player, legacyTags = []) => {
       memberships.set('tag:' + normalized, {name: tag, years: [], emblemId});
     }
   }
-  const cards = [...memberships.values()].map(team => {
+  const orderedMemberships = [...memberships.values()].sort((a,b) => {
+    const newestA = a.years?.length ? Math.max(...a.years) : -Infinity;
+    const newestB = b.years?.length ? Math.max(...b.years) : -Infinity;
+    return newestB - newestA || a.name.localeCompare(b.name, 'pt-BR');
+  });
+  const cards = orderedMemberships.map(team => {
     const seasons = [...team.years].sort((a,b) => b-a);
     const label = [team.name, ...seasons].join(' · ');
     const emblem = team.id || team.emblemId ? teamEmblem(team.id || team.emblemId) :
