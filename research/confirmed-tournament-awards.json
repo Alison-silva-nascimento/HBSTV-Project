@@ -116,7 +116,8 @@
     ],
     "confirmedRoster": [
       "Fabri",
-      "theuzz"
+      "theuzz",
+      "Pasha"
     ]
   },
   {
@@ -127,7 +128,8 @@
     ],
     "confirmedRoster": [
       "Fabri",
-      "theuzz"
+      "theuzz",
+      "Pasha"
     ]
   },
   {
@@ -191,7 +193,8 @@
     "year": 2018,
     "confirmedRoster": [
       "Fabri",
-      "theuzz"
+      "theuzz",
+      "Pasha"
     ]
   },
   {
@@ -230,6 +233,89 @@
     "year": 2020,
     "mvp": [
       "Sun"
+    ],
+    "evps": []
+  },
+  {
+    "id": "2019:gseminor",
+    "title": "GSE | MINOR 2019",
+    "year": 2019,
+    "mvp": [
+      "SharP"
+    ],
+    "evps": []
+  },
+  {
+    "id": "2020:tslmundialclubs",
+    "year": 2020,
+    "mvp": [
+      "SharP"
+    ],
+    "evps": []
+  },
+  {
+    "id": "2020:gseproleague",
+    "title": "GSE | 1.PRO LEAGUE 2020",
+    "year": 2020,
+    "mvp": [
+      "SharP"
+    ],
+    "evps": []
+  },
+  {
+    "id": "2020:tslrenovatedgameleague",
+    "year": 2020,
+    "mvp": [],
+    "evps": [
+      "SharP"
+    ]
+  },
+  {
+    "id": "2020:tslnodus",
+    "year": 2020,
+    "mvp": [
+      "SharP"
+    ],
+    "evps": []
+  },
+  {
+    "id": "2020:gsetour",
+    "year": 2020,
+    "mvp": [
+      "SharP"
+    ],
+    "evps": []
+  },
+  {
+    "id": "2020:mawares",
+    "year": 2020,
+    "mvp": [],
+    "evps": [
+      "SharP"
+    ]
+  },
+  {
+    "id": "2020:gse2proleague",
+    "title": "GSE | 2.PRO LEAGUE 2020",
+    "year": 2020,
+    "mvp": [
+      "SharP"
+    ],
+    "evps": []
+  },
+  {
+    "id": "2020:tslmundial",
+    "year": 2020,
+    "mvp": [
+      "SharP"
+    ],
+    "evps": []
+  },
+  {
+    "id": "2021:mundial",
+    "year": 2021,
+    "mvp": [
+      "SharP"
     ],
     "evps": []
   }

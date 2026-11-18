@@ -68,6 +68,12 @@ for (const row of confirmedTournaments.filter(row => row.confirmedRoster || row.
   }
 }
 require('./reconcile-historical-titles.cjs')({ archive: c.window.RANKS_ARCHIVE, players: index.players, events, key });
+const historicalTitleExclusions = JSON.parse(fs.readFileSync('research/historical-title-exclusions.json', 'utf8'));
+for (const row of historicalTitleExclusions) {
+  const player = index.players.find(player => player.id === row.playerId);
+  if (!player) throw new Error('Historical title exclusion has unknown player: ' + row.playerId);
+  player.historicalTitles = (player.historicalTitles || []).filter(title => title.id !== row.titleId);
+}
 for (const row of confirmedTournaments) {
   const excluded = new Set((row.excludedRoster || []).map(key));
   for (const player of index.players.filter(player => excluded.has(player.id))) {

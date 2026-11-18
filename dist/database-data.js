@@ -1141,8 +1141,8 @@ window.HBSTV_DATABASE = {
           "source": "hall-of-fame"
         },
         {
-          "id": "2020:gseproleague",
-          "title": "GSE | Pro League",
+          "id": "hof:2020:GSE:proleague",
+          "title": "GSE | PRO LEAGUE 2020",
           "year": 2020,
           "organizer": "GSE",
           "major": false,
@@ -11078,7 +11078,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2020:gseproleague",
-          "title": "GSE | Pro League",
+          "title": "GSE | 1.PRO LEAGUE 2020",
           "year": 2020,
           "team": "PENTA eSports"
         },
@@ -12829,6 +12829,33 @@ window.HBSTV_DATABASE = {
       ],
       "titles": [
         {
+          "id": "2018:tslextrememasters",
+          "title": "TSL | Brasil extreme Masters",
+          "year": 2018,
+          "teamId": "razer",
+          "team": "RAZER",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2018:tslhardnesleague",
+          "title": "TSL | Hardness Pro League",
+          "year": 2018,
+          "teamId": "razer",
+          "team": "RAZER",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2018:tslmajorcup",
+          "title": "TSL | MAJOR CUP",
+          "year": 2018,
+          "teamId": "razer",
+          "team": "RAZER",
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
           "id": "major:ba4b48dba7cb6e5526a7",
           "title": "TSL | MAJOR PREMIERE",
           "year": 2018,
@@ -14173,8 +14200,8 @@ window.HBSTV_DATABASE = {
           "source": "hall-of-fame"
         },
         {
-          "id": "2020:gseproleague",
-          "title": "GSE | Pro League",
+          "id": "hof:2020:GSE:proleague",
+          "title": "GSE | PRO LEAGUE 2020",
           "year": 2020,
           "organizer": "GSE",
           "major": false,
@@ -14209,14 +14236,6 @@ window.HBSTV_DATABASE = {
           "title": "TSL | Mjonir Cup",
           "year": 2020,
           "organizer": "TSL",
-          "major": false,
-          "source": "hall-of-fame"
-        },
-        {
-          "id": "hof:2021:LLP:strikeoneseasonfive",
-          "title": "LLP | STRIKE ONE  2021",
-          "year": 2021,
-          "organizer": "LLP",
           "major": false,
           "source": "hall-of-fame"
         },
@@ -15718,8 +15737,8 @@ window.HBSTV_DATABASE = {
           "source": "hall-of-fame"
         },
         {
-          "id": "2020:gseproleague",
-          "title": "GSE | Pro League",
+          "id": "hof:2020:GSE:proleague",
+          "title": "GSE | PRO LEAGUE 2020",
           "year": 2020,
           "organizer": "GSE",
           "major": false,
@@ -16200,11 +16219,82 @@ window.HBSTV_DATABASE = {
           "source": "owner-confirmed"
         }
       ],
-      "mvps": [],
+      "mvps": [
+        {
+          "id": "2021:mundial",
+          "title": "MUNDIAL 2021",
+          "year": 2021,
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:gseproleague",
+          "title": "GSE | 1.PRO LEAGUE 2020",
+          "year": 2020,
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:gse2proleague",
+          "title": "GSE | 2.PRO LEAGUE 2020",
+          "year": 2020,
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:gsetour",
+          "title": "GSE | Tour",
+          "year": 2020,
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:tslmundial",
+          "title": "TSL | MUNDIAL 2020",
+          "year": 2020,
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:tslmundialclubs",
+          "title": "TSL | MUNDIAL CLUBS 2020",
+          "year": 2020,
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:tslnodus",
+          "title": "TSL | Nodus",
+          "year": 2020,
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2019:gseminor",
+          "title": "GSE | MINOR 2019",
+          "year": 2019,
+          "major": false,
+          "source": "owner-confirmed"
+        }
+      ],
       "evps": [
         {
           "id": "2020:acecup",
           "title": "ACE | Cup Season 1",
+          "year": 2020,
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:mawares",
+          "title": "MAWARE | Season",
+          "year": 2020,
+          "major": false,
+          "source": "owner-confirmed"
+        },
+        {
+          "id": "2020:tslrenovatedgameleague",
+          "title": "TSL | Renovated Game League",
           "year": 2020,
           "major": false,
           "source": "owner-confirmed"
@@ -16242,7 +16332,7 @@ window.HBSTV_DATABASE = {
       ],
       "historicalTitles": [
         {
-          "id": "hof:2019:GSE:minor",
+          "id": "2019:gseminor",
           "title": "GSE | MINOR 2019",
           "year": 2019,
           "organizer": "GSE",
@@ -16282,8 +16372,8 @@ window.HBSTV_DATABASE = {
           "source": "hall-of-fame"
         },
         {
-          "id": "2020:gseproleague",
-          "title": "GSE | Pro League",
+          "id": "hof:2020:GSE:proleague",
+          "title": "GSE | PRO LEAGUE 2020",
           "year": 2020,
           "organizer": "GSE",
           "major": false,
@@ -16688,8 +16778,8 @@ window.HBSTV_DATABASE = {
           "source": "hall-of-fame"
         },
         {
-          "id": "2020:gseproleague",
-          "title": "GSE | Pro League",
+          "id": "hof:2020:GSE:proleague",
+          "title": "GSE | PRO LEAGUE 2020",
           "year": 2020,
           "organizer": "GSE",
           "major": false,
@@ -21012,8 +21102,8 @@ window.HBSTV_DATABASE = {
           "source": "hall-of-fame"
         },
         {
-          "id": "2020:gseproleague",
-          "title": "GSE | Pro League",
+          "id": "hof:2020:GSE:proleague",
+          "title": "GSE | PRO LEAGUE 2020",
           "year": 2020,
           "organizer": "GSE",
           "major": false,
@@ -23609,15 +23699,19 @@ window.HBSTV_DATABASE = {
         "scream",
         "ryota"
       ],
-      "mvps": [],
+      "mvps": [
+        "sharp"
+      ],
       "evps": [],
       "sources": [
         "owner-confirmed"
       ],
       "notes": [
-        "Campeã e elenco do Mundial 2021 confirmados pelo responsável pelo site; torneio sem vínculo com a TSL."
+        "Campeã e elenco do Mundial 2021 confirmados pelo responsável pelo site; torneio sem vínculo com a TSL.",
+        "Premiações individuais confirmadas pelo responsável pelo site."
       ],
-      "images": []
+      "images": [],
+      "mvs": []
     },
     {
       "id": "2021:pnlpeninsulacup",
@@ -24017,6 +24111,67 @@ window.HBSTV_DATABASE = {
       "mvs": []
     },
     {
+      "id": "2020:gseproleague",
+      "title": "GSE | 1.PRO LEAGUE 2020",
+      "year": 2020,
+      "organizer": "GSE",
+      "major": false,
+      "winners": [
+        "pentaesports"
+      ],
+      "roster": [],
+      "mvps": [
+        "sharp"
+      ],
+      "evps": [],
+      "sources": [
+        "top-1-teams-of-years",
+        "owner-confirmed"
+      ],
+      "notes": [
+        "Premiações individuais confirmadas pelo responsável pelo site."
+      ],
+      "images": [],
+      "mvs": [],
+      "rosterReference": {
+        "players": [
+          "shelzz",
+          "ryota",
+          "scream",
+          "nescau",
+          "zenn",
+          "rn",
+          "adren",
+          "conjure",
+          "fugly"
+        ],
+        "year": 2020,
+        "source": "Elenco anual da equipe em 2020",
+        "kind": "annual-team"
+      }
+    },
+    {
+      "id": "2020:gse2proleague",
+      "title": "GSE | 2.PRO LEAGUE 2020",
+      "year": 2020,
+      "organizer": "GSE",
+      "major": false,
+      "winners": [],
+      "roster": [],
+      "mvps": [
+        "sharp"
+      ],
+      "evps": [],
+      "sources": [
+        "owner-confirmed"
+      ],
+      "notes": [
+        "Premiações individuais confirmadas pelo responsável pelo site."
+      ],
+      "images": [],
+      "mvs": []
+    },
+    {
       "id": "2020:gseevolutionchampionship",
       "title": "GSE | Evolution Championship 2020",
       "year": 2020,
@@ -24089,40 +24244,6 @@ window.HBSTV_DATABASE = {
       "mvs": []
     },
     {
-      "id": "2020:gseproleague",
-      "title": "GSE | Pro League",
-      "year": 2020,
-      "organizer": "GSE",
-      "major": false,
-      "winners": [
-        "pentaesports"
-      ],
-      "roster": [],
-      "mvps": [],
-      "evps": [],
-      "sources": [
-        "top-1-teams-of-years"
-      ],
-      "notes": [],
-      "images": [],
-      "rosterReference": {
-        "players": [
-          "shelzz",
-          "ryota",
-          "scream",
-          "nescau",
-          "zenn",
-          "rn",
-          "adren",
-          "conjure",
-          "fugly"
-        ],
-        "year": 2020,
-        "source": "Elenco anual da equipe em 2020",
-        "kind": "annual-team"
-      }
-    },
-    {
       "id": "2020:gsetour",
       "title": "GSE | Tour",
       "year": 2020,
@@ -24132,13 +24253,19 @@ window.HBSTV_DATABASE = {
         "pentaesports"
       ],
       "roster": [],
-      "mvps": [],
+      "mvps": [
+        "sharp"
+      ],
       "evps": [],
       "sources": [
-        "top-1-teams-of-years"
+        "top-1-teams-of-years",
+        "owner-confirmed"
       ],
-      "notes": [],
+      "notes": [
+        "Premiações individuais confirmadas pelo responsável pelo site."
+      ],
       "images": [],
+      "mvs": [],
       "rosterReference": {
         "players": [
           "shelzz",
@@ -24241,12 +24368,18 @@ window.HBSTV_DATABASE = {
       ],
       "roster": [],
       "mvps": [],
-      "evps": [],
-      "sources": [
-        "top-1-teams-of-years"
+      "evps": [
+        "sharp"
       ],
-      "notes": [],
+      "sources": [
+        "top-1-teams-of-years",
+        "owner-confirmed"
+      ],
+      "notes": [
+        "Premiações individuais confirmadas pelo responsável pelo site."
+      ],
       "images": [],
+      "mvs": [],
       "rosterReference": {
         "players": [
           "shelzz",
@@ -24372,15 +24505,19 @@ window.HBSTV_DATABASE = {
         "ryota",
         "conjure"
       ],
-      "mvps": [],
+      "mvps": [
+        "sharp"
+      ],
       "evps": [],
       "sources": [
         "owner-confirmed"
       ],
       "notes": [
-        "Campeã e elenco da TSL Mundial 2020 confirmados pelo responsável pelo site."
+        "Campeã e elenco da TSL Mundial 2020 confirmados pelo responsável pelo site.",
+        "Premiações individuais confirmadas pelo responsável pelo site."
       ],
-      "images": []
+      "images": [],
+      "mvs": []
     },
     {
       "id": "2020:tslmundialclubs",
@@ -24399,15 +24536,19 @@ window.HBSTV_DATABASE = {
         "badzera",
         "sadzera"
       ],
-      "mvps": [],
+      "mvps": [
+        "sharp"
+      ],
       "evps": [],
       "sources": [
         "owner-confirmed"
       ],
       "notes": [
-        "Nome corrigido, campeã e elenco da TSL Mundial Clubs 2020 confirmados pelo responsável pelo site."
+        "Nome corrigido, campeã e elenco da TSL Mundial Clubs 2020 confirmados pelo responsável pelo site.",
+        "Premiações individuais confirmadas pelo responsável pelo site."
       ],
-      "images": []
+      "images": [],
+      "mvs": []
     },
     {
       "id": "2020:tslnodus",
@@ -24419,13 +24560,19 @@ window.HBSTV_DATABASE = {
         "pentaesports"
       ],
       "roster": [],
-      "mvps": [],
+      "mvps": [
+        "sharp"
+      ],
       "evps": [],
       "sources": [
-        "top-1-teams-of-years"
+        "top-1-teams-of-years",
+        "owner-confirmed"
       ],
-      "notes": [],
+      "notes": [
+        "Premiações individuais confirmadas pelo responsável pelo site."
+      ],
       "images": [],
+      "mvs": [],
       "rosterReference": {
         "players": [
           "shelzz",
@@ -24454,12 +24601,18 @@ window.HBSTV_DATABASE = {
       ],
       "roster": [],
       "mvps": [],
-      "evps": [],
-      "sources": [
-        "top-1-teams-of-years"
+      "evps": [
+        "sharp"
       ],
-      "notes": [],
+      "sources": [
+        "top-1-teams-of-years",
+        "owner-confirmed"
+      ],
+      "notes": [
+        "Premiações individuais confirmadas pelo responsável pelo site."
+      ],
       "images": [],
+      "mvs": [],
       "rosterReference": {
         "players": [
           "shelzz",
@@ -24596,6 +24749,27 @@ window.HBSTV_DATABASE = {
         "source": "Elenco anual da equipe em 2019",
         "kind": "annual-team"
       }
+    },
+    {
+      "id": "2019:gseminor",
+      "title": "GSE | MINOR 2019",
+      "year": 2019,
+      "organizer": "GSE",
+      "major": false,
+      "winners": [],
+      "roster": [],
+      "mvps": [
+        "sharp"
+      ],
+      "evps": [],
+      "sources": [
+        "owner-confirmed"
+      ],
+      "notes": [
+        "Premiações individuais confirmadas pelo responsável pelo site."
+      ],
+      "images": [],
+      "mvs": []
     },
     {
       "id": "2019:gseproleague",
@@ -25859,7 +26033,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2020:gseproleague",
-          "title": "GSE Pro League",
+          "title": "GSE | 1.PRO LEAGUE 2020",
           "year": 2020,
           "source": "top-1-teams-of-years",
           "major": false,
@@ -25868,7 +26042,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2020:gsetour",
-          "title": "GSE Tour",
+          "title": "GSE | Tour",
           "year": 2020,
           "source": "top-1-teams-of-years",
           "major": false,
@@ -25886,7 +26060,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2020:mawares",
-          "title": "MAWARE Season",
+          "title": "MAWARE | Season",
           "year": 2020,
           "source": "top-1-teams-of-years",
           "major": false,
@@ -25904,7 +26078,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2020:tslnodus",
-          "title": "TSL Nodus",
+          "title": "TSL | Nodus",
           "year": 2020,
           "source": "top-1-teams-of-years",
           "major": false,
@@ -25913,7 +26087,7 @@ window.HBSTV_DATABASE = {
         },
         {
           "id": "2020:tslrenovatedgameleague",
-          "title": "TSL Renovated Game League",
+          "title": "TSL | Renovated Game League",
           "year": 2020,
           "source": "top-1-teams-of-years",
           "major": false,
@@ -29108,7 +29282,8 @@ window.HBSTV_DATABASE = {
           ],
           "sources": [
             "top-1-teams-of-years",
-            "major-history"
+            "major-history",
+            "owner-confirmed"
           ]
         },
         {
